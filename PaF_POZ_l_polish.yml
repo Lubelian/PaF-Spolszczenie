@@ -1,0 +1,198 @@
+﻿l_polish:
+ ## National Spirits ##
+ POZ_zabka: "Żabka"
+ POZ_selgros: "Selgros Sp. z o.o."
+ POZ_komputronik: "Komputronik"
+ POZ_pc_guard: "PC Guard"
+ POZ_enea: "Enea"
+ POZ_wojskowe_zaklady_mechaniczne_w_poznaniu: "Wojskowe Zakłady Mechaniczne w Poznaniu"
+ POZ_wojskowe_zaklady_uzbrojenia: "Wojskowe Zakłady Uzbrojenia" 
+ POZ_ceglorz: "H. Cegielski – Poznań"
+ 
+ POZ_incompetent_administration: "Niekompetentna administracja"
+ POZ_incompetent_administration_desc: "" #Nasza miejska władza w większości nie przewiduje takiej rzeczy, że państwo mogło upaść i że moglibyśmy stać się jednym ostatnich państw demokratycznych. Więc mamy problem z poważną niekompetencją władz, do zarządzania miastem niż z minipaństwem ponadto jest otoczone przez antydemokratyczne siły.
+ POZ_the_renovations: "Renowacje"
+ POZ_the_renovations_desc: ""
+ POZ_the_renovations2: "Renowacje"
+ POZ_the_renovations2_desc: ""
+ POZ_the_renovations3: "Renowacje"
+ POZ_the_renovations3_desc: ""
+ POZ_unpopular_president: "Niepopularny prezydent"
+ POZ_unpopular_president_desc: ""
+ POZ_small_bastion_democracy: "Z wiarą w demokrację"
+ POZ_small_bastion_democracy_desc: ""
+ POZ_female_face_of_army: "Kobieca twarz armii"
+ POZ_female_face_of_army_desc: ""
+ 
+ ## First Tree ##
+ POZ_jaskowiak_speech: "Przemowa Jaśkowiaka"
+ POZ_jaskowiak_speech_desc: ""
+
+ POZ_continued_centrum_project: "Kontynuacja Projektu Centrum"
+ POZ_continued_centrum_project_desc: ""
+
+ POZ_in_houses_of_concrete: "W betonowych domach"
+ POZ_in_houses_of_concrete_desc: ""
+
+ POZ_in_the_squares_of_gray: "Na kwadratach szarości"
+ POZ_in_the_squares_of_gray_desc: ""
+
+ POZ_through_streets_without_greenery: "Przez Ulice Bez Zieleni"
+ POZ_through_streets_without_greenery_desc: ""
+
+ POZ_antinationalistist_rhetoric: "Retoryka antynacjonalistyczna"
+ POZ_antinationalistist_rhetoric_desc: ""
+
+ POZ_with_visit_on_pride_march: "Z wizytą na Paradzie Równości"
+ POZ_with_visit_on_pride_march_desc: ""
+
+ POZ_state_of_liberty_and_democracy: "Państwo Wolności i Demokracji" 
+ POZ_state_of_liberty_and_democracy_desc: ""
+
+ POZ_visit_in_staff: "Wizyta w sztabie"
+ POZ_visit_in_staff_desc: ""
+
+ POZ_volunteer_regiments: "Regimenty ochotnicze"
+ POZ_volunteer_regiments_desc: ""
+
+ POZ_with_visit_to_the_training_of_soldiers: "Z wizytą na szkoleniu żołnierzy"
+ POZ_with_visit_to_the_training_of_soldiers_desc: ""
+
+ POZ_pacification_forces: "Kobieca twarz armii"
+ POZ_pacification_forces_desc: ""
+
+ POZ_news_from_eurokomissariats: "Wieści z Eurokomissariatów"
+ POZ_news_from_eurokomissariats_desc: ""
+
+ POZ_fire_all_arround: "Ogień wokół"
+ POZ_fire_all_arround_desc: ""
+
+ POZ_retreat: "Odwrót"
+ POZ_retreat_desc: ""
+
+ POZ_recovery: "Recovery"
+ POZ_recovery_desc: ""
+
+ POZ_bikes_instead_tanks: "Rowery zamiast czołgów"
+ POZ_bikes_instead_tanks_desc: ""
+
+ POZ_recruations_actions: "Akcje rekrutacyjne"
+ POZ_recruations_actions_desc: ""
+
+ POZ_saving_power: "Saving Power"
+ POZ_saving_power_desc: ""
+
+ POZ_apology_for_concrete: "Apology for Concrete"
+ POZ_apology_for_concrete_desc: ""
+
+ POZ_a_higher_voice_of_the_people: "A Higher Voice of the Peoples"
+ POZ_a_higher_voice_of_the_people_desc: ""
+
+ POZ_on_old_square: "In Old Square"
+ POZ_on_old_square_desc: ""
+
+ POZ_promise_of_change: "Promise of Change"
+ POZ_promise_of_change_desc: ""
+
+ POZ_rozanski_line: "Linia Różańskiego"
+ POZ_rozanski_line_desc: ""
+
+ POZ_actions_aganist_rebels: "Actions aganist Rebels"
+ POZ_actions_aganist_rebels_desc: ""
+
+ POZ_mobilise_the_troops: "Mobilise the Troops"
+ POZ_mobilise_the_troops_desc: ""
+
+ POZ_meeting_in_town_hall: "Meeting in Town Hall"
+ POZ_meeting_in_town_hall_desc: ""
+
+ ## War Tree ##
+ POZ_end_of_the_meeting: "Koniec spotkania"
+ POZ_end_of_the_meeting_desc: ""
+
+ POZ_on_front_line: "Na linii frontu"
+ POZ_on_front_line_desc: ""
+
+ POZ_war_supplies: "Zaopatrzenie wojenne"
+ POZ_war_supplies_desc: ""
+
+ POZ_rebels_from_syjon: "Rebelianci z Syjonu"
+ POZ_rebels_from_syjon_desc: ""
+
+ POZ_return_on_grunwald: "Powrót na Grunwald"
+ POZ_return_on_grunwald_desc: ""
+
+ POZ_try_to_get_along_with_slums: "Spróbuj dogadać się ze Slumsami" #Try to get along with Slums
+ POZ_try_to_get_along_with_slums_desc: ""
+
+ POZ_we_cant_negotiate_with_rebels: "Nie możemy negocjować z rebeliantami"
+ POZ_we_cant_negotiate_with_rebels_desc: ""
+
+ POZ_return_on_rataje: "Return on Rataje"
+ POZ_return_on_rataje_desc: ""
+
+ POZ_poznan_and_powiat_togenther_again: "Poznań and Powiat Togenther Again"
+ POZ_poznan_and_powiat_togenther_again_desc: ""
+
+ POZ_continuation_of_expasion: "Kontynuacja ekspansji"
+ POZ_continuation_of_expasion_desc: ""
+
+ POZ_nationalistic_madmens: "Nacjonalistyczni szaleńcy"
+ POZ_nationalistic_madmens_desc: ""
+
+ POZ_trials_of_nationalists: "Procesy nacjonalistów"
+ POZ_trials_of_nationalists_desc: ""
+
+ POZ_reducing_the_influence_of_the_church: "Zmniejszenie wpływu Kościoła"
+ POZ_reducing_the_influence_of_the_church_desc: ""
+
+ POZ_promote_toleration: "Promowanie Tolerancji"
+ POZ_promote_toleration_desc: ""
+
+ POZ_germans_on_warta: "Niemcy nad Wartą"
+ POZ_germans_on_warta_desc: ""
+
+ POZ_meat_empire: "Mięsne Imperium"
+ POZ_meat_empire_desc: ""
+
+ POZ_place_for_every_nationalites: "Miejsce dla wszystkich narodowości" #Place for EVery Nationalites
+ POZ_place_for_every_nationalites_desc: ""
+
+ POZ_question_of_animal_rights: "Kwestia Praw Zwierząt"
+ POZ_question_of_animal_rights_desc: ""
+
+ POZ_lubusz_land: "Ziemia Lubuska"
+ POZ_lubusz_land_desc: ""
+
+ POZ_german_army_in_poland: "Niemiecka Armia w Polsce"
+ POZ_german_army_in_poland_desc: ""
+
+ POZ_motorcycles_empire: "Motocyklowe imperium"
+ POZ_motorcycles_empire_desc: ""
+
+ POZ_experience_of_germans: "Doświadczenie Niemców"
+ POZ_experience_of_germans_desc: ""
+
+ POZ_poznanian_team_of_motorcycles: "Poznański Zespół Motocyklowy" #Poznanian Team of Motorcycles
+ POZ_poznanian_team_of_motorcycles_desc: ""
+
+ POZ_restoration_of_greaterpolish_voivodeship: "Odbudowa województwa wielkopolskiego"
+ POZ_restoration_of_greaterpolish_voivodeship_desc: ""
+
+ POZ_victory_parade: "Parada Zwycięstwa"
+ POZ_victory_parade_desc: ""
+
+ POZ_prepare_the_elections: "Przygotowania do wyborów" 
+ POZ_prepare_the_elections_desc: ""
+ ## Regional Tree ##
+ ## Postregional Tree ##
+ ## Final Tree ##
+ ## Regional Tree ##
+ ## Events ##
+ 
+ 
+
+unification.50.t:0 "[GetNewspaper]Poznań Committee unifies Northern Greater Poland"
+unification.50.desc:0 "According to the latest reports from Greater Poland, the northern parts of this region have been reunited by the President of the city of Poznań, Jacek Jaśkowiak, which along with the remnants of his city and the Poznań County created one of the last bastions of the Pre-Fall Polish democracy. \n\nAlthough not very popular in Poznań, as a result of tragically poor renovations, the effects of which are still visible today, he managed to gain the support of the residents, the military and the newcomers to the region, to move west first, to unite the Poznań County, and then northward to unite a greater area of Greater Poland under their democratic ideals.\n\nEven though many of the consequences brought by this are still uncertain, the main course of action of the new Greater Polish Government will be to re-establish democracy across all of Poland."
+unification.50.a:0 "A stable foundation for the whole region?"
+ ##Characters##

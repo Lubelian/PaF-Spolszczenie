@@ -1,0 +1,156 @@
+﻿l_polish:
+ ## National Spirits ##
+ NAC_legacy_of_the_nsz:0 "Spuścizna NSZ" #Legacy of the NSZ
+ NAC_legacy_of_the_nsz_desc:0 "Podobnie jak 80 lat temu, tak i dziś nasza Ojczyzna znalazła się pod okupacją niemiecką, tyle że tym razem zamaskowaną cienką warstwą legitymacji, którą tak łaskawie zapewnili lewicowi politycy i aktywiści - zdrajcy, którzy sprzedali swój kraj w zamian za obietnice osiągnięcia swojej zdegenerowanej liberalnej utopii. W tych trudnych czasach dzielni partyzanci Narodowych Sił Zbrojnych stanowczo stawiali czoła niemieckiemu zagrożeniu, oddając życie, aby Polska mogła dożyć kolejnego dnia. Kierując się ich przykładem, nie cofniemy się przed niczym, dopóki nie pokonamy naszego Odwiecznego Wroga, a nasza ojczyzna znów będzie wolna."
+ NAC_on_euroliberal_land:0 "Na euroliberalnej ziemi"
+ NAC_on_euroliberal_land_desc:0 "Nasza partyzancka walka zmusiła nas do działania na głęboko nieprzyjaznym terytorium, podczas gdy Wielkopolanie, zaślepieni dziesięcioleciami lewicowej propagandy, desperacko trzymają się umierającej ideologii liberalnej i zgniłej Unii Europejskiej. Zamiast powitać nas jako bohaterów i wyzwolicieli, patrzą z góry na nasz patriotyzm, planując zniweczyć wszelkie nasze ciężko wywalczone zwycięstwa. Kiedy już ustabilizujemy linie frontu i nie będzie już grozić nieuchronną inwazją, musimy zwrócić się do wewnątrz i stłumić ich marny sprzeciw wobec Polityki, w przeciwnym razie może on przerodzić się w pełne powstanie przeciwko naszym rządom."
+ NAC_uncertain_triumvirate:0 "Triumwirat niepewności"
+ NAC_uncertain_triumvirate_desc:0 "Choć wszyscy mamy ten sam cel, nasz ruch nie jest jednolity. Tak naprawdę trzy główne frakcje łączy jedynie wspólna nienawiść i walka z siłami okupacynymi, jednak ich wizje przyszłości narodu znacznie się od siebie różnią, co prowadzi do wzrostu napięć w naszych szeregach. Gdy nasi bojownicy patrzą na siebie z nieufnością, a podziały między przywódcami pogłębiają się, wystarczy jeden zły krok, aby nasza armia rozpadła się w braterskim konflikcie. \n\nGdy wróg nieustannie oddycha nam po karku, nie możemy sobie pozwolić na okazywanie słabości, bo może to się po prostu okazać naszą zgubą."
+ NAC_allpolish_national_army:0 "Wszechpolska Armia Narodowa" 
+ NAC_allpolish_national_army_desc:0 ""
+ NAC_allpolish_national_army2:0 "Wszechpolska Armia Narodowa"
+ NAC_allpolish_national_army2_desc:0 ""
+ NAC_on_euroliberal_land2:0 "Na euroliberalnej ziemi"
+ NAC_on_euroliberal_land2_desc:0 "Nasza partyzancka walka zmusiła nas do działania na głęboko nieprzyjaznym terytorium, podczas gdy Wielkopolanie, zaślepieni dziesięcioleciami lewicowej propagandy, desperacko trzymają się umierającej ideologii liberalnej i zgniłej Unii Europejskiej. Zamiast powitać nas jako bohaterów i wyzwolicieli, patrzą z góry na nasz patriotyzm, planując zniweczyć wszelkie nasze ciężko wywalczone zwycięstwa. Kiedy już ustabilizujemy linie frontu i nie będzie już grozić nieuchronną inwazją, musimy zwrócić się do wewnątrz i stłumić ich marny sprzeciw wobec Polityki, w przeciwnym razie może on przerodzić się w pełne powstanie przeciwko naszym rządom."
+ NAC_allpolish_patriotic_movement:0 "Wszechpolski Ruch Patriotyczny"
+ NAC_allpolish_patriotic_movement_desc:0 ""
+ NAC_allpolish_patriotic_movement2:0 "Wszechpolski Ruch Patriotyczny"
+ NAC_allpolish_patriotic_movement2_desc:0 ""
+ NAC_allpolish_patriotic_movement3:0 "Wszechpolski Ruch Patriotyczny"
+ NAC_allpolish_patriotic_movement3_desc:0 ""
+ NAC_allpolish_patriotic_movement4:0 "Wszechpolski Ruch Patriotyczny"
+ NAC_allpolish_patriotic_movement4_desc:0 ""
+ ## First Tree ##
+ 
+ NAC_poland_is_not_yet_lost:0 "Jeszcze Polska nie zginęła!"
+ NAC_poland_is_not_yet_lost_desc:0 ""
+ 
+ NAC_speeches_in_grodzisk:0 "Przemówienie w Grodzisku"
+ NAC_speeches_in_grodzisk_desc:0 ""
+ 
+ NAC_volunteers:0 "Ochotnicy"
+ NAC_volunteers_desc:0 ""
+ 
+ NAC_allpolish_national_army:0 "Wszechpolska Armia Narodowa"
+ NAC_allpolish_national_army_desc:0 ""
+ 
+ NAC_guerrilla_experience:0 "Doświadczenie partyzanckie"
+ NAC_guerrilla_experience_desc:0 ""
+ 
+ NAC_national_guard:0 "Gwardia Narodowa"
+ NAC_national_guard_desc:0 ""
+ 
+ NAC_german_arms:0 "Broń niemiecka"
+ NAC_german_arms_desc:0 ""
+ 
+ NAC_production_workshops:0 "Warsztaty produkcyjne"
+ NAC_production_workshops_desc:0 ""
+ 
+ NAC_tank_seizure:0 "Przejęcie czołgu" Tank Seizure
+ NAC_tank_seizure_desc:0 ""
+ 
+ NAC_recruitment_action:0 "Akcja rekrutacyjna"
+ NAC_recruitment_action_desc:0 ""
+ 
+ NAC_question_of_mandatory_military_service:0 "Kwestia obowiązkowej służby wojskowej"
+ NAC_question_of_mandatory_military_service_desc:0 ""
+ 
+ NAC_victory_over_german_invaders:0 "Zwycięstwo nad niemieckimi najeźdźcami"
+ NAC_victory_over_german_invaders_desc:0 ""
+ 
+ NAC_parade_in_szamotuly:0 "Parada w Szamotułach"
+ NAC_parade_in_szamotuly_desc:0 ""
+
+ NAC_national_media:0 "Media Narodowe"
+ NAC_national_media_desc:0 ""
+
+ NAC_propaganda_office:0 "Biuro Propagandowe"
+ NAC_propaganda_office_desc:0 ""
+
+ NAC_elimination_of_antistate_opposition:0 "Eliminacja opozycji antypaństwowej" 
+ NAC_elimination_of_antistate_opposition_desc:0 ""
+
+ NAC_in_wronki:0 "We Wronkach"
+ NAC_in_wronki_desc:0 ""
+
+ NAC_operation_bear:0 "Operacja niedźwiedź"
+ NAC_operation_bear_desc:0 ""
+
+ NAC_formation_of_allpolish_patriotic_movement:0 "Powstanie Wszechpolskiego Ruchu Patriotycznego"
+ NAC_formation_of_allpolish_patriotic_movement_desc:0 ""
+
+ NAC_legacy_of_confederation:0 "Spuścizna Konfederacji"
+ NAC_legacy_of_confederation_desc:0 ""
+
+ NAC_legacy_of_league_of_polish_families:0 "Spuścizna Ligi Polskich Rodzin"
+ NAC_legacy_of_league_of_polish_families_desc:0 ""
+
+ NAC_invite_new_hope_politics:0 "Invite New Hope Politics"
+ NAC_invite_new_hope_politics_desc:0 ""
+
+ NAC_propaganda_example:0 "Przykład propagandy"
+ NAC_propaganda_example_desc:0 ""
+
+ NAC_rising_from_the_ruins:0 "Powstanie z ruin"
+ NAC_rising_from_the_ruins_desc:0 ""
+
+ NAC_its_time:0 "Nadszedł czas" It's Time
+ NAC_its_time_desc:0 ""
+
+ ## War Tree ##
+
+ NAC_preparation_of_troops:0 "Przygotowanie szwadronów"
+ NAC_preparation_of_troops_desc:0 ""
+
+ NAC_meeting_with_commanders:0 "Spotkanie z dowódcami"
+ NAC_meeting_with_commanders_desc:0 ""
+
+ NAC_meeting_with_soldiers:0 "Spotkanie z żołnierzami"
+ NAC_meeting_with_soldiers_desc:0 ""
+
+ NAC_time_for_action:0 "Czas działać"
+ NAC_time_for_action_desc:0 ""
+
+ NAC_operation_cyryl:0 "Operacja Cyryl"
+ NAC_operation_cyryl_desc:0 ""
+
+ NAC_religious_madness:0 "Wielki szaleniec"
+ NAC_religious_madness_desc:0 ""
+
+ NAC_false_mayor_of_german_interests:0 "Fałszywy burmistrz niemieckich interesów"
+ NAC_false_mayor_of_german_interests_desc:0 ""
+
+ NAC_city_slums:0 "Miejskie slumsy"
+ NAC_city_slums_desc:0 ""
+
+ NAC_march_on_north:0 "Marsz na północ"
+ NAC_march_on_north_desc:0 ""
+
+ NAC_again_in_fight:0 "Znowu w walce"
+ NAC_again_in_fight_desc:0 ""
+
+ NAC_end_of_meat_empire:0 "Koniec mięsnego imperium"
+ NAC_end_of_meat_empire_desc:0 ""
+
+ NAC_western_campaign:0 "Kampania zachodnia"
+ NAC_western_campaign_desc:0 ""
+
+ NAC_occupation_army:0 "Armia Okupacyjna"
+ NAC_occupation_army_desc:0 ""
+
+ NAC_gorzow_cossacks:0 "Kozacy gorzowscy"
+ NAC_gorzow_cossacks_desc:0 ""
+
+ NAC_greaterpoland_under_the_patriotic_banner:0 "Wielkopolska pod sztandarem Patriotów"
+ NAC_greaterpoland_under_the_patriotic_banner_desc:0 ""
+ 
+ ## Regional Tree ##
+ ## Postregional Tree ##
+ ## Final Tree ##
+ ##Events##
+ 
+ 
+ 
+unification.52.t:0 "[GetNewspaper]All-Polish Republic unifies Northern Greater Poland!"
+unification.52.desc:0 "Recent news from Greater Poland indicate that the northern half of the voivodeship, still reeling from the collapse of the Eurokommissariats, has been overtaken by forces loyal to the All-Polish Initiative, an organization with deep ties to the pre-Fall National Movement. Seizing upon the momentum of their armed uprising against Tusk and his German masters, the group managed to seize the regional centers of Poznań and Piła, solidifying their iron grip on the territory. Described by critics as prone to fascistic leanings, the new government instituted a massive militarization of daily life with fiercely jingoistic rhetoric towards the state’s enemies, while internal politics have largely been defined by strict enforcement of deeply traditionist values, with any display of progressive, non-Christian and LGBT sympathies harshly penalized. It seems that in a single flash, all of the defeated Eurokommissar’s efforts to bring European values to the region have been undone, as Greater Poland spirals further into the abyss of nationalism. "
+unification.52.a:0 "With God to victory!"

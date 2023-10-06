@@ -1,0 +1,70 @@
+﻿l_polish:
+ Zona_ToolTip: "[GetAnarchyGUIToolTip]"
+ Zona_ToolTip_Delayed: "§L[GetAnarchyGUIToolTipDelayed]§!"
+ Zona_diplo_tt: "To jest anarchistyczne terytorium, dlatego nie możemy z nim wchodzić w interakcje." 
+ 
+ Zona_ZZZ_tt: "§oAnarchia§!"
+ Zona_ZZZ_tt_delayed: ""
+ 
+ Zona_desc: "§HStare Bałuty. 23 sierpnia, 2025.§! \n\n§WGrażyna i jej mąż delektują się mielonymi kotletami i oglądają Familiadę, gdy nagle - oni, ich obiad, blok mieszkalny i cała okolica zostają zmieceni z powierzchni ziemi, gdy nad większością województwa łódzkiego wschodzi drugie słońce, powodując kompletny rozpad już umierającej Polski i wywołuje prowadzoną przez Niemców interwencję UE, która miała przywrócić kraj do odpowiedzialności za siebie.§! \n\n...kiedyś mieszkało tu 50000 osób.\nTeraz to miasto duchów."
+ Skawina_desc: "§WW gminach Skawina i Dobczyce dominują cztery rzeczy: rozległe pola uprawne, niewielkie połacie lasów, niewysokie wzniesienia i§! §Rbandy zbójów§!§W.§! §RSzerzący się. Wszechobecnie. Bandyci.§! \n\n§WGdy aparat państwowy przestał funkcjonować w regionie, kilku brutali zebrało się razem i zaczęło napadać na sąsiednie domy i wioski w poszukiwaniu pieniędzy, biżuterii, samochodów i telewizorów. Wielu poszło w ich ślady, najpierw po to, by wzbogacić się, a potem odzyskać to, co zostało im skradzione przez innych.§! §tI nie ma śladu rozwijającej się władzy, która mogłaby ostatecznie zatrzymać ten proceder raz na zawsze.§!"
+  Bieszczady_desc: "§WAchhh... piękne Bieszczady - bardzo malowniczy i słabo zaludniony region, pozbawiony jakiejkolwiek infrastruktury czy zorganizowanej władzy. \n\nWiększość miejscowej ludności uciekła na Słowację i Ukrainę, a ich domy i gospodarstwa zostały opanowane przez dzikie zwierzęta - nowych władców tego opuszczonego regionu. Grupy patrolowe z Krosna, Leska i Przemyśla często próbują wkraczać na ich terytorium, po czym wracają do domu z zapakowanymi w worki zwłokami swoich towarzyszy, którzy zostali okaleczeni przez niedźwiedzie i wilki.§! \n\n§HI tak powoli toczy się życie, tu w Bieszczadach.§!"
+
+  baluty_question_category: "Kwestia Bałut"
+  baluty_question_category_desc: "Pustkowie rozciągające się za centrum Łodzi nadal prześladuje i napromieniowuje mieszkańców miasta, powodując powodując niezliczone diagnozy raka i tworząc miejsce dla bardziej niż zwykle wątpliwy czarny rynek, który wciąż rośnie i rozwija się. \n\nNo dalej, oś zrobimy  z tym gnijącym zadupiem...\n"
+  
+baluty_decision_1_BBW: "Projekt 'Sarkofag'"
+baluty_decision_2_BBW: "Musimy zbudować mur"
+baluty_decision_3_BBW: "Zabezpieczenie Zony"
+baluty_decision_4_BBW: "Teren zamknięty jest bezpieczny"
+baluty_decision_5_BBW: "Ciekawe znalezisko"
+
+baluty_bbw.1.t: "Projekt 'Sarkofag"
+baluty_bbw.1.desc: "This Exclusion Zone, while a dreary reminder of the atomic holocaust brought by the fanatic fascination with splitting the atom (or so the Elder would say), is never truly left alone. Lowlifes, stalkers, peddlers of anti-nuclear medicine, they all gather around this place like flies. Turns out the one thing the Brotherhood hates more than atomic power is a disorderly territory. The Sarcophagus project had a twofold purpose: Not only to be a memorial but to limit radiation emissions sufficiently to start excavating for resources. \n\nTeam ANT1 was the first one to depart: Brave engineers and military scouts, all well-equipped to swat away any bandit or anarchist trying to desperately make a fortune in the exclusion zone. Their goal was simple: Survey the land in preparation for excavation. With the Sarcophagus limiting the radiation output, it was well possible that they’d go home in one piece."
+baluty_bbw.1.a: "Their souls would appreciate that."
+
+baluty_bbw.2.t: "A Curious Find"
+baluty_bbw.2.desc: "We've combed through the Zone like a fine toothbrush, coming into contact with various locals at ten different occasions: Six armed bands of robbers and four unaffiliated groups, none of them posing any real threat to the well-trained team of soldiers. Zero casualties on our side. \n\n...And also zero relevant loot. The survey of the Zone has revealed no known natural resources: No coal of any grade, no iron nor any rarer minerals. However, we've found something far more interesting than even the potential discovery of coal would provide - a whole new ore has been excavated, speculated to be a byproduct of radiation! \n\nHandled with care, ore samples have been carefully packaged and delivered to our best laboratories for examination. While it isn’t coal of any sort, we are still eager to uncover its properties - if it can’t be used for energy due to ideological concerns, this new material can nonetheless be utilized for military purposes in the same way we allow ourselves to use ammunition containing depleted uranium. Actually, depleted uranium is the closest thing we can think of when initially examining this material. Attached are exact geometric measures for each quadrant of the Zone."
+baluty_bbw.2.a: "Report by Team ANT1"
+
+baluty_decision_1_ZHP: "Projekt 'Pinus Contorta'"
+baluty_decision_2_ZHP: "Usunięcie wszystkich gruzów"
+baluty_decision_3_ZHP: "Dekontaminacja i przygotowanie gleby"
+baluty_decision_4_ZHP: "Wielka akcja zalesiania" 
+baluty_decision_5_ZHP: "Operacja 'Dawnthorn'"
+
+baluty_decision_1_ZYD: "Projekt 'Czyściec'"
+baluty_decision_2_ZYD: "Mury Jerycha"
+baluty_decision_3_ZYD: "Pomnik atomowego Jahwe"
+baluty_decision_4_ZYD: "Usuwanie niewiernych"
+baluty_decision_5_ZYD: "Święty pierwiastek"
+
+baluty_decision_1_WML: "Projekt 'Ziemia Obiecana'"
+baluty_decision_2_WML: "Usunięcie wszystkich gruzów"
+baluty_decision_3_WML: "Przygotowanie planów rozwoju"
+baluty_decision_4_WML: "Wysiłki odbudowy"
+baluty_decision_5_WML: "Reinkorporacja" 
+
+baluty_decision_1_SAP: "Projekt 'Zireael'"
+baluty_decision_2_SAP: "Proces izotopowy"
+baluty_decision_3_SAP: "Akademia Magii Bał Ard"
+baluty_decision_4_SAP: "Limbo dla naszych wrogów"
+baluty_decision_5_SAP: " Koniunkcja sfer"
+
+baluty_decision_1_KRS: "Projekt 'Chrysanthemum'"
+baluty_decision_2_KRS: "Prywatyzacja ziemii"
+baluty_decision_3_KRS: "Rozwój radioaktywnych narkotyków"
+baluty_decision_4_KRS: "Świecące pola"
+baluty_decision_5_KRS: "Kwitnący biznes"
+
+baluty_decision_1_KRS_rutk: "Wielkie śledztwo"
+baluty_decision_2_KRS_rutk: "Zbieranie wszystkich dowodów"
+baluty_decision_3_KRS_rutk: "Przesłuchanie podejrzanych"
+baluty_decision_4_KRS_rutk: "Siedziba bałucka"
+baluty_decision_5_KRS_rutk: "Proces radiancki"
+
+baluty_decision_1_KRS_para: "Projekt 'Neurodex'"
+baluty_decision_2_KRS_para: "Tajne laboratorium B14"
+baluty_decision_3_KRS_para: "Eksperymenty na organizmach żywych"
+baluty_decision_4_KRS_para: "Walka ognia z ogniem" 
+baluty_decision_5_KRS_para: "TO ŻYJE"
