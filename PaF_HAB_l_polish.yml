@@ -1,0 +1,23 @@
+﻿l_polish:
+ ##Characters##
+##National Spirits##
+ ##First Tree##
+ ##Events##
+
+unification.146.t: "[GetNewspaper]Wielkie Księstwo Krakowskie jednoczy Małopolskę!"
+unification.146.desc: "Północna połowa województwa małopolskiego została zjednoczona pod jedną siłą, a wspomnienia z dawnych czasów wydają się szybko powracać, gdy austrofile u władzy starają się przekształcić Polskę w monarchię opartą na dawno zmarłym Cesarstwie Austro-Węgierskim. Nie wiadomo jakiego rodzaju stosunku do Republiki Austriackiej ci ludzie szukają, ale są nastawieni, na odtwarzaniu tylu elementów politycznego systemu Austro-Węgier jak mogą.\n\nOni są prowadzeni przez popularną osobę medialną i kucharza Roberta Makłowicza, który jest znany z bycia zagorzałym fanem Austro-Węgier i zwolennikiem utworzenia systemu politycznego podobnego do narodu, który upadł w 1918 roku. To jest, bez wątpienia, jeden z najbardziej politycznie interesujących ruchów, który wyszedł z polskiej anarchii, ale będziemy musieli zaczekać dość długo, by zobaczyć co się z nimi stanie, bo wojna wciąż trwa."
+unification.146.a: "Gott Erhalte!"
+
+unificationreg.146.t: "[GetNewspaper]Wielkie Księstwo Krakowskie umacnia kontrolę nad Małopolską!"
+unificationreg.146.desc: "Restoracjoniści monarchii habsburskiego stanu znanego jako Wielkiego Księstwa Krakowskiego teraz podbili nową granicę. Przejęcie kontroli nad regionem Podhala pozwoliło im w pełni kontrolować województwo małopolskie, gdzie czekają na swój czas, przygotowywując się do następnego ruchu. Pod przywództwem Makłowicza rozpoczęli swoją podróż w stronę transformacji ich rozdartego kraju w inny stan wprost z dawnych lat. Ich obecnym celem jest dalsze rozszerzanie w tym obszarze, zakładając nową bazę w byłej Galicji-Lodomerii, z której mogą zjednoczyć kraj.\n\nRząd zachęca swoich obywateli, aby nauczyli się więcej na temat zarówno lokalnej historii, jak i historii byłych Austro-Węgierskich państw w celu wzmocnienia przekonania ogółu społecznego w ich pomysłach. I podczas gdy niektórzy ludzie może traktować te zasady jako kolejny LARP, ich dotychczasowy sukces był większy, niż większość sobie wyobrażała, i mogą nadal dostać szansę na zmianę Polski zgodnie z ich wolą."
+unificationreg.146.a: "Trzymamy czarno-żółtą flagę powiewającą." 
+
+unificationsupreg.146.t: "[GetNewspaper]Królestwo Galicji i Lodomerii powraca!" 
+unificationsupreg.146.desc: "Bardzo ważny kamień milowy został osiągnięty w wojnie o polskie zjednoczenie, gdy austrofilscy monarchiści, którzy powstali jako zaledwie jedno z wielu frakcji, w Krakowie przynieśli raczej spory kawałek polskiego terytorium pod ich kontrolę, wliczając cały region „Galicji Zachodniej”, który był historycznie polską stroną starej Galicji-Lodomerii, wraz z innymi terytoriami na zachód, jak na przykład województwo świętokrzyskie i lubelskie, pod ich kontrolą, skutecznie sprawiając, że oni kontrolują większą część Polski, niż zrobili to Austriacy. \n\nWielu zauważyło, że ten ruch nie jest tak reakcyjny, jak większość różnych ruchów restoriacjonistycznych widzianych w całej Polsce, promując system bazowany na równości niż na arystokratycznym elitaryzmie. To jest rzadkie i dziwne zjawisko, ale państwo już stało się dość znaczące, i stąd nie ma dokąd pójść niż naprzód."
+unificationsupreg.146.a: "Stare ale jare." 
+
+super.146.t: "[GetNewspaper]Nowe i ulepszone Królestwo Polskie"
+super.146.desc: "Krwawa wojna domowa szalejąca w całej Polsce się zakończyła, gdy Polska stoi ponownie zjednoczona - tym razem pod monarchią. O dziwo, to państwo zostało ustanowione w podobny sposób co Austro-Węgry, ze względu na Austro-Węgierską historię będącą drugą największą pasją (obok gotowania) swojego założyciela, Roberta Makłowicza, który od tego czasu został nazwany Arcyregentem odnowionego Królestwa Polskiego. I, pomimo że Austriacy byli uznawani za prześladowców w czasie gdy kontrolowali część Polski, szeroko popularne zasady Makłowicza spowodowały generalnie optymistyczną postawę wobec nowego rządu rozprzestrzeniającą się wśród ludności.\n\nMiędzynarodowi obserwatorzy walczą o przewidzenie możliwej konsekwencji tego wydarzenia i sami Austriacy są absolutnie oszołomieni, ale póki co nie potępili polskiego rządu. Ciężko powiedzieć czy rząd regenta może naprawić wszystkie problemy Polski, ale jedna rzecz wydaje się pewna - to jest początek nowej ery w lokalnej historii."
+super.146.a: "Mit o Galicji-Lodomerii staje się prawdą." 
+
+##Decisions##

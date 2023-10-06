@@ -1,0 +1,2181 @@
+﻿l_polish:
+
+###LEGION HONORU###
+ WOD_voivodeship_neonationalism: "Śląski Obóz Narodowy"
+ WOD_voivodeship_neonationalism_DEF: "Śląski Obóz Narodowy"
+ WOD_voivodeship_neonationalism_ADJ: "Śląsk."
+ WOD_voivodeship_national_socialism: "Reichskommissariat Schlesien"
+ WOD_voivodeship_national_socialism_DEF: "Komisariat Rzeszy Śląsk"
+ WOD_voivodeship_national_socialism_ADJ: "RK Schlesien"
+ 
+ WOD_regional_neonationalism: "Śląski Obóz Narodowy"
+ WOD_regional_neonationalism_DEF: "Śląski Obóz Narodowy"
+ WOD_regional_neonationalism_ADJ: "Śląsk."
+ WOD_regional_national_socialism: "Reichskommissariat Schlesien"
+ WOD_regional_national_socialism_DEF: "Komisariat Rzeszy Śląsk"
+ WOD_regional_national_socialism_ADJ: "RK Schlesien" 
+ 
+ WOD_supregional_reactionary: "Euroazjatyckie Państwo Polskie"
+ WOD_supregional_reactionary_DEF: "Euroazjatyckie Państwo Polskie"
+ WOD_supregional_reactionary_ADJ: "Pol."
+ WOD_supregional_neonationalism: "Wielka Rzesza Aryjska"
+ WOD_supregional_neonationalism_DEF: "Wielka Rzesza Aryjska"
+ WOD_supregional_neonationalism_ADJ: "Aryjsk." 
+ WOD_supregional_postpolonism: "Midgard"
+ WOD_supregional_postpolonism_DEF: "Midgard"
+ WOD_supregional_postpolonism_ADJ: "Midgard." 
+ 
+ WOD_bekier_final_reactionary: "Euroazjatyckie Państwo Polskie"
+ WOD_bekier_final_reactionary_DEF: "Euroazjatyckie Państwo Polskie"
+ WOD_bekier_final_reactionary_ADJ: "Pol."
+ WOD_szczery_final_neonationalism: "Wielka Rzesza Aryjska"
+ WOD_szczery_final_neonationalism_DEF: "Wielka Rzesza Aryjska"
+ WOD_szczery_final_neonationalism_ADJ: "Aryjsk." 
+ WOD_ragnarok_final_postpolonism: "Midgard"
+ WOD_ragnarok_final_postpolonism_DEF: "Midgard"
+ WOD_ragnarok_final_postpolonism_ADJ: "Midgard." 
+
+
+###Ślōnske plymiōna###
+
+ FER_voivodeship_neonationalism: "Ślōnski Krŏj"
+ FER_voivodeship_neonationalism_DEF: "Śląski Kraj"
+ FER_voivodeship_neonationalism_ADJ: "Ślōnsk." 
+ 
+ FER_regional_neonationalism: "Ślōnski Krŏj"
+ FER_regional_neonationalism_DEF: "Śląski Kraj"
+ FER_regional_neonationalism_ADJ: "Ślōnsk."
+ 
+ TRC_voivodeship_paternal_conservatism: "Śląski Związek Piłki Nożnej"
+ TRC_voivodeship_paternal_conservatism_DEF: "Śląski Związek Piłki Nożnej"
+ TRC_voivodeship_paternal_conservatism_ADJ: "Śląski Związek Piłki Nożnej"
+ 
+ TRC_regional_paternal_conservatism: "Śląski Związek Piłki Nożnej"
+ TRC_regional_paternal_conservatism_DEF: "Śląski Związek Piłki Nożnej"
+ TRC_regional_paternal_conservatism_ADJ: "Śląski ZPN" 
+ 
+ ASG_voivodeship_neonationalism: "Airsoftowe Państwo Najemników"
+ ASG_voivodeship_neonationalism_DEF: "Airsoftowe Państwo Najemników"
+ ASG_voivodeship_neonationalism_ADJ: "Airsoft."
+ 
+ ASG_regional_neonationalism: "Airsoftowe Państwo Najemników"
+ ASG_regional_neonationalism_DEF: "Airsoftowe Państwo Najemników"
+ ASG_regional_neonationalism_ADJ: "Airsoft." 
+ 
+ RUD_voivodeship_socialdemocrature: "Ślōnski Krŏj"
+ RUD_voivodeship_socialdemocrature_DEF: "Śląski Kraj"
+ RUD_voivodeship_socialdemocrature_ADJ: "Ślōnsk."
+ 
+ RUD_regional_socialdemocrature: "Hajerskŏ Dolina"
+ RUD_regional_socialdemocrature_DEF: "Górnicza Dolina"
+ RUD_regional_socialdemocrature_ADJ: "Hajersk." 
+ 
+
+###BÓG POLSKA I KOSINIAK###
+ TRN_voivodeship_euroliberalism: "Rzeczpospolita Małopolska"
+ TRN_voivodeship_euroliberalism_DEF: "Rzeczpospolita Małopolska"
+ TRN_voivodeship_euroliberalism_ADJ: "Małopolsk."
+ TRN_voivodeship_autocracy: "Galicyjskie Gubernatorstwo"
+ TRN_voivodeship_autocracy_DEF: "Galicyjskie Gubernatorstwo"
+ TRN_voivodeship_autocracy_ADJ: "Governate" 
+ 
+ TRN_regional_euroliberalism: "Rzeczpospolita Małopolska"
+ TRN_regional_euroliberalism_DEF: "Rzeczpospolita Małopolska"
+ TRN_regional_euroliberalism_ADJ: "Małopolsk."
+ TRN_regional_autocracy: "Galicia Governate"
+ TRN_regional_autocracy_DEF: "Galicyjskie Gubernatorstwo"
+ TRN_regional_autocracy_ADJ: "Governate" 
+ TRN_regional_neonationalism: "Galicyjskie Państwo Agrarne"
+ TRN_regional_neonationalism_DEF: "Galicyjskie Państwo Agrarne"
+ TRN_regional_neonationalism_ADJ: "Galicyjsk." 
+ 
+ TRN_supregional_euroliberalism: "Rzeczpospolita Polska"
+ TRN_supregional_euroliberalism_DEF: "Rzeczpospolita Polska"
+ TRN_supregional_euroliberalism_ADJ: "Pol."
+ TRN_supregional_autocracy: "Odrodzona Rzeczpospolita Polska"
+ TRN_supregional_autocracy_DEF: "Odrodzona Rzeczpospolita Polska"
+ TRN_supregional_autocracy_ADJ: "Pol." 
+ TRN_supregional_neonationalism: "Polskie Państwo Agrarne"
+ TRN_supregional_neonationalism_DEF: "Polskie Państwo Agrarne"
+ TRN_supregional_neonationalism_ADJ: "Pol." 
+ 
+ TRN_psl_final_euroliberalism: "Rzeczpospolita Polska"
+ TRN_psl_final_euroliberalism_DEF: "Rzeczpospolita Polska"
+ TRN_psl_final_euroliberalism_ADJ: "Pol."
+ TRN_baszar_final_autocracy: "Odrodzona Rzeczpospolita Polska"
+ TRN_baszar_final_autocracy_DEF: "Odrodzona Rzeczpospolita Polska"
+ TRN_baszar_final_autocracy_ADJ: "Pol." 
+ TRN_agraryzm_final_neonationalism: "Polskie Państwo Agrarne"
+ TRN_agraryzm_final_neonationalism_DEF: "Polskie Państwo Agrarne"
+ TRN_agraryzm_final_neonationalism_ADJ: "Pol." 
+
+
+###ZERO###
+ PRK_voivodeship_autocracy: "Prokuratura Generalna"
+ PRK_voivodeship_autocracy_DEF: "Prokuratura Generalna"
+ PRK_voivodeship_autocracy_ADJ: "Prokurat."
+ 
+ PRK_regional_autocracy: "Najwyższa Prokuratura"
+ PRK_regional_autocracy_DEF: "Najwyższa Prokuratura"
+ PRK_regional_autocracy_ADJ: "Prokurat."
+
+ PRK_supregional_autocracy: "Najwyższa Prokuratura"
+ PRK_supregional_autocracy_DEF: "Najwyższa Prokuratura"
+ PRK_supregional_autocracy_ADJ: "Prokurat."
+ 
+ PRK_zero_final_autocracy: "Polska Strefa Bezpieczeństwa"
+ PRK_zero_final_autocracy_DEF: "Polska Strefa Bezpieczeństwa"
+ PRK_zero_final_autocracy_ADJ: "Pol."
+
+###BOCHNIA###
+ BOH_zero: "Prokuratura w Bochnii"
+ BOH_zero_DEF: "Prokuratura w Bochnii"
+ BOH_zero_ADJ: "Boch." 
+ 
+###AUSCHWITZ###
+ OSW_zero: "Prokuratura w Oświęcimiu"
+ OSW_zero_DEF: "Prokuratura w Oświęcimiu"
+ OSW_zero_ADJ: "Oświęcim." 
+ 
+ OSW_voivodeship_autocracy: "Księstwo Wiślańskie"
+ OSW_voivodeship_autocracy_DEF: "Księstwo Wiślańskie"
+ OSW_voivodeship_autocracy_ADJ: "Wiślańsk."
+ 
+ OSW_regional_autocracy: "Księstwo Wiślańskie"
+ OSW_regional_autocracy_DEF: "Księstwo Wiślańskie"
+ OSW_regional_autocracy_ADJ: "Wiślańsk."
+
+ OSW_supregional_autocracy: "Królestwo Wiślańskie"
+ OSW_supregional_autocracy_DEF: "Królestwo Wiślańskie"
+ OSW_supregional_autocracy_ADJ: "Wiślańsk."
+ 
+ OSW_beata_final_autocracy: "Królestwo Wiślańskie"
+ OSW_beata_final_autocracy_DEF: "Królestwo Wiślańskie"
+ OSW_beata_final_autocracy_ADJ: "Wiślańsk."
+ 
+###SKAWINA###
+ SKW_voivodeship_squattism: "Nacja Duchów"
+ SKW_voivodeship_squattism_DEF: "Nacja Duchów"
+ SKW_voivodeship_squattism_ADJ: "Duch."
+ 
+ SKW_regional_squattism: "Nacja Duchów"
+ SKW_regional_squattism_DEF: "Nacja Duchów"
+ SKW_regional_squattism_ADJ: "Duch."
+###WIELICZKA###
+ UMN_voivodeship_corporativism: "Zjednoczona Firma Kopalniana"
+ UMN_voivodeship_corporativism_DEF: "Zjednoczona Firma Kopalniana"
+ UMN_voivodeship_corporativism_ADJ: "Kopaln."
+ 
+ UMN_regional_corporativism: "Zjednoczona Firma Kopalniana"
+ UMN_regional_corporativism_DEF: "Zjednoczona Firma Kopalniana"
+ UMN_regional_corporativism_ADJ: "Kopaln."
+
+ UMN_supregional_corporativism: "Zjednoczona Firma Kopalniana"
+ UMN_supregional_corporativism_DEF: "Zjednoczona Firma Kopalniana"
+ UMN_supregional_corporativism_ADJ: "Kopaln."
+
+ UMN_solniczka_final_corporativism: "Zjednoczona Firma Kopalniana"
+ UMN_solniczka_final_corporativism_DEF: "Zjednoczona Firma Kopalniana"
+ UMN_solniczka_final_corporativism_ADJ: "Kopaln."
+ ###WADOVICE##
+ WDW_voivodeship_marxism_cranism: "Galicyjska Armia Ludowo-Wyzwoleńcza"
+ WDW_voivodeship_marxism_cranism_DEF: "Galicyjska Armia Ludowo-Wyzwoleńcza"
+ WDW_voivodeship_marxism_cranism_ADJ: "Galic."
+ WDW_voivodeship_postpolonism: "Czerwoni Polanie"
+ WDW_voivodeship_postpolonism_DEF: "Czerwoni Polanie"
+ WDW_voivodeship_postpolonism_ADJ: "Polan." 
+ 
+ WDW_regional_marxism_cranism: "Galicyjska Armia Ludowo-Wyzwoleńcza"
+ WDW_regional_marxism_cranism_DEF: "Galicyjska Armia Ludowo-Wyzwoleńcza"
+ WDW_regional_marxism_cranism_ADJ: "Galic."
+ WDW_regional_postpolonism: "Czerwoni Polanie"
+ WDW_regional_postpolonism_DEF: "Czerwoni Polanie"
+ WDW_regional_postpolonism_ADJ: "Polan." 
+ 
+ WDW_supregional_marxism_cranism: "Polska Republika Ludowa"
+ WDW_supregional_marxism_cranism_DEF: "Polska Republika Ludowa"
+ WDW_supregional_marxism_cranism_ADJ: "PRL"
+ WDW_supregional_postpolonism: "Demokratyczna Polska"
+ WDW_supregional_postpolonism_DEF: "Demokratyczna Polska"
+ WDW_supregional_postpolonism_ADJ: "Demokrat. Pol." 
+ 
+ WDW_mao_final_marxism_cranism: "Polska Republika Ludowa"
+ WDW_mao_final_marxism_cranism_DEF: "Polska Republika Ludowa"
+ WDW_mao_final_marxism_cranism_ADJ: "PRL"
+ WDW_polpot_final_postpolonism: "Demokratyczna Polska"
+ WDW_polpot_final_postpolonism_DEF: "Demokratyczna Polska"
+ WDW_polpot_final_postpolonism_ADJ: "Demokrat. Pol." 
+
+###ŁEMKO###
+ LEM_voivodeship_autocracy: "Księstwo Łemkowszczyzny"
+ LEM_voivodeship_autocracy_DEF: "Księstwo Łemkowszczyzny"
+ LEM_voivodeship_autocracy_ADJ: "Łemkow."
+ 
+ LEM_regional_autocracy: "Carstwo Rusińskie"
+ LEM_regional_autocracy_DEF: "Carstwo Rusińskie"
+ LEM_regional_autocracy_ADJ: "Rusiń."
+ 
+ LEM_voivodeship_reactionary: "Święte Państwo Łemków"
+ LEM_voivodeship_reactionary_DEF: "Święte Państwo Łemków"
+ LEM_voivodeship_reactionary_ADJ: "Łemkow."
+ 
+ LEM_regional_reactionary: "Święte Państwo Rusinów"
+ LEM_regional_reactionary_DEF: "Święte Państwo Rusinów"
+ LEM_regional_reactionary_ADJ: "Rusiń."
+ 
+ LEM_voivodeship_paternal_conservatism: "Republika Łemków"
+ LEM_voivodeship_paternal_conservatism_DEF: "Republika Łemków"
+ LEM_voivodeship_paternal_conservatism_ADJ: "Łemkow."
+ 
+ LEM_regional_paternal_conservatism: "Ruska Ludowa Republika Łemków"
+ LEM_regional_paternal_conservatism_DEF: "Ruska Ludowa Republika Łemków"
+ LEM_regional_paternal_conservatism_ADJ: "Łemkow."
+
+###NEW DRIP###
+ SCZ_voivodeship_freemarketism: "Wolne Nieruchomości"
+ SCZ_voivodeship_freemarketism_DEF: "Wolne Nieruchomości"
+ SCZ_voivodeship_freemarketism_ADJ: "Nieruchom."
+ 
+ SCZ_regional_freemarketism: "Wolne Nieruchomości"
+ SCZ_regional_freemarketism_DEF: "Wolne Nieruchomości"
+ SCZ_regional_freemarketism_ADJ: "Nieruchom."
+
+###PODHALE###
+ GUR_voivodeship_paternal_conservatism: "Państwo Góralskie"
+ GUR_voivodeship_paternal_conservatism_DEF: "Państwo Góralskie"
+ GUR_voivodeship_paternal_conservatism_ADJ: "Góral."
+ GUR_voivodeship_neonationalism: "Królestwo Karpat"
+ GUR_voivodeship_neonationalism_DEF: "Królestwo Karpat"
+ GUR_voivodeship_neonationalism_ADJ: "Karp." 
+ GUR_voivodeship_postpolonism: "Góralotopia"
+ GUR_voivodeship_postpolonism_DEF: "Góralotopia"
+ GUR_voivodeship_postpolonism_ADJ: "Góral."
+ 
+ GUR_regional_paternal_conservatism: "Państwo Góralskie"
+ GUR_regional_paternal_conservatism_DEF: "Państwo Góralskie"
+ GUR_regional_paternal_conservatism_ADJ: "Góral."
+ GUR_regional_neonationalism: "Królestwo Galicyjsko-Karpackie"
+ GUR_regional_neonationalism_DEF: "Królestwo Galicyjsko-Karpackie"
+ GUR_regional_neonationalism_ADJ: "Galicyj.-Karpack." 
+ GUR_regional_postpolonism: "Góralotopia"
+ GUR_regional_postpolonism_DEF: "Góralotopia"
+ GUR_regional_postpolonism_ADJ: "Góral." 
+ 
+ GUR_supregional_paternal_conservatism: "Konfederacja Narodów Polskich"
+ GUR_supregional_paternal_conservatism_DEF: "Konfederacja Narodów Polskich"
+ GUR_supregional_paternal_conservatism_ADJ: "KNP"
+ GUR_supregional_postpolonism: "Nowa Galicja"
+ GUR_supregional_postpolonism_DEF: "Nowa Galicja"
+ GUR_supregional_postpolonism_ADJ: "Galic."
+ 
+ GUR_tokp_final_paternal_conservatism: "Konfederacja Narodów Polskich"
+ GUR_tokp_final_paternal_conservatism_DEF: "Konfederacja Narodów Polskich"
+ GUR_tokp_final_paternal_conservatism_ADJ: "KNP"
+ GUR_zapierdalanie_final_postpolonism: "Post-Polska"
+ GUR_zapierdalanie_final_postpolonism_DEF: "Post-Polska"
+ GUR_zapierdalanie_final_postpolonism_ADJ: "Post-Pol." 
+
+###MYŚLENICE###
+ MSL_voivodeship_reactionary: "Zastęp Niebieski"
+ MSL_voivodeship_reactionary_DEF: "Zastęp Niebieski"
+ MSL_voivodeship_reactionary_ADJ: "Zastęp Nieb."
+ 
+ MSL_regional_reactionary: "Zastęp Niebieski"
+ MSL_regional_reactionary_DEF: "Zastęp Niebieski"
+ MSL_regional_reactionary_ADJ: "Zastęp Nieb."
+ 
+ MSL_supregional_reactionary: "Ogród Eden"
+ MSL_supregional_reactionary_DEF: "Ogród Eden"
+ MSL_supregional_reactionary_ADJ: "Edeń."
+ 
+ MSL_eden_final_reactionary: "Ogród Eden"
+ MSL_eden_final_reactionary_DEF: "Ogród Eden"
+ MSL_eden_final_reactionary_ADJ: "Edeń."
+
+
+###DĄBROWA GÓRNICZA###
+ DGR_voivodeship_marxism_cranism: "Zagłębiowska Republika Rad"
+ DGR_voivodeship_marxism_cranism_DEF: "Zagłębiowska Republika Rad"
+ DGR_voivodeship_marxism_cranism_ADJ: "ZRR"
+ DGR_voivodeship_neonationalism: "Narodowa Armia Ludowa"
+ DGR_voivodeship_neonationalism_DEF: "Narodowa Armia Ludowa"
+ DGR_voivodeship_neonationalism_ADJ: "NAL" 
+ 
+ DGR_regional_marxism_cranism: "Zagłębiowska Republika Rad"
+ DGR_regional_marxism_cranism_DEF: "Zagłębiowska Republika Rad"
+ DGR_regional_marxism_cranism_ADJ: "ZRR"
+ DGR_regional_neonationalism: "Narodowa Armia Ludowa
+ DGR_regional_neonationalism_DEF: "Narodowa Armia Ludowa"
+ DGR_regional_neonationalism_ADJ: "NAL 
+ DGR_regional_postpolonism: "Słowiańskie Państwo Syjonu"
+ DGR_regional_postpolonism_DEF: "Słowiańskie Państwo Syjonu"
+ DGR_regional_postpolonism_ADJ: "Syj." 
+ 
+ DGR_supregional_marxism_cranism: "Polska Republika Rad"
+ DGR_supregional_marxism_cranism_DEF: "Polska Republika Rad"
+ DGR_supregional_marxism_cranism_ADJ: "PRR"
+ DGR_supregional_neonationalism: "Narodowo-Ludowa Rzeczpospolita Polska"
+ DGR_supregional_neonationalism_DEF: "Narodowo-Ludowa Rzeczpospolita Polska"
+ DGR_supregional_neonationalism_ADJ: "NLRP" 
+ DGR_supregional_postpolonism: "Słowiańskie Państwo Syjonu"
+ DGR_supregional_postpolonism_DEF: "Słowiańskie Państwo Syjonu"
+ DGR_supregional_postpolonism_ADJ: "Syj." 
+ 
+ DGR_zprr_final_marxism_cranism: "Związek Polskich Republik Radzieckich"
+ DGR_zprr_final_marxism_cranism_DEF: "Związek Polskich Republik Radzieckich"
+ DGR_zprr_final_marxism_cranism_ADJ: "ZPRR"
+ DGR_nazbol_final_neonationalism: "Narodowo-Ludowa Rzeczpospolita Polska"
+ DGR_nazbol_final_neonationalism_DEF: "Narodowo-Ludowa Rzeczpospolita Polska"
+ DGR_nazbol_final_neonationalism_ADJ: "NLRP" 
+ DGR_rasta_final_postpolonism: "Słowiańskie Państwo Syjonu"
+ DGR_rasta_final_postpolonism_DEF: "Słowiańskie Państwo Syjonu"
+ DGR_rasta_final_postpolonism_ADJ: "Syj." 
+
+
+###ANTIFA###
+ JAW_voivodeship_squattism: "Terytorium Zagłębia"
+ JAW_voivodeship_squattism_DEF: "Terytorium Zagłębia"
+ JAW_voivodeship_squattism_ADJ: "Zagłęb."
+ JAW_voivodeship_socialdemocrature: "Komuna Zagłębia"
+ JAW_voivodeship_socialdemocrature_DEF: "Komuna Zagłębia"
+ JAW_voivodeship_socialdemocrature_ADJ: "Zagłęb." 
+ 
+ JAW_regional_squattism: "Terytorium Zagłębia"
+ JAW_regional_squattism_DEF: "Terytorium Zagłębia"
+ JAW_regional_squattism_ADJ: "Terytorium Zagłębia"
+ JAW_regional_socialdemocrature: "Komuna Zagłębia"
+ JAW_regional_socialdemocrature_DEF: "Komuna Zagłębia"
+ JAW_regional_socialdemocrature_ADJ: "Zagłęb." 
+ 
+ JAW_supregional_squattism: "Wolne Terytorium Polski"
+ JAW_supregional_squattism_DEF: "Wolne Terytorium Polski"
+ JAW_supregional_squattism_ADJ: "Pol."
+ JAW_supregional_socialdemocrature: "Komuna Polska"
+ JAW_supregional_socialdemocrature_DEF: "Komuna Polska"
+ JAW_supregional_socialdemocrature_ADJ: "Pol." 
+ 
+ JAW_antifa_final_squattism: "Wolne Terytorium Polski"
+ JAW_antifa_final_squattism_DEF: "Wolne Terytorium Polski"
+ JAW_antifa_final_squattism_ADJ: "Pol."
+ JAW_razem_final_squattism: "Zjednoczone Komuny Polski"
+ JAW_razem_final_squattism_DEF: "Zjednoczone Komuny Polski"
+ JAW_razem_final_ssquattism_ADJ: "Pol." 
+
+
+###SOSNOWIEŚ###
+ SOS_voivodeship_marxism_cranism: "Zagłębiowska Republika Ludowa"
+ SOS_voivodeship_marxism_cranism_DEF: "Zagłębiowska Republika Ludowa"
+ SOS_voivodeship_marxism_cranism_ADJ: "Zagłęb."
+ SOS_voivodeship_socialdemocrature: "Zagłębiowska Republika Socjalistyczna"
+ SOS_voivodeship_socialdemocrature_DEF: "Zagłębiowska Republika Socjalistyczna"
+ SOS_voivodeship_socialdemocrature_ADJ: "Zagłęb." 
+ 
+ SOS_regional_marxism_cranism: "Zagłębiowska Republika Ludowa"
+ SOS_regional_marxism_cranism_DEF: "Zagłębiowska Republika Ludowa"
+ SOS_regional_marxism_cranism_ADJ: "Zagłęb."
+ SOS_regional_socialdemocrature: "Zagłębiowska Republika Socjalistyczna"
+ SOS_regional_socialdemocrature_DEF: "Zagłębiowska Republika Socjalistyczna"
+ SOS_regional_socialdemocrature_ADJ: "Zagłęb." 
+ 
+ SOS_supregional_marxism_cranism: "Polska Rzeczpospolita Ludowa"
+ SOS_supregional_marxism_cranism_DEF: "Polska Rzeczpospolita Ludowa"
+ SOS_supregional_marxism_cranism_ADJ: "Pol."
+ SOS_supregional_socialdemocrature: "Socjalistyczna Rzeczpospolita Polska"
+ SOS_supregional_socialdemocrature_DEF: "Socjalistyczna Rzeczpospolita Polska"
+ SOS_supregional_socialdemocrature_ADJ: "Pol." 
+ 
+ SOS_wcz_prl_final_marxism_cranism: "Polska Rzeczpospolita Ludowa"
+ SOS_wcz_prl_final_marxism_cranism_DEF: "Polska Rzeczpospolita Ludowa"
+ SOS_wcz_prl_final_marxism_cranism_ADJ: "Pol."
+ SOS_wcz_good_final_socialdemocrature: "Socjalistyczna Rzeczpospolita Polska"
+ SOS_wcz_good_final_socialdemocrature_DEF: "Socjalistyczna Rzeczpospolita Polska"
+ SOS_wcz_good_final_socialdemocrature_ADJ: "Pol." 
+
+###BYTOM###
+ RAS_voivodeship_reactionary: "Herzogtum Schlesien"
+ RAS_voivodeship_reactionary_DEF: "Herzogtum Schlesien"
+ RAS_voivodeship_reactionary_ADJ: "Śląsk."
+ 
+ RAS_regional_reactionary: "Księstwo Śląskie"
+ RAS_regional_reactionary_DEF: "Herzogtum Schlesien"
+ RAS_regional_reactionary_ADJ: "Śląsk."
+ 
+ RAS_supregional_reactionary: "Königreich Schlesien"
+ RAS_supregional_reactionary_DEF: "Königreich Schlesien"
+ RAS_supregional_reactionary_ADJ: "Śląsk."
+ 
+ RAS_final_reactionary: "Königreich Schlesien"
+ RAS_final_reactionary_DEF: "Königreich Schlesien"
+ RAS_final_reactionary_ADJ: "Śląsk." 
+ 
+
+###CHORZÓW###
+ CHO_voivodeship_euroliberalism: "Republika Śląska"
+ CHO_voivodeship_euroliberalism_DEF: "Republika Śląska"
+ CHO_voivodeship_euroliberalism_ADJ: "Śląsk."
+ 
+ CHO_regional_euroliberalism: "Republika Śląska"
+ CHO_regional_euroliberalism_DEF: "Republika Śląska"
+ CHO_regional_euroliberalism_ADJ: "Śląsk."
+ 
+ CHO_supregional_euroliberalism: "Eurorepublika Śląska"
+ CHO_supregional_euroliberalism_DEF: "Eurorepublika Śląska"
+ CHO_supregional_euroliberalism_ADJ: "Śląsk."
+ 
+ CHO_ras_final_euroliberalism: "Eurorepublika Śląska"
+ CHO_ras_final_euroliberalism_DEF: "Eurorepublika Śląska"
+ CHO_ras_final_euroliberalism_ADJ: "Śląsk."
+
+
+###TWARDOCH###
+ GLI_voivodeship_autocracy: "Państwo Śląskie"
+ GLI_voivodeship_autocracy_DEF: "Państwo Śląskie"
+ GLI_voivodeship_autocracy_ADJ: "Śląsk."
+ GLI_voivodeship_socialdemocrature: "Rzeczpospolita Śląska"
+ GLI_voivodeship_socialdemocrature_DEF: "Rzeczpospolita Śląska"
+ GLI_voivodeship_socialdemocrature_ADJ: "Śląsk." 
+ 
+ GLI_regional_autocracy: "Państwo Śląskie"
+ GLI_regional_autocracy_DEF: "Państwo Śląskie"
+ GLI_regional_autocracy_ADJ: "Śląsk."
+ GLI_regional_socialdemocrature: "Rzeczpospolita Śląska"
+ GLI_regional_socialdemocrature_DEF: "Rzeczpospolita Śląska"
+ GLI_regional_socialdemocrature_ADJ: "Śląsk." 
+ 
+ GLI_supregional_autocracy: "Rzesza Śląska"
+ GLI_supregional_autocracy_DEF: "Rzesza Śląska"
+ GLI_supregional_autocracy_ADJ: "Śląsk."
+ GLI_supregional_socialdemocrature: "Rzeczpospolita Polsko-Śląska"
+ GLI_supregional_socialdemocrature_DEF: "Rzeczpospolita Polsko-Śląska"
+ GLI_supregional_socialdemocrature_ADJ: "Pol.-Śląsk." 
+ 
+ GLI_rajch_final_autocracy: "Rzesza Śląska"
+ GLI_rajch_final_autocracy_DEF: "Rzesza Śląska"
+ GLI_rajch_final_autocracy_ADJ: "Śląsk."
+ GLI_murzinytancujom_final_socialdemocrature: "Rzeczpospolita Polsko-Śląska"
+ GLI_murzinytancujom_final_socialdemocrature_DEF: "Rzeczpospolita Polsko-Śląska"
+ GLI_murzinytancujom_final_socialdemocrature_ADJ: "Pol.-Śląsk." 
+
+
+###JASTRZĘBIE###
+ JSW_voivodeship_socialdemocrature: "Syndykat Śląska"
+ JSW_voivodeship_socialdemocrature_DEF: "Syndykat Śląska"
+ JSW_voivodeship_socialdemocrature_ADJ: "Śląsk."
+ JSW_voivodeship_corporativism: "Śląski Dystrykt Górniczy"
+ JSW_voivodeship_corporativism_DEF: "Śląski Dystrykt Górniczy"
+ JSW_voivodeship_corporativism_ADJ: "Śląsk." 
+ 
+ JSW_regional_socialdemocrature: "Syndykat Śląska"
+ JSW_regional_socialdemocrature_DEF: "Syndykat Śląska"
+ JSW_regional_socialdemocrature_ADJ: "Śląsk."
+ JSW_regional_corporativism: "Śląski Dystrykt Górniczy"
+ JSW_regional_corporativism_DEF: "Śląski Dystrykt Górniczy"
+ JSW_regional_corporativism_ADJ: "Śląsk." 
+ JSW_regional_reactionary: "Śląskie Bractwo Węgla"
+ JSW_regional_reactionary_DEF: "Śląskie Bractwo Węgla"
+ JSW_regional_reactionary_ADJ: "Śląsk." 
+ 
+ JSW_supregional_socialdemocrature: "Polska Federacja Związków Zawodowych"
+ JSW_supregional_socialdemocrature_DEF: "Polska Federacja Związków Zawodowych"
+ JSW_supregional_socialdemocrature_ADJ: "PFZZ"
+ JSW_supregional_corporativism: "Region Przemysłowy Polska"
+ JSW_supregional_corporativism_DEF: "Region Przemysłowy Polska"
+ JSW_supregional_corporativism_ADJ: "Pol." 
+ JSW_supregional_reactionary: "Śląskie Bractwo Węgla"
+ JSW_supregional_reactionary_DEF: "Śląskie Bractwo Węgla"
+ JSW_supregional_reactionary_ADJ: "Śląsk." 
+ 
+ JSW_nszz_final_socialdemocrature: "Polski Związek Zawodowy"
+ JSW_nszz_final_socialdemocrature_DEF: "Polski Związek Zawodowy"
+ JSW_nszz_final_socialdemocrature_ADJ: "PZZ"
+ JSW_jsw_final_corporativism: "Region Przemysłowy Polska"
+ JSW_jsw_final_corporativism_DEF: "Region Przemysłowy Polska"
+ JSW_jsw_final_corporativism_ADJ: "Pol." 
+ JSW_coal_final_reactionary: "Bractwo Węgla i Stali"
+ JSW_coal_final_reactionary_DEF: "Bractwo Węgla i Stali"
+ JSW_coal_final_reactionary_ADJ: "Bractwo Węgla i Stali" 
+ 
+ 
+###KATOVICE###
+ KAT_voivodeship_euroliberalism: "Dyrektoriat Śląska"
+ KAT_voivodeship_euroliberalism_DEF: "Dyrektoriat Śląska"
+ KAT_voivodeship_euroliberalism_ADJ: "Śląsk."
+ KAT_voivodeship_paternal_conservatism: "Protektorat Śląska"
+ KAT_voivodeship_paternal_conservatism_DEF: "Protektorat Śląska"
+ KAT_voivodeship_paternal_conservatism_ADJ: "Śląsk." 
+ KAT_voivodeship_freemarketism: "Wolne Społeczeństwo Śląska"
+ KAT_voivodeship_freemarketism_DEF: "Wolne Społeczeństwo Śląska"
+ KAT_voivodeship_freemarketism_ADJ: "Śląsk." 
+
+ KAT_regional_euroliberalism: "Dyrektoriat Śląska"
+ KAT_regional_euroliberalism_DEF: "Dyrektoriat Śląska"
+ KAT_regional_euroliberalism_ADJ: "Śląsk."
+ KAT_regional_paternal_conservatism: "Protektorat Śląska"
+ KAT_regional_paternal_conservatism_DEF: "Protektorat Śląska"
+ KAT_regional_paternal_conservatism_ADJ: "Śląsk." 
+ KAT_regional_freemarketism: "Wolne Społeczeństwo Śląska"
+ KAT_regional_freemarketism_DEF: "Wolne Społeczeństwo Śląska"
+ KAT_regional_freemarketism_ADJ: "Śląsk." 
+ 
+ KAT_supregional_postpolonism: "Dyrektoriat Wiślański"
+ KAT_supregional_postpolonism_DEF: "Dyrektoriat Wiślański"
+ KAT_supregional_postpolonism_ADJ: "Wiślańsk."
+ KAT_supregional_paternal_conservatism: "Protektorat Polski"
+ KAT_supregional_paternal_conservatism_DEF: "Protektorat Polski"
+ KAT_supregional_paternal_conservatism_ADJ: "Pol." 
+ KAT_supregional_freemarketism: "Wolne Społeczeństwa Polski"
+ KAT_supregional_freemarketism_DEF: "Wolne Społeczeństwa Polski"
+ KAT_supregional_freemarketism_ADJ: "Pol." 
+ 
+ KAT_budka_final_postpolonism: "Dyrektoriat Wiślański"
+ KAT_budka_final_postpolonism_DEF: "Dyrektoriat Wiślański"
+ KAT_budka_final_postpolonism_ADJ: "Wiślańsk."
+ KAT_senior_final_paternal_conservatism: "Protektorat Polski"
+ KAT_senior_final_paternal_conservatism_DEF: "Protektorat Polski"
+ KAT_senior_final_paternal_conservatism_ADJ: "Pol." 
+ KAT_junior_final_freemarketism: "Wolne Społeczeństwa Polski"
+ KAT_junior_final_freemarketism_DEF: "Wolne Społeczeństwa Polski"
+ KAT_junior_final_freemarketism_ADJ: "Pol." 
+
+###BRACIAPIERDOLEC###
+ BSK_voivodeship_autocracy: "Czarni Bracia"
+ BSK_voivodeship_autocracy_DEF: "Czarni Bracia"
+ BSK_voivodeship_autocracy_ADJ: "Czarn."
+ BSK_voivodeship_freemarketism: "Republika Ścierniska"
+ BSK_voivodeship_freemarketism_DEF: "Republika Ścierniska"
+ BSK_voivodeship_freemarketism_ADJ: "Ściern." 
+ 
+ BSK_regional_autocracy: "Czarni Bracia"
+ BSK_regional_autocracy_DEF: "Czarni Bracia"
+ BSK_regional_autocracy_ADJ: "Czarn."
+ BSK_regional_freemarketism: "Republika Ścierniska"
+ BSK_regional_freemarketism_DEF: "Republika Ścierniska"
+ BSK_regional_freemarketism_ADJ: "Ściern." 
+ 
+ BSK_supregional_autocracy: "Terytorium Bandyckie"
+ BSK_supregional_autocracy_DEF: "Terytorium Bandyckie"
+ BSK_supregional_autocracy_ADJ: "Bandyck."
+ BSK_supregional_freemarketism: "Rzeczpospolita Świętofranciszkańska"
+ BSK_supregional_freemarketism_DEF: "Rzeczpospolita Świętofranciszkańska"
+ BSK_supregional_freemarketism_ADJ: "Świętofranciszk."
+ 
+ BSK_bpierdolec_final_autocracy: "Terytorium Bandyckie"
+ BSK_bpierdolec_final_autocracy_DEF: "Terytorium Bandyckie"
+ BSK_bpierdolec_final_autocracy_ADJ: "Bandyck."
+ BSK_bgolec_final_freemarketism: "Rzeczpospolita Świętofranciszkańska"
+ BSK_bgolec_final_freemarketism_DEF: "Rzeczpospolita Świętofranciszkańska"
+ BSK_bgolec_final_freemarketism_ADJ: "Świętofranciszk." 
+
+
+###CIESZYN###
+ CIE_voivodeship_euroliberalism: "Federacja Zachodniokarpacka"
+ CIE_voivodeship_euroliberalism_DEF: "Federacja Zachodniokarpacka"
+ CIE_voivodeship_euroliberalism_ADJ: "Zachodniokarp."
+ 
+ CIE_regional_euroliberalism: "Federacja Zachodniokarpacka"
+ CIE_regional_euroliberalism_DEF: "Federacja Zachodniokarpacka"
+ CIE_regional_euroliberalism_ADJ: "Zachodniokarp."
+ 
+ CIE_supregional_euroliberalism: "Polski Sojusz Planetarny"
+ CIE_supregional_euroliberalism_DEF: "Polski Sojusz Planetarny"
+ CIE_supregional_euroliberalism_ADJ: "Planetarn."
+ 
+ CIE_malysz_final_euroliberalism: "Polski Sojusz Planetarny"
+ CIE_malysz_final_euroliberalism_DEF: "Polski Sojusz Planetarny"
+ CIE_malysz_final_euroliberalism_ADJ: "Planetarn."
+
+##BUZZER##
+ BRZ_voivodeship_marxism_cranism: "Jurajski Związek Klubów"
+ BRZ_voivodeship_marxism_cranism_DEF: "Jurajski Związek Klubów"
+ BRZ_voivodeship_marxism_cranism_ADJ: "Jurajsk."
+ 
+ BRZ_regional_marxism_cranism: "Jurajski Związek Klubów"
+ BRZ_regional_marxism_cranism_DEF: "Jurajski Związek Klubów"
+ BRZ_regional_marxism_cranism_ADJ: "Jurajsk."
+ 
+ BRZ_supregional_marxism_cranism: "Polska Rzeczpospolita Klubowa"
+ BRZ_supregional_marxism_cranism_DEF: "Polska Rzeczpospolita Klubowa"
+ BRZ_supregional_marxism_cranism_ADJ: "Pol."
+ 
+ BRZ_buzzer_final_marxism_cranism: "Polska Rzeczpospolita Klubowa"
+ BRZ_buzzer_final_marxism_cranism_DEF: "Polska Rzeczpospolita Klubowa"
+ BRZ_buzzer_final_marxism_cranism_ADJ: "Pol."
+ 
+ BRZ_kuba_final_socialdemocrature: "Polska Rzeczpospolita Klubowa"
+ BRZ_kuba_final_socialdemocrature_DEF: "Polska Rzeczpospolita Klubowa"
+ BRZ_kuba_final_socialdemocrature_ADJ: "Pol."
+ 
+ BRZ_lewy_final_euroliberalism: "Polska Federacja Klubowa"
+ BRZ_lewy_final_euroliberalism_DEF: "Polska Federacja Klubowa"
+ BRZ_lewy_final_euroliberalism_ADJ: "Pol."
+ 
+ ##LUBLINIEC##
+ JWK_voivodeship_reactionary: "Związek Jurajski"
+ JWK_voivodeship_reactionary_DEF: "Związek Jurajski"
+ JWK_voivodeship_reactionary_ADJ: "Jurajsk."
+ JWK_voivodeship_autocracy: "Małopolska Brygada Obrony Terytorialnej"
+ JWK_voivodeship_autocracy_DEF: "Małopolska Brygada Obrony Terytorialnej"
+ JWK_voivodeship_autocracy_ADJ: "MBOT"
+ JWK_voivodeship_neonationalism: "Jednostka Wojskowa Komandosów"
+ JWK_voivodeship_neonationalism_DEF: "Jednostka Wojskowa Komandosów"
+ JWK_voivodeship_neonationalism_ADJ: "JWK"
+ 
+ JWK_regional_reactionary: "Związek Jurajski"
+ JWK_regional_reactionary_DEF: "Związek Jurajski"
+ JWK_regional_reactionary_ADJ: "Jurajsk."
+ JWK_regional_neonationalism: "Jednostka Wojskowa Komandosów"
+ JWK_regional_neonationalism_DEF: "Jednostka Wojskowa Komandosów"
+ JWK_regional_neonationalism_ADJ: "JWK" 
+ 
+ JWK_supregional_reactionary: "Hegemonia Polska"
+ JWK_supregional_reactionary_DEF: "Hegemonia Polska"
+ JWK_supregional_reactionary_ADJ: "Pol."
+ JWK_supregional_neonationalism: "Polski Okręg Wojskowy"
+ JWK_supregional_neonationalism_DEF: "Polski Okręg Wojskowy"
+ JWK_supregional_neonationalism_ADJ: "Pol."
+ 
+ JWK_sparta_final_reactionary: "Hegemonia Polska"
+ JWK_sparta_final_reactionary_DEF: "Hegemonia Polska"
+ JWK_sparta_final_reactionary_ADJ: "Pol."
+ 
+ JWK_komando_final_neonationalism: "Polski Okręg Wojskowy"
+ JWK_komando_final_neonationalism_DEF: "Polski Okręg Wojskowy"
+ JWK_komando_final_neonationalism_ADJ: "Pol."
+ 
+ ###OFTENHIDES###
+ CCH_voivodeship_autocracy: "Archidiecezja Częstochowska"
+ CCH_voivodeship_autocracy_DEF: "Archidiecezja Częstochowska"
+ CCH_voivodeship_autocracy_ADJ: "Częstochowsk."
+ CCH_voivodeship_reactionary: "Paulińskie Państwo Krzyżowców"
+ CCH_voivodeship_reactionary_DEF: "Paulińskie Państwo Krzyżowców"
+ CCH_voivodeship_reactionary_ADJ: "Częstochowsk."
+ CCH_voivodeship_socialdemocrature: "Socjalistyczny Zakon Szpitalników"
+ CCH_voivodeship_socialdemocrature_DEF: "Socjalistyczny Zakon Szpitalników"
+ CCH_voivodeship_socialdemocrature_ADJ: "Częstochowsk." 
+ 
+ CCH_regional_reactionary: "Paulińskie Państwo Krzyżowców"
+ CCH_regional_reactionary_DEF: "Paulińskie Państwo Krzyżowców"
+ CCH_regional_reactionary_ADJ: "Częstochowsk."
+ CCH_regional_socialdemocrature: "Socjalistyczny Zakon Szpitalników"
+ CCH_regional_socialdemocrature_DEF: "Socjalistyczny Zakon Szpitalników"
+ CCH_regional_socialdemocrature_ADJ: "Częstochowsk." 
+ 
+ CCH_supregional_reactionary: "Święty Protektorat Polski"
+ CCH_supregional_reactionary_DEF: "Święty Protektorat Polski"
+ CCH_supregional_reactionary_ADJ: "Pol."
+ CCH_supregional_socialdemocrature: "Szpitalna Republika Ludowa"
+ CCH_supregional_socialdemocrature_DEF: "Szpitalna Republika Ludowa"
+ CCH_supregional_socialdemocrature_ADJ: "Szpital." 
+ CCH_supregional_postpolonism: "Wielki Wschód Polski"
+ CCH_supregional_postpolonism_DEF: "Wielki Wschód Polski"
+ CCH_supregional_postpolonism_ADJ: "Pol."
+ 
+ CCH_paulins_final_reactionary: "Święty Protektorat Polski"
+ CCH_paulins_final_reactionary_DEF: "Święty Protektorat Polski"
+ CCH_paulins_final_reactionary_ADJ: "Pol."
+ CCH_joannites_final_socialdemocrature: "Szpitalna Republika Ludowa"
+ CCH_joannites_final_socialdemocrature_DEF: "Szpitalna Republika Ludowa"
+ CCH_joannites_final_socialdemocrature_ADJ: "Szpital." 
+ CCH_masons_final_postpolonism: "Wielki Wschód Polski"
+ CCH_masons_final_postpolonism_DEF: "Wielki Wschód Polski"
+ CCH_masons_final_postpolonism_ADJ: "Pol."
+
+###GOOWINIARZE###
+ ZAW_voivodeship_euroliberalism: "Republika Jurajska"
+ ZAW_voivodeship_euroliberalism_DEF: "Republika Jurajska"
+ ZAW_voivodeship_euroliberalism_ADJ: "Jurajsk."
+ ZAW_voivodeship_paternal_conservatism: "Tymczasowy Rząd Małopolski"
+ ZAW_voivodeship_paternal_conservatism_DEF: "Tymczasowy Rząd Małopolski"
+ ZAW_voivodeship_paternal_conservatism_ADJ: "Małop." 
+ ZAW_voivodeship_neonationalism: "Republika Jurajska"
+ ZAW_voivodeship_neonationalism_DEF: "Republika Jurajska"
+ ZAW_voivodeship_neonationalism_ADJ: "Jurajsk."
+ ZAW_voivodeship_freemarketism: "Tymczasowy Rząd Małopolski"
+ ZAW_voivodeship_freemarketism_DEF: "Tymczasowy Rząd Małopolski"
+ ZAW_voivodeship_freemarketism_ADJ: "Małop." 
+ 
+ ZAW_regional_paternal_conservatism: "Tymczasowy Rząd Małopolski"
+ ZAW_regional_paternal_conservatism_DEF: "Tymczasowy Rząd Małopolski"
+ ZAW_regional_paternal_conservatism_ADJ: "Małop." 
+ ZAW_regional_freemarketism: "Tymczasowy Rząd Małopolski"
+ ZAW_regional_freemarketism_DEF: "Tymczasowy Rząd Małopolski"
+ ZAW_regional_freemarketism_ADJ: "Małop."  
+ 
+ ZAW_supregional_paternal_conservatism: "Federacja Polska"
+ ZAW_supregional_paternal_conservatism_DEF: "Federacja Polska"
+ ZAW_supregional_paternal_conservatism_ADJ: "Pol." 
+ ZAW_supregional_freemarketism: "Federacja Polska"
+ ZAW_supregional_freemarketism_DEF: "Federacja Polska"
+ ZAW_supregional_freemarketism_ADJ: "Pol."  
+ 
+ ZAW_gowin_final_paternal_conservatism: "Federacja Polska"
+ ZAW_gowin_final_paternal_conservatism_DEF: "Federacja Polska"
+ ZAW_gowin_final_paternal_conservatism_ADJ: "Pol." 
+ ZAW_gowin_final_freemarketism: "Federacja Polska"
+ ZAW_gowin_final_freemarketism_DEF: "Federacja Polska"
+ ZAW_gowin_final_freemarketism_ADJ: "Pol."  
+ 
+ ###CZARNEK###
+ CRN_voivodeship_paternal_conservatism: "Katolicka Republika Lubelska"
+ CRN_voivodeship_paternal_conservatism_DEF: "Katolicka Republika Lubelska"
+ CRN_voivodeship_paternal_conservatism_ADJ: "Lub."
+
+ CRN_regional_paternal_conservatism: "Katolicka Republika Lubelska"
+ CRN_regional_paternal_conservatism_DEF: "Katolicka Republika Lubelska"
+ CRN_regional_paternal_conservatism_ADJ: "Lub."
+ 
+ CRN_supregional_paternal_conservatism: "Polska Rzeczpospolita Katolicka"
+ CRN_supregional_paternal_conservatism_DEF: "Polska Rzeczpospolita Katolicka"
+ CRN_supregional_paternal_conservatism_ADJ: "Pol."
+ 
+ CRN_final_paternal_conservatism: "Polska Rzeczpospolita Katolicka"
+ CRN_final_paternal_conservatism_DEF: "Polska Rzeczpospolita Katolicka"
+ CRN_final_paternal_conservatism_ADJ: "Pol."
+ 
+ ###PUŁAWY###
+ PUL_voivodeship_neonationalism: "Narodowe Państwo Lubelskie"
+ PUL_voivodeship_neonationalism_DEF: "Narodowe Państwo Lubelskie"
+ PUL_voivodeship_neonationalism_ADJ: "Lub."
+
+ PUL_regional_neonationalism: "Narodowe Państwo Lubelskie"
+ PUL_regional_neonationalism_DEF: "Narodowe Państwo Lubelskie"
+ PUL_regional_neonationalism_ADJ: "Lub."
+
+ PUL_supregional_neonationalism: "Polskie Państwo Narodowe"
+ PUL_supregional_neonationalism_DEF: "Polskie Państwo Narodowe"
+ PUL_supregional_neonationalism_ADJ: "Pol."
+
+ PUL_final_neonationalism: "Polskie Państwo Narodowe"
+ PUL_final_neonationalism_DEF: "Polskie Państwo Narodowe"
+ PUL_final_neonationalism_ADJ: "Pol."
+ 
+ ###KRASNIK###
+ KSN_voivodeship_autocracy: "Kościół Nowego Przymierza"
+ KSN_voivodeship_autocracy_DEF: "Kościół Nowego Przymierza"
+ KSN_voivodeship_autocracy_ADJ: "KNP"
+ KSN_voivodeship_neonationalism: "Kościół Nowego Przymierza"
+ KSN_voivodeship_neonationalism_DEF: "Kościół Nowego Przymierza"
+ KSN_voivodeship_neonationalism_ADJ: "KNP"
+ KSN_voivodeship_reactionary: "Kościół Nowego Przymierza"
+ KSN_voivodeship_reactionary_DEF: "Kościół Nowego Przymierza"
+ KSN_voivodeship_reactionary_ADJ: "KNP"
+ KSN_voivodeship_postpolonism: "Kościół Nowego Przymierza"
+ KSN_voivodeship_postpolonism_DEF: "Kościół Nowego Przymierza"
+ KSN_voivodeship_postpolonism_ADJ: "KNP"
+
+ KSN_regional_autocracy: "Kościół Nowego Przymierza"
+ KSN_regional_autocracy_DEF: "Kościół Nowego Przymierza"
+ KSN_regional_autocracy_ADJ: "KNP"
+ KSN_regional_neonationalism: "Kościół Nowego Przymierza"
+ KSN_regional_neonationalism_DEF: "Kościół Nowego Przymierza"
+ KSN_regional_neonationalism_ADJ: "KNP"
+ KSN_regional_reactionary: "Kościół Nowego Przymierza"
+ KSN_regional_reactionary_DEF: "Kościół Nowego Przymierza"
+ KSN_regional_reactionary_ADJ: "KNP"
+ KSN_regional_postpolonism: "Kościół Nowego Przymierza"
+ KSN_regional_postpolonism_DEF: "Kościół Nowego Przymierza"
+ KSN_regional_postpolonism_ADJ: "KNP"
+
+ KSN_supregional_autocracy: "Kościół Nowego Przymierza"
+ KSN_supregional_autocracy_DEF: "Kościół Nowego Przymierza"
+ KSN_supregional_autocracy_ADJ: "KNP"
+ KSN_supregional_neonationalism: "Kościół Nowego Przymierza"
+ KSN_supregional_neonationalism_DEF: "Kościół Nowego Przymierza"
+ KSN_supregional_neonationalism_ADJ: "KNP"
+ KSN_supregional_reactionary: "Kościół Nowego Przymierza"
+ KSN_supregional_reactionary_DEF: "Kościół Nowego Przymierza"
+ KSN_supregional_reactionary_ADJ: "KNP"
+ KSN_supregional_postpolonism: "Kościół Nowego Przymierza"
+ KSN_supregional_postpolonism_DEF: "Kościół Nowego Przymierza"
+ KSN_supregional_postpolonism_ADJ: "KNP"
+
+ KSN_final_autocracy: "Kościół Nowego Przymierza"
+ KSN_final_autocracy_DEF: "Kościół Nowego Przymierza"
+ KSN_final_autocracy_ADJ: "KNP"
+ KSN_final_neonationalism: "Kościół Nowego Przymierza"
+ KSN_final_neonationalism_DEF: "Kościół Nowego Przymierza"
+ KSN_final_neonationalism_ADJ: "KNP"
+ KSN_final_reactionary: "Kościół Nowego Przymierza"
+ KSN_final_reactionary_DEF: "Kościół Nowego Przymierza"
+ KSN_final_reactionary_ADJ: "KNP"
+ KSN_final_postpolonism: "Kościół Nowego Przymierza"
+ KSN_final_postpolonism_DEF: "Kościół Nowego Przymierza"
+ KSN_final_postpolonism_ADJ: "KNP"
+ 
+ ###ŚWIDNIK###
+ SWD_voivodeship_squattism: "Komuna Lubelska"
+ SWD_voivodeship_squattism_DEF: "Komuna Lubelska"
+ SWD_voivodeship_squattism_ADJ: "Lub."
+
+ SWD_regional_squattism: "Komuna Lubelska"
+ SWD_regional_squattism_DEF: "Komuna Lubelska"
+ SWD_regional_squattism_ADJ: "Lub."
+ 
+ SWD_supregional_squattism: "Komuna Polska"
+ SWD_supregional_squattism_DEF: "Komuna Polska"
+ SWD_supregional_squattism_ADJ: "Pol."
+ 
+ SWD_final_squattism: "Komuna Polska"
+ SWD_final_squattism_DEF: "Komuna Polska"
+ SWD_final_squattism_ADJ: "Pol."
+
+###ŻUK###
+ ZUK_voivodeship_socialdemocrature: "Republika Lubelska"
+ ZUK_voivodeship_socialdemocrature_DEF: "Republika Lubelska"
+ ZUK_voivodeship_socialdemocrature_ADJ: "Lub."
+ ZUK_voivodeship_euroliberalism: "Republika Lubelska"
+ ZUK_voivodeship_euroliberalism_DEF: "Republika Lubelska"
+ ZUK_voivodeship_euroliberalism_ADJ: "Lub."
+ ZUK_dark_voivodeship_autocracy: "Republika Lubelska"
+ ZUK_dark_voivodeship_autocracy_DEF: "Republika Lubelska"
+ ZUK_dark_voivodeship_autocracy_ADJ: "Lub."
+
+ ZUK_regional_socialdemocrature: "Republika Lubelska"
+ ZUK_regional_socialdemocrature_DEF: "Republika Lubelska"
+ ZUK_regional_socialdemocrature_ADJ: "Lub."
+ ZUK_regional_euroliberalism: "Republika Lubelska"
+ ZUK_regional_euroliberalism_DEF: "Republika Lubelska"
+ ZUK_regional_euroliberalism_ADJ: "Lub."
+ ZUK_dark_regional_autocracy: "Republika Lubelska"
+ ZUK_dark_regional_autocracy_DEF: "Republika Lubelska"
+ ZUK_dark_regional_autocracy_ADJ: "Lub."
+ 
+ ZUK_supregional_socialdemocrature: "Federacja Polska"
+ ZUK_supregional_socialdemocrature_DEF: "Federacja Polska"
+ ZUK_supregional_socialdemocrature_ADJ: "Pol."
+ ZUK_supregional_euroliberalism: "Federacja Polska"
+ ZUK_supregional_euroliberalism_DEF: "Rzeczpospolita Polska"
+ ZUK_supregional_euroliberalism_ADJ: "Pol."
+ ZUK_dark_supregional_autocracy: "Republika Lubelska"
+ ZUK_dark_supregional_autocracy_DEF: "Republika Lubelska"
+ ZUK_dark_supregional_autocracy_ADJ: "Lub."
+ 
+ ZUK_final_socialdemocrature: "Federacja Polska"
+ ZUK_final_socialdemocrature_DEF: "Federacja Polska"
+ ZUK_final_socialdemocrature_ADJ: "Pol."
+ ZUK_final_euroliberalism: "Rzeczpospolita Polska"
+ ZUK_final_euroliberalism_DEF: "Rzeczpospolita Polska"
+ ZUK_final_euroliberalism_ADJ: "Pol."
+ ZUK_dark_final_autocracy: "Rzeczpospolita Polska"
+ ZUK_dark_final_autocracy_DEF: "Rzeczpospolita Polska"
+ ZUK_dark_final_autocracy_ADJ: "Pol."
+ 
+ ###BIŁGORAJ###
+ BIL_voivodeship_corporativism: "Browary Biłgorajskie"
+ BIL_voivodeship_corporativism_DEF: "Browary Biłgorajskie"
+ BIL_voivodeship_corporativism_ADJ: "Biłgor."
+
+ BIL_regional_corporativism: "Browary Biłgorajskie"
+ BIL_regional_corporativism_DEF: "Browary Biłgorajskie"
+ BIL_regional_corporativism_ADJ: "Biłgor."
+
+ BIL_supregional_corporativism: "Polski Związek Browarniczy"
+ BIL_supregional_corporativism_DEF: "Polski Związek Browarniczy"
+ BIL_supregional_corporativism_ADJ: "Pol."
+
+ BIL_final_corporativism: "Polski Związek Browarniczy"
+ BIL_final_corporativism_DEF: "Polski Związek Browarniczy"
+ BIL_final_corporativism_ADJ: "Pol."
+ 
+###DĘBLIN###
+ BPD_voivodeship_autocracy: "Technokracja Lubelska"
+ BPD_voivodeship_autocracy_DEF: "Technokracja Lubelska"
+ BPD_voivodeship_autocracy_ADJ: "Lub."
+ BPD_voivodeship_euroliberalism: "Technokracja Lubelska"
+ BPD_voivodeship_euroliberalism_DEF: "Technokracja Lubelska"
+ BPD_voivodeship_euroliberalism_ADJ: "Lub."
+ BPD_voivodeship_socialdemocrature: "Technokracja Lubelska"
+ BPD_voivodeship_socialdemocrature_DEF: "Technokracja Lubelska"
+ BPD_voivodeship_socialdemocrature_ADJ: "Lub."
+
+ BPD_regional_autocracy: "Technokracja Lubelska"
+ BPD_regional_autocracy_DEF: "Technokracja Lubelska"
+ BPD_regional_autocracy_ADJ: "Lub."
+ BPD_regional_euroliberalism: "Lublin Technocracy"
+ BPD_regional_euroliberalism_DEF: "Technokracja Lubelska"
+ BPD_regional_euroliberalism_ADJ: "Lub."
+ BPD_regional_socialdemocrature: "Technokracja Lubelska"
+ BPD_regional_socialdemocrature_DEF: "Technokracja Lubelska"
+ BPD_regional_socialdemocrature_ADJ: "Lub."
+
+ BPD_supregional_autocracy: "Polska Rzeczpospolita Technokratyczna"
+ BPD_supregional_autocracy_DEF: "Polska Rzeczpospolita Technokratyczna"
+ BPD_supregional_autocracy_ADJ: "Pol."
+ BPD_supregional_euroliberalism: "Polska Rzeczpospolita Technokratyczna"
+ BPD_supregional_euroliberalism_DEF: "Polska Rzeczpospolita Technokratyczna"
+ BPD_supregional_euroliberalism_ADJ: "Pol."
+ BPD_supregional_socialdemocrature: "Polska Rzeczpospolita Technokratyczna"
+ BPD_supregional_socialdemocrature_DEF: "Polska Rzeczpospolita Technokratyczna"
+ BPD_supregional_socialdemocrature_ADJ: "Pol."
+
+ BPD_final_autocracy: "Polska Rzeczpospolita Technokratyczna"
+ BPD_final_autocracy_DEF: "Polska Rzeczpospolita Technokratyczna"
+ BPD_final_autocracy_ADJ: "Pol."
+ BPD_final_euroliberalism: "Polska Rzeczpospolita Technokratyczna"
+ BPD_final_euroliberalism_DEF: "Polska Rzeczpospolita Technokratyczna"
+ BPD_final_euroliberalism_ADJ: "Pol."
+ BPD_final_socialdemocrature: "Polska Rzeczpospolita Technokratyczna"
+ BPD_final_socialdemocrature_DEF: "Polska Rzeczpospolita Technokratyczna"
+ BPD_final_socialdemocrature_ADJ: "Pol."
+
+###SZNUK###
+ TEN_voivodeship_postpolonism: "Państwo Dziesiętne"
+ TEN_voivodeship_postpolonism_DEF: "Państwo Dziesiętne"
+ TEN_voivodeship_postpolonism_ADJ: "Dziesięt."
+
+ TEN_regional_postpolonism: "Państwo Dziesiętne"
+ TEN_regional_postpolonism_DEF: "Państwo Dziesiętne"
+ TEN_regional_postpolonism_ADJ: "Dziesięt."
+
+ TEN_supregional_postpolonism: "Polskie Państwo Dziesiętne"
+ TEN_supregional_postpolonism_DEF: "Polskie Państwo Dziesiętne"
+ TEN_supregional_postpolonism_ADJ: "Pol."
+
+ TEN_final_postpolonism: "Polskie Państwo Dziesiętne"
+ TEN_final_postpolonism_DEF: "Polskie Państwo Dziesiętne"
+ TEN_final_postpolonism_ADJ: "Pol."
+ 
+ ###LĘDZIANIE###
+ LEN_voivodeship_autocracy: "Plemię Lędzian"
+ LEN_voivodeship_autocracy_DEF: "Plemię Lędzian"
+ LEN_voivodeship_autocracy_ADJ: "Lendian Chiefdom"
+
+ LEN_regional_autocracy: "Księstwo Lędzkie"
+ LEN_regional_autocracy_DEF: "Księstwo Lędzkie"
+ LEN_regional_autocracy_ADJ: "Lędziań."
+
+ LEN_supregional_autocracy: "Królestwo Lędzkie"
+ LEN_supregional_autocracy_DEF: "Królestwo Lędzkie"
+ LEN_supregional_autocracy_ADJ: "Lędziań."
+
+ LEN_final_autocracy: "Królestwo Lędzkie"
+ LEN_final_autocracy_DEF: "Królestwo Lędzkie"
+ LEN_final_autocracy_ADJ: "Lędziań."
+ 
+ ###ZYDZEW### 
+ ZYD_voivodeship_marxism_cranism: "Republika Ludowa Lodzh"
+ ZYD_voivodeship_marxism_cranism_DEF: "Republika Ludowa Lodzh"
+ ZYD_voivodeship_marxism_cranism_ADJ: "RLL"
+ ZYD_voivodeship_squattism: "Komuna Ziemii Obiecanej"
+ ZYD_voivodeship_squattism_DEF: "Komuna Ziemii Obiecanej"
+ ZYD_voivodeship_squattism_ADJ: "KZO" 
+ ZYD_witcher_marxism_cranism: "Banici Ofirscy"
+ ZYD_witcher_marxism_cranism_DEF: "Banici Ofirscy"
+ ZYD_witcher_marxism_cranism_ADJ: "Banic."
+ ZYD_witcher_squattism: "Banici Ofirscy"
+ ZYD_witcher_squattism_DEF: "Banici Ofirscy"
+ ZYD_witcher_squattism_ADJ: "Banic."  
+ 
+ ZYD_regional_marxism_cranism: "Republika Ludowa Lodzh"
+ ZYD_regional_marxism_cranism_DEF: "Republika Ludowa Lodzh"
+ ZYD_regional_marxism_cranism_ADJ: "RLL"
+ ZYD_regional_squattism: "Komuna Ziemii Obiecanej"
+ ZYD_regional_squattism_DEF: "Komuna Ziemii Obiecanej"
+ ZYD_regional_squattism_ADJ: "KZO" 
+ 
+ ZYD_supregional_marxism_cranism: "Rzezpospolita Ludowa Polin"
+ ZYD_supregional_marxism_cranism_DEF: "Rzeczpospolita Ludowa Polin"
+ ZYD_supregional_marxism_cranism_ADJ: "RLP"
+ ZYD_supregional_squattism: "Komuna Ziemii Obiecanej"
+ ZYD_supregional_squattism_DEF: "Komuna Ziemii Obiecanej"
+ ZYD_supregional_squattism_ADJ: "KZO" 
+ 
+ ZYD_urban_final_marxism_cranism: "Rzeczpospolita Ludowa Polin"
+ ZYD_urban_final_marxism_cranism_DEF: "Rzeczpospolita Ludowa Polin"
+ ZYD_urban_final_marxism_cranism_ADJ: "RLP"
+ ZYD_widzew_final_squattism: "Komuna Ziemii Obiecanej"
+ ZYD_widzew_final_squattism_DEF: "Komuna Ziemii Obiecanej"
+ ZYD_widzew_final_squattism_ADJ: "KZO" 
+
+###SAPKOWSKI###
+ SAP_sane_voivodeship_autocracy: "Królestwo Temerii"
+ SAP_sane_voivodeship_autocracy_DEF: "Królestwo Temerii"
+ SAP_sane_voivodeship_autocracy_ADJ: "Temer."
+ SAP_insane_voivodeship_autocracy: "Królestwo Temerii"
+ SAP_insane_voivodeship_autocracy_DEF: "Królestwo Temerii"
+ SAP_insane_voivodeship_autocracy_ADJ: "Temer." 
+ SAP_voivodeship_reactionary: "Przenajświętsza Regencja Królestwa Polski"
+ SAP_voivodeship_reactionary_DEF: "Przenajświętsza Regencja Królestwa Polski"
+ SAP_voivodeship_reactionary_ADJ: "Pol."
+
+ SAP_sane_regional_autocracy: "Królestwo Temerii"
+ SAP_sane_regional_autocracy_DEF: "Królestwo Temerii"
+ SAP_sane_regional_autocracy_ADJ: "Temer."
+ SAP_insane_regional_autocracy: "Królestwo Temerii"
+ SAP_insane_regional_autocracy_DEF: "Królestwo Temerii"
+ SAP_insane_regional_autocracy_ADJ: "Temer." 
+ SAP_regional_reactionary: "Przenajświętsza Regencja Królestwa Polski"
+ SAP_regional_reactionary_DEF: "Przenajświętsza Regencja Królestwa Polski"
+ SAP_regional_reactionary_ADJ: "Pol."
+ 
+ SAP_sane_supregional_autocracy: "Królestwo Temerii"
+ SAP_sane_supregional_autocracy_DEF: "Królestwo Temerii"
+ SAP_sane_supregional_autocracy_ADJ: "Temer."
+ SAP_insane_supregional_autocracy: "Królestwo Temerii"
+ SAP_insane_supregional_autocracy_DEF: "Królestwo Temerii"
+ SAP_insane_supregional_autocracy_ADJ: "Temer."
+ SAP_supregional_reactionary: "Legitymistyczne Królestwo Polski"
+ SAP_supregional_reactionary_DEF: "Legitymistyczne Królestwo Polski"
+ SAP_supregional_reactionary_ADJ: "Pol."
+ 
+ SAP_insane_final_autocracy: "Północne Imperium"
+ SAP_insane_final_autocracy_DEF: "Północne Imperium"
+ SAP_insane_final_autocracy_ADJ: "Płn. Imper."
+ SAP_sane_final_autocracy: "Zjednoczone Królestwa Północy"
+ SAP_sane_final_autocracy_DEF: "Zjednoczone Królestwa Północy"
+ SAP_sane_final_autocracy_ADJ: "Pol."
+ SAP_carlistas_final_reactionary: "Legitymistyczne Królestwo Polski"
+ SAP_carlistas_final_reactionary_DEF: "Legitymistyczne Królestwo Polski"
+ SAP_carlistas_final_reactionary_ADJ: "Pol." 
+ 
+
+ ZON_witcher_squattism: "Otchłań"
+ ZON_witcher_squattism_DEF: "Otchłań"
+ ZON_witcher_squattism_ADJ: "Otchłań"  
+
+###ZHP###
+ ZHP_voivodeship_paternal_conservatism: "Autonomiczna Chorągiew ZHR"
+ ZHP_voivodeship_paternal_conservatism_DEF: "Autonomiczna Chorągiew ZHR"
+ ZHP_voivodeship_paternal_conservatism_ADJ: "ZHR" 
+ ZHP_voivodeship_autocracy: "Autonomiczna Chorągiew ZHK-Z"
+ ZHP_voivodeship_autocracy_DEF: "Autonomiczna Chorągiew ZHK-Z"
+ ZHP_voivodeship_autocracy_ADJ: "ZHK-Z" 
+ ZHP_voivodeship_neonationalism: "Autonomiczna Chorągiew ZHP"
+ ZHP_voivodeship_neonationalism_DEF: "Autonomiczna Chorągiew ZHP"
+ ZHP_voivodeship_neonationalism_ADJ: "ZHP" 
+ ZHP_voivodeship_postpolonism: "Autonomiczna Chorągiew ZHP"
+ ZHP_voivodeship_postpolonism_DEF: "Autonomiczna Chorągiew ZHP"
+ ZHP_voivodeship_postpolonism_ADJ: "ZHP" 
+ ZHP_witcher_neonationalism: "Autonomiczny Hufiec Niebieskich Pasów" 
+ ZHP_witcher_neonationalism_DEF: "Autonomiczny Hufiec Niebieskich Pasów"
+ ZHP_witcher_neonationalism_ADJ: "HNP" 
+ ZHP_witcher_postpolonism: "Autonomiczny Hufiec Niebieskich Pasów"
+ ZHP_witcher_postpolonism_DEF: "Autonomiczny Hufiec Niebieskich Pasów"
+ ZHP_witcher_postpolonism_ADJ: "HNP" 
+ 
+ ZHP_regional_paternal_conservatism: "Autonomiczna Chorągiew ZHR"
+ ZHP_regional_paternal_conservatism_DEF: "Autonomiczna Chorągiew ZHR"
+ ZHP_regional_paternal_conservatism_ADJ: "ZHR" 
+ ZHP_regional_autocracy: "Autonomiczna Chorągiew ZHK-Z"
+ ZHP_regional_autocracy_DEF: "Autonomiczna Chorągiew ZHK-Z"
+ ZHP_regional_autocracy_ADJ: "ZHK-Z" 
+ ZHP_regional_postpolonism: "Autonomiczna Chorągiew ZHP"
+ ZHP_regional_postpolonism_DEF: "Autonomiczna Chorągiew ZHP"
+ ZHP_regional_postpolonism_ADJ: "ZHP" 
+ 
+ ZHP_supregional_paternal_conservatism: "Rząd Tymczasowy ZHP"
+ ZHP_supregional_paternal_conservatism_DEF: "Rząd Tymczasowy ZHP"
+ ZHP_supregional_paternal_conservatism_ADJ: "ZHP" 
+ ZHP_supregional_autocracy: "Rząd ZHK-Z"
+ ZHP_supregional_autocracy_DEF: "Rząd ZHK-Z"
+ ZHP_supregional_autocracy_ADJ: "ZHK-Z" 
+ ZHP_supregional_postpolonism: "Zjednoczone Chorągwie Harcerstwa Polskiego"
+ ZHP_supregional_postpolonism_DEF: "Zjednoczone Chorągwie Harcerstwa Polskiego"
+ ZHP_supregional_postpolonism_ADJ: "ZCHP" 
+ 
+ ZHP_zhr_final_paternal_conservatism: "Harcerska Rzeczpospolita Polska"
+ ZHP_zhr_final_paternal_conservatism_DEF: "Harcerska Rzeczpospolita Polska"
+ ZHP_zhr_final_paternal_conservatism_ADJ: "HRP" 
+ ZHP_zawisza_final_autocracy: "Arcybiskupsktwo Polski"
+ ZHP_zawisza_final_autocracy_DEF: "Arcybiskupsktwo Polski"
+ ZHP_zawisza_final_autocracy_ADJ: "Arcybiskup. Pol." 
+ ZHP_zhp_final_postpolonism: "Harcerskie Państwo Polskie"
+ ZHP_zhp_final_postpolonism_DEF: "Harcerskie Państwo Polskie"
+ ZHP_zhp_final_postpolonism_ADJ: "HPP" 
+ 
+ ###KROŚNIEWICE###
+ KRS_voivodeship_corporativism: "Konsorcjum Kwiatowe"
+ KRS_voivodeship_corporativism_DEF: "Konsorcjum Kwiatowe"
+ KRS_voivodeship_corporativism_ADJ: "Konsor." 
+ KRS_voivodeship_autocracy: "Agencja Detektywistyczna Rutkowskiego"
+ KRS_voivodeship_autocracy_DEF: "Agencja Detektywistyczna Rutkowskiego"
+ KRS_voivodeship_autocracy_ADJ: "ADR" 
+ KRS_voivodeship_postpolonism: "Klika Łowców Skór"
+ KRS_voivodeship_postpolonism_DEF: "Klika Łowców Skór"
+ KRS_voivodeship_postpolonism_ADJ: "KŁS" 
+ KRS_witcher_corporativism: "Konsorcjum Mariborskie"
+ KRS_witcher_corporativism_DEF: "Konsorcjum Mariborskie"
+ KRS_witcher_corporativism_ADJ: "Konsor." 
+ KRS_witcher_autocracy: "Agencja Landsknechtów Rutkowskiego"
+ KRS_witcher_autocracy_DEF: "Agencja Landsknechtów Rutkowskiego"
+ KRS_witcher_autocracy_ADJ: "ALR" 
+ KRS_witcher_postpolonism: "Hanza Łowców Skór"
+ KRS_witcher_postpolonism_DEF: "Hanza Łowców Skór"
+ KRS_witcher_postpolonism_ADJ: "HŁS" 
+ 
+ KRS_regional_corporativism: "Konsorcjum Kwiatowe"
+ KRS_regional_corporativism_DEF: "Konsorcjum Kwiatowe"
+ KRS_regional_corporativism_ADJ: "Konsor." 
+ KRS_regional_autocracy: "Agencja Detektywistyczna Rutkowskiego"
+ KRS_regional_autocracy_DEF: "Agencja Detektywistyczna Rutkowskiego"
+ KRS_regional_autocracy_ADJ: "ADR" 
+ KRS_regional_postpolonism: "Klika Łowców Skór"
+ KRS_regional_postpolonism_DEF: "Klika Łowców Skór"
+ KRS_regional_postpolonism_ADJ: "KŁS" 
+ 
+ KRS_supregional_corporativism: "Polski Konglomerat Kwiatowy"
+ KRS_supregional_corporativism_DEF: "Polski Konglomerat Kwiatowy"
+ KRS_supregional_corporativism_ADJ: "PKK" 
+ KRS_supregional_autocracy: "Narodowa Polska Agencja Detektywistyczna"
+ KRS_supregional_autocracy_DEF: "Narodowa Polska Agencja Detektywistyczna"
+ KRS_supregional_autocracy_ADJ: "NPAD" 
+ KRS_supregional_postpolonism: "Polska Strefa Eksperymentalna"
+ KRS_supregional_postpolonism_DEF: "Polska Strefa Eksperymentalna"
+ KRS_supregional_postpolonism_ADJ: "PSE" 
+ 
+ KRS_skrzydlewscy_final_corporativism: "Polski Konglomerat Kwiatowy"
+ KRS_skrzydlewscy_final_corporativism_DEF: "Polski Konglomerat Kwiatowy"
+ KRS_skrzydlewscy_final_corporativism_ADJ: "PKK" 
+ KRS_rutkowski_final_autocracy: "Narodowa Polska Agencja Detektywistyczna"
+ KRS_rutkowski_final_autocracy_DEF: "Narodowa Polska Agencja Detektywistyczna"
+ KRS_rutkowski_final_autocracy_ADJ: "NPAD" 
+ KRS_pogotowie_final_postpolonism: "Polska Strefa Eksperymentalna"
+ KRS_pogotowie_final_postpolonism_DEF: "Polska Strefa Eksperymentalna"
+ KRS_pogotowie_final_postpolonism_ADJ: "PSE" 
+ 
+ ###SZYMONCHUJOWNIA###
+ WML_witcher_euroliberalism: "Republika Wyzimska"
+ WML_witcher_euroliberalism_DEF: "Republika Wyzimska"
+ WML_witcher_euroliberalism_ADJ: "Wyzim." 
+ WML_voivodeship_euroliberalism: "Republika Łódzka"
+ WML_voivodeship_euroliberalism_DEF: "Republika Łódzka"
+ WML_voivodeship_euroliberalism_ADJ: "Łódz."
+ WML_voivodeship_paternal_conservatism: "Republika Łódzka"
+ WML_voivodeship_paternal_conservatism_DEF: "Republika Łódzka"
+ WML_voivodeship_paternal_conservatism_ADJ: "Łódz." 
+ WML_voivodeship_socialdemocrature: "Republika Łódzka"
+ WML_voivodeship_socialdemocrature_DEF: "Republika Łódzka"
+ WML_voivodeship_socialdemocrature_ADJ: "Łódz." 
+
+ WML_regional_euroliberalism: "Republika Północno-Zachodniej Polski"
+ WML_regional_euroliberalism_DEF: "Republika Północno-Zachodniej Polski"
+ WML_regional_euroliberalism_ADJ: "Płn.-Zach. Pol."
+ WML_regional_paternal_conservatism: "Republika Północno-Zachodniej Polski"
+ WML_regional_paternal_conservatism_DEF: "Republika Północno-Zachodniej Polski"
+ WML_regional_paternal_conservatism_ADJ: "Płn.-Zach. Pol." 
+ WML_regional_socialdemocrature: "Republika Północno-Zachodniej Polski"
+ WML_regional_socialdemocrature_DEF: "Republika Północno-Zachodniej Polski"
+ WML_regional_socialdemocrature_ADJ: "Płn.-Zach. Pol." 
+ 
+ WML_supregional_euroliberalism: "Republika Zachodniej Polski"
+ WML_supregional_euroliberalism_DEF: "Republika Zachodniej Polski"
+ WML_supregional_euroliberalism_ADJ: "Zach. Pol."
+ WML_supregional_paternal_conservatism: "Republika Zachodniej Polski"
+ WML_supregional_paternal_conservatism_DEF: "Republika Zachodniej Polski"
+ WML_supregional_paternal_conservatism_ADJ: "Zach. Pol." 
+ WML_supregional_socialdemocrature: "Republika Zachodniej Polski"
+ WML_supregional_socialdemocrature_DEF: "Republika Zachodniej Polski"
+ WML_supregional_socialdemocrature_ADJ: "Zach. Pol." 
+ 
+ WML_dialog_final: "Republika Polska"
+ WML_dialog_final_DEF: "Republika Polska"
+ WML_dialog_final_ADJ: "Pol."
+ WML_hoiownia_final: "Republika Polska"
+ WML_hoiownia_final_DEF: "Republika Polska"
+ WML_hoiownia_final_ADJ: "Pol." 
+ 
+ ###BRACTWOWEGLA###
+ BBW_voivodeship_autocracy: "Bractwo Węgla"
+ BBW_voivodeship_autocracy_DEF: "Bractwo Węgla"
+ BBW_voivodeship_autocracy_ADJ: "Węg."
+ BBW_witcher_reactionary: "Bractwo Mahakamskie"
+ BBW_witcher_reactionary_DEF: "Bractwo Mahakamskie"
+ BBW_witcher_reactionary_ADJ: "Mahakam." 
+
+ BBW_regional_reactionary: "Bractwo Węgla"
+ BBW_regional_reactionary_DEF: "Bractwo Węgla"
+ BBW_regional_reactionary_ADJ: "Węg."
+ 
+ BBW_supregional_reactionary: "Bractwo Węgla"
+ BBW_supregional_reactionary_DEF: "Bractwo Węgla"
+ BBW_supregional_reactionary_ADJ: "Węg."
+ 
+ BBW_roksi_final_autocracy: "Zreformowana Węglowa Republika Polski"
+ BBW_roksi_final_autocracy_DEF: "Zreformowana Węglowa Republika Polski"
+ BBW_roksi_final_autocracy_ADJ: "Pol."
+ BBW_karbonizacja_final_reactionary: "Dymiące Ziemie Polski"
+ BBW_karbonizacja_final_reactionary_DEF: "Dymiące Ziemie Polski"
+ BBW_karbonizacja_final_reactionary_ADJ: "Pol." 
+ 
+ ###Okamura###
+ 
+ CZE_UE_euroliberalism: "Prozatímní Vláda Kladska"
+ CZE_UE_euroliberalism_DEF: "Tymczasowy Rząd Kłodzki"
+ CZE_UE_euroliberalism_ADJ: "Kladska"
+ 
+ CZE_voivodeship_autocracy: "Han Okamury"
+ CZE_voivodeship_autocracy_DEF: "Han Okamury"
+ CZE_voivodeship_autocracy_ADJ: "Han Okamur."
+
+ CZE_regional_autocracy: "Siogunat Okamury"
+ CZE_regional_autocracy_DEF: "Siogunat Okamury"
+ CZE_regional_autocracy_ADJ: "Siogunat Okamur."
+ 
+ CZE_supregional_autocracy:0 "Cesarstwo Polskie"
+ CZE_supregional_autocracy_DEF:0 "Cesarstwo Polskie"
+ CZE_supregional_autocracy_ADJ:0 "Pol."
+ 
+ CZE_final_autocracy:0 "Cesarstwo Zapadosławii"
+ CZE_final_autocracy_DEF:0 "Cesarstwo Zapadosławii"
+ CZE_final_autocracy_ADJ:0 "Zapad."
+ 
+ 
+ ##Olesnica##
+ 
+ OLE_voivodeship_autocracy: "Księstwo Śląska"
+ OLE_voivodeship_autocracy_DEF: "Księstwo Śląska"
+ OLE_voivodeship_autocracy_ADJ: "Śląsk."
+ 
+ OLE_regional_autocracy: "Księstwo Śląska"
+ OLE_regional_autocracy_DEF: "Księstwo Śląska"
+ OLE_regional_autocracy_ADJ: "Śląsk." 
+ 
+ 
+ ##EK Schlesien##
+ 
+ EKS_voivodeship_euroliberalism: "Eurokommissariat Schlesien"
+ EKS_voivodeship_euroliberalism_DEF: "Komisariat Europy Śląsk"
+ EKS_voivodeship_euroliberalism_ADJ: "Eurokommissariat Schlesien"
+
+ EKS_regional_euroliberalism: "Eurokommissariat Schlesien"
+ EKS_regional_euroliberalism_DEF: "Komisariat Europy Śląsk"
+ EKS_regional_euroliberalism_ADJ: "Eurokommissariat Schlesien"
+ 
+ EKS_supregional_euroliberalism: "Eurorepublik Polen"
+ EKS_supregional_euroliberalism_DEF: "Eurorepublika Polska"
+ EKS_supregional_euroliberalism_ADJ: "Eurorepublik Polen"
+ 
+ EKS_final_euroliberalism: "Eurorepublik Polen"
+ EKS_final_euroliberalism_DEF: "Eurorepublika Polska"
+ EKS_final_euroliberalism_ADJ: "Eurorepublik Polen"
+ 
+ ##Commonwealth##
+ 
+ WRO_voivodeship_euroliberalism: "Rzeczpospolita Dolnośląska"
+ WRO_voivodeship_euroliberalism_DEF: "Rzeczpospolita Dolnośląska"
+ WRO_voivodeship_euroliberalism_ADJ: "Rzeczpospol. Dolnośląsk."
+
+ WRO_regional_euroliberalism: "Rzeczpospolita Śląska"
+ WRO_regional_euroliberalism_DEF: "Rzeczpospolita Śląska"
+ WRO_regional_euroliberalism_ADJ: "Rzeczpospol. Dolnośląsk."
+ 
+ WRO_supregional_euroliberalism: "Rzeczpospolita Nowej Polski"
+ WRO_supregional_euroliberalism_DEF: "Rzeczpospolita Nowej Polski"
+ WRO_supregional_euroliberalism_ADJ: "Rzeczpospol. Dolnośląsk."
+ 
+ WRO_final_euroliberalism: "Rzeczpospolita Nowej Polski"
+ WRO_final_euroliberalism_DEF: "Rzeczpospolita Nowej Polski"
+ WRO_final_euroliberalism_ADJ: "Rzeczpospol. Dolnośląsk."
+ 
+ ##Korbikowo##
+ 
+ ZUL_voivodeship_euroliberalism: "Rząd Śląski"
+ ZUL_voivodeship_euroliberalism_DEF: "Rząd Śląski"
+ ZUL_voivodeship_euroliberalism_ADJ: "Śląsk."
+
+ ZUL_regional_euroliberalism: "Rząd Śląski"
+ ZUL_regional_euroliberalism_DEF: "Rząd Śląski"
+ ZUL_regional_euroliberalism_ADJ: "Śląsk."
+
+ ZUL_supregional_euroliberalism: "Państwo Polskie"
+ ZUL_supregional_euroliberalism_DEF: "Państwo Polskie"
+ ZUL_supregional_euroliberalism_ADJ: "Pol."
+
+ ZUL_final_euroliberalism: "Państwo Polskie"
+ ZUL_final_euroliberalism_DEF: "Państwo Polskie"
+ ZUL_final_euroliberalism_ADJ: "Pol."
+ 
+ ZUL_UE_euroliberalism: "Eurobezirk Waldenburg"
+ ZUL_UE_euroliberalism_DEF: "Eurodystrykt Wałbrzych"
+ ZUL_UE_euroliberalism_ADJ: "Eurobezirk"
+
+ 
+ ##Piston##
+ 
+ MNL_voivodeship_marxism_cranism: "Alkowspólnota Dolnego Śląska"
+ MNL_voivodeship_marxism_cranism_DEF: "Alkowspólnota Dolnego Śląska"
+ MNL_voivodeship_marxism_cranism_ADJ: "Alkowspól."
+
+ MNL_regional_marxism_cranism: "Alkowspólnota Śląska"
+ MNL_regional_marxism_cranism_DEF: "Alkowspólnota Śląska"
+ MNL_regional_marxism_cranism_ADJ: "Alkowspól."
+ 
+ MNL_supregional_marxism_cranism: "Alkowspólnota Polska"
+ MNL_supregional_marxism_cranism_DEF: "Alkowspólnota Polska"
+ MNL_supregional_marxism_cranism_ADJ: "Alkowspól."
+ 
+ MNL_final_marxism_cranism: "Alkowspólnota Polska"
+ MNL_final_marxism_cranism_DEF: "Alkowspólnota Polska"
+ MNL_final_marxism_cranism_ADJ: "Alkowspól."
+ 
+ ##MPK##
+ 
+ MPK_voivodeship_corporativism: "Koleje Dolnośląskie"
+ MPK_voivodeship_corporativism_DEF: "Koleje Dolnośląskie"
+ MPK_voivodeship_corporativism_ADJ: "Dolnośląsk."
+
+ MPK_regional_corporativism: "Koleje Śląskie"
+ MPK_regional_corporativism_DEF: "Koleje Śląskie"
+ MPK_regional_corporativism_ADJ: "Śląsk."
+ 
+ MPK_supregional_corporativism: "Polskie Koleje Państwowe"
+ MPK_supregional_corporativism_DEF: "Polskie Koleje Państwowe"
+ MPK_supregional_corporativism_ADJ: "PKP"
+ 
+ MPK_final_corporativism: "Polska Unia Transportowa"
+ MPK_final_corporativism_DEF: "Polska Unia Transportowa"
+ MPK_final_corporativism_ADJ: "PUT"
+ 
+ ##EK Westpolen##
+ 
+ EKW_voivodeship_euroliberalism: "Eurokommissariat Westpolen"
+ EKW_voivodeship_euroliberalism_DEF: "Komisariat Europy Polska Zachodnia"
+ EKW_voivodeship_euroliberalism_ADJ: "Eurokommissariat Westpolen"
+
+ EKW_regional_euroliberalism: "Eurokommissariat Westpolen"
+ EKW_regional_euroliberalism_DEF: "Komisariat Europy Polska Zachodnia"
+ EKW_regional_euroliberalism_ADJ:0 "Eurokommissariat Westpolen"
+ 
+ EKW_supregional_euroliberalism: "Eurokommissariat Westpolen"
+ EKW_supregional_euroliberalism_DEF: "Komisariat Europy Polska Zachodnia"
+ EKW_supregional_euroliberalism_ADJ: "Eurokommissariat Oderland"
+ 
+ EKW_final_euroliberalism: "Eurorepublik Polen"
+ EKW_final_euroliberalism_DEF: "Eurorepublika Polska"
+ EKW_final_euroliberalism_ADJ: "Eurorepublik Polen"
+  ##STE##
+ STE_voivodeship_freemarketism: "Kościół Wolności"
+ STE_voivodeship_freemarketism_DEF: "Kościół Wolności"
+ STE_voivodeship_freemarketism_ADJ: "Woln."
+ 
+ STE_regional_freemarketism: "Kościół Wolności"
+ STE_regional_freemarketism_DEF: "Kościół Wolności"
+ STE_regional_freemarketism_ADJ: "Woln."
+
+ STE_supregional_freemarketism: "Wolny Stan Edenu"
+ STE_supregional_freemarketism_DEF: "Wolny Stan Edenu"
+ STE_supregional_freemarketism_ADJ: "Eden."
+
+ STE_jezus_final_freemarketism: "Wolny Stan Edenu"
+ STE_jezus_final_freemarketism_DEF: "Wolny Stan Edenu"
+ STE_jezus_final_freemarketism_ADJ: "Eden." 
+
+ STE_voivodeship_corporativism: "Kupiecka Republika Pomorza"
+ STE_voivodeship_corporativism_DEF: "Kupiecka Republika Pomorza"
+ STE_voivodeship_corporativism_ADJ: "Pomor."
+
+ STE_regional_corporativism: "Kupiecka Republika Pomorza"
+ STE_regional_corporativism_DEF: "Kupiecka Republika Pomorza"
+ STE_regional_corporativism_ADJ: "Pomor."
+
+ STE_supregional_corporativism: "Kupiecka Republika Polski"
+ STE_supregional_corporativism_DEF: "Kupiecka Republika Polski"
+ STE_supregional_corporativism_ADJ: "Pol."
+
+ STE_hanza_final_corporativism: "Kupiecka Republika Polski"
+ STE_hanza_final_corporativism_DEF: "Kupiecka Republika Polski"
+ STE_hanza_final_corporativism_ADJ: "Pol." 
+ ##JAS##
+
+ JAS_voivodeship: "Związek Jaszczurkowców"
+ JAS_voivodeship_DEF: "Związek Jaszczurkowców"
+ JAS_voivodeship_ADJ: "Jaszczur."
+
+ JAS_regional_neonationalism: "Narodowa Rada Kamracka"
+ JAS_regional_neonationalism_DEF: "Narodowa Rada Kamracka"
+ JAS_regional_neonationalism_ADJ: "Kamrack."
+ JAS_regional_postpolonism: "Armia Słowiańskich Wilków"
+ JAS_regional_postpolonism_DEF: "Armia Słowiańskich Wilków"
+ JAS_regional_postpolonism_ADJ: "Wilcz." 
+ JAS_regional_autocracy: "Kraj Nadwiślański"
+ JAS_regional_autocracy_DEF: "Kraj Nadwiślański"
+ JAS_regional_autocracy_ADJ: "Nadwiślańsk."  
+
+ JAS_supregional_neonationalism: "Narodowa Rada Kamracka"
+ JAS_supregional_neonationalism_DEF: "Narodowa Rada Kamracka"
+ JAS_supregional_neonationalism_ADJ: "Kamrack."
+ JAS_supregional_autocracy: "Priwislinskij Kraj"
+ JAS_supregional_autocracy_DEF: "Kraj Nadwiślański"
+ JAS_supregional_autocracy_ADJ: "Priwislinski."  
+ JAS_supregional_postpolonism: "Armia Słowiańskich Wilków"
+ JAS_supregional_postpolonism_DEF: "Armia Słowiańskich Wilków"
+ JAS_supregional_postpolonism_ADJ: "Armia Słowiańskich Wilków"  
+
+ JAS_jablonowski_final_postpolonism: "Ziemie Słowiańskich Wilków"
+ JAS_jablonowski_final_postpolonism_DEF: "Ziemie Słowiańskich Wilków"
+ JAS_jablonowski_final_postpolonism_ADJ: "Wilcz."
+ JAS_sendecki_final_neonationalism: "Polska Narodowa Republika Ludowa"
+ JAS_sendecki_final_neonationalism_DEF: "Polska Narodowa Republika Ludowa"
+ JAS_sendecki_final_neonationalism_ADJ: "PNRL"
+ JAS_poreba_final_autocracy: "Priwislinskij Kraj"
+ JAS_poreba_final_autocracy_DEF: "Kraj Nadwiślański"
+ JAS_poreba_final_autocracy_ADJ: "Priwislinski." 
+ 
+ 
+ ##Jomsborg##
+ 
+ JOM_voivodeship_squattism: "Folkerepublikken Jomsborg"
+ JOM_voivodeship_squattism_DEF: "Ludowa Republika Jomsborgu"
+ JOM_voivodeship_squattism_ADJ: "Jomsborg"
+
+ JOM_regional_squattism: "Folkerepublikken Vendland"
+ JOM_regional_squattism_DEF: "Ludowa Republika Kraju Wendów"
+ JOM_regional_squattism_ADJ: "Vendland"
+
+ JOM_supregional_squattism: "Folkerepublikken Vendland"
+ JOM_supregional_squattism_DEF: "Ludowa Republika Kraju Wendów"
+ JOM_supregional_squattism_ADJ: "Vendland"
+
+ JOM_zawisza_final_socialdemocrature: "Rzeczpospolita Wendyjska"
+ JOM_zawisza_final_socialdemocrature_DEF: "Rzeczpospolita Wendyjska"
+ JOM_zawisza_final_socialdemocrature_ADJ: "Wendyj." 
+
+ JOM_halfdan_final_squattism: "Folkerepublikken Vendland"
+ JOM_halfdan_final_squattism_DEF: "Ludowa Republika Wendyjska"
+ JOM_halfdan_final_squattism_ADJ: "Vendland"
+
+ JOM_harald_final_autocracy: "Konungsríki Vendland"
+ JOM_harald_final_autocracy_DEF: "Królestwo Wendyjskie"
+ JOM_harald_final_autocracy_ADJ: "Vendland"
+
+ ###Eurosztaty###
+ 
+ KAM_UE_euroliberalism: "Kampfgruppe Westpolen"
+ KAM_UE_euroliberalism_DEF: "Grupa Bojowa Polska Zachodnia"
+ KAM_UE_euroliberalism_ADJ: "Kampfgruppe"
+ KAM_UE_neonationalism: "Kampfgruppe Westpolen"
+ KAM_UE_neonationalism_DEF: "Grupa Bojowa Polska Zachodnia"
+ KAM_UE_neonationalism_ADJ: "Kampfgruppe" 
+ KAM_UE_autocracy: "Kampfgruppe Westpolen"
+ KAM_UE_autocracy_DEF: "Grupa Bojowa Polska Zachodnia"
+ KAM_UE_autocracy_ADJ: "Kampfgruppe" 
+ 
+ WRT_UE_euroliberalism: "Naturschutzverein Wartheland"
+ WRT_UE_euroliberalism_DEF: "Towarzystwo Ochrony Natury Kraj Warty"
+ WRT_UE_euroliberalism_ADJ: "Wartheland"
+ WRT_UE_autocracy: "Naturschutzverein Wartheland"
+ WRT_UE_autocracy_DEF: "Towarzystwo Ochrony Natury Kraj Warty"
+ WRT_UE_autocracy_ADJ: "Wartheland" 
+ WRT_UE_reactionary: "Naturschutzverein Wartheland"
+ WRT_UE_reactionary_DEF: "Towarzystwo Ochrony Natury Kraj Warty"
+ WRT_UE_reactionary_ADJ: "Wartheland" 
+ WRT_UE_postpolonism: "Naturschutzverein Wartheland"
+ WRT_UE_postpolonism_DEF: "Towarzystwo Ochrony Natury Kraj Warty"
+ WRT_UE_postpolonism_ADJ: "Wartheland" 
+ 
+ GDA_UE_euroliberalism: "Freie Stadt Danzig"
+ GDA_UE_euroliberalism_DEF: "Wolne Miasto Gdańsk"
+ GDA_UE_euroliberalism_ADJ: "Danzig"
+ 
+ POZ_UE_euroliberalism: "Freie Stadt Posen"
+ POZ_UE_euroliberalism_DEF: "Wolne Miasto Poznań"
+ POZ_UE_euroliberalism_ADJ: "Posen"
+ 
+ KSZ_UE_euroliberalism: "Freistaat Kaschubien"
+ KSZ_UE_euroliberalism_DEF: "Wòlny Kraj Kaszëbów"
+ KSZ_UE_euroliberalism_ADJ: "Kaschubien"
+ KSZ_UE_paternal_conservatism: "Freistaat Kaschubien"
+ KSZ_UE_paternal_conservatism_DEF: "Wòlny Kraj Kaszëbów"
+ KSZ_UE_paternal_conservatism_ADJ: "Kaschubien" 
+ 
+ STE_UE_euroliberalism: "Stettiner Hanse Zirkel"
+ STE_UE_euroliberalism_DEF: "Koło Szczecińskiej Hanzy"
+ STE_UE_euroliberalism_ADJ: "Stettiner"
+ 
+ CZH_UE_euroliberalism: "Europrotektorat Tschechien"
+ CZH_UE_euroliberalism_DEF: "Protektorat Europy Czechy"
+ CZH_UE_euroliberalism_ADJ: "Tschechien" 
+
+ LIT_UE_euroliberalism: "Lietuvos Eurorespublika"
+ LIT_UE_euroliberalism_DEF: "Eurorepublika Litwa"
+ LIT_UE_euroliberalism_ADJ: "Lietuvos"
+ 
+ 
+ 
+###Cyganie###
+
+ CYG_voivodeship_autocracy: "Państwo Cygańskie"
+ CYG_voivodeship_autocracy_DEF: "Państwo Cygańskie"
+ CYG_voivodeship_autocracy_ADJ: "Cygańsk."
+ 
+ CYG_regional_autocracy: "Państwo Cygańskie"
+ CYG_regional_autocracy_DEF: "Państwo Cygańskie"
+ CYG_regional_autocracy_ADJ: "Cygańsk."
+
+ CYG_supregional_autocracy: "Romastan"
+ CYG_supregional_autocracy_DEF: "Romastan"
+ CYG_supregional_autocracy_ADJ: "Romast."
+ 
+ CYG_final_autocracy: "Romastan"
+ CYG_final_autocracy_DEF: "Romastan"
+ CYG_final_autocracy_ADJ: "Romast." 
+ 
+###Fanatycy###
+
+ RYB_voivodeship_marxism_cranism: "Wolna Armia Wędkarzy"
+ RYB_voivodeship_marxism_cranism_DEF: "Wolna Armia Wędkarzy"
+ RYB_voivodeship_marxism_cranism_ADJ: "Wędkar."
+ 
+ RYB_regional_marxism_cranism: "Wolna Armia Wędkarzy"
+ RYB_regional_marxism_cranism_DEF: "Wolna Armia Wędkarzy"
+ RYB_regional_marxism_cranism_ADJ: "Wędkar."
+
+ RYB_supregional_marxism_cranism: "Wolne Wody Polskie"
+ RYB_supregional_marxism_cranism_DEF: "Wolne Wody Polskie"
+ RYB_supregional_marxism_cranism_ADJ: "Wędkar."
+
+ RYB_galecki_final_marxism_cranism: "Wolne Wody Polskie"
+ RYB_galecki_final_marxism_cranism_DEF: "Wolne Wody Polskie"
+ RYB_galecki_final_marxism_cranism_ADJ: "Wod." 
+ 
+ RYB_sum_socialdemocrature: "Rzecznapospolita Jeziorańska"
+ RYB_sum_socialdemocrature_DEF: "Rzecznapospolita Jeziorańska"
+ RYB_sum_socialdemocrature_ADJ: "Jeziorańsk."
+ 
+#MNI
+ MNI_voivodeship_socialdemocrature: "Oppelnische Republik"
+ MNI_voivodeship_socialdemocrature_DEF: "Republika Górnośląska"
+ MNI_voivodeship_socialdemocrature_ADJ: "Oppelnische"
+ 
+ MNI_regional_socialdemocrature: "Oberschlesische Republik"
+ MNI_regional_socialdemocrature_DEF: "Republika Górnośląska"
+ MNI_regional_socialdemocrature_ADJ: "Oberschlesische"
+
+ MNI_supregional_socialdemocrature: "Schlesische Republik"
+ MNI_supregional_socialdemocrature_DEF: "Republika Śląska"
+ MNI_supregional_socialdemocrature_ADJ: "Schlesische"
+
+ MNI_galla_final_socialdemocrature: "Polnische Republik"
+ MNI_galla_final_socialdemocrature_DEF: "Rzeczpospolita Polska"
+ MNI_galla_final_socialdemocrature_ADJ: "Polnische"
+
+ MNI_UE_socialdemocrature: "Oberschlesische Republik"
+ MNI_UE_socialdemocrature_DEF: "Republika Górnośląska"
+ MNI_UE_socialdemocrature_ADJ: "Oberschlesische" 
+
+#OPO
+ OPO_voivodeship: "Republika Opolska"
+ OPO_voivodeship_DEF: "Republika Opolska"
+ OPO_voivodeship_ADJ: "Opolsk."
+
+ OPO_regional: "Republika Górnośląska"
+ OPO_regional_DEF: "Republika Górnośląska"
+ OPO_regional_ADJ: "Górnośląsk."
+
+ OPO_supregional: "Rzeczpospolita Polska"
+ OPO_supregional_DEF: "Rzeczpospolita Polska"
+ OPO_supregional_ADJ: "Pol."
+
+ OPO_cookies_final: "Rzeczpospolita Polska"
+ OPO_cookies_final_DEF: "Rzeczpospolita Polska"
+ OPO_cookies_final_ADJ: "Pol."
+ 
+ 
+#JSM
+ 
+ LEH_voivodeship_postpolonism: "Jasna Strona Mocy"
+ LEH_voivodeship_postpolonism_DEF: "Jasna Strona Mocy"
+ LEH_voivodeship_postpolonism_ADJ: "JSM"
+ 
+ LEH_regional_postpolonism: "Jasna Strona Mocy"
+ LEH_regional_postpolonism_DEF: "Jasna Strona Mocy"
+ LEH_regional_postpolonism_ADJ: "JSM"
+
+ LEH_supregional_postpolonism: "Astralne Imperium Lehji"
+ LEH_supregional_postpolonism_DEF: "Astralne Imperium Lehji"
+ LEH_supregional_postpolonism_ADJ: "Astral."
+
+ LEH_sanjaj_final_postpolonism: "Astralne Imperium Lehji"
+ LEH_sanjaj_final_postpolonism_DEF: "Astralne Imperium Lehji"
+ LEH_sanjaj_final_postpolonism_ADJ: "Astral."
+ 
+ 
+ LEH_IMP_squattism: "Imperium Lechickie"
+ LEH_IMP_squattism_DEF: "Imperium Lechickie"
+ LEH_IMP_squattism_ADJ: "Lechic." 
+ LEH_IMP_reactionary: "Imperium Lechickie"
+ LEH_IMP_reactionary_DEF: "Imperium Lechickie"
+ LEH_IMP_reactionary_ADJ: "Lechic." 
+ LEH_IMP_postpolonism: "Imperium Lechickie"
+ LEH_IMP_postpolonism_DEF: "Imperium Lechickie"
+ LEH_IMP_postpolonism_ADJ: "Lechic." 
+ 
+ 
+ #Lechici
+ 
+ LCH_voivodeship_reactionary: "Królestwo Lechii"
+ LCH_voivodeship_reactionary_DEF: "Królestwo Lechii"
+ LCH_voivodeship_reactionary_ADJ: "Lechic."
+ 
+ LCH_regional_reactionary: "Królestwo Lechii"
+ LCH_regional_reactionary_DEF: "Królestwo Lechii"
+ LCH_regional_reactionary_ADJ: "Lechic."
+
+ LCH_supregional_reactionary: "Imperium Lechickie"
+ LCH_supregional_reactionary_DEF: "Imperium Lechickie"
+ LCH_supregional_reactionary_ADJ: "Lechic."
+
+ LCH_bieszk_final_reactionary: "Imperium Lechickie"
+ LCH_bieszk_final_reactionary_DEF: "Imperium Lechickie"
+ LCH_bieszk_final_reactionary_ADJ: "Lechic." 
+ 
+ #Wandale
+ 
+ WAN_voivodeship_reactionary: "Królestwo Wandali"
+ WAN_voivodeship_reactionary_DEF: "Królestwo Wandali"
+ WAN_voivodeship_reactionary_ADJ: "Wandal."
+ 
+ WAN_regional_reactionary: "Królestwo Wandali"
+ WAN_regional_reactionary_DEF: "Królestwo Wandali"
+ WAN_regional_reactionary_ADJ: "Wandal."
+
+ WAN_supregional_reactionary: "Imperium Wendów"
+ WAN_supregional_reactionary_DEF: "Imperium Wendów"
+ WAN_supregional_reactionary_ADJ: "Wend."
+
+ WAN_wandale_final_reactionary: "Imperium Wendów"
+ WAN_wandale_final_reactionary_DEF: "Imperium Wendów"
+ WAN_wandale_final_reactionary_ADJ: "Wend."  
+ 
+ #CALISIA
+ 
+ CAL_voivodeship_autocracy: "Imperium Kaliskie"
+ CAL_voivodeship_autocracy_DEF: "Imperium Kaliskie"
+ CAL_voivodeship_autocracy_ADJ: "Kalisk."
+ CAL_voivodeship_socialdemocrature: "Imperium Kaliskie"
+ CAL_voivodeship_socialdemocrature_DEF: "Imperium Kaliskie"
+ CAL_voivodeship_socialdemocrature_ADJ: "Kalisk."
+ 
+ CAL_regional_autocracy: "Imperium Kaliskie"
+ CAL_regional_autocracy_DEF: "Imperium Kaliskie"
+ CAL_regional_autocracy_ADJ: "Kalisk."
+ CAL_regional_socialdemocrature: "Imperium Kaliskie"
+ CAL_regional_socialdemocrature_DEF: "Imperium Kaliskie"
+ CAL_regional_socialdemocrature_ADJ: "Kalisk."
+ 
+ CAL_supregional_autocracy: "Imperium Kaliskie"
+ CAL_supregional_autocracy_DEF: "Imperium Kaliskie"
+ CAL_supregional_autocracy_ADJ: "Kalisk."
+ CAL_supregional_socialdemocrature: "Imperium Kaliskie"
+ CAL_supregional_socialdemocrature_DEF: "Imperium Kaliskie"
+ CAL_supregional_socialdemocrature_ADJ: "Kalisk."
+ 
+ CAL_final_autocracy: "Imperium Kaliskie"
+ CAL_final_autocracy_DEF: "Imperium Kaliskie"
+ CAL_final_autocracy_ADJ: "Kalisk."
+ CAL_final_socialdemocrature: "Imperium Kaliskie"
+ CAL_final_socialdemocrature_DEF: "Imperium Kaliskie"
+ CAL_final_socialdemocrature_ADJ: "Kalisk."
+ 
+ 
+ 
+#GNIEZNO
+ 
+ GNI_voivodeship_euroliberalism: "Księstwo Wielkopolskie"
+ GNI_voivodeship_euroliberalism_DEF: "Księstwo Wielkopolskie"
+ GNI_voivodeship_euroliberalism_ADJ: "Pol."
+ GNI_voivodeship_paternal_conservatism: "Księstwo Wielkopolskie"
+ GNI_voivodeship_paternal_conservatism_DEF: "Księstwo Wielkopolskie"
+ GNI_voivodeship_paternal_conservatism_ADJ: "Pol." 
+ GNI_voivodeship_autocracy: "Księstwo Wielkopolskie"
+ GNI_voivodeship_autocracy_DEF: "Księstwo Wielkopolskie"
+ GNI_voivodeship_autocracy_ADJ: "Pol."
+ 
+ GNI_regional_autocracy: "Księstwo Wielkopolskie"
+ GNI_regional_autocracy_DEF: "Księstwo Wielkopolskie"
+ GNI_regional_autocracy_ADJ: "Pol."
+ 
+ GNI_supregional_autocracy: "Księstwo Polskie"
+ GNI_supregional_autocracy_DEF: "Księstwo Polskie"
+ GNI_supregional_autocracy_ADJ: "Pol."
+ 
+ GNI_final_autocracy: "Królestwo Polskie"
+ GNI_final_autocracy_DEF: "Królestwo Polskie"
+ GNI_final_autocracy_ADJ: "Pol."
+ 
+ 
+ #TERRA FELIX
+ 
+ FEL_voivodeship_reactionary: "Terra Felix"
+ FEL_voivodeship_reactionary_DEF: "Terra Felix"
+ FEL_voivodeship_reactionary_ADJ: "Felix"
+ 
+ FEL_regional_reactionary: "Terra Felix"
+ FEL_regional_reactionary_DEF: "Terra Felix"
+ FEL_regional_reactionary_ADJ: "Felix"
+
+ FEL_supregional_reactionary: "Terra Felix"
+ FEL_supregional_reactionary_DEF: "Terra Felix"
+ FEL_supregional_reactionary_ADJ: "Felix"
+
+ FEL_final_reactionary: "Rzeczpospolita Sarmacka"
+ FEL_final_reactionary_DEF: "Rzeczpospolita Sarmacka"
+ FEL_final_reactionary_ADJ: "Sarmack." 
+ 
+ 
+  #SUSKI
+ 
+ SUS_voivodeship_autocracy: "Kryzysowa Komisja Wielkopolski"
+ SUS_voivodeship_autocracy_DEF: "Kryzysowa Komisja Wielkopolski"
+ SUS_voivodeship_autocracy_ADJ: "KKW"
+ 
+ SUS_regional_autocracy: "Kryzysowa Komisja Polski"
+ SUS_regional_autocracy_DEF: "Kryzysowa Komisja Polski"
+ SUS_regional_autocracy_ADJ: "KKP"
+ 
+ SUS_supregional_autocracy: "Kryzysowa Komisja Polski"
+ SUS_supregional_autocracy_DEF: "Kryzysowa Komisja Polski"
+ SUS_supregional_autocracy_ADJ: "KKP"
+ SUS_supregional_paternal_conservatism: "Kryzysowa Komisja Polski"
+ SUS_supregional_paternal_conservatism_DEF: "Kryzysowa Komisja Polski"
+ SUS_supregional_paternal_conservatism_ADJ: "KKP"
+ 
+ SUS_final_autocracy: "Rzeczpospolita Polska"
+ SUS_final_autocracy_DEF: "Rzeczpospolita Polska"
+ SUS_final_autocracy_ADJ: "Pol."
+ SUS_final_paternal_conservatism: "Rzeczpospolita Polska"
+ SUS_final_paternal_conservatism_DEF: "Rzeczpospolita Polska"
+ SUS_final_paternal_conservatism_ADJ: "Pol."
+ 
+ 
+ #POZNAŃ
+ 
+ POZ_voivodeship_euroliberalism:0 "Republika Wielkopolska"
+ POZ_voivodeship_euroliberalism_DEF:0 "Republika Wielkopolska"
+ POZ_voivodeship_euroliberalism_ADJ:0 "Wielkopolsk."
+ 
+ POZ_regional_euroliberalism: "Republika Wielkopolska"
+ POZ_regional_euroliberalism_DEF: "Republika Wielkopolska"
+ POZ_regional_euroliberalism_ADJ: "Wielkopolsk."
+ 
+ POZ_supregional_euroliberalism:0 "Rzeczpospolita Polska"
+ POZ_supregional_euroliberalism_DEF:0 "Rzeczpospolita Polska"
+ POZ_supregional_euroliberalism_ADJ:0 "Pol."
+ 
+ POZ_final_euroliberalism:0 "Rzeczpospolita Polska"
+ POZ_final_euroliberalism_DEF:0 "Rzeczpospolita Polska"
+ POZ_final_euroliberalism_ADJ:0 "Pol."
+ 
+ 
+  #WSZECHPOLACY
+
+ NAC_voivodeship_neonationalism: "Rzeczpospolita Wszechpolska"
+ NAC_voivodeship_neonationalism_DEF: "Rzeczpospolita Wszechpolska"
+ NAC_voivodeship_neonationalism_ADJ: "Wszechpol."
+
+ NAC_regional_neonationalism: "Rzeczpospolita Wszechpolska"
+ NAC_regional_neonationalism_DEF: "Rzeczpospolita Wszechpolska"
+ NAC_regional_neonationalism_ADJ: "Wszechpol."
+
+ NAC_subregional_neonationalism: "Rzeczpospolita Wszechpolska"
+ NAC_subregional_neonationalism_DEF: "Rzeczpospolita Wszechpolska"
+ NAC_subregional_neonationalism_ADJ: "Wszechpol."
+
+ NAC_final_neonationalism: "Państwo Polskie"
+ NAC_final_neonationalism_DEF: "Państwo Polskie"
+ NAC_final_neonationalism_ADJ: "Pol."
+ 
+#ROSJA
+ 
+ RUS_dugin: "Państwo Euroazjatyckie"
+ RUS_army_zolotov: "Rosyjska Gwardia Narodowa"
+ RUS_army_szojgu: "Rosyjska Junta Wojskowa"
+ RUS_fsb: "Tymczasowe Państwo Rosyjskie"
+ RUS_nawalny: "Narodowa Republika Rosyjska"
+ RUS_czeczen: "Kalifat Ar-Rus"
+ RUS_zsrr_grudinin: "Socjalistyczna Federacja Rosyjska"
+ RUS_zsrr_ziuganow: "Związek Radziecki"
+ RUS_dugin_DEF: "Państwo Eurazjatyckie"
+ RUS_army_zolotov_DEF: "Rosyjska Gwardia Narodowa"
+ RUS_army_szojgu_DEF: "Rosyjska Junta Wojskowa"
+ RUS_fsb_DEF: "Tymczasowe Państwo Rosyjskie"
+ RUS_nawalny_DEF: "Narodowa Republika Rosyjska"
+ RUS_czeczen_DEF: "Kalifat Ar-Rus"
+ RUS_zsrr_grudinin_DEF: "Socjalistyczna Federacja Rosyjska"
+ RUS_zsrr_ziuganow_DEF: "Związek Radziecki" 
+ RUS_dugin_ADJ: "Eurazjat."
+ RUS_army_zolotov_ADJ: "RGN"
+ RUS_army_szojgu_ADJ: "RJW"
+ RUS_fsb_ADJ: "TPR"
+ RUS_nawalny_ADJ: "NRR"
+ RUS_czeczen_ADJ: "KA-R"
+ RUS_zsrr_grudinin_ADJ: "SFR"
+ RUS_zsrr_ziuganow_ADJ: "ZR"
+ 
+ 
+##Grudziadz##
+
+ GRU_voivodeship_reactionary:0 "Kujawskie Państwo Wojskowe"
+ GRU_voivodeship_reactionary_DEF:0 "Kujawskie Państwo Wojskowe"
+ GRU_voivodeship_reactionary_ADJ:0 "Kujawsk."
+ 
+ GRU_regional_reactionary:0 "Kujawskie Państwo Wojskowe"
+ GRU_regional_reactionary_DEF:0 "Kujawskie Państwo Wojskowe"
+ GRU_regional_reactionary_ADJ:0 "Kujawsk."
+
+ GRU_supregional_reactionary:0 "Narodowa Rada Ocalenia Polski"
+ GRU_supregional_reactionary_DEF:0 "Narodowa Rada Ocalenia Polski"
+ GRU_supregional_reactionary_ADJ:0 "NROP"
+
+ GRU_nrop_final_reactionary:0 "Narodowa Rada Ocalenia Polsk"
+ GRU_nrop_final_reactionary_DEF:0 "Narodowa Rada Ocalenia Polski"
+ GRU_nrop_final_reactionary_ADJ:0 "NROP" 
+ 
+ GRU_supregional_autocracy:0 "Liga Polska"
+ GRU_supregional_autocracy_DEF:0 "Liga Polska"
+ GRU_supregional_autocracy_ADJ:0 "Pol."
+
+ GRU_ulan_final_autocracy:0 "Liga Polska"
+ GRU_ulan_final_autocracy_DEF:0 "Liga Polska"
+ GRU_ulan_final_autocracy_ADJ:0 "Pol." 
+
+##Inowrocław##
+
+ INO_voivodeship_paternal_conservatism: "Kościelna Prowincja Kujaw"
+ INO_voivodeship_paternal_conservatism_DEF: "Kościelna Prowincja Kujaw"
+ INO_voivodeship_paternal_conservatism_ADJ: "Kujaw."
+ 
+ INO_regional_paternal_conservatism: "Kościelna Prowincja Kujaw"
+ INO_regional_paternal_conservatism_DEF: "Kościelna Prowincja Kujaw"
+ INO_regional_paternal_conservatism_ADJ: "Kujaw."
+
+ INO_supregional_paternal_conservatism: "Episkopat Polski"
+ INO_supregional_paternal_conservatism_DEF: "Episkopat Polski"
+ INO_supregional_paternal_conservatism_ADJ: "Pol."
+
+ INO_final_paternal_conservatism: "Episkopat Polski"
+ INO_final_paternal_conservatism_DEF: "Episkopat Polski"
+ INO_final_paternal_conservatism_ADJ: "Pol."
+
+
+##Torun##
+
+ TOR_neonationalism: "Jednostka Strzelecka nr 1909"
+ TOR_neonationalism_DEF: "Jednostka Strzelecka nr 1909"
+ TOR_neonationalism_ADJ: "JS nr1909"
+ 
+ TOR_reactionary: "Korporacja Akademicka Kujawja"
+ TOR_reactionary_DEF: "Korporacja Akademicka Kujawja"
+ TOR_reactionary_ADJ: "Kujaw."
+ 
+ TOR_freemarketism: "Korporacja Akademicka Kujawja"
+ TOR_freemarketism_DEF: "Korporacja Akademicka Kujawja"
+ TOR_freemarketism_ADJ: "Kujaw."
+ 
+ TOR_voivodeship_corporativism: "Redemptorystyczny Kościół Kujaw"
+ TOR_voivodeship_corporativism_DEF: "Redemptorystyczny Kościół Kujaw"
+ TOR_voivodeship_corporativism_ADJ: "Kujaw."
+ 
+ TOR_regional_corporativism: "Redemptorystyczny Kościół Kujaw"
+ TOR_regional_corporativism_DEF: "Redemptorystyczny Kościół Kujaw"
+ TOR_regional_corporativism_ADJ: "Kujaw."
+
+ TOR_supregional_corporativism: "Przymierze Polskie"
+ TOR_supregional_corporativism_DEF: "Przymierze Polskie"
+ TOR_supregional_corporativism_ADJ: "Pol."
+
+ TOR_rydzyk_final_corporativism: "Przymierze Polskie"
+ TOR_rydzyk_final_corporativism_DEF: "Przymierze Polskie"
+ TOR_rydzyk_final_corporativism_ADJ: "Pol."  
+ 
+ TOR_voivodeship_postpolonism: "Krucjata Antymasońska"
+ TOR_voivodeship_postpolonism_DEF: "Krucjata Antymasońska"
+ TOR_voivodeship_postpolonism_ADJ: "Antymasońsk."
+ 
+ TOR_regional_postpolonism: "Krucjata Antymasońska"
+ TOR_regional_postpolonism_DEF: "Krucjata Antymasońska"
+ TOR_regional_postpolonism_ADJ: "Antymasońsk."
+
+ TOR_supregional_postpolonism: "Krucjata Antymasońska"
+ TOR_supregional_postpolonism_DEF: "Krucjata Antymasońska"
+ TOR_supregional_postpolonism_ADJ: "Antymasońsk."
+
+ TOR_strzelec_final_paternal_conservatism: "Polska Rzeczpospolita Narodowa"
+ TOR_strzelec_final_paternal_conservatism_DEF: "Polska Rzeczpospolita Narodowa"
+ TOR_strzelec_final_paternal_conservatism_ADJ: "Pol."
+ 
+ TOR_voivodeship_reactionary: "Księstwo Kujaw"
+ TOR_voivodeship_reactionary_DEF: "Księstwo Kujaw"
+ TOR_voivodeship_reactionary_ADJ: "Kujaw."
+ 
+ TOR_regional_reactionary: "Księstwo Kujaw"
+ TOR_regional_reactionary_DEF: "Księstwo Kujaw"
+ TOR_regional_reactionary_ADJ: "Kujaw."
+
+ TOR_supregional_reactionary: "Królestwo Korony Polskiej"
+ TOR_supregional_reactionary_DEF: "Królestwo Korony Polskiej"
+ TOR_supregional_reactionary_ADJ: "Pol."
+
+ TOR_hoga_final_reactionary: "Królestwo Korony Polskiej"
+ TOR_hoga_final_reactionary_DEF: "Królestwo Korony Polskiej"
+ TOR_hoga_final_reactionary_ADJ: "Pol." 
+ 
+ TOR_voivodeship_freemarketism: "Konglomerat Kujawji"
+ TOR_voivodeship_freemarketism_DEF: "Konglomerat Kujawji"
+ TOR_voivodeship_freemarketism_ADJ: "Kujaw."
+ 
+ TOR_regional_freemarketism: "Konglomerat Kujawji"
+ TOR_regional_freemarketism_DEF: "Konglomerat Kujawji"
+ TOR_regional_freemarketism_ADJ: "Kujaw."
+
+ TOR_supregional_freemarketism: "Polski Konglomerat"
+ TOR_supregional_freemarketism_DEF: "Polski Konglomerat"
+ TOR_supregional_freemarketism_ADJ: "Pol."
+
+ TOR_memcen_final_freemarketism: "Polski Konglomerat"
+ TOR_memcen_final_freemarketism_DEF: "Polski Konglomerat"
+ TOR_memcen_final_freemarketism_ADJ: "Pol." 
+
+ 
+###ŻAGAŃ###
+ ZAG_voivodeship_autocracy:0 "11 Dywizja Kawalerii Pancernej"
+ ZAG_voivodeship_autocracy_DEF:0 "11 Dywizja Kawalerii Pancernej"
+ ZAG_voivodeship_autocracy_ADJ:0 "11 DKPanc"
+ 
+ ZAG_regional_autocracy: "11 Dywizja Kawalerii Pancernej"
+ ZAG_regional_autocracy_DEF: "11 Dywizja Kawalerii Pancernej"
+ ZAG_regional_autocracy_ADJ: "11 DKPanc"
+ 
+ ZAG_supregional_autocracy: "Polski Okręg Wojskowy"
+ ZAG_supregional_autocracy_DEF: "Polski Okręg Wojskowy"
+ ZAG_supregional_autocracy_ADJ: "Pol."
+
+ ZAG_pancerni_final_autocracy: "Polski Okręg Wojskowy"
+ ZAG_pancerni_final_autocracy_DEF: "Polski Okręg Wojskowy"
+ ZAG_pancerni_final_autocracy_ADJ: "Pol."
+
+ 
+###KAMPFGRUPPE###
+ KAM_voivodeship_autocracy: "Kampfgruppe Westpolen"
+ KAM_voivodeship_autocracy_DEF: "Grupa Bojowa Polska Zachodnia"
+ KAM_voivodeship_autocracy_ADJ: "Kampfgruppe"
+ 
+ KAM_regional_autocracy: "Kampfgruppe Westpolen"
+ KAM_regional_autocracy_DEF: "Grupa Bojowa Polska Zachodnia"
+ KAM_regional_autocracy_ADJ: "Kampfgruppe"
+ 
+ KAM_supregional_autocracy: "Kampfgruppe Westpolen"
+ KAM_supregional_autocracy_DEF: "Grupa Bojowa Polska Zachodnia"
+ KAM_supregional_autocracy_ADJ: "Kampfgruppe "
+ 
+ KAM_kampfgruppe_final_autocracy: "Besatzungszone Polen"
+ KAM_kampfgruppe_final_autocracy_DEF: "Polska Strefa Okupacyjna"
+ KAM_kampfgruppe_final_autocracy_ADJ: "Besatzungszone Polen"
+
+
+###GORZÓW###
+ MOT_voivodeship_autocracy: "Motokracja Gorzowska"
+ MOT_voivodeship_autocracy_DEF: "Motokracja Gorzowska"
+ MOT_voivodeship_autocracy_ADJ: "Gorzow."
+ 
+ MOT_regional_autocracy: "Wielka Motokracja"
+ MOT_regional_autocracy_DEF: "Wielka Motokracja"
+ MOT_regional_autocracy_ADJ: "Motokrac."
+
+ MOT_supregional_autocracy: "Wielka Motokracja"
+ MOT_supregional_autocracy_DEF: "Wielka Motokracja"
+ MOT_supregional_autocracy_ADJ: "Motokrac."
+ 
+ MOT_gorzow_final_autocracy: "Motokracja Polska"
+ MOT_gorzow_final_autocracy_DEF: "Motokracja Polska"
+ MOT_gorzow_final_autocracy_ADJ: "Pol."
+
+###WINNYGRÓD###
+ WIN_voivodeship_freemarketism: "Hedonistyczna Republika Winnegogrodu"
+ WIN_voivodeship_freemarketism_DEF: "Hedonistyczna Republika Winnegogrodu"
+ WIN_voivodeship_freemarketism_ADJ: "Hedonist."
+ 
+ WIN_regional_freemarketism:0 "Hedonistyczna Republika Śląska"
+ WIN_regional_freemarketism_DEF:0 "Hedonistyczna Republika Śląska"
+ WIN_regional_freemarketism_ADJ:0 "Hedonist."
+ 
+ WIN_supregional_freemarketism:0 "Hedonistyczna Republika Śląska"
+ WIN_supregional_freemarketism_DEF:0 "Hedonistyczna Republika Śląska"
+ WIN_supregional_freemarketism_ADJ:0 "Hedonist."
+ 
+ WIN_wino_final_freemarketism: "Hedonistyczna Republika Polski"
+ WIN_wino_final_freemarketism_DEF: "Hedonistyczna Republika Polski"
+ WIN_wino_final_freemarketism_ADJ: "Hedonist."
+
+ ###Skaryszew###
+
+ SKA_voivodeship: "Biurokracja Skaryszewska"
+ SKA_voivodeship_DEF: "Biurokracja Skaryszewska"
+ SKA_voivodeship_ADJ: "Biurokr."
+
+ SKA_regional: "Biurokracja Skaryszewska"
+ SKA_regional_DEF: "Biurokracja Skaryszewska"
+ SKA_regional_ADJ: "Biurokr."
+
+ SKA_supregional: "Biurokracja Staropolska"
+ SKA_supregional_DEF: "Biurokracja Staropolska"
+ SKA_supregional_ADJ: "Biurokr."
+
+ SKA_kopacz_final: "Biurokratyczne Państwo Polskie"
+ SKA_kopacz_final_DEF: "Biurokratyczne Państwo Polskie"
+ SKA_kopacz_final_ADJ: "Biurokr."
+
+ ###UJ###
+
+ UJG_voivodeship: "Akademicka Republika Małopolski"
+ UJG_voivodeship_DEF: "Akademicka Republika Małopolski"
+ UJG_voivodeship_ADJ: "ARM"
+
+ UJG_regional: "Jagiellońska Republika Akademicka"
+ UJG_regional_DEF: "Jagiellońska Republika Akademicka"
+ UJG_regional_ADJ: "JRA"
+
+ UJG_supregional: "Jagiellońska Republika Akademicka"
+ UJG_supregional_DEF: "Jagiellońska Republika Akademicka"
+ UJG_supregional_ADJ: "JRA"
+
+ UJG_faust_final: "Jagiellońskie Państwo Polskie"
+ UJG_faust_final_DEF: "Jagiellońskie Państwo Polskie"
+ UJG_faust_final_ADJ: "Pol."
+ 
+ ###PROCESJA###
+
+ HOR_voivodeship: "Państwo Pielgrzymów"
+ HOR_voivodeship_DEF: "Państwo Pielgrzymów"
+ HOR_voivodeship_ADJ: "Pielg."
+
+ HOR_regional: "Państwo Pielgrzymów" #nk, preferably herder
+ HOR_regional_DEF: "Państwo Pielgrzymów"
+ HOR_regional_ADJ: "Pielg."
+
+ HOR_supregional: "Państwo Pielgrzymów" #nk, preferably herder
+ HOR_supregional_DEF: "Państwo Pielgrzymów"
+ HOR_supregional_ADJ: "Pielg."
+
+ HOR_final: "Państwo Pielgrzymów" #nk, preferably herder
+ HOR_final_DEF: "Państwo Pielgrzymów"
+ HOR_final_ADJ: "Pielg."
+
+ HOR_voivodeship_postpolonism: "Nekropola"
+ HOR_voivodeship_postpolonism_DEF: "Nekropola"
+ HOR_voivodeship_postpolonism_ADJ: "Nekropol."
+
+ HOR_regional_postpolonism: "Nekropola" #nk, preferably herder
+ HOR_regional_postpolonism_DEF: "Nekropola"
+ HOR_regional_postpolonism_ADJ: "Nekropol."
+
+ HOR_supregional_postpolonism: "Nekropola" #nk, preferably herder
+ HOR_supregional_postpolonism_DEF: "Nekropola"
+ HOR_supregional_postpolonism_ADJ: "Nekropol."
+
+ HOR_final_postpolonism: "Nekropola" #jebać bastion
+ HOR_final_postpolonism_DEF: "Nekropola"
+ HOR_final_postpolonism_ADJ: "Nekropol."
+ 
+  ###POST-SMOG COLLAPSE###
+ BBW_postsmog: "Pustkowie"
+ BBW_postsmog_DEF: "Pustkowie"
+ BBW_postsmog_ADJ: "Pustkow."  
+
+ BOM_BBW: "Nitroszczury"
+ BOM_BBW_DEF: "Nitroszczury"
+ BOM_BBW_ADJ: "Nitroszczury" 
+
+ STL_BBW: "Bractwo Stali"
+ STL_BBW_DEF: "Bractwo Stali"
+ STL_BBW_ADJ: "Bractwo Stali"  
+ 
+ ZON_puppet_BBW: "Dolina Atomowej Zagłady" #sarkofag?
+ ZON_puppet_BBW_DEF: "Dolina Atomowej Zagłady"
+ ZON_puppet_BBW_ADJ: "Dolin."
+
+ ZON_BBW: "Atomowa Krucjata"
+ ZON_BBW_DEF: "Atomowa Krucjata"
+ ZON_BBW_ADJ: "Atomow."  
+
+ NHT_BBW: "Smocze Leże"
+ NHT_BBW_DEF: "Smocze Leże"
+ NHT_BBW_ADJ: "Smocz."  
+
+ JSW_BBW: "Śląskie Bractwo Węgla"
+ JSW_BBW_DEF: "Śląskie Bractwo Węgla"
+ JSW_BBW_ADJ: "Śląsk."  
+
+ CAL_BBW: "Kohorta Caniusa"
+ CAL_BBW_DEF: "Kohorta Caniusa"
+ CAL_BBW_ADJ: "Canius."  
+
+ EKW_BBW: "UNOP"
+ EKW_BBW_DEF: "Operacja ONZ w Polsce"
+ EKW_BBW_ADJ: "Operacja Narodów Zjednoczonych w Polsce"   
+
+ GAY_BBW: "Paladyni Dumy"
+ GAY_BBW_DEF: "Paladyni Dumy"
+ GAY_BBW_ADJ: "Palad."  
+
+ GDA_BBW: "Nowy Trzëgard"
+ GDA_BBW_DEF: "Nowe Trójmiasto"
+ GDA_BBW_ADJ: "Now. Trzëgard."   
+
+ GUR_BBW: "Karpacka Enklawa"
+ GUR_BBW_DEF: "Karpacka Enklawa"
+ GUR_BBW_ADJ: "Karpacka Enklawa"   
+
+ JAS_BBW: "Nowy Związek Jaszczurczy"
+ JAS_BBW_DEF: "Nowy Związek Jaszczurczy"
+ JAS_BBW_ADJ: "NZJ"   
+
+ KGH_BBW: "Kolektyw Miedziowy"
+ KGH_BBW_DEF: "Kolektyw Miedziowy"
+ KGH_BBW_ADJ: "Miedziow." 
+
+ KON_BBW: "Knurschwitz-Bembenau"
+ KON_BBW_DEF: "Knurschwitz-Bembenau"
+ KON_BBW_ADJ: "Knurschwitz-Bembenau"  
+
+ KOR_BBW: "Szarzy Korsarze"
+ KOR_BBW_DEF: "Szarzy Korsarze"
+ KOR_BBW_ADJ: "Szarzy Korsarze"   
+ 
+ KUJ_voivodeship: "Województwo Kujawsko-Pomorskie"
+ KUJ_voivodeship_DEF: "Województwo Kujawsko-Pomorskie"
+ KUJ_voivodeship_ADJ: "Kujaw.-Pomorsk."
+
+ KUJ_BBW: "Nowe Kujawy"
+ KUJ_BBW_DEF: "Nowe Kujawy"
+ KUJ_BBW_ADJ: "Kujaw."  
+
+ LOT_BBW: "Zakon Najwyższego Czasu"
+ LOT_BBW_DEF: "Zakon Najwyższego Czasu"
+ LOT_BBW_ADJ: "ZNC."   
+
+ MOT_BBW: "Nocne Wilki"
+ MOT_BBW_DEF: "Nocne Wilki"
+ MOT_BBW_ADJ: "Wilcz."  
+
+ ORL_BBW: "Stołeczna Nafta"
+ ORL_BBW_DEF: "Stołeczna Nafta"
+ ORL_BBW_ADJ: "Naft."   
+
+ SEI_BBW: "Jaćwież"
+ SEI_BBW_DEF: "Jaćwież"
+ SEI_BBW_ADJ: "Jaćw." 
+
+ SWI_BBW: "Sinoujście"
+ SWI_BBW_DEF: "Sinoujście"
+ SWI_BBW_ADJ: "Sinouj."  
+
+ TEN_BBW: "Popielaci Wędrowcy"
+ TEN_BBW_DEF: "Popielaci Wędrowcy"
+ TEN_BBW_ADJ: "Popielac."  
+
+ TYK_BBW: "Cesarstwo Tykocińskie"
+ TYK_BBW_DEF: "Cesarstwo Tykocińskie"
+ TYK_BBW_ADJ: "Tykociń." 
+
+ UPA_BBW: "Nowa Republika Czerwieńska"
+ UPA_BBW_DEF: "Nowa Republika Czerwieńska"
+ UPA_BBW_ADJ: "Czerwieńsk."
+
+ WRM_BBW: "Al-Baniyah"
+ WRM_BBW_DEF: "Al-Baniyah"
+ WRM_BBW_ADJ: "Al-Baniyah" 
+
+ ZUL_BBW: "Sudeckie Kryptopolis"
+ ZUL_BBW_DEF: "Sudeckie Kryptopolis"
+ ZUL_BBW_ADJ: "Sudeck." 

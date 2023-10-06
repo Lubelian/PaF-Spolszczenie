@@ -1,0 +1,10 @@
+﻿l_polish:
+ high_tech_complex:0 "Fabryka zaawansowanej technologii"
+ high_tech_complex_plural:0 "Fabryki zaawansowanych technologii"
+ high_tech_complex_desc:0 "Budynek ten dostarcza państwu zaawansowanych technologicznie komponentów komputerowych niezbędnych do produkcji czegokolwiek bardziej zaawansowanego niż technologia z czasów II wojny światowej. Obecnie zapewnia."
+ power_plant:0 "Elektrownia"
+ power_plant_plural:0 "Elektrownie"
+ power_plant_desc:0 "Ten budynek dostarcza państwu energii elektrycznej, dzięki której działają maszyny w waszych fabrykach i telewizory w waszych domach. Szkoda jednak, że nie ma tam nic do oglądania. \n\nWymaga węgla do funkcjonowania."
+ wind_farm:0 "Elektrownia OZE"
+ wind_farm_plural:0 "Elektrownie OZE"
+ wind_farm_desc:0 "Wiatr, woda, słońce, geotermia, biomasa Dzięki połączeniu tych mocy jestem Kapitanem Green Energy! \n\nNie zużywa żadnych zasobów, ale generuje mniej energii."
