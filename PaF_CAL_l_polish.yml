@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
 ## National Spirits ##
 CAL_ager_publicus:0 "Ager Publicus"
 CAL_ager_publicus_desc:0 "Ziemia zarekwirowana przez kwestorów, uprawiana przez bezrolnych chłopów jest przeznaczona na najbardziej palące potrzeby państwa. Tam właśnie powstają szczególnie potrzebne dla Kaliskiego przemysłu materiały takie jak wikilna, olej rzepakowy czy pomidory bez których stanęła by cała produkcja, a lud burzył by się na Forum Calisium. Niestety do uszu Imperatora dochodzą niepokojące informacje o nadużyciach senatorskich nadzorców i postępującej defraudacji majątku państwowego. Trzeba przyjrzeć się tej sprawie…"
@@ -41,11 +41,11 @@ CAL_imperator_gwarantem_pokoju: "The Emperor Protects!"
 CAL_lex_commutationis_et_perspicuitais: "Lex Commutationis et Perspicuitatis"
 CAL_lex_lustitiae_socialis:0 "Lex Iustitiae Socialis"
 
-CAL_order_behind_prosna: "Chaos Behind Prosna"
+CAL_order_behind_prosna: "Alea Iacta Est!"
 CAL_new_provinces: "New Provinces"
 CAL_new_calisians: "New Calisians"
 CAL_new_senators: "New Senators"
-CAL_recruitment_campaign: "Recruitment Campaign"
+CAL_recruitment_campaign: "Fidus in Imperio"
 CAL_latinisation_of_ostrovia: "Latinisation of Ostrovia"
 CAL_new_legions: "New Legions"
 CAL_legionists_training: "Legionists Training"
@@ -62,7 +62,7 @@ CAL_cavalry_experience: "Cavalry Experience"
 CAL_barbarians_of_previous_era: "Barbarians of Previous Era"
 CAL_triumph_in_lessna_polonorum: "Triumph in Lessna Polonorum"
 CAL_commission_papers: "Commission Papers"
-CAL_calisian_region: "Calisian Region"
+CAL_calisian_region: "There was once a dream..."
 
 
 CAL_dobrze_jest_byc_cesarzem_desc: ""
