@@ -1,0 +1,20 @@
+﻿l_polish:
+ modifier_production_speed_power_plant_factor:0 "Tempo budowy §Yelektrowni§!"
+ modifier_production_speed_power_plant_factor_desc:0 "Zmiana tempa budowy elektrowni."
+ modifier_production_speed_wind_farm_factor:0 "Tempo budowy §Yelektrowni odnawialnych źródeł energii§!" 
+ modifier_production_speed_wind_farm_factor_desc:0 "Zmiana tempa budowy elektrowni odnawialnych źródeł energii."
+ modifier_experience_gain_attack_monitor_training_factor:1 "Attack monitor Training Experience Gain" #Wzrost doświadczenia 
+ modifier_experience_gain_attack_monitor_combat_factor:1 "Attack monitor Combat Experience Gain" #Wzrost doświadczenia
+ modifier_experience_gain_heavy_monitor_training_factor:1 "Heavy monitor Training Experience Gain" #Wzrost doświadczenia 
+ modifier_experience_gain_heavy_monitor_combat_factor:1 "Heavy monitor Combat Experience Gain" #Wzrost doświadczenia  
+ modifier_experience_gain_kayak_training_factor:1 "Wzrost doświadczenia kajaka podczas ćwiczeń"
+ modifier_experience_gain_kayak_combat_factor:1 "Wzrost doświadczenia bojowego kajaka"
+ modifier_experience_gain_monitor_training_factor:1 "Monitor Training Experience Gain" #Wzrost doświadczenia
+ modifier_experience_gain_monitor_combat_factor:1 "Monitor Combat Experience Gain" #Wzrost doświadczenia
+ modifier_experience_gain_torpedo_boat_training_factor:1 "Wzrost doświadczenia torpedowca podczas ćwiczeń" 
+ modifier_experience_gain_torpedo_boat_combat_factor:1 "Wzrost doświadczenia bojowego torpedowca" 
+ angry_on_fellow_warlord: "Wściekły na innego watażkę"
+ developed_economy_modifier: "Rozwinięta Gospodarka"
+ modifier_unit_forest_infantry_design_cost_factor: "Koszt projektu jednostki leśnej piechoty " 
+ modifier_experience_gain_forest_infantry_combat_factor: "Doświadczenie jednostek leśnej piechoty pozyskane w walce" 
+ modifier_experience_gain_melee_infantry_combat_factor: "Doświadczenie jednostek piechoty do walki w zwarciu w walce"
