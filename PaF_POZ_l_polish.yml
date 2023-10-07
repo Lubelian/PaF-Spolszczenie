@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
  ## National Spirits ##
  POZ_zabka: "Żabka"
  POZ_selgros: "Selgros Sp. z o.o."
@@ -73,10 +73,10 @@
  POZ_recovery: "Recovery"
  POZ_recovery_desc: ""
 
- POZ_bikes_instead_tanks: "Rowery zamiast czołgów"
+ POZ_bikes_instead_tanks: "Mobilność rowerowa"
  POZ_bikes_instead_tanks_desc: ""
 
- POZ_recruations_actions: "Akcje rekrutacyjne"
+ POZ_recruations_actions: "Straż nad Wartą"
  POZ_recruations_actions_desc: ""
 
  POZ_saving_power: "Saving Power"
