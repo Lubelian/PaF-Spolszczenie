@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
 ##PIU## 
 WYMORDOWAC_WSZYSTKICH_POLAKOW_TOOLTIP: "§HLicznik martwych Polaków§!\n\nTutaj pokazano, ilu Polaków zginęło podczas Upadku od marca 2027 r"
  armament_company:0 "Kontrahent wojskowy"
@@ -16,19 +16,17 @@ WYMORDOWAC_WSZYSTKICH_POLAKOW_TOOLTIP: "§HLicznik martwych Polaków§!\n\nTutaj
  COUNTRY_SELECT_SAP_ZERO:0 "Księstwo Ellanderskie"
  COUNTRY_SELECT_KRS_ZERO:0 "Konsorcjum Kwiatowe"    
  LODZ_DESC_BOOKMARK: "Though disappearance of Bałuty in the atomic conflagration did not have great economic significance, it led to the collapse of the power structures in the voivodeship. The once 'beautiful' landscapes of Łódź turned into barbaric wastelands, ruled by not so quite normal warlords."
- 
- marxism_cranism_drift:0 "Poparcie dla marksistów-dźwigistów / dzień" Marxism-Cranism Drift
- squattism_drift:0 "Poparcie dla skłotystów / dzień" Squattism Drift
- socialdemocrature_drift:0 "Poparcie dla socjaldemokratów / dzień" Socialdemocrature Drift
- euroliberalism_drift:0 "Poparcie dla euroliberalistów / dzień"  Euroliberalism Drift
- freemarketism_drift:0 "Poparcie dla wolnorynkowców / dzień"  Freemarketism Drift
- corporativism_drift:0 "Poparcie dla korporacjonistów / dzień" Corporativism Drift
- paternal_conservatism_drift:0 "Poparcie dla paternalistycznych konserwatystów / dzień" Paternal Conservatism Drift
- autocracy_drift:0 "Poparcie dla autokratów / dzień" Autocracy Drift
- neonationalism_drift:0 "Poparcie dla neonacjonalistów / dzień" Neonationalism Drift
- reactionary_drift:0 "Poparcie dla reakcjonistów / dzień" Reactionary Drift
- postpolonism_drift:0 "Poparcie dla postpolonistów / dzień" Postpolonism Drift
-
+ marxism_cranism_drift:0 "Poparcie dla marksistów-dźwigistów / dzień"
+ squattism_drift:0 "Poparcie dla skłotystów / dzień"
+ socialdemocrature_drift:0 "Poparcie dla socjaldemokratów / dzień"
+ euroliberalism_drift:0 "Poparcie dla euroliberalistów / dzień"
+ freemarketism_drift:0 "Poparcie dla wolnorynkowców / dzień"
+ corporativism_drift:0 "Poparcie dla korporacjonistów / dzień"
+ paternal_conservatism_drift:0 "Poparcie dla paternalistycznych konserwatystów / dzień"
+ autocracy_drift:0 "Poparcie dla autokratów / dzień"
+ neonationalism_drift:0 "Poparcie dla neonacjonalistów / dzień"
+ reactionary_drift:0 "Poparcie dla reakcjonistów / dzień"
+ postpolonism_drift:0 "Poparcie dla postpolonistów / dzień"
  hospital_tech_research: "Hospital Tech Research Speed"
  engineers_tech_research: "Engineers Tech Research Speed"
  ranged_weapons_research: "Ranged Weapons Tech Research Speed"
@@ -39,7 +37,6 @@ WYMORDOWAC_WSZYSTKICH_POLAKOW_TOOLTIP: "§HLicznik martwych Polaków§!\n\nTutaj
  infantry_uniform_research: "Uniforms Research Speed"
  heavy_artillery_research: "Heavy Artillery Research Speed"
  helicopter: "Helikopter"
-
  energy_modifer:0 "Energia"
  coal_used_by_power_plants_modifier: "Wykorzystywane przez elektrownie"
  coring_cost_factor: "Koszt asymilacji"
