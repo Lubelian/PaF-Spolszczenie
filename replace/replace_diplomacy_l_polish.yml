@@ -1,0 +1,5 @@
+﻿l_polish:
+ DIPLOMACY_MESSAGE_ACTION_TITLE:0 "Kweek od: $COUNTRY$"
+ DIPLOMACY_MESSAGE_OTHERS_TITLE:0 "Kweek od: $COUNTRY$"
+ DIPLOMACY_WAR_OTHERS_DESC:1 "§C$ACTOR$§! STRONG\n§R$TARGET$§! WE WAR YOU"
+ embargo_initiator_extended_desc:0 "$COU`NTRY1|Y$ nakłada embargo na: $COUNTRY2|Y$"
