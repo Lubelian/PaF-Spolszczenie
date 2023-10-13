@@ -1,8 +1,16 @@
-﻿l_polish:
+l_polish:
+ aircraft_equipment: "Samolot cywilny"
+ aircraft_equipment_desc: "Civilian planes stockpiled by our army, used to conduct simple reconnaissance tasks."
  primitive_aircraft:0 "Odnaleziony samolot cywilny"
  primitive_aircraft_desc:0 "All kinds of small and medium-size civilian planes that have been stumbled upon and looted by warlord rabble. Most of them cannot be used for anything else than scouting or flying above the enemies' ears just to annoy them with engine humming."
- primitive_aircraft_equipment:0 "Odnalezione samoloty cywilne"
+ primitive_aircraft_equipment:0 "Odnaleziony samolot cywilny"
  primitive_aircraft_equipment_desc:0 "All kinds of small and medium-size civilian planes that have been stumbled upon and looted by warlord rabble. Most of them cannot be used for anything else than scouting or flying above the enemies' ears just to annoy them with engine humming."
+
+#FIGHTERY SĄ W TYM REPLACE PLICZKU UWAGA
+ fighter_equipment_4: "Nowoczesny myśliwiec V generacji"
+ fighter_equipment_4_desc: "Modern 5th generation fighters used by Russkies and Americans, as well as upgraded 4th- and 4.5 gen fighters that still find use in their armies. Either imported from abroad as ''humanitarian aid'' or shamelessly downgraded and copied domestically, because how in the fuck are we supposted to afford even a single F-35."
+#FIGHTERY SĄ W TYM REPLACE PLICZKU UWAGA
+
  bomber_equipment:0 "Bombowce"
  bomber_equipment_desc:0 "I'm trying my hardest to make a ''all toasters toast toast'' bit here but ''all bombers drop bombs'' 's missing the mark a bit."
  bomber_equipment_0:0 "Półstandaryzowany samolot rolniczy"
@@ -15,7 +23,6 @@
  bomber_equipment_3_desc:0 ""Frogfoots" and other tested Cold War-era aircraft designed with close air support and attack aircraft roles in mind."
  bomber_equipment_4:0 "Nowoczesny samoloty b. wsparcia i szturmowy" 
  bomber_equipment_4_desc:0 "More advanced Cold War planes outfitted with various high tech gadgets and technologies that provide close air support to Americans and their sphere to this day."
-#
  transport_equipment:0 "Samolot transportowy"
  transport_equipment_desc:0 "Aircraft used by paratroopers and supplies to fall out of."
  transport_equipment_0:0 "Lekki samolot i regionalny samolot pasażerski"
@@ -28,7 +35,6 @@
  transport_equipment_3_desc:0 "Copies of heavy, Cold War-era models of airlifters that were still used by many third or even second world armies up to early 2000's."
  transport_equipment_4:0 "Nowoczesny transportowiec"
  transport_equipment_4_desc:0 "Technologically advanced and well suited for harsh landing conditions transport aircraft models (and copies thereof) of the late Cold War, used to this day by the biggest world powers, such as the Russian Il-76 and An-12, the Indian A-50E/I and the American C-130 Hercules."
-#DRONY SPACJA
  uav:0 "Dron"
  uav_equipment:0 "Bezzałogowy statek powietrzny"
  uav_equipment_desc:0 "Aerial vehicles that carry no personnel onboard. They come in a multitude of types, serving various different purposes depending on their shape and size."
@@ -42,7 +48,6 @@
  drone_3_equipment_desc:0 "More advanced drones that have been bought online and/or modified for use in the military."
  drone_4_equipment:0 "Zaawansowany UAV zwiadowczy"
  drone_4_equipment_desc:0 "Drones of mostly western origin, used by militaries worldwide to conduct reconnaissance across entire regions."
-#ucav
  ucav_equipment: "Bezzałogowe bojowe statki powietrzne"
  drones_research: "Szybkość badań nad dronami"
  combat_drone:0 "Dron bojowy"
@@ -54,7 +59,6 @@
  combat_drone_1_equipment_desc:0 "Armed drones that - thanks to their increased size yet still stealthy profiles - can wreck more havoc among enemy lines and infrastructure."
  combat_drone_2_equipment:0 "Zaawansowany UCAV"
  combat_drone_2_equipment_desc:0 "Top-shelf modern combat drones with multiple advanced functions and abilities."
-#HELIKOJPTRY
  helicopter_equipment:0 "Helikoptery bojowe"
  helicopter_equipment_desc:0 "...*pyr-pyr-pyr-pyr-pyr-pyr-BRRRRRRRRRRRRRRRRRRRRRRRRRRR-pyr-pyr-pyr-pyr-pyr-pyr*..."
  helicopter_0_equipment:0 "Cywilny helikopter i aerostat"
@@ -67,8 +71,6 @@
  helicopter_3_equipment_desc:0 "Hinds and other mass-exported Cold War-era helicopter gunships. They go 'pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr' and make people in front of them go 'oh God-oh shit-oh God-oh shit-oh God-oh shit-oh God-oh shit'."
  helicopter_4_equipment:0 "Nowoczesny helikopter szturmowy"
  helicopter_4_equipment_desc:0 "Copies of Polish W-3 Sokółs and SW-4 Puszczyks produced in Świdnik before the Fall. Finally - some good, modern equipment that we dont have to illegally copy from abroad."
-#trans koptery
-#haha identyfikuje sie jako helikopter???????? haha smieszne??????? halo czemus ie nie śmiejecie halo co jest chłopacy przecież to takie zabawne o co wy
  trans_helicopter_equipment:0 "Helikoptery transportowe"
  trans_helicopter_equipment_desc:0 "...*pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr*..."
  trans_helicopter_equipment_0:0 "Cywilny i wojskowy helikopter transportowy"
@@ -77,3 +79,4 @@
  trans_helicopter_equipment_1_desc:1 "Cold War helicopters designed with transporting troops in mind, such as the Mi-8. They go 'pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr-pyr', but instead of making people go 'oh God-oh shit-oh God-oh shit-oh God-oh shit-oh God-oh shit' they pick them up and drop them off elsewhere."
  trans_helicopter_equipment_2:2 "Nowoczesny wojskowy helikopter transportowy"
  trans_helicopter_equipment_2_desc:2 "Chinooks and other modern, heavy transport copters. The choppas that Schwarzenegger told you to get to."
+ tac_drone_0_equipment: "Bombowiec międzywojenny"
