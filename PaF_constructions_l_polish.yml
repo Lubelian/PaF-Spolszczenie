@@ -1,0 +1,10 @@
+﻿l_polish:
+ ENERGY_BALANCE:0 "[?ROOT.current_balance]"
+ ENERGY_BALANCE_NEGATIVE:0 "§R[?ROOT.current_balance]§!"
+ ENERGY_BALANCE_TT_NEGATIVE:0 "\n\n§RMało mocy§!\n\nBieżące efekty:\n-Szybkość budowy: [?low_power_penalty|+=%1]\n-Moc przerobowa fabryk: [?low_power_penalty|+=%1]\nZbuduj więcej elektrowni, aby rozwiązać ten problem!"
+ GENERATED_ENERGY:0 "[?ROOT.generated_energy]"
+ ENERGY_LOC:0 "[ROOT.GetEnergyBalance]" 
+ ENERGY_BALANCE_TOOLTIP:0 "§HBalans energetyczny§!\n\nTutaj pokazane jest, ile energii pozostało do wykorzystania.[GetEnergyBalanceTooltip]"
+ ENERGY_BALANCE_TOOLTIP_DELAYED:0 "Generowana energia: §H[?ROOT.generated_energy]§!\nWykorzystywana energia §H[?ROOT.used_energy]§!\nEksportowana energia: §H[?ROOT.energy_exported]§!\nImportowana energia: §H[?ROOT.energy_imported]§!"
+ GENERATED_ENERGY_TOOLTIP:0 "§HWytworzona energia§!\n\nTu jest pokazanie, jak dużo energii generujesz."
+ lack_of_energy_modifier:0 "Brak mocy!"
