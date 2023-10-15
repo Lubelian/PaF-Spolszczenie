@@ -1,8 +1,8 @@
-﻿l_polish:
+l_polish:
   unified_voivodeship: "Zjednoczono województwo"
   unified_regional: "Zjednoczono region"
-  unified_supregional: "Zjednoczono superregion"
-  poland_mountain: "Zjednoczono Polskę!"
+  unified_supregional: "Zjednocz superregion lub ogłoś rząd narodowy!" 
+  poland_mountain: "Zjednocz Polskę!"
   recruit_in_central_poland:0 "Utworzenie sekcji środkowopolskiej" 
   recruit_in_central_poland_state:0 "Rekrutacja w Środkowej Polsce"
   recruit_in_pomorze:0 "Utworzenie sekcji pomorskiej"
