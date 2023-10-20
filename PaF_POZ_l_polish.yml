@@ -23,6 +23,10 @@ l_polish:
  POZ_small_bastion_democracy_desc: ""
  POZ_female_face_of_army: "Kobieca twarz armii"
  POZ_female_face_of_army_desc: ""
+ POZ_voice_in_hall: "Głos w Hali"
+ POZ_voice_in_hall_desc: ""
+ POZ_readiness_forces: "Gotowość sił"
+ POZ_readiness_forces_desc: ""
  
  ## First Tree ##
  POZ_jaskowiak_speech: "Przemowa Jaśkowiaka"
@@ -103,7 +107,7 @@ l_polish:
  POZ_mobilise_the_troops: "Mobilise the Troops"
  POZ_mobilise_the_troops_desc: ""
 
- POZ_meeting_in_town_hall: "Meeting in Town Hall"
+ POZ_meeting_in_town_hall: "Meeting in City Hall"
  POZ_meeting_in_town_hall_desc: ""
 
  ## War Tree ##
