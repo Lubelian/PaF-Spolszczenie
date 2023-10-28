@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
  ##IDEA CATEGORIES##
  regime_policies: "System polityczny"
  military_policies: "Wojsko"
@@ -268,6 +268,11 @@ advocate_of_the_streets: "Advocate of the Streets"
  geopolitics_duo: "Duet geopolityczny"
  peoples_paladin: "Paladyn ludu"
  tiktoker: "Tiktoker"
+ in_vitro_activist: "Aktywista In vitro" 
+ adamowicz_institute_chairwoman: "Prezes Instytutu Adamowicza"
+ solidarity_journalist: "Dziennikarz Solidarności"
+ follower_of_dialogue: "Zwolennik dialogu"
+ district_plannist: "Planista miejsko-dzielnicowy"
   ###COMMANDER TRAITS###
  educated: "Wykształcony"
  educated_desc: "§LTen generał otrzymał wyższe wykształcenie jako oficer.§!"
