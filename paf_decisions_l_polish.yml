@@ -379,8 +379,8 @@ squat_pump_yourself_to_fight_desc:0 "Musimy przygotować się do walki o nasze t
 unification_category:0 "Zjednoczenie Polski"
 unification_category_desc:0 ""
 
-controls_lodz_voivodeship:0 "Kontroluje całe województwo łódzkie"
-controls_lublin_voivodeship:0 "Kontroluje całe województwo lubelskie"
+controls_lodz_voivodeship: "Kontroluje całe województwo łódzkie"
+controls_lublin_voivodeship: "Kontroluje całe województwo lubelskie"
 
 lodz_voivodeship_unification:0 "Zjednocz Województwo Łódzkie!"
 zaglebie_voivodeship_unification:0 "Zjednocz Zagłębie i Jurę!"
