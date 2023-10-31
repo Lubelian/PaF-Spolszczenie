@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
 
 ###LEGION HONORU###
  WOD_voivodeship_neonationalism: "Śląski Obóz Narodowy"
@@ -392,7 +392,7 @@
  SOS_wcz_good_final_socialdemocrature_ADJ: "Pol." 
 
 ###BYTOM###
- RAS_voivodeship_reactionary: "Herzogtum Schlesien"
+ RAS_voivodeship_reactionary: "Księstwo Śląskie"
  RAS_voivodeship_reactionary_DEF: "Herzogtum Schlesien"
  RAS_voivodeship_reactionary_ADJ: "Śląsk."
  
@@ -404,7 +404,7 @@
  RAS_supregional_reactionary_DEF: "Königreich Schlesien"
  RAS_supregional_reactionary_ADJ: "Śląsk."
  
- RAS_final_reactionary: "Königreich Schlesien"
+ RAS_final_reactionary: "Królestwo Śląskie"
  RAS_final_reactionary_DEF: "Königreich Schlesien"
  RAS_final_reactionary_ADJ: "Śląsk." 
  
@@ -493,7 +493,7 @@
  JSW_jsw_final_corporativism_ADJ: "Pol." 
  JSW_coal_final_reactionary: "Bractwo Węgla i Stali"
  JSW_coal_final_reactionary_DEF: "Bractwo Węgla i Stali"
- JSW_coal_final_reactionary_ADJ: "Bractwo Węgla i Stali" 
+ JSW_coal_final_reactionary_ADJ: "Węgla i Stali"
  
  
 ###KATOVICE###
@@ -681,39 +681,39 @@
  CCH_masons_final_postpolonism_ADJ: "Pol."
 
 ###GOOWINIARZE###
- ZAW_voivodeship_euroliberalism: "Republika Jurajska"
- ZAW_voivodeship_euroliberalism_DEF: "Republika Jurajska"
- ZAW_voivodeship_euroliberalism_ADJ: "Jurajsk."
- ZAW_voivodeship_paternal_conservatism: "Tymczasowy Rząd Małopolski"
- ZAW_voivodeship_paternal_conservatism_DEF: "Tymczasowy Rząd Małopolski"
- ZAW_voivodeship_paternal_conservatism_ADJ: "Małop." 
- ZAW_voivodeship_neonationalism: "Republika Jurajska"
- ZAW_voivodeship_neonationalism_DEF: "Republika Jurajska"
- ZAW_voivodeship_neonationalism_ADJ: "Jurajsk."
- ZAW_voivodeship_freemarketism: "Tymczasowy Rząd Małopolski"
- ZAW_voivodeship_freemarketism_DEF: "Tymczasowy Rząd Małopolski"
- ZAW_voivodeship_freemarketism_ADJ: "Małop." 
+ JUR_voivodeship_euroliberalism: "Republika Jurajska"
+ JUR_voivodeship_euroliberalism_DEF: "Republika Jurajska"
+ JUR_voivodeship_euroliberalism_ADJ: "Jurajsk."
+ JUR_voivodeship_paternal_conservatism: "Tymczasowy Rząd Małopolski"
+ JUR_voivodeship_paternal_conservatism_DEF: "Tymczasowy Rząd Małopolski"
+ JUR_voivodeship_paternal_conservatism_ADJ: "Małop." 
+ JUR_voivodeship_neonationalism: "Republika Jurajska"
+ JUR_voivodeship_neonationalism_DEF: "Republika Jurajska"
+ JUR_voivodeship_neonationalism_ADJ: "Jurajsk."
+ JUR_voivodeship_freemarketism: "Tymczasowy Rząd Małopolski"
+ JUR_voivodeship_freemarketism_DEF: "Tymczasowy Rząd Małopolski"
+ JUR_voivodeship_freemarketism_ADJ: "Małop." 
  
- ZAW_regional_paternal_conservatism: "Tymczasowy Rząd Małopolski"
- ZAW_regional_paternal_conservatism_DEF: "Tymczasowy Rząd Małopolski"
- ZAW_regional_paternal_conservatism_ADJ: "Małop." 
- ZAW_regional_freemarketism: "Tymczasowy Rząd Małopolski"
- ZAW_regional_freemarketism_DEF: "Tymczasowy Rząd Małopolski"
- ZAW_regional_freemarketism_ADJ: "Małop."  
+ JUR_regional_paternal_conservatism: "Tymczasowy Rząd Małopolski"
+ JUR_regional_paternal_conservatism_DEF: "Tymczasowy Rząd Małopolski"
+ JUR_regional_paternal_conservatism_ADJ: "Małop." 
+ JUR_regional_freemarketism: "Tymczasowy Rząd Małopolski"
+ JUR_regional_freemarketism_DEF: "Tymczasowy Rząd Małopolski"
+ JUR_regional_freemarketism_ADJ: "Małop."  
  
- ZAW_supregional_paternal_conservatism: "Federacja Polska"
- ZAW_supregional_paternal_conservatism_DEF: "Federacja Polska"
- ZAW_supregional_paternal_conservatism_ADJ: "Pol." 
- ZAW_supregional_freemarketism: "Federacja Polska"
- ZAW_supregional_freemarketism_DEF: "Federacja Polska"
- ZAW_supregional_freemarketism_ADJ: "Pol."  
+ JUR_supregional_paternal_conservatism: "Federacja Polska"
+ JUR_supregional_paternal_conservatism_DEF: "Federacja Polska"
+ JUR_supregional_paternal_conservatism_ADJ: "Pol." 
+ JUR_supregional_freemarketism: "Federacja Polska"
+ JUR_supregional_freemarketism_DEF: "Federacja Polska"
+ JUR_supregional_freemarketism_ADJ: "Pol."  
  
- ZAW_gowin_final_paternal_conservatism: "Federacja Polska"
- ZAW_gowin_final_paternal_conservatism_DEF: "Federacja Polska"
- ZAW_gowin_final_paternal_conservatism_ADJ: "Pol." 
- ZAW_gowin_final_freemarketism: "Federacja Polska"
- ZAW_gowin_final_freemarketism_DEF: "Federacja Polska"
- ZAW_gowin_final_freemarketism_ADJ: "Pol."  
+ JUR_gowin_final_paternal_conservatism: "Federacja Polska"
+ JUR_gowin_final_paternal_conservatism_DEF: "Federacja Polska"
+ JUR_gowin_final_paternal_conservatism_ADJ: "Pol." 
+ JUR_gowin_final_freemarketism: "Federacja Polska"
+ JUR_gowin_final_freemarketism_DEF: "Federacja Polska"
+ JUR_gowin_final_freemarketism_ADJ: "Pol."  
  
  ###CZARNEK###
  CRN_voivodeship_paternal_conservatism: "Katolicka Republika Lubelska"
@@ -1031,7 +1031,7 @@
 
  ZON_witcher_squattism: "Otchłań"
  ZON_witcher_squattism_DEF: "Otchłań"
- ZON_witcher_squattism_ADJ: "Otchłań"  
+ ZON_witcher_squattism_ADJ: "Otch."
 
 ###ZHP###
  ZHP_voivodeship_paternal_conservatism: "Autonomiczna Chorągiew ZHR"
