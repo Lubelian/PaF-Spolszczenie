@@ -380,7 +380,7 @@ unification_category:0 "Zjednoczenie Polski"
 unification_category_desc:0 ""
 
 controls_lodz_voivodeship: "Kontroluje całe województwo łódzkie"
-controls_zaglebie: "Kontroluje zagłębie" #niemam pomysłu na to lol
+controls_zaglebie: "Kontroluje Zagłębie i Jurę"
 controls_lublin_voivodeship: "Kontroluje całe województwo lubelskie"
 
 lodz_voivodeship_unification:0 "Zjednocz Województwo Łódzkie!"
