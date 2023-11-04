@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
  STATE_1: "Baranowicze"
  STATE_1_CAL: "Baranovia"
  STATE_1_CZE: "Baranavuichi"
@@ -1632,11 +1632,11 @@
  STATE_172_USP: "Barry"
  
  STATE_173: "Sierpc"
- STATE_173_CAL: "Serpecia"
- STATE_173_CZE: "Serupesu"
+ STATE_173_CAL: "Falx"
+ STATE_173_CZE: "Surupuku"
  STATE_173_GER: "Sichelberg"
- STATE_173_JOM: "Sigdborg"
- STATE_173_LEH: "Sierpcz"
+ STATE_173_JOM: "Sigðborg"
+ STATE_173_LEH: "Sierpc"
  STATE_173_UKROS: "Sierpiec"
  STATE_173_USP: "Sickle"
  
@@ -2343,13 +2343,13 @@
  STATE_251_USP: "Babe's Bridge"
  
  STATE_252: "Otwock"
- STATE_252_CAL: "Otvosco"
- STATE_252_CZE: "Otobokku"
- STATE_252_GER: "Otwozk"
- STATE_252_JOM: "Otvik"
- STATE_252_LEH: "Otwosko"
+ STATE_252_CAL: "Otvokia"
+ STATE_252_CZE: "Otofotsuku"
+ STATE_252_GER: "Otwotzk"
+ STATE_252_JOM: "Oþvok"
+ STATE_252_LEH: "Otwock"
  STATE_252_UKROS: "Otwock"
- STATE_252_USP: "Opener Wok"
+ STATE_252_USP: "Otwoke"
  
  STATE_253: "Kościan"
  STATE_253_CAL: "Costian"
@@ -2505,13 +2505,13 @@
  STATE_269_USP: "Witcherland"
  
  STATE_270: "Żyrardów"
- STATE_270_CAL: "Girardovia"
- STATE_270_CZE: "Geruharudofu"
- STATE_270_GER: "Scholtzburg"
- STATE_270_JOM: "Geraldsborg"
- STATE_270_LEH: "Ruda Guzowska"
+ STATE_270_CAL: "Gebhardum"
+ STATE_270_CZE: "Jirarudofu"
+ STATE_270_GER: "Gerhardau"
+ STATE_270_JOM: "Geirharðrar"
+ STATE_270_LEH: "Geraltów"
  STATE_270_UKROS: "Żyrardów"
- STATE_270_USP: "Jerryville"
+ STATE_270_USP: "Chandeliertown"
  
  STATE_271: "Jarocin"
  STATE_271_CAL: "Iarotin"
