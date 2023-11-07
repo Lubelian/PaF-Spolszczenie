@@ -21,8 +21,6 @@ l_polish:
  FRA_reactionary_party_long: "Rekonkwista"
  FRA_postpolonism_party: "Terre et Peuple"
  FRA_postpolonism_party_long: "Ziemia i ludzie"
-
-
  ENG_marxism_cranism_party: "Komunistyczna Partia"
  ENG_marxism_cranism_party_long: "Komunistyczna Partia Brytanii"
  ENG_squattism_party: "Partia Zielonych"
@@ -45,7 +43,6 @@ l_polish:
  ENG_reactionary_party_long: "Reform UK"
  ENG_postpolonism_party: "Zakon Dziewięciu Kątów"
  ENG_postpolonism_party_long: "Zakon Dziewięciu Kątów"
- 
  CHI_marxism_cranism_party: "Zhōngguó Gòngchǎndǎng"
  CHI_marxism_cranism_party_long: "Komunistyczna Partia Chin"
  CHI_squattism_party: "Zhōngguó mínzhǔ shèhuìdǎng"
@@ -68,7 +65,6 @@ l_polish:
  CHI_reactionary_party_long: "Związek Chińskich Nacjonalistów"
  CHI_postpolonism_party: "Guóyúdǎng"
  CHI_postpolonism_party_long: "Kuoyutang"
-
  USA_marxism_cranism_party: "CPUSA"
  USA_marxism_cranism_party_long: "Komunistyczna Partia Stanów Zjednoczonych"
  USA_squattism_party:"Black Lives Matter"
@@ -91,7 +87,6 @@ l_polish:
  USA_reactionary_party_long: "Partia Republikańska - Frakcja Trumpa"
  USA_postpolonism_party: "Atomwaffen Division"
  USA_postpolonism_party_long: "Atomwaffen Division"
- 
  WOD_marxism_cranism_party: "Legion Honoru - Pax"
  WOD_marxism_cranism_party_long: "Legion Honoru"
  WOD_squattism_party: "Antifa Śląsk"
@@ -114,7 +109,6 @@ l_polish:
  WOD_reactionary_party_long: "Legion Honoru - Aryjczycy"
  WOD_postpolonism_party: "Legion Honoru - Poganie"
  WOD_postpolonism_party_long: "Legion Honoru - Poganie"
- 
  DGR_marxism_cranism_party: "Komunistyczna Partia Polski"
  DGR_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  DGR_squattism_party: "Młodzi Hutnicy"
@@ -137,7 +131,6 @@ l_polish:
  DGR_reactionary_party_long: "Woje Syjonu"
  DGR_postpolonism_party: "Obóz Zielona"
  DGR_postpolonism_party_long: "Obóz Zielona"
- 
  DGA_marxism_cranism_party: "Komunistyczna Partia Polski"
  DGA_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  DGA_squattism_party: "Młodzi Hutnicy"
@@ -160,7 +153,6 @@ l_polish:
  DGA_reactionary_party_long: "Woje Syjonu"
  DGA_postpolonism_party: "Obóz Zielona"
  DGA_postpolonism_party_long: "Obóz Zielona" 
- 
  BRZ_marxism_cranism_party: "ZWKT"
  BRZ_marxism_cranism_party_long: "Związek Wolnych Klubów Truskolaskich"
  BRZ_squattism_party: "Ultras Truskolasy"
@@ -183,7 +175,6 @@ l_polish:
  BRZ_reactionary_party_long: "FC Grom Miedźno"
  BRZ_postpolonism_party: "Kibole-Kryminaliści"
  BRZ_postpolonism_party_long: "Kibole-Kryminaliści"
- 
  TRC_marxism_cranism_party: "ZWK"
  TRC_marxism_cranism_party_long: "Związek Klubów Truskolaskich" 
  TRC_squattism_party: "Ultras Truskolasy"
@@ -206,7 +197,6 @@ l_polish:
  TRC_reactionary_party_long: "FC Polonia Bytom"
  TRC_postpolonism_party: "Kibole-Kryminaliści"
  TRC_postpolonism_party_long: "Kibole-Kryminaliści"
- 
  CIE_marxism_cranism_party: "KPP"
  CIE_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  CIE_squattism_party: "Anarchiści"
@@ -229,7 +219,6 @@ l_polish:
  CIE_reactionary_party_long: "Zbójnicy"
  CIE_postpolonism_party: "Janosikowe Bandy"
  CIE_postpolonism_party_long: "Janosikowe Bandy"
- 
  BSK_marxism_cranism_party: "KPP"
  BSK_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  BSK_squattism_party: "Razem"
@@ -243,7 +232,7 @@ l_polish:
  BSK_paternal_conservatism_party: "PiS"
  BSK_paternal_conservatism_party_long: "Prawo i Sprawiedliwość"
  BSK_corporativism_party: "ATAL S.A."
- BSK_corporativism_party_long: "ATAL SA"
+ BSK_corporativism_party_long: "ATAL S.A."
  BSK_autocracy_party: "Zbójnicy"
  BSK_autocracy_party_long: "Zbójnicy"
  BSK_neonationalism_party: "UP - Frakcja Radykalna"
@@ -252,7 +241,6 @@ l_polish:
  BSK_reactionary_party_long: "Wolne Miasto Wilamowice"
  BSK_postpolonism_party: "Janosikowe Bandy"
  BSK_postpolonism_party_long: "Janosikowe Bandy"
- 
  CCH_marxism_cranism_party: "PChS"
  CCH_marxism_cranism_party_long: "Partia Chrześcijańskich Socjalistów"
  CCH_squattism_party: "PChS"
@@ -275,7 +263,6 @@ l_polish:
  CCH_reactionary_party_long: "Zakon Paulinów - Krzyżowcy"
  CCH_postpolonism_party: "Loża Masońska Polski"
  CCH_postpolonism_party_long: "Loża Masońska Polski"
- 
  GLI_marxism_cranism_party: "KPŚ"
  GLI_marxism_cranism_party_long: "Komunistyczna Partia Śląska"
  GLI_squattism_party: "Uōtwarty Ślōnsk"
@@ -298,7 +285,6 @@ l_polish:
  GLI_reactionary_party_long: "Związek Górnoślązaków"
  GLI_postpolonism_party: "Islam dlo Ślonska"
  GLI_postpolonism_party_long: "Islam dla Śląska"
- 
  FER_marxism_cranism_party: "KPŚ"
  FER_marxism_cranism_party_long: "Komunistyczna Partia Śląska"
  FER_squattism_party: "Uōtwarty Ślōnsk"
@@ -321,7 +307,6 @@ l_polish:
  FER_reactionary_party_long: "Związek Górnoślązaków"
  FER_postpolonism_party: "Islam dlo Ślonska"
  FER_postpolonism_party_long: "Islam dla Śląska"
- 
  CHO_marxism_cranism_party: "KPŚ"
  CHO_marxism_cranism_party_long: "Komunistyczna Partia Śląska"
  CHO_squattism_party: "Uōtwarty Ślōnsk"
@@ -344,7 +329,6 @@ l_polish:
  CHO_reactionary_party_long: "Związek Górnoślązaków"
  CHO_postpolonism_party: "Ślōnskŏ Ferajna"
  CHO_postpolonism_party_long: "Śląsko Ferajna"
- 
  RUD_marxism_cranism_party: "KPŚ"
  RUD_marxism_cranism_party_long: "Komunistyczna Partia Śląska"
  RUD_squattism_party: "Uōtwarty Ślōnsk"
@@ -367,7 +351,6 @@ l_polish:
  RUD_reactionary_party_long: "Związek Górnoślązaków"
  RUD_postpolonism_party: "Ślōnskŏ Ferajna"
  RUD_postpolonism_party_long: "Śląsko Ferajna"
- 
  JAW_marxism_cranism_party: "KPP"
  JAW_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  JAW_squattism_party: "Antifa Jaworzno"
@@ -390,7 +373,6 @@ l_polish:
  JAW_reactionary_party_long: "Woje Syjonu"
  JAW_postpolonism_party: "Antifa Jaworzno - Brygada Anarchokapitalistyczna"
  JAW_postpolonism_party_long: "Antifa Jaworzno - Brygada Anarchokapitalistyczna"
- 
  JSW_marxism_cranism_party: "KPP"
  JSW_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  JSW_squattism_party: "Greenpeace"
@@ -413,7 +395,6 @@ l_polish:
  JSW_reactionary_party_long: "Bractwo Węgla - Śląska Frakcja"
  JSW_postpolonism_party: "Bractwo Węgla"
  JSW_postpolonism_party_long: "Bractwo Węgla"
- 
  JWK_marxism_cranism_party: "Beton Oficerski"
  JWK_marxism_cranism_party_long: "Beton Oficerski"
  JWK_squattism_party: "Razem"
@@ -436,7 +417,6 @@ l_polish:
  JWK_reactionary_party_long: "Związek Spartański"
  JWK_postpolonism_party: "Związek Spartański"
  JWK_postpolonism_party_long: "Związek Spartański"
- 
  KAT_marxism_cranism_party: "KPŚ"
  KAT_marxism_cranism_party_long: "Komunistyczna Partia Śląska"
  KAT_squattism_party: "Śląski Komitet Antyfaszystowski"
@@ -459,7 +439,6 @@ l_polish:
  KAT_reactionary_party_long: "Grupa Zadaniowa Myslovitz"
  KAT_postpolonism_party: "Dyrektoriat Wiślański"
  KAT_postpolonism_party_long: "Dyrektoriat Wiślański"
- 
  RAS_marxism_cranism_party: "KPŚ"
  RAS_marxism_cranism_party_long: "Komunistyczna Partia Śląska"
  RAS_squattism_party: "Antifa Jaworzno"
@@ -482,7 +461,6 @@ l_polish:
  RAS_reactionary_party_long: "Dynastia von Schaffgotschów"
  RAS_postpolonism_party: "Ślonsko Ferajna"
  RAS_postpolonism_party_long: "Śląsko Ferajna"
- 
  SOS_marxism_cranism_party: "KPP"
  SOS_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  SOS_squattism_party: "Antifa Jaworzno"
@@ -550,7 +528,7 @@ l_polish:
  JUR_reactionary_party: "Zawierciańska Odnowa"
  JUR_reactionary_party_long: "Zawierciańska Odnowa"
  JUR_postpolonism_party: "Woje Syjonu"
- JUR_postpolonism_party_long: "Woje Syjonu" 
+ JUR_postpolonism_party_long: "Woje Syjonu"
  
  ASG_marxism_cranism_party: "KPP"
  ASG_marxism_cranism_party_long: "Komunistyczna Partia Polski"
@@ -574,7 +552,6 @@ l_polish:
  ASG_reactionary_party_long: "Unia Airsoftowa"
  ASG_postpolonism_party: "Nieśmiertelni"
  ASG_postpolonism_party_long: "Nieśmiertelni"
- 
  SAP_marxism_cranism_party: "Rewolta Chłopska"
  SAP_marxism_cranism_party_long: "Rewolta Chłopska"
  SAP_squattism_party: "Scoia'tael"
@@ -597,7 +574,6 @@ l_polish:
  SAP_reactionary_party_long: "Zakon Białej Róży"
  SAP_postpolonism_party: "Kultyści Wiecznego Ognia"
  SAP_postpolonism_party_long: "Kultyści Wiecznego Ognia"
- 
  WML_marxism_cranism_party: "Liga Rewolucji 195"
  WML_marxism_cranism_party_long: "Liga Rewolucji 195"
  WML_squattism_party: "Bałuccy squattersi"
@@ -620,7 +596,6 @@ l_polish:
  WML_reactionary_party_long: "Komisja Renowacji Fabryk "Prząśniczka"" 
  WML_postpolonism_party: "Czciciele Atomu"
  WML_postpolonism_party_long: "Czciciele Atomu"
- 
  ZON_marxism_cranism_party: "Liga Rewolucji 195"
  ZON_marxism_cranism_party_long: "Liga Rewolucji 195"
  ZON_squattism_party: "Bałuccy squattersi"
@@ -634,7 +609,7 @@ l_polish:
  ZON_paternal_conservatism_party: "PiS"
  ZON_paternal_conservatism_party_long: "Prawo i Sprawiedliwość"
  ZON_corporativism_party: "H.Skrzydlewska - filia łódzka"
- ZON_corporativism_party_long: "H.Skrzydlewska - Łodz branch"
+ ZON_corporativism_party_long: "H.Skrzydlewska - filia łódzka"
  ZON_autocracy_party: "Monarchiści"
  ZON_autocracy_party_long: "Monarchiści"
  ZON_neonationalism_party: "ŁKS Łódź"
@@ -643,7 +618,6 @@ l_polish:
  ZON_reactionary_party_long: "Komisja Renowacji Fabryk "Prząśniczka"" 
  ZON_postpolonism_party: "Czciciele Atomu"
  ZON_postpolonism_party_long: "Czciciele Atomu"
- 
  KRS_marxism_cranism_party: "Rewolucyjni Związkowcy"
  KRS_marxism_cranism_party_long: "Rewolucyjni Związkowcy"
  KRS_squattism_party: "Radykalni Związkowcy"
@@ -666,7 +640,6 @@ l_polish:
  KRS_reactionary_party_long: "Reakcjoniści"
  KRS_postpolonism_party: "Łódzki Oddział Pogotowia"
  KRS_postpolonism_party_long: "Łódzki Oddział Pogotowia"
- 
  ZHP_marxism_cranism_party: "OHPL"
  ZHP_marxism_cranism_party_long: "Organizacja Harcerska Polski Ludowej"
  ZHP_squattism_party: "Związek Niezależnych Zastępów"
@@ -689,7 +662,6 @@ l_polish:
  ZHP_reactionary_party_long: "Apolityczni Harcerze"
  ZHP_postpolonism_party: "ZHP - Szara Lilijka"
  ZHP_postpolonism_party_long: "Związek Harcerstwa Polskiego - Szara Lilijka"
- 
  BBW_marxism_cranism_party: "Agenci Żydokomuny"
  BBW_marxism_cranism_party_long: "Agenci Żydokomuny"
  BBW_squattism_party: "Atomowa Krucjata - Radykałowie"
@@ -712,7 +684,6 @@ l_polish:
  BBW_reactionary_party_long: "Bractwo Węgla"
  BBW_postpolonism_party: "Czarni Paladyni"
  BBW_postpolonism_party_long: "Czarni Paladyni"
- 
  ATM_marxism_cranism_party: "Posadyści"
  ATM_marxism_cranism_party_long: "Posadyści"
  ATM_squattism_party: "Atomowa Krucjata - Radykałowie"
@@ -735,7 +706,6 @@ l_polish:
  ATM_reactionary_party_long: "Maruderzy Bractwa Węgla"
  ATM_postpolonism_party: "Atomowe Wniebowstąpienie"
  ATM_postpolonism_party_long: "Atomowe Wniebowstąpienie"
- 
  ZYD_marxism_cranism_party: "NIE"
  ZYD_marxism_cranism_party_long: "Nowa Inicjatywa w Ekonomii"
  ZYD_squattism_party: "WKJ-K"
@@ -758,7 +728,6 @@ l_polish:
  ZYD_reactionary_party_long: "Ortodoksyjni Kibole"
  ZYD_postpolonism_party: "NŻB"
  ZYD_postpolonism_party_long: "Niech Żyje Baal"
- 
  CZE_marxism_cranism_party: "WAW"
  CZE_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  CZE_squattism_party: "Wędrowni Rōninowie"
@@ -781,7 +750,6 @@ l_polish:
  CZE_reactionary_party_long: "Garnizon Wojskowy Republiki Czeskiej"
  CZE_postpolonism_party: "Sabat"
  CZE_postpolonism_party_long: "Sabat Czarownic"
- 
  EKS_marxism_cranism_party: "WAW"
  EKS_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  EKS_squattism_party: "Cyganie"
@@ -804,7 +772,6 @@ l_polish:
  EKS_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  EKS_postpolonism_party: "Sabat"
  EKS_postpolonism_party_long: "Sabat Czarownic"
- 
  BOG_marxism_cranism_party: "WAW"
  BOG_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  BOG_squattism_party: "Cyganie"
@@ -827,7 +794,6 @@ l_polish:
  BOG_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  BOG_postpolonism_party: "Sabat"
  BOG_postpolonism_party_long: "Sabat Czarownic"
- 
  OLE_marxism_cranism_party: "WAW"
  OLE_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  OLE_squattism_party: "Anarchia raubritterska"
@@ -850,7 +816,6 @@ l_polish:
  OLE_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  OLE_postpolonism_party: "Sabat"
  OLE_postpolonism_party_long: "Sabat Czarownic"
- 
  ECO_marxism_cranism_party: "WAW"
  ECO_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  ECO_squattism_party: "Cyganie"
@@ -873,7 +838,6 @@ l_polish:
  ECO_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  ECO_postpolonism_party: "Sabat"
  ECO_postpolonism_party_long: "Sabat Czarownic"
- 
  TOU_marxism_cranism_party: "WAW"
  TOU_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  TOU_squattism_party: "Cyganie"
@@ -896,7 +860,6 @@ l_polish:
  TOU_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  TOU_postpolonism_party: "Sabat"
  TOU_postpolonism_party_long: "Sabat Czarownic"
- 
  MPK_marxism_cranism_party: "WAW"
  MPK_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  MPK_squattism_party: "Strajk Kobiet"
@@ -919,7 +882,6 @@ l_polish:
  MPK_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  MPK_postpolonism_party: "Sabat"
  MPK_postpolonism_party_long: "Sabat Czarownic"
- 
  WRO_marxism_cranism_party: "WAW"
  WRO_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  WRO_squattism_party: "Strajk Kobiet"
@@ -942,7 +904,6 @@ l_polish:
  WRO_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  WRO_postpolonism_party: "Sabat"
  WRO_postpolonism_party_long: "Sabat Czarownic"
- 
  BRE_marxism_cranism_party: "WAW"
  BRE_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  BRE_squattism_party: "Strajk Kobiet"
@@ -965,7 +926,6 @@ l_polish:
  BRE_reactionary_party_long: "Bund der Vertriebenen (Związek Wypędzonych)"
  BRE_postpolonism_party: "Sabat"
  BRE_postpolonism_party_long: "Sabat Czarownic"
- 
  ZUL_marxism_cranism_party: "WAW"
  ZUL_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  ZUL_squattism_party: "Strajk Kobiet"
@@ -988,7 +948,6 @@ l_polish:
  ZUL_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  ZUL_postpolonism_party: "Sabat"
  ZUL_postpolonism_party_long: "Sabat Czarownic"
- 
  MNL_marxism_cranism_party: "Rada Mędrców Alkoholizmu"
  MNL_marxism_cranism_party_long: "Rada Mędrców Alkoholizmu"
  MNL_squattism_party: "Strajk Kobiet"
@@ -1011,7 +970,6 @@ l_polish:
  MNL_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  MNL_postpolonism_party: "Sabat"
  MNL_postpolonism_party_long: "Sabat Czarownic"
- 
  ANA_marxism_cranism_party: "WAW"
  ANA_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  ANA_squattism_party: "Strajk Kobiet"
@@ -1034,7 +992,6 @@ l_polish:
  ANA_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  ANA_postpolonism_party: "Sabat"
  ANA_postpolonism_party_long: "Sabat Czarownic"
-
  FEM_marxism_cranism_party: "WAW"
  FEM_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  FEM_squattism_party: "Strajk Kobiet"
@@ -1057,7 +1014,6 @@ l_polish:
  FEM_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  FEM_postpolonism_party: "Sabat"
  FEM_postpolonism_party_long: "Sabat Czarownic"
- 
  RYB_marxism_cranism_party: "WAW"
  RYB_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  RYB_squattism_party: "Strajk Kobiet"
@@ -1080,7 +1036,6 @@ l_polish:
  RYB_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  RYB_postpolonism_party: "Sabat"
  RYB_postpolonism_party_long: "Sabat Czarownic"
- 
  CYG_marxism_cranism_party: "WAW"
  CYG_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  CYG_squattism_party: "Naczelny Tabor"
@@ -1103,7 +1058,6 @@ l_polish:
  CYG_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  CYG_postpolonism_party: "Sabat"
  CYG_postpolonism_party_long: "Sabat Czarownic"
- 
  KGH_marxism_cranism_party: "Ferajn Hajerski"
  KGH_marxism_cranism_party_long: "Ferajn Hajerski"
  KGH_squattism_party: "Strajk Kobiet"
@@ -1126,7 +1080,6 @@ l_polish:
  KGH_reactionary_party_long: "Eurokomissariat Schlesien - Wojskowi"
  KGH_postpolonism_party: "Absolutna Rada Naukowa"
  KGH_postpolonism_party_long: "Absolutna Rada Naukowa"
- 
  LEH_marxism_cranism_party: "WAW"
  LEH_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  LEH_squattism_party: "Związek Wandalski"
@@ -1149,7 +1102,6 @@ l_polish:
  LEH_reactionary_party_long: "Sobór Lechicki"
  LEH_postpolonism_party: "JSM"
  LEH_postpolonism_party_long: "Jasna Strona Mocy"
- 
  LCH_marxism_cranism_party: "WAW"
  LCH_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  LCH_squattism_party: "Związek Wandalski"
@@ -1172,7 +1124,6 @@ l_polish:
  LCH_reactionary_party_long: "Sobór Lechicki"
  LCH_postpolonism_party: "JSM"
  LCH_postpolonism_party_long: "Jasna Strona Mocy"
- 
  WAN_marxism_cranism_party: "WAW"
  WAN_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  WAN_squattism_party: "Związek Wandalski"
@@ -1195,7 +1146,6 @@ l_polish:
  WAN_reactionary_party_long: "Sobór Lechicki"
  WAN_postpolonism_party: "JSM"
  WAN_postpolonism_party_long: "Jasna Strona Mocy"
- 
  NYS_marxism_cranism_party: "WAW"
  NYS_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  NYS_squattism_party: "Związek Wandalski"
@@ -1218,7 +1168,6 @@ l_polish:
  NYS_reactionary_party_long: "Sobór Lechicki"
  NYS_postpolonism_party: "JSM"
  NYS_postpolonism_party_long: "Jasna Strona Mocy"
- 
  OPO_marxism_cranism_party: "WAW"
  OPO_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  OPO_squattism_party: "Strajk Kobiet"
@@ -1241,7 +1190,6 @@ l_polish:
  OPO_reactionary_party_long: "Związek Wandalski"
  OPO_postpolonism_party: "PARTIA_POL_1"
  OPO_postpolonism_party_long: "UNKNOWN_DESCRIPTION"
- 
  MNI_marxism_cranism_party: "WAW"
  MNI_marxism_cranism_party_long: "Wolna Armia Wędkarzy"
  MNI_squattism_party: "Strajk Kobiet"
@@ -1264,7 +1212,6 @@ l_polish:
  MNI_reactionary_party_long: "Związek Wandalski"
  MNI_postpolonism_party: "PARTIA_POL_1"
  MNI_postpolonism_party_long: "UNKNOWN_DESCRIPTION"
- 
  MOT_marxism_cranism_party: "Beton Oficerski"
  MOT_marxism_cranism_party_long: "Beton Oficerski"
  MOT_squattism_party: "Kawaleria Motocyklowa"
@@ -1287,7 +1234,6 @@ l_polish:
  MOT_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  MOT_postpolonism_party: "Zagorzali Motocykliści"
  MOT_postpolonism_party_long: "Zagorzali Motocykliści"
- 
  PZL_marxism_cranism_party: "Oficerowie - twardogłowi"
  PZL_marxism_cranism_party_long: "Oficerowie - twardogłowi"
  PZL_squattism_party: "Kawaleria Motocyklowa"
@@ -1310,7 +1256,6 @@ l_polish:
  PZL_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  PZL_postpolonism_party: "Zagorzali Motocykliści"
  PZL_postpolonism_party_long: "Zagorzali Motocykliści"
- 
  KAM_marxism_cranism_party: "Beton Oficerski"
  KAM_marxism_cranism_party_long: "Beton Oficerski"
  KAM_squattism_party: "Polski Ruch Oporu - Socjaliści"
@@ -1333,7 +1278,6 @@ l_polish:
  KAM_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  KAM_postpolonism_party: "Propagandyści Germanizacji"
  KAM_postpolonism_party_long: "Propagandyści Germanizacji"
- 
  WIN_marxism_cranism_party: "EK Westpolen - Wojskowi"
  WIN_marxism_cranism_party_long: "Eurokomissariat Westpolen - Wojskowi"
  WIN_squattism_party: "Kult Bachusa"
@@ -1356,7 +1300,6 @@ l_polish:
  WIN_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  WIN_postpolonism_party: "Kult Bachusa"
  WIN_postpolonism_party_long: "Kult Bachusa"
- 
  ZAG_marxism_cranism_party: "Beton Oficerski"
  ZAG_marxism_cranism_party_long: "Beton Oficerski"
  ZAG_squattism_party: "Kult Bachusa"
@@ -1379,7 +1322,6 @@ l_polish:
  ZAG_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  ZAG_postpolonism_party: "Kult Szarika"
  ZAG_postpolonism_party_long: "Kult Szarika"
- 
  JOM_marxism_cranism_party: "KLŻ"
  JOM_marxism_cranism_party_long: "Komitet Ludowy Żmurkiewicza"
  JOM_squattism_party: "Sammen"
@@ -1402,7 +1344,6 @@ l_polish:
  JOM_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  JOM_postpolonism_party: "Słowiańskie Wilki"
  JOM_postpolonism_party_long: "Słowiańskie Wilki"
- 
  JAS_marxism_cranism_party: "KLŻ"
  JAS_marxism_cranism_party_long: "Komitet Ludowy Żmurkiewicza"
  JAS_squattism_party: "Sammen"
@@ -1425,9 +1366,6 @@ l_polish:
  JAS_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  JAS_postpolonism_party: "Słowiańskie Wilki"
  JAS_postpolonism_party_long: "Słowiańskie Wilki"
- 
- 
- 
  STE_marxism_cranism_party: "KLŻ"
  STE_marxism_cranism_party_long: "Komitet Ludowy Żmurkiewicza"
  STE_squattism_party: "Sammen"
@@ -1450,7 +1388,6 @@ l_polish:
  STE_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  STE_postpolonism_party: "PPDiUR Gryf"
  STE_postpolonism_party_long: "Przedsiębiorstwo Połowów Dalekomorskich i Usług Rybackich Gryf"
- 
  SWI_marxism_cranism_party: "KLŻ"
  SWI_marxism_cranism_party_long: "Komitet Ludowy Żmurkiewicza"
  SWI_squattism_party: "Sammen"
@@ -1473,7 +1410,6 @@ l_polish:
  SWI_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  SWI_postpolonism_party: "Słowiańskie Wilki"
  SWI_postpolonism_party_long: "Słowiańskie Wilki"
- 
  USP_marxism_cranism_party: "KLŻ"
  USP_marxism_cranism_party_long: "Komitet Ludowy Żmurkiewicza"
  USP_squattism_party: "Sammen"
@@ -1496,7 +1432,6 @@ l_polish:
  USP_reactionary_party_long: "Plemiona Rdzennych Amerykanów"
  USP_postpolonism_party: "Słowiańskie Wilki"
  USP_postpolonism_party_long: "Słowiańskie Wilki"
- 
  EKW_marxism_cranism_party: "KLŻ"
  EKW_marxism_cranism_party_long: "Komitet Ludowy Żmurkiewicza"
  EKW_squattism_party: "Sammen"
@@ -1519,7 +1454,6 @@ l_polish:
  EKW_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  EKW_postpolonism_party: "Słowiańskie Wilki"
  EKW_postpolonism_party_long: "Słowiańskie Wilki"
- 
  POM_marxism_cranism_party: "KLŻ"
  POM_marxism_cranism_party_long: "Komitet Ludowy Żmurkiewicza"
  POM_squattism_party: "Sammen"
@@ -1542,7 +1476,6 @@ l_polish:
  POM_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  POM_postpolonism_party: "Słowiańskie Wilki"
  POM_postpolonism_party_long: "Słowiańskie Wilki"
- 
  KOS_marxism_cranism_party: "KLŻ"
  KOS_marxism_cranism_party_long: "Komitet Ludowy Żmurkiewicza"
  KOS_squattism_party: "Sammen"
@@ -1565,7 +1498,6 @@ l_polish:
  KOS_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  KOS_postpolonism_party: "Słowiańskie Wilki"
  KOS_postpolonism_party_long: "Słowiańskie Wilki"
- 
  WRT_marxism_cranism_party: "KPP"
  WRT_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  WRT_squattism_party: "Razem"
@@ -1588,7 +1520,6 @@ l_polish:
  WRT_reactionary_party_long: "Weda Elysia"
  WRT_postpolonism_party: "Zgromadzenie Rzeźnicze"
  WRT_postpolonism_party_long: "Zgromadzenie Rzeźnicze"
- 
  PIL_marxism_cranism_party: "KPP"
  PIL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  PIL_squattism_party: "Razem"
@@ -1611,7 +1542,6 @@ l_polish:
  PIL_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  PIL_postpolonism_party: "Zgromadzenie Rzeźnicze"
  PIL_postpolonism_party_long: "Zgromadzenie Rzeźnicze"
- 
  SUS_marxism_cranism_party: "KPP"
  SUS_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  SUS_squattism_party: "Razem"
@@ -1634,7 +1564,6 @@ l_polish:
  SUS_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  SUS_postpolonism_party: "Zgromadzenie Rzeźnicze"
  SUS_postpolonism_party_long: "Zgromadzenie Rzeźnicze"
- 
  NAC_marxism_cranism_party: "KPP"
  NAC_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  NAC_squattism_party: "Razem"
@@ -1657,7 +1586,6 @@ l_polish:
  NAC_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  NAC_postpolonism_party: "Zgromadzenie Rzeźnicze"
  NAC_postpolonism_party_long: "Zgromadzenie Rzeźnicze"
- 
  GNI_marxism_cranism_party: "KPP"
  GNI_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  GNI_squattism_party: "Razem"
@@ -1680,7 +1608,6 @@ l_polish:
  GNI_reactionary_party_long: "Eurokomissariat Westpolen - Wojskowi"
  GNI_postpolonism_party: "Zgromadzenie Rzeźnicze"
  GNI_postpolonism_party_long: "Zgromadzenie Rzeźnicze"
- 
  FEL_marxism_cranism_party: "KPP"
  FEL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  FEL_squattism_party: "Bandy Jarocina"
@@ -1703,7 +1630,6 @@ l_polish:
  FEL_reactionary_party_long: "Sejm Walny"
  FEL_postpolonism_party: "Wybrani"
  FEL_postpolonism_party_long: "Wybrani"
- 
  KES_marxism_cranism_party: "KPP"
  KES_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  KES_squattism_party: "Bandy Jarocina"
@@ -1726,8 +1652,6 @@ l_polish:
  KES_reactionary_party_long: "Sejm Walny"
  KES_postpolonism_party: "Wybrani"
  KES_postpolonism_party_long: "Wybrani"
- 
- 
  CAL_marxism_cranism_party: "KPP"
  CAL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  CAL_squattism_party: "Bandy Jarocina"
@@ -1750,7 +1674,6 @@ l_polish:
  CAL_reactionary_party_long: "Sejm Walny"
  CAL_postpolonism_party: "Chanat Kaleeshów"
  CAL_postpolonism_party_long: "Chanat Kaleeshów"
- 
  SYJ_marxism_cranism_party: "KPP"
  SYJ_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  SYJ_squattism_party: "SLU"
@@ -1773,7 +1696,6 @@ l_polish:
  SYJ_reactionary_party_long: "Sejm Walny"
  SYJ_postpolonism_party: "Wybrani"
  SYJ_postpolonism_party_long: "Wybrani"
- 
  SLU_marxism_cranism_party: "KPP"
  SLU_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  SLU_squattism_party: "SLU"
@@ -1796,13 +1718,12 @@ l_polish:
  SLU_reactionary_party_long: "Sejm Walny"
  SLU_postpolonism_party: "Wybrani"
  SLU_postpolonism_party_long: "Wybrani"
- 
  POZ_marxism_cranism_party: "KPP"
  POZ_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  POZ_squattism_party: "SLU"
  POZ_squattism_party_long: "Sojusz Ludzi Ulicy"
- POZ_socialdemocrature_party: "SPQC - Populares"
- POZ_socialdemocrature_party_long: "Senatus Populusque Calisiensis - Populares"
+ POZ_socialdemocrature_party: "Lewica"
+ POZ_socialdemocrature_party_long: "Lewica"
  POZ_euroliberalism_party: "PE"
  POZ_euroliberalism_party_long: "Platforma Europejska"
  POZ_freemarketism_party: "KORWiN"
@@ -1818,7 +1739,6 @@ l_polish:
  POZ_reactionary_party: "Sejm Walny"
  POZ_reactionary_party_long: "Sejm Walny"
  POZ_postpolonism_party: "Wybrani"
- 
  TOR_marxism_cranism_party: "KPP"
  TOR_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  TOR_squattism_party: "Razem"
@@ -1841,7 +1761,6 @@ l_polish:
  TOR_reactionary_party_long: "Fundacja Ad Arma"
  TOR_postpolonism_party: "Wybrani"
  TOR_postpolonism_party_long: "Wybrani"
- 
  HOR_marxism_cranism_party: "KPP"
  HOR_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  HOR_squattism_party: "Sammen"
@@ -1864,7 +1783,6 @@ l_polish:
  HOR_reactionary_party_long: "Dowództwo Grudziądzkie"
  HOR_postpolonism_party: "Kultyści"
  HOR_postpolonism_party_long: "Kultyści"
- 
  BYD_marxism_cranism_party: "KPP"
  BYD_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  BYD_squattism_party: "Mam Dość!"
@@ -1887,7 +1805,6 @@ l_polish:
  BYD_reactionary_party_long: "Dowództwo Grudziądzkie"
  BYD_postpolonism_party: "Kultyści"
  BYD_postpolonism_party_long: "Kultyści"
- 
  GRU_marxism_cranism_party: "KPP"
  GRU_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  GRU_squattism_party: "Sammen"
@@ -1910,7 +1827,6 @@ l_polish:
  GRU_reactionary_party_long: "Dowództwo Grudziądzkie"
  GRU_postpolonism_party: "Kultyści"
  GRU_postpolonism_party_long: "Kultyści"
- 
  KUJ_marxism_cranism_party: "KPP"
  KUJ_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  KUJ_squattism_party: "Nowa Lewica"
@@ -1933,7 +1849,6 @@ l_polish:
  KUJ_reactionary_party_long: "Dowództwo Grudziądzkie"
  KUJ_postpolonism_party: "Kultyści"
  KUJ_postpolonism_party_long: "Kultyści"
- 
  INO_marxism_cranism_party: "KPP"
  INO_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  INO_squattism_party: "Sammen"
@@ -1955,7 +1870,6 @@ l_polish:
  INO_reactionary_party: "Dowództwo Grudziądzkie"
  INO_reactionary_party_long: "Dowództwo Grudziądzkie"
  INO_postpolonism_party: "Kultyści"
- 
  KON_marxism_cranism_party: "PZPR"
  KON_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  KON_squattism_party: "Rokongrelowcy"
@@ -1978,7 +1892,6 @@ l_polish:
  KON_reactionary_party_long: "Biuro Interwencji Obywatelskich"
  KON_postpolonism_party: "Morowa 17"
  KON_postpolonism_party_long: "Morowa 17"
- 
  SAN_marxism_cranism_party: "KPP"
  SAN_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  SAN_squattism_party: "AFP"
@@ -2001,7 +1914,6 @@ l_polish:
  SAN_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  SAN_postpolonism_party: "Zermatyści"
  SAN_postpolonism_party_long: "Zermatyści"
- 
  TAT_marxism_cranism_party: "PZPR"
  TAT_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  TAT_squattism_party: "Lokalne plemiona"
@@ -2024,7 +1936,6 @@ l_polish:
  TAT_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  TAT_postpolonism_party: "Al-Kaida"
  TAT_postpolonism_party_long: "Al-Kaida"
- 
  BOM_marxism_cranism_party: "PZPR"
  BOM_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  BOM_squattism_party: "Lokalne plemiona"
@@ -2047,7 +1958,6 @@ l_polish:
  BOM_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  BOM_postpolonism_party: "Kultyści"
  BOM_postpolonism_party_long: "Kultyści"
- 
  LMZ_marxism_cranism_party: "PZPR"
  LMZ_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  LMZ_squattism_party: "Lokalne plemiona"
@@ -2070,7 +1980,6 @@ l_polish:
  LMZ_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  LMZ_postpolonism_party: "Kultyści"
  LMZ_postpolonism_party_long: "Kultyści"
- 
  BEL_marxism_cranism_party: "Lukašenkaŭskaja Klika"
  BEL_marxism_cranism_party_long: "Klika Łukaszenki"
  BEL_squattism_party: "Lokalne plemiona"
@@ -2093,7 +2002,6 @@ l_polish:
  BEL_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  BEL_postpolonism_party: "Kultyści"
  BEL_postpolonism_party_long: "Kultyści"
- 
  UHL_marxism_cranism_party: "PZPR"
  UHL_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  UHL_squattism_party: "Lokalne plemiona"
@@ -2116,7 +2024,6 @@ l_polish:
  UHL_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  UHL_postpolonism_party: "Kultyści"
  UHL_postpolonism_party_long: "Kultyści"
- 
  BRD_marxism_cranism_party: "PZPR"
  BRD_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  BRD_squattism_party: "Lokalne plemiona"
@@ -2139,7 +2046,6 @@ l_polish:
  BRD_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  BRD_postpolonism_party: "Kultyści"
  BRD_postpolonism_party_long: "Kultyści"
- 
  ZAB_marxism_cranism_party: "PZPR"
  ZAB_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  ZAB_squattism_party: "Lokalne plemiona"
@@ -2162,7 +2068,6 @@ l_polish:
  ZAB_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  ZAB_postpolonism_party: "Kultyści"
  ZAB_postpolonism_party_long: "Kultyści"
- 
  AUG_marxism_cranism_party: "PZPR"
  AUG_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  AUG_squattism_party: "Greenpeace Augustów"
@@ -2185,7 +2090,6 @@ l_polish:
  AUG_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  AUG_postpolonism_party: "Kultyści"
  AUG_postpolonism_party_long: "Kultyści"
- 
  DAM_marxism_cranism_party: "PZPR"
  DAM_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  DAM_squattism_party: "Lokalne plemiona"
@@ -2208,7 +2112,6 @@ l_polish:
  DAM_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  DAM_postpolonism_party: "Kultyści"
  DAM_postpolonism_party_long: "Kultyści"
- 
  GRO_marxism_cranism_party: "PZPR"
  GRO_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  GRO_squattism_party: "Lokalne plemiona"
@@ -2231,7 +2134,6 @@ l_polish:
  GRO_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  GRO_postpolonism_party: "Kultyści"
  GRO_postpolonism_party_long: "Kultyści"
- 
  DRO_marxism_cranism_party: "PZPR"
  DRO_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  DRO_squattism_party: "Lokalne plemiona"
@@ -2254,7 +2156,6 @@ l_polish:
  DRO_reactionary_party_long: "Biała Orda"
  DRO_postpolonism_party: "Kultyści"
  DRO_postpolonism_party_long: "Kultyści"
- 
  TYK_marxism_cranism_party: "PZPR"
  TYK_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  TYK_squattism_party: "Lokalne plemiona"
@@ -2277,7 +2178,6 @@ l_polish:
  TYK_reactionary_party_long: "Dynastia Jagiellononów"
  TYK_postpolonism_party: "Kultyści"
  TYK_postpolonism_party_long: "Kultyści"
- 
  ZAM_marxism_cranism_party: "PZPR"
  ZAM_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  ZAM_squattism_party: "Lokalne plemiona"
@@ -2300,7 +2200,6 @@ l_polish:
  ZAM_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  ZAM_postpolonism_party: "Kultyści"
  ZAM_postpolonism_party_long: "Kultyści"
- 
  OSO_marxism_cranism_party: "PZPR"
  OSO_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  OSO_squattism_party: "Lokalne plemiona"
@@ -2323,7 +2222,6 @@ l_polish:
  OSO_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  OSO_postpolonism_party: "Bandyci"
  OSO_postpolonism_party_long: "Bandyci"
- 
  WIL_marxism_cranism_party: "PPU"
  WIL_marxism_cranism_party_long: "Polska Partia Uczciwości"
  WIL_squattism_party: "Lokalne plemiona"
@@ -2346,7 +2244,6 @@ l_polish:
  WIL_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  WIL_postpolonism_party: "Kultyści"
  WIL_postpolonism_party_long: "Kultyści"
- 
  HMA_marxism_cranism_party: "PZPR"
  HMA_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  HMA_squattism_party: "Lokalne plemiona"
@@ -2369,7 +2266,6 @@ l_polish:
  HMA_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  HMA_postpolonism_party: "Kultyści"
  HMA_postpolonism_party_long: "Kultyści"
- 
  SEI_marxism_cranism_party: "PZPR"
  SEI_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  SEI_squattism_party: "Lokalne plemiona"
@@ -2392,7 +2288,6 @@ l_polish:
  SEI_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  SEI_postpolonism_party: "Kultyści"
  SEI_postpolonism_party_long: "Kultyści"
- 
  COL_marxism_cranism_party: "PZPR"
  COL_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  COL_squattism_party: "Lokalne plemiona"
@@ -2415,7 +2310,6 @@ l_polish:
  COL_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  COL_postpolonism_party: "Kultyści"
  COL_postpolonism_party_long: "Kultyści"
- 
  SUP_marxism_cranism_party: "PZPR"
  SUP_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  SUP_squattism_party: "Lokalne plemiona"
@@ -2438,7 +2332,6 @@ l_polish:
  SUP_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  SUP_postpolonism_party: "Kultyści"
  SUP_postpolonism_party_long: "Kultyści"
- 
  RAJ_marxism_cranism_party: "PZPR"
  RAJ_marxism_cranism_party_long: "Polska Zjednoczona Partia Robotnicza"
  RAJ_squattism_party: "Lokalne plemiona"
@@ -2461,7 +2354,6 @@ l_polish:
  RAJ_reactionary_party_long: "Bezpartyjny Blok Współpracy z Rządem"
  RAJ_postpolonism_party: "Kultyści"
  RAJ_postpolonism_party_long: "Kultyści"
- 
  GAY_marxism_cranism_party: "KPP"
  GAY_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  GAY_squattism_party: "WOŚP"
@@ -2484,7 +2376,6 @@ l_polish:
  GAY_reactionary_party_long: "Ruch Solidarność"
  GAY_postpolonism_party: "Kult Astralny"
  GAY_postpolonism_party_long: "Kult Astralny"
- 
  ARK_marxism_cranism_party: "KPP"
  ARK_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  ARK_squattism_party: "WOŚP"
@@ -2507,7 +2398,6 @@ l_polish:
  ARK_reactionary_party_long: "Ruch Solidarność"
  ARK_postpolonism_party: "Kult Astralny"
  ARK_postpolonism_party_long: "Kult Astralny"
- 
  OWS_marxism_cranism_party: "KPP"
  OWS_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  OWS_squattism_party: "WOŚP"
@@ -2530,7 +2420,6 @@ l_polish:
  OWS_reactionary_party_long: "Ruch Solidarność"
  OWS_postpolonism_party: "Kult Astralny"
  OWS_postpolonism_party_long: "Kult Astralny"
- 
  BOL_marxism_cranism_party: "KPP"
  BOL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  BOL_squattism_party: "WOŚP"
@@ -2553,7 +2442,6 @@ l_polish:
  BOL_reactionary_party_long: "Ruch Solidarność"
  BOL_postpolonism_party: "Kult Astralny"
  BOL_postpolonism_party_long: "Kult Astralny"
- 
  GDA_marxism_cranism_party: "KPP"
  GDA_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  GDA_squattism_party: "WOŚP"
@@ -2576,7 +2464,6 @@ l_polish:
  GDA_reactionary_party_long: "Ruch Solidarność"
  GDA_postpolonism_party: "Kult Astralny"
  GDA_postpolonism_party_long: "Kult Astralny"
- 
  KSZ_marxism_cranism_party: "KPP"
  KSZ_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  KSZ_squattism_party: "WOŚP"
@@ -2599,7 +2486,6 @@ l_polish:
  KSZ_reactionary_party_long: "Ruch Solidarność"
  KSZ_postpolonism_party: "Kult Astralny"
  KSZ_postpolonism_party_long: "Kult Astralny"
- 
  HEL_marxism_cranism_party: "KPP"
  HEL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  HEL_squattism_party: "WOŚP"
@@ -2622,7 +2508,6 @@ l_polish:
  HEL_reactionary_party_long: "Ruch Solidarność"
  HEL_postpolonism_party: "Kult Astralny"
  HEL_postpolonism_party_long: "Kult Astralny"
- 
  CZL_marxism_cranism_party: "KPP"
  CZL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  CZL_squattism_party: "WOŚP"
@@ -2645,7 +2530,6 @@ l_polish:
  CZL_reactionary_party_long: "Ruch Solidarność"
  CZL_postpolonism_party: "Kult Astralny"
  CZL_postpolonism_party_long: "Kult Astralny"
- 
  LOT_marxism_cranism_party: "KPP"
  LOT_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  LOT_squattism_party: "WOŚP"
@@ -2668,7 +2552,6 @@ l_polish:
  LOT_reactionary_party_long: "Ruch Solidarność"
  LOT_postpolonism_party: "Kult Astralny"
  LOT_postpolonism_party_long: "Kult Astralny"
- 
  KOR_marxism_cranism_party: "KPP"
  KOR_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  KOR_squattism_party: "WOŚP"
@@ -2691,7 +2574,6 @@ l_polish:
  KOR_reactionary_party_long: "Ruch Solidarność"
  KOR_postpolonism_party: "Kult Astralny"
  KOR_postpolonism_party_long: "Kult Astralny"
- 
  MAL_marxism_cranism_party: "KPP"
  MAL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  MAL_squattism_party: "WOŚP"
@@ -2714,7 +2596,6 @@ l_polish:
  MAL_reactionary_party_long: "Ruch Solidarność"
  MAL_postpolonism_party: "Kult Astralny"
  MAL_postpolonism_party_long: "Kult Astralny"
- 
  ROS_marxism_cranism_party: "KPRF"
  ROS_marxism_cranism_party_long: "Komunistyczna Partia Federacji Rosyjskiej"
  ROS_squattism_party: "KPRF"
@@ -2737,7 +2618,6 @@ l_polish:
  ROS_reactionary_party_long: "Prywatna Firma Wojskowa Wagnera"
  ROS_postpolonism_party: "Perkunas Karotāji"
  ROS_postpolonism_party_long: "Wojownicy Perkuna"
- 
  TEU_marxism_cranism_party: "KPP"
  TEU_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  TEU_squattism_party: "Razem"
@@ -2760,7 +2640,6 @@ l_polish:
  TEU_reactionary_party_long: "Kapituła Zakonu Krzyżackiego"
  TEU_postpolonism_party: "Perkunas Karotāji"
  TEU_postpolonism_party_long: "Wojownicy Perkuna"
- 
  PRU_marxism_cranism_party: "KPP"
  PRU_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  PRU_squattism_party: "Razem"
@@ -2783,7 +2662,6 @@ l_polish:
  PRU_reactionary_party_long: "Ruch Solidarność"
  PRU_postpolonism_party: "Perkunas Karotāji"
  PRU_postpolonism_party_long: "Wojownicy Perkuna"
- 
  PZW_marxism_cranism_party: "KPP"
  PZW_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  PZW_squattism_party: "Razem"
@@ -2806,7 +2684,6 @@ l_polish:
  PZW_reactionary_party_long: "Ruch Solidarność"
  PZW_postpolonism_party: "Perkunas Karotāji"
  PZW_postpolonism_party_long: "Wojownicy Perkuna"
- 
  WRM_marxism_cranism_party: "KPP"
  WRM_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  WRM_squattism_party: "Razem"
@@ -2829,7 +2706,6 @@ l_polish:
  WRM_reactionary_party_long: "Ruch Solidarność"
  WRM_postpolonism_party: "Perkunas Karotāji"
  WRM_postpolonism_party_long: "Wojownicy Perkuna"
- 
  ORL_marxism_cranism_party: "KPP"
  ORL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  ORL_squattism_party: "Razem"
@@ -2852,7 +2728,6 @@ l_polish:
  ORL_reactionary_party_long: "Bractwo Węgla"
  ORL_postpolonism_party: "Gang Pruszkowski"
  ORL_postpolonism_party_long: "Gang Pruszkowski"
- 
  SAS_marxism_cranism_party: "PiS - Piast"
  SAS_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  SAS_squattism_party: "Razem"
@@ -2875,7 +2750,6 @@ l_polish:
  SAS_reactionary_party_long: "Bractwo Węgla"
  SAS_postpolonism_party: "Gang Pruszkowski"
  SAS_postpolonism_party_long: "Gang Pruszkowski"
- 
  ZWK_marxism_cranism_party: "PiS - Piast"
  ZWK_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  ZWK_squattism_party: "Razem"
@@ -2898,7 +2772,6 @@ l_polish:
  ZWK_reactionary_party_long: "WATAHA"
  ZWK_postpolonism_party: "Gang Pruszkowski"
  ZWK_postpolonism_party_long: "Gang Pruszkowski"
- 
  KUR_marxism_cranism_party: "PiS - Piast"
  KUR_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  KUR_squattism_party: "Razem"
@@ -2921,7 +2794,6 @@ l_polish:
  KUR_reactionary_party_long: "Bractwo Węgla"
  KUR_postpolonism_party: "Gang Pruszkowski"
  KUR_postpolonism_party_long: "Gang Pruszkowski"
- 
  SDL_marxism_cranism_party: "PiS - Piast"
  SDL_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  SDL_squattism_party: "Razem"
@@ -2944,7 +2816,6 @@ l_polish:
  SDL_reactionary_party_long: "Bractwo Węgla"
  SDL_postpolonism_party: "Gang Pruszkowski"
  SDL_postpolonism_party_long: "Gang Pruszkowski"
- 
  AGR_marxism_cranism_party: "PiS - Piast"
  AGR_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  AGR_squattism_party: "Razem"
@@ -2967,7 +2838,6 @@ l_polish:
  AGR_reactionary_party_long: "Bractwo Węgla"
  AGR_postpolonism_party: "Gang Pruszkowski"
  AGR_postpolonism_party_long: "Gang Pruszkowski"
- 
  POL_marxism_cranism_party: "PiS - Piast"
  POL_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  POL_squattism_party: "Razem"
@@ -2990,7 +2860,6 @@ l_polish:
  POL_reactionary_party_long: "Bractwo Węgla"
  POL_postpolonism_party: "Gang Pruszkowski"
  POL_postpolonism_party_long: "Gang Pruszkowski"
- 
  WOW_marxism_cranism_party: "PiS - Piast"
  WOW_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  WOW_squattism_party: "Razem"
@@ -3013,8 +2882,6 @@ l_polish:
  WOW_reactionary_party_long: "Bractwo Węgla"
  WOW_postpolonism_party: "Gang Pruszkowski"
  WOW_postpolonism_party_long: "Gang Pruszkowski"
- 
- 
  BIE_marxism_cranism_party: "Ludowy Front Warszawy"
  BIE_marxism_cranism_party_long: "Ludowy Front Warszawy"
  BIE_squattism_party: "WRLGBTQ+"
@@ -3037,7 +2904,6 @@ l_polish:
  BIE_reactionary_party_long: "Tymczasowy Rząd IV RP"
  BIE_postpolonism_party: "TVP"
  BIE_postpolonism_party_long: "Telewizja Polska"
- 
  PLC_marxism_cranism_party: "Ludowy Front Warszawy"
  PLC_marxism_cranism_party_long: "Ludowy Front Warszawy"
  PLC_squattism_party: "WRLGBTQ+"
@@ -3060,7 +2926,6 @@ l_polish:
  PLC_reactionary_party_long: "Tymczasowy Rząd IV RP"
  PLC_postpolonism_party: "TVP"
  PLC_postpolonism_party_long: "Telewizja Polska"
- 
  ZIE_marxism_cranism_party: "Ludowy Front Warszawy"
  ZIE_marxism_cranism_party_long: "Ludowy Front Warszawy"
  ZIE_squattism_party: "Komuna Wawra"
@@ -3083,7 +2948,6 @@ l_polish:
  ZIE_reactionary_party_long: "Tymczasowy Rząd IV RP"
  ZIE_postpolonism_party: "Dziki"
  ZIE_postpolonism_party_long: "Dziki"
- 
  LEG_marxism_cranism_party: "Ludowy Front Warszawy"
  LEG_marxism_cranism_party_long: "Ludowy Front Warszawy"
  LEG_squattism_party: "WRLGBTQ+"
@@ -3106,7 +2970,6 @@ l_polish:
  LEG_reactionary_party_long: "Tymczasowy Rząd IV RP"
  LEG_postpolonism_party: "TVP"
  LEG_postpolonism_party_long: "Telewizja Polska"
- 
  TVP_marxism_cranism_party: "Ludowy Front Warszawy"
  TVP_marxism_cranism_party_long: "Ludowy Front Warszawy"
  TVP_squattism_party: "WRLGBTQ+"
@@ -3129,7 +2992,6 @@ l_polish:
  TVP_reactionary_party_long: "Tymczasowy Rząd IV RP"
  TVP_postpolonism_party: "TVP"
  TVP_postpolonism_party_long: "Telewizja Polska"
- 
  TRZ_marxism_cranism_party: "Ludowy Front Warszawy"
  TRZ_marxism_cranism_party_long: "Ludowy Front Warszawy"
  TRZ_squattism_party: "WRLGBTQ+"
@@ -3152,7 +3014,6 @@ l_polish:
  TRZ_reactionary_party_long: "Tymczasowy Rząd IV RP"
  TRZ_postpolonism_party: "TVP"
  TRZ_postpolonism_party_long: "Telewizja Polska"
-  
  MAF_marxism_cranism_party: "NAC"
  MAF_marxism_cranism_party_long: "Nowa Armia Czerwona"
  MAF_squattism_party: "WRLGBTQ+"
@@ -3175,7 +3036,6 @@ l_polish:
  MAF_reactionary_party_long: "Bractwo Węgla"
  MAF_postpolonism_party: "Gang Wołomiński"
  MAF_postpolonism_party_long: "Gang Wołomiński"
- 
  WOL_marxism_cranism_party: "NAC"
  WOL_marxism_cranism_party_long: "Nowa Armia Czerwona"
  WOL_squattism_party: "WRLGBTQ+"
@@ -3198,7 +3058,6 @@ l_polish:
  WOL_reactionary_party_long: "Bractwo Węgla"
  WOL_postpolonism_party: "Gang Wołomiński"
  WOL_postpolonism_party_long: "Gang Wołomiński"
- 
  DUP_marxism_cranism_party: "NAC"
  DUP_marxism_cranism_party_long: "Nowa Armia Czerwona"
  DUP_squattism_party: "WRLGBTQ+"
@@ -3221,7 +3080,6 @@ l_polish:
  DUP_reactionary_party_long: "Bractwo Węgla"
  DUP_postpolonism_party: "Gang Mokotowski"
  DUP_postpolonism_party_long: "Gang Mokotowski"
- 
  LAS_marxism_cranism_party: "NAC"
  LAS_marxism_cranism_party_long: "Nowa Armia Czerwona"
  LAS_squattism_party: "WRLGBTQ+"
@@ -3244,7 +3102,6 @@ l_polish:
  LAS_reactionary_party_long: "Bractwo Węgla"
  LAS_postpolonism_party: "Gang Mokotowski"
  LAS_postpolonism_party_long: "Gang Mokotowski"
- 
  ZYR_marxism_cranism_party: "Czerwony Pułk"
  ZYR_marxism_cranism_party_long: "Czerwony Pułk Warszawy"
  ZYR_squattism_party: "WRLGBTQ+"
@@ -3267,7 +3124,6 @@ l_polish:
  ZYR_reactionary_party_long: "Bractwo Węgla"
  ZYR_postpolonism_party: "Gang Mokotowski"
  ZYR_postpolonism_party_long: "Gang Mokotowski"
- 
  RAD_marxism_cranism_party: "PiS - Piast"
  RAD_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  RAD_squattism_party: "Razem"
@@ -3290,7 +3146,6 @@ l_polish:
  RAD_reactionary_party_long: "Bractwo Węgla"
  RAD_postpolonism_party: "Gang Pruszkowski"
  RAD_postpolonism_party_long: "Gang Pruszkowski"
- 
  SKA_marxism_cranism_party: "PiS - Piast"
  SKA_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  SKA_squattism_party: "Razem"
@@ -3313,7 +3168,6 @@ l_polish:
  SKA_reactionary_party_long: "Bractwo Węgla"
  SKA_postpolonism_party: "Gang Pruszkowski"
  SKA_postpolonism_party_long: "Gang Pruszkowski"
- 
  SAT_marxism_cranism_party: "PiS - Piast"
  SAT_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  SAT_squattism_party: "Razem"
@@ -3336,7 +3190,6 @@ l_polish:
  SAT_reactionary_party_long: "Bractwo Węgla"
  SAT_postpolonism_party: "Gang Pruszkowski"
  SAT_postpolonism_party_long: "Gang Pruszkowski"
- 
  GAR_marxism_cranism_party: "PiS - Piast"
  GAR_marxism_cranism_party_long: "Prawo i Sprawiedliwość - Stronnictwo Piast"
  GAR_squattism_party: "Razem"
@@ -3359,7 +3212,6 @@ l_polish:
  GAR_reactionary_party_long: "Bractwo Węgla"
  GAR_postpolonism_party: "Gang Pruszkowski"
  GAR_postpolonism_party_long: "Gang Pruszkowski"
- 
  TNO_marxism_cranism_party: "Zarząd Komisaryczny"
  TNO_marxism_cranism_party_long: "Zarząd Komisaryczny"
  TNO_squattism_party: "Anarchia Devów"
@@ -3382,24 +3234,6 @@ l_polish:
  TNO_reactionary_party_long: "Sejmik Szlachty Devowskiej"
  TNO_postpolonism_party: "JBWA - Neworderawka/Speerawka"
  TNO_postpolonism_party_long: "Jednolity Blok Współpracy Autystycznej - Neworderawka/\nSpeerawka"
-#
- #TNO_marxism_cranism_party: "PZPR"
- #TNO_marxism_cranism_party_long: "Polish United Worker's Party"
- #TNO_squattism_party: "Local Tribes"
- #TNO_squattism_party_long: "Local Tribes"
- #TNO_euroliberalism_party: "PE"
- #TNO_euroliberalism_party_long: "European Platform"
- #TNO_autocracy_party: "Klika Redaktorów"
- #TNO_autocracy_party_long: "Editor's Clique - Latex Faction"
- #TNO_socialdemocrature_party: "SLD"
- #TNO_socialdemocrature_party_long: "Democratic Left Alliance"
- #TNO_freemarketism_party: "KORWiN"
- #TNO_freemarketism_party_long: "Coalition for the Renewal of the Republic – Liberty and Hope"
- #TNO_paternal_conservatism_party: "Podlasie XXI Wieku"
- #TNO_paternal_conservatism_party_long: "Podlasie of 21st Century"
- #TNO_corporativism_party: "Gildia Piwowarów"
- #TNO_corporativism_party_long: "Brewmasters Guild"
- 
  PRK_marxism_cranism_party: "Gwardia Ludowa"
  PRK_marxism_cranism_party_long: "Gwardia Ludowa"
  PRK_squattism_party: "ZPS"
@@ -3422,10 +3256,8 @@ l_polish:
  PRK_reactionary_party_long: "Front Zera"
  PRK_postpolonism_party: "Sąd Ostateczny"
  PRK_postpolonism_party_long: "Sąd Ostateczny"
- 
  HOL_squattism_party: "Lokalne milicje"
  HOL_squattism_party_long: "Lokalne Milicje Samoobrony"
-
  KIE_marxism_cranism_party: "Gwardia Ludowa"
  KIE_marxism_cranism_party_long: "Gwardia Ludowa"
  KIE_squattism_party: "ZPS"
@@ -3448,7 +3280,6 @@ l_polish:
  KIE_reactionary_party_long: "Front Zera"
  KIE_postpolonism_party: "Towarzystwo Świętego Krzyża - Preppersi"
  KIE_postpolonism_party_long: "Towarzystwo Świętego Krzyża - Preppersi"
- 
  KEL_marxism_cranism_party: "Gwardia Ludowa"
  KEL_marxism_cranism_party_long: "Gwardia Ludowa"
  KEL_squattism_party: "ZPS"
@@ -3471,8 +3302,6 @@ l_polish:
  KEL_reactionary_party_long: "Front Zera"
  KEL_postpolonism_party: "Nekrokosmos"
  KEL_postpolonism_party_long: "Nekrokosmos"
- 
- 
  NRA_marxism_cranism_party: "Gwardia Ludowa"
  NRA_marxism_cranism_party_long: "Gwardia Ludowa"
  NRA_squattism_party: "ZPS"
@@ -3495,7 +3324,6 @@ l_polish:
  NRA_reactionary_party_long: "Front Zera"
  NRA_postpolonism_party: "Towarzystwo Świętego Krzyża - Preppersi"
  NRA_postpolonism_party_long: "Towarzystwo Świętego Krzyża - Preppersi"
- 
  NSZ_marxism_cranism_party: "Gwardia Ludowa"
  NSZ_marxism_cranism_party_long: "Gwardia Ludowa"
  NSZ_squattism_party: "ZPS"
@@ -3518,7 +3346,6 @@ l_polish:
  NSZ_reactionary_party_long: "Front Zera"
  NSZ_postpolonism_party: "Towarzystwo Świętego Krzyża - Preppersi"
  NSZ_postpolonism_party_long: "Towarzystwo Świętego Krzyża - Preppersi"
- 
  SND_marxism_cranism_party: "Gwardia Ludowa"
  SND_marxism_cranism_party_long: "Gwardia Ludowa"
  SND_squattism_party: "ZPS"
@@ -3541,7 +3368,6 @@ l_polish:
  SND_reactionary_party_long: "Front Zera"
  SND_postpolonism_party: "Towarzystwo Świętego Krzyża - Preppersi"
  SND_postpolonism_party_long: "Towarzystwo Świętego Krzyża - Preppersi"
- 
  STO_marxism_cranism_party: "Gwardia Ludowa"
  STO_marxism_cranism_party_long: "Gwardia Ludowa"
  STO_squattism_party: "ZPS"
@@ -3564,7 +3390,6 @@ l_polish:
  STO_reactionary_party_long: "Front Zera"
  STO_postpolonism_party: "Towarzystwo Świętego Krzyża - Preppersi"
  STO_postpolonism_party_long: "Towarzystwo Świętego Krzyża - Preppersi"
- 
  STA_marxism_cranism_party: "Gwardia Ludowa"
  STA_marxism_cranism_party_long: "Gwardia Ludowa"
  STA_squattism_party: "ZPS"
@@ -3587,7 +3412,6 @@ l_polish:
  STA_reactionary_party_long: "Front Zera"
  STA_postpolonism_party: "Towarzystwo Świętego Krzyża - Preppersi"
  STA_postpolonism_party_long: "Towarzystwo Świętego Krzyża - Preppersi"
- 
  KRK_marxism_cranism_party: "Partia Odrodzenia Komunistycznego"
  KRK_marxism_cranism_party_long: "Partia Odrodzenia Komunistycznego"
  KRK_squattism_party: "Chorągwie Ludowe"
@@ -3610,7 +3434,6 @@ l_polish:
  KRK_reactionary_party_long: "Straż Miejska"
  KRK_postpolonism_party: "Smoczy Kult"
  KRK_postpolonism_party_long: "Smoczy Kult"
-
  KRA_marxism_cranism_party: "Partia Odrodzenia Komunistycznego"
  KRA_marxism_cranism_party_long: "Partia Odrodzenia Komunistycznego"
  KRA_squattism_party: "Chorągwie Ludowe"
@@ -3633,7 +3456,6 @@ l_polish:
  KRA_reactionary_party_long: "Straż Miejska"
  KRA_postpolonism_party: "Smoczy Kult"
  KRA_postpolonism_party_long: "Smoczy Kult"
-
  BRK_marxism_cranism_party: "Partia Odrodzenia Komunistycznego"
  BRK_marxism_cranism_party_long: "Partia Odrodzenia Komunistycznego"
  BRK_squattism_party: "Chorągwie Ludowe"
@@ -3656,7 +3478,6 @@ l_polish:
  BRK_reactionary_party_long: "Straż Miejska"
  BRK_postpolonism_party: "Smoczy Kult"
  BRK_postpolonism_party_long: "Smoczy Kult"
- 
  WND_marxism_cranism_party: "Partia Odrodzenia Komunistycznego"
  WND_marxism_cranism_party_long: "Partia Odrodzenia Komunistycznego"
  WND_squattism_party: "Chorągwie Ludowe"
@@ -3679,7 +3500,6 @@ l_polish:
  WND_reactionary_party_long: "Straż Miejska"
  WND_postpolonism_party: "Smoczy Kult"
  WND_postpolonism_party_long: "Smoczy Kult"
- 
  HAB_marxism_cranism_party: "Partia Odrodzenia Komunistycznego"
  HAB_marxism_cranism_party_long: "Partia Odrodzenia Komunistycznego"
  HAB_squattism_party: "Chorągwie Ludowe"
@@ -3702,7 +3522,6 @@ l_polish:
  HAB_reactionary_party_long: "Cesarska i Królewska Armia"
  HAB_postpolonism_party: "Smoczy Kult"
  HAB_postpolonism_party_long: "Smoczy Kult"
- 
  UJG_marxism_cranism_party: "Partia Odrodzenia Komunistycznego"
  UJG_marxism_cranism_party_long: "Partia Odrodzenia Komunistycznego"
  UJG_squattism_party: "Chorągwie Ludowe"
@@ -3725,7 +3544,6 @@ l_polish:
  UJG_reactionary_party_long: "Straż Miejska"
  UJG_postpolonism_party: "Smoczy Kult"
  UJG_postpolonism_party_long: "Smoczy Kult"
- 
  AGH_marxism_cranism_party: "Partia Odrodzenia Komunistycznego"
  AGH_marxism_cranism_party_long: "Partia Odrodzenia Komunistycznego"
  AGH_squattism_party: "Chorągwie Ludowe"
@@ -3748,7 +3566,6 @@ l_polish:
  AGH_reactionary_party_long: "Straż Miejska"
  AGH_postpolonism_party: "Smoczy Kult"
  AGH_postpolonism_party_long: "Smoczy Kult"
- 
  NHT_marxism_cranism_party: "Garbarnia Kraków"
  NHT_marxism_cranism_party_long: "Klub Piłkarski Garbarnia Kraków"
  NHT_squattism_party: "Cracovia Kraków"
@@ -3771,7 +3588,6 @@ l_polish:
  NHT_reactionary_party_long: "Klub Piłkarski Wisła Kraków"
  NHT_postpolonism_party: "Smoczy Kult"
  NHT_postpolonism_party_long: "Smoczy Kult"
- 
  OSW_marxism_cranism_party: "KPP"
  OSW_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  OSW_squattism_party: "Bandyci"
@@ -3794,7 +3610,6 @@ l_polish:
  OSW_reactionary_party_long: "Lojaliści Ziobry"
  OSW_postpolonism_party: "Atomwaffen Division"
  OSW_postpolonism_party_long: "Atomwaffen Division"
- 
  WDW_marxism_cranism_party: "Partia Odrodzenia Komunistycznego"
  WDW_marxism_cranism_party_long: "Partia Odrodzenia Komunistycznego"
  WDW_squattism_party: "Organizacja Bojowa PPR"
@@ -3817,7 +3632,6 @@ l_polish:
  WDW_reactionary_party_long: "Sobór Wadowicki"
  WDW_postpolonism_party: "Czerwoni Polanie"
  WDW_postpolonism_party_long: "Czerwoni Polanie"
- 
  UMN_marxism_cranism_party: "KPP"
  UMN_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  UMN_squattism_party: "Bandyci"
@@ -3840,7 +3654,6 @@ l_polish:
  UMN_reactionary_party_long: "Komitet Odzyskania Skawiny"
  UMN_postpolonism_party: "Smoczy Kult"
  UMN_postpolonism_party_long: "Smoczy Kult"
- 
  SKW_marxism_cranism_party: "KPP"
  SKW_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  SKW_squattism_party: "Anarchia"
@@ -3863,7 +3676,6 @@ l_polish:
  SKW_reactionary_party_long: "Komitet Odzyskania Skawiny"
  SKW_postpolonism_party: "Smoczy Kult"
  SKW_postpolonism_party_long: "Smoczy Kult"
- 
  MSL_marxism_cranism_party: "Partia Odrodzenia Komunizmu"
  MSL_marxism_cranism_party_long: "Partia Odrodzenia Komunizmu"
  MSL_squattism_party: "Komunistyczny Rewolucjoniści"
@@ -3886,8 +3698,6 @@ l_polish:
  MSL_reactionary_party_long: "Bordowe Berety"
  MSL_postpolonism_party: "Czerwoni Polanie"
  MSL_postpolonism_party_long: "Czerwoni Polanie"
- 
- 
  GUR_marxism_cranism_party: "KPP"
  GUR_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  GUR_squattism_party: "Górale"
@@ -3910,7 +3720,6 @@ l_polish:
  GUR_reactionary_party_long: "Front Podhalański"
  GUR_postpolonism_party: "TOKP - Lewica"
  GUR_postpolonism_party_long: "Towarzystwo Odrodzenia Kultury Podhalańskiej - Lewica"
- 
  TRN_marxism_cranism_party: "KPP"
  TRN_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  TRN_squattism_party: "Bandyci"
@@ -3933,7 +3742,6 @@ l_polish:
  TRN_reactionary_party_long: "Junta wojskowa"
  TRN_postpolonism_party: "Smoczy Kult"
  TRN_postpolonism_party_long: "Smoczy Kult"
- 
  SCZ_marxism_cranism_party: "KPP"
  SCZ_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  SCZ_squattism_party: "Bandyci"
@@ -3956,7 +3764,6 @@ l_polish:
  SCZ_reactionary_party_long: "Straż Miejska"
  SCZ_postpolonism_party: "Smoczy Kult"
  SCZ_postpolonism_party_long: "Smoczy Kult"
- 
  LEM_marxism_cranism_party: "KPP"
  LEM_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  LEM_squattism_party: "Bandyci"
@@ -3979,7 +3786,6 @@ l_polish:
  LEM_reactionary_party_long: "Synod Łemkowski"
  LEM_postpolonism_party: "Smoczy Kult"
  LEM_postpolonism_party_long: "Smoczy Kult"
- 
  BOH_marxism_cranism_party: "KPP"
  BOH_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  BOH_squattism_party: "Bandyci"
@@ -4002,7 +3808,6 @@ l_polish:
  BOH_reactionary_party_long: "Junta wojskowa"
  BOH_postpolonism_party: "Smoczy Kult"
  BOH_postpolonism_party_long: "Smoczy Kult"
- 
  GER_marxism_cranism_party: "KPD"
  GER_marxism_cranism_party_long: "Komunistyczna Partia Niemiec"
  GER_squattism_party: "Die Linke"
@@ -4025,7 +3830,6 @@ l_polish:
  GER_reactionary_party_long: "Narodowodemokratyczna Partia Niemiec"
  GER_postpolonism_party: "Atomwaffen Division"
  GER_postpolonism_party_long: "Atomwaffen Division"
- 
  DEN_marxism_cranism_party: "KPD"
  DEN_marxism_cranism_party_long: "Komunistyczna Partia Danii"
  DEN_squattism_party: "SF"
@@ -4048,7 +3852,6 @@ l_polish:
  DEN_reactionary_party_long: "Nordycki Ruch Oporu"
  DEN_postpolonism_party: "NMB"
  DEN_postpolonism_party_long: "Nordycki Ruch Oporu"
- 
  SWE_marxism_cranism_party: "SKP"
  SWE_marxism_cranism_party_long: "Komunistyczna Partia Szwecji"
  SWE_squattism_party: "Vänsterpartiet"
@@ -4071,7 +3874,6 @@ l_polish:
  SWE_reactionary_party_long: "Nordycki Ruch Oporu"
  SWE_postpolonism_party: "NMR"
  SWE_postpolonism_party_long: "Nordycki Ruch Oporu"
- 
  AUT_marxism_cranism_party: "KPÖ"
  AUT_marxism_cranism_party_long: "Komunistyczna Partia Austrii"
  AUT_squattism_party: "JETZT"
@@ -4094,7 +3896,6 @@ l_polish:
  AUT_reactionary_party_long: "Czarnożółte Przymierze"
  AUT_postpolonism_party: "Atomwaffen Division"
  AUT_postpolonism_party_long: "Atomwaffen Division"
- 
  CZH_marxism_cranism_party: "KSČM"
  CZH_marxism_cranism_party_long: "Komunistyczna Partia Czech i Moraw"
  CZH_squattism_party: "Levice"
@@ -4117,7 +3918,6 @@ l_polish:
  CZH_reactionary_party_long: "Monarchistyczna Partia Czech, Moraw i Śląska"
  CZH_postpolonism_party: "Neohusyci"
  CZH_postpolonism_party_long: "Neohusyci"
- 
  SVK_marxism_cranism_party: "KSS"
  SVK_marxism_cranism_party_long: "Komunistyczna Partia Słowacji"
  SVK_squattism_party: "Socialisti.sk"
@@ -4140,8 +3940,6 @@ l_polish:
  SVK_reactionary_party_long: "Partia Ludowa Nasza Słowacja"
  SVK_postpolonism_party: "Tatranski Duchovia"
  SVK_postpolonism_party_long: "Tatra Ghosts"
- 
-  
  HUN_marxism_cranism_party: "Magyar Munkáspárt"
  HUN_marxism_cranism_party_long: "Węgierska Partia Pracujących"
  HUN_squattism_party: "LMP"
@@ -4164,7 +3962,6 @@ l_polish:
  HUN_reactionary_party_long: "Narodowy Samorząd Cyganów"
  HUN_postpolonism_party: "MKKP"
  HUN_postpolonism_party_long: "Węgierska Partia Psa o Dwóch Ogonach"
- 
  ROM_marxism_cranism_party: "PCDR"
  ROM_marxism_cranism_party_long: "Rumuńska Partia Komunistyczna"
  ROM_squattism_party: "PER"
@@ -4186,8 +3983,7 @@ l_polish:
  ROM_reactionary_party: "RMDSZ"
  ROM_reactionary_party_long: "Demokratyczny Związek Węgrów w Rumunii"
  ROM_postpolonism_party: "Țiganii"
- ROM_postpolonism_party_long:"Cyganie"
- 
+ ROM_postpolonism_party_long: "Cyganie"
  UKR_marxism_cranism_party: "KPU"
  UKR_marxism_cranism_party_long: "Komunistyczna Partia Ukrainy"
  UKR_squattism_party: "PER"
@@ -4210,7 +4006,6 @@ l_polish:
  UKR_reactionary_party_long: "Opozycyjna Platforma – Za Życie"
  UKR_postpolonism_party: "Pułk Azow"
  UKR_postpolonism_party_long: "Pułk Azow"
- 
  UHR_marxism_cranism_party: "KPU"
  UHR_marxism_cranism_party_long: "Komunistyczna Partia Ukrainy"
  UHR_squattism_party: "PER"
@@ -4233,7 +4028,6 @@ l_polish:
  UHR_reactionary_party_long: "Opozycyjna Platforma – Za Życie"
  UHR_postpolonism_party: "Pułk Azow"
  UHR_postpolonism_party_long: "Pułk Azow"
- 
  RUS_marxism_cranism_party: "KPRF"
  RUS_marxism_cranism_party_long: "Komunistyczna Partia Federacji Rosyjskiej"
  RUS_squattism_party: "KPRF"
@@ -4256,7 +4050,6 @@ l_polish:
  RUS_reactionary_party_long: "Partia Eurazji"
  RUS_postpolonism_party: "Jedinaja Czeczenija"
  RUS_postpolonism_party_long: "Jedna Czeczenia"
- 
  LIT_marxism_cranism_party: "LKP"
  LIT_marxism_cranism_party_long: "Komunistyczna Partia Litwy"
  LIT_squattism_party: "LP"
@@ -4279,7 +4072,6 @@ l_polish:
  LIT_reactionary_party_long: "Ruch Wolne Wilno"
  LIT_postpolonism_party: "Ruch Wolne Wilno"
  LIT_postpolonism_party_long: "Ruch Wolne Wilno"
- 
  RZE_marxism_cranism_party: "KPP"
  RZE_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  RZE_squattism_party: "Anarchia"
@@ -4302,7 +4094,6 @@ l_polish:
  RZE_reactionary_party_long: "Konfederacja Korony Polskiej"
  RZE_postpolonism_party: "UNTITLED 00"
  RZE_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  CHR_marxism_cranism_party: "KPP"
  CHR_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  CHR_squattism_party: "Anarchia"
@@ -4325,7 +4116,6 @@ l_polish:
  CHR_reactionary_party_long: "Rada Regencyjna"
  CHR_postpolonism_party: "UNTITLED 00"
  CHR_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  UPA_marxism_cranism_party: "KPP"
  UPA_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  UPA_squattism_party: "Anarchia"
@@ -4348,7 +4138,6 @@ l_polish:
  UPA_reactionary_party_long: "Rada Regencyjna"
  UPA_postpolonism_party: "UNTITLED 00"
  UPA_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  KOZ_marxism_cranism_party: "KPP"
  KOZ_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  KOZ_squattism_party: "Siczowa Rada"
@@ -4371,7 +4160,6 @@ l_polish:
  KOZ_reactionary_party_long: "Rada Regencyjna"
  KOZ_postpolonism_party: "UNTITLED 00"
  KOZ_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  BSC_marxism_cranism_party: "KPP"
  BSC_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  BSC_squattism_party: "KSU"
@@ -4394,7 +4182,6 @@ l_polish:
  BSC_reactionary_party_long: "Rada Regencyjna"
  BSC_postpolonism_party: "UNTITLED 00"
  BSC_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  KRO_marxism_cranism_party: "KPP"
  KRO_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  KRO_squattism_party: "Anarchia"
@@ -4417,7 +4204,6 @@ l_polish:
  KRO_reactionary_party_long: "Rada Regencyjna"
  KRO_postpolonism_party: "UNTITLED 00"
  KRO_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  TAR_marxism_cranism_party: "KPP"
  TAR_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  TAR_squattism_party: "Anarchia"
@@ -4440,8 +4226,6 @@ l_polish:
  TAR_reactionary_party_long: "Rada Regencyjna"
  TAR_postpolonism_party: "UNTITLED 00"
  TAR_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
- 
  MIE_marxism_cranism_party: "KPP"
  MIE_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  MIE_squattism_party: "Anarchia"
@@ -4464,7 +4248,6 @@ l_polish:
  MIE_reactionary_party_long: "Rada Regencyjna"
  MIE_postpolonism_party: "UNTITLED 00"
  MIE_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  DBI_marxism_cranism_party: "KPP"
  DBI_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  DBI_squattism_party: "Anarchia"
@@ -4487,7 +4270,6 @@ l_polish:
  DBI_reactionary_party_long: "Rada Regencyjna"
  DBI_postpolonism_party: "UNTITLED 00"
  DBI_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  JSO_marxism_cranism_party: "KPP"
  JSO_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  JSO_squattism_party: "Anarchia"
@@ -4510,7 +4292,6 @@ l_polish:
  JSO_reactionary_party_long: "Rada Regencyjna"
  JSO_postpolonism_party: "UNTITLED 00"
  JSO_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  STL_marxism_cranism_party: "KPP"
  STL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  STL_squattism_party: "Anarchia"
@@ -4533,7 +4314,6 @@ l_polish:
  STL_reactionary_party_long: "Rada Regencyjna"
  STL_postpolonism_party: "UNTITLED 00"
  STL_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  LEZ_marxism_cranism_party: "KPP"
  LEZ_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  LEZ_squattism_party: "Anarchia"
@@ -4556,7 +4336,6 @@ l_polish:
  LEZ_reactionary_party_long: "Regimentaria Generalna"
  LEZ_postpolonism_party: "UNTITLED 00"
  LEZ_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  LGP_marxism_cranism_party: "KPP"
  LGP_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  LGP_squattism_party: "Anarchia"
@@ -4579,7 +4358,6 @@ l_polish:
  LGP_reactionary_party_long: "Regimentaria Generalna"
  LGP_postpolonism_party: "UNTITLED 00"
  LGP_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  LCZ_marxism_cranism_party: "KPP"
  LCZ_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  LCZ_squattism_party: "Anarchia"
@@ -4602,7 +4380,6 @@ l_polish:
  LCZ_reactionary_party_long: "Rada Regencyjna"
  LCZ_postpolonism_party: "UNTITLED 00"
  LCZ_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  KOL_marxism_cranism_party: "KPP"
  KOL_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  KOL_squattism_party: "Lasowiacy"
@@ -4625,7 +4402,6 @@ l_polish:
  KOL_reactionary_party_long: "Lasowiacy"
  KOL_postpolonism_party: "UNTITLED 00"
  KOL_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  LES_marxism_cranism_party: "KPP"
  LES_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  LES_squattism_party: "Anarchia"
@@ -4648,7 +4424,6 @@ l_polish:
  LES_reactionary_party_long: "Rada Regencyjna"
  LES_postpolonism_party: "UNTITLED 00"
  LES_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  ANC_marxism_cranism_party: "Komuna Niedźwiedzia"
  ANC_marxism_cranism_party_long: "Komuna Niedźwiedzia"
  ANC_squattism_party: "Anarchia"
@@ -4671,7 +4446,6 @@ l_polish:
  ANC_reactionary_party_long: "Rada Regencyjna"
  ANC_postpolonism_party: "UNTITLED 00"
  ANC_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  NIS_marxism_cranism_party: "Komuna Niedźwiedzia"
  NIS_marxism_cranism_party_long: "Komuna Niedźwiedzia"
  NIS_squattism_party: "Anarchia"
@@ -4694,7 +4468,6 @@ l_polish:
  NIS_reactionary_party_long: "Konfederacja Rodzimowiercza"
  NIS_postpolonism_party: "UNTITLED 00"
  NIS_postpolonism_party_long: "INSERT_COUNTRY_NAME_HERE"
- 
  BEX_marxism_cranism_party: "KPP"
  BEX_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  BEX_squattism_party: "Anarchia"
@@ -4717,7 +4490,6 @@ l_polish:
  BEX_reactionary_party_long: "Rada Regencyjna"
  BEX_postpolonism_party: "UNTITLED 00"
  BEX_postpolonism_party_long: "UNTITLED 00" #a może by tak unitled 27? że wiecie że to hehe dzieło malarskie bexa
-
  CRN_squattism_party: "Anarchiści"
  CRN_squattism_party_long: "Anarchiści"
  CRN_euroliberalism_party: "KO"
@@ -4728,14 +4500,12 @@ l_polish:
  CRN_neonationalism_party_long: "Obóz Narodowo-Radykalny"
  CRN_reactionary_party: "Władze Kościelne"
  CRN_reactionary_party_long: "Władze Kościelne"
-
  PUL_euroliberalism_party: "KO"
  PUL_euroliberalism_party_long: "Koalicja Obywatelska"
  PUL_paternal_conservatism_party: "PiS"
  PUL_paternal_conservatism_party_long: "Prawo i Sprawiedliwość"
  PUL_neonationalism_party: "ONR"
  PUL_neonationalism_party_long: "Obóz Narodowo-Radykalny"
-
  KSN_autocracy_party: "KNP - Frakcja Kornelii"
  KSN_autocracy_party_long: "Kościół Nowego Przymierza - Służebnicy Ducha Świętego"
  KSN_neonationalism_party: "KNP - Frakcja Tymoteusza"
@@ -4744,7 +4514,6 @@ l_polish:
  KSN_reactionary_party_long: "Kościół Nowego Przymierza" 
  KSN_postpolonism_party: "KNP - Frakcja Euniki" 
  KSN_postpolonism_party_long: "Kościół Nowego Przymierza - Wybrańcy Boga" 
-
  SWD_marxism_cranism_party: "KPP"
  SWD_marxism_cranism_party_long: "Komunistyczna Partia Polski"
  SWD_squattism_party: "Anarchokomuniści"
@@ -4753,7 +4522,6 @@ l_polish:
  SWD_euroliberalism_party_long: "Koalicja Obywatelska"
  SWD_paternal_conservatism_party: "PiS"
  SWD_paternal_conservatism_party_long: "Prawo i Sprawiedliwość"
-
  ZUK_socialdemocrature_party: "Żukiści - Demokraci"
  ZUK_socialdemocrature_party_long: "Żukiści - Demokraci"
  ZUK_euroliberalism_party: "Żukiści - Liberałowie"
@@ -4762,7 +4530,6 @@ l_polish:
  ZUK_paternal_conservatism_party_long: "Prawo i Sprawiedliwość"
  ZUK_autocracy_party: "Żukiści - Radykałowie"
  ZUK_autocracy_party_long: "Żukiści - Radykałowie"
-
  BPD_autocracy_party: "Ultratechnokraci"
  BPD_autocracy_party_long: "Ultratechnokraci"
  BPD_socialdemocrature_party: "Socjaltechnokraci"
@@ -4771,7 +4538,6 @@ l_polish:
  BPD_euroliberalism_party_long: "Eurotechnokraci"
  BPD_paternal_conservatism_party: "PiS"
  BPD_paternal_conservatism_party_long: "Prawo i Sprawiedliwość"
- 
  BIL_socialdemocrature_party: "Twój Ruch"
  BIL_socialdemocrature_party_long: "Twój Ruch"
  BIL_euroliberalism_party: "KO"
@@ -4780,16 +4546,12 @@ l_polish:
  BIL_paternal_conservatism_party_long: "Prawo i Sprawiedliwość"
  BIL_corporativism_party: "Browary Biłgorajskie"
  BIL_corporativism_party_long: "Browary Biłgorajskie"
-
  TEN_postpolonism_party: "Klika Sznuka"
  TEN_postpolonism_party_long: "Klika Sznuka"
-
  LEN_autocracy_party: "Gród Parczewski"
  LEN_autocracy_party_long: "Gród Parczewski"
- 
  TSB_freemarketism_party: "Handlarze Bronią"
  TSB_freemarketism_party_long: "Handlarze Bronią"
- 
  PLK_socialdemocrature_party: "Koalicja Pałucka - Postępowcy"
  PLK_socialdemocrature_party_long: "Koalicja Pałucka - Postępowcy"
  PLK_euroliberalism_party: "Koalicja Pałucka - Liberałowie"
@@ -4800,7 +4562,6 @@ l_polish:
  PLK_squattism_party_long: "Anarchistyczni Dysydenci"
  PLK_reactionary_party: "Stowarzyszenie Ochrony Kultury"
  PLK_reactionary_party_long: "Stowarzyszenie Ochrony Kultury"
-
  SWC_paternal_conservatism_party: "Obywatelskie Porozumienie Samorządowe"
  SWC_paternal_conservatism_party_long: "Obywatelskie Porozumienie"
  SWC_euroliberalism_party: "Lojaliści Krupy"
