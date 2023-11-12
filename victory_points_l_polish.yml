@@ -9053,6 +9053,7 @@ l_polish:
  VICTORY_POINTS_14446_UKROS: "Nowy Fordon"
  VICTORY_POINTS_14446_USP: "New Fordtown"
  
+ VICTORY_POINTS_14447: "Osiedle Tatrzańskie"
  VICTORY_POINTS_14447_CAL: "Praedium Tatra Montes"
  VICTORY_POINTS_14447_CZE: "Oshidoru Tatoshansukie"
  VICTORY_POINTS_14447_GER: "Tatra-Gebirge Siedlung"
@@ -17574,6 +17575,16 @@ VICTORY_POINTS_3119: "Nawojowa"
  VICTORY_POINTS_3351_LEH: "Lubelin Wschodni"
  VICTORY_POINTS_3351_UKROS: "Wostocznyj-Lublin"
  VICTORY_POINTS_3351_USP: "East Likeropes"
+ 
+ #Na to się zmieni po zjednoczeniu (jak to ogarnę - N.)
+ #VICTORY_POINTS_3351: "Bronowice"
+ #VICTORY_POINTS_3351_CAL: "Bronovicia"
+ #VICTORY_POINTS_3351_CZE: "Borunobisisu"
+ #VICTORY_POINTS_3351_GER: "Bronowitz"
+ #VICTORY_POINTS_3351_JOM: "Bronovik"
+ #VICTORY_POINTS_3351_LEH: "Bronowice"
+ #VICTORY_POINTS_3351_UKROS: "Bronovitse"
+ #VICTORY_POINTS_3351_USP: "Weaponewbies"
  
  VICTORY_POINTS_3354: "Halemba"
  VICTORY_POINTS_3354_CAL: "Galembia"
