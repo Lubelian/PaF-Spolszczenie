@@ -1641,9 +1641,9 @@ l_polish:
  WAN_supregional_reactionary_DEF: "Hierarchia Wandalska"
  WAN_supregional_reactionary_ADJ: "Wandal."
 
- WAN_wandale_final_reactionary: "Hierarchia Wandalska"
- WAN_wandale_final_reactionary_DEF: "Hierarchia Wandalska"
- WAN_wandale_final_reactionary_ADJ: "Wandal."
+ WAN_wandale_final: "Hierarchia Wandalska"
+ WAN_wandale_final_DEF: "Hierarchia Wandalska"
+ WAN_wandale_final_ADJ: "Wandal."
 
  WAN_siwa_final: "Nieśmiertelna Kraina Swargi"
  WAN_siwa_final_DEF: "Nieśmiertelna Kraina Swargi"
