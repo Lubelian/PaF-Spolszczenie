@@ -1537,13 +1537,21 @@ l_polish:
  CYG_regional_autocracy_DEF: "Państwo Cygańskie"
  CYG_regional_autocracy_ADJ: "Cygańsk."
 
- CYG_supregional_autocracy: "Romastan"
- CYG_supregional_autocracy_DEF: "Romastan"
- CYG_supregional_autocracy_ADJ: "Romast."
- 
- CYG_final: "Romastan"
- CYG_final_DEF: "Romastan"
- CYG_final_ADJ: "Romast." 
+ CYG_supregional_squattism: "Romastan"
+ CYG_supregional_squattism_DEF: "Romastan"
+ CYG_supregional_squattism_ADJ: "Romastan"
+ CYG_supregional_autocracy: "Imperium Romskie"
+ CYG_supregional_autocracy_DEF: "Imperium Romskie"
+ CYG_supregional_autocracy_ADJ: "Rom." 
+
+ CYG_tabor_final: "Romastan"
+ CYG_tabor_final_DEF: "Romastan"
+ CYG_tabor_final_ADJ: "Roma." 
+
+ CYG_krol_final: "Święte Imperium Romskie"
+ CYG_krol_final_DEF: "Święte Imperium Romskie"
+ CYG_krol_final_ADJ: "Rom."
+
  
 ###Fanatycy###
 
@@ -1563,9 +1571,9 @@ l_polish:
  RYB_galecki_final_DEF: "Wolne Wody Polskie"
  RYB_galecki_final_ADJ: "Wod." 
  
- RYB_sum_socialdemocrature: "Rzecznapospolita Jeziorańska"
- RYB_sum_socialdemocrature_DEF: "Rzecznapospolita Jeziorańska"
- RYB_sum_socialdemocrature_ADJ: "Jeziorańsk."
+ RYB_sum: "Rzecznapospolita Jeziorańska"
+ RYB_sum_DEF: "Rzecznapospolita Jeziorańska"
+ RYB_sum_ADJ: "Jeziorańsk."
  
 #MNI
  MNI_voivodeship_socialdemocrature: "Oppelnische Republik"
@@ -1972,17 +1980,17 @@ l_polish:
 
  
 ###ŻAGAŃ###
- ZAG_voivodeship_autocracy:0 "11 Dywizja Kawalerii Pancernej"
- ZAG_voivodeship_autocracy_DEF:0 "11 Dywizja Kawalerii Pancernej"
- ZAG_voivodeship_autocracy_ADJ:0 "11 DKPanc"
+ ZAG_voivodeship:0 "11 Dywizja Kawalerii Pancernej"
+ ZAG_voivodeship_DEF:0 "11 Dywizja Kawalerii Pancernej"
+ ZAG_voivodeship_ADJ:0 "11 DKPanc"
  
- ZAG_regional_autocracy: "11 Dywizja Kawalerii Pancernej"
- ZAG_regional_autocracy_DEF: "11 Dywizja Kawalerii Pancernej"
- ZAG_regional_autocracy_ADJ: "11 DKPanc"
+ ZAG_regional: "11 Dywizja Kawalerii Pancernej"
+ ZAG_regional_DEF: "11 Dywizja Kawalerii Pancernej"
+ ZAG_regional_ADJ: "11 DKPanc"
  
- ZAG_supregional_autocracy: "Polski Okręg Wojskowy"
- ZAG_supregional_autocracy_DEF: "Polski Okręg Wojskowy"
- ZAG_supregional_autocracy_ADJ: "Pol."
+ ZAG_supregional: "Polski Okręg Wojskowy"
+ ZAG_supregional_DEF: "Polski Okręg Wojskowy"
+ ZAG_supregional_ADJ: "Pol."
 
  ZAG_pancerni_final: "Polski Okręg Wojskowy"
  ZAG_pancerni_final_DEF: "Polski Okręg Wojskowy"
