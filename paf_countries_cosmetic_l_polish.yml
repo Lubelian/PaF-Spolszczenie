@@ -2118,8 +2118,29 @@ l_polish:
  HOR_final: "Nekropola" #jebać bastion
  HOR_final_DEF: "Nekropola"
  HOR_final_ADJ: "Nekropol."
+
+ ###Orlen###
+ ORL_BBW: "Stołeczna Nafta"
+ ORL_BBW_DEF: "Stołeczna Nafta"
+ ORL_BBW_ADJ: "Naft."   
+
+ ORL_voivodeship_corporativism: "Naftokracja Mazowiecka"
+ ORL_voivodeship_corporativism_DEF: "Naftokracja Mazowiecka"
+ ORL_voivodeship_corporativism_ADJ: "Naft."
  
-  ###POST-SMOG COLLAPSE###
+ ORL_regional_corporativism: "Naftokracja Mazowiecka"
+ ORL_regional_corporativism_DEF: "Naftokracja Mazowiecka"
+ ORL_regional_corporativism_ADJ: "Naft."
+
+ ORL_supregional_corporativism: "Naftokracja Polska"
+ ORL_supregional_corporativism_DEF: "Naftokracja Polska"
+ ORL_supregional_corporativism_ADJ: "Pol."
+
+ ORL_orlen_final: "Naftokracja Polska"
+ ORL_orlen_final_DEF: "Naftokracja Polska"
+ ORL_orlen_final_ADJ: "Pol."
+
+ ###POST-SMOG COLLAPSE###
  BBW_postsmog: "Pustkowie"
  BBW_postsmog_DEF: "Pustkowie"
  BBW_postsmog_ADJ: "Pustkow."  
@@ -2199,10 +2220,6 @@ l_polish:
  MOT_BBW: "Nocne Wilki"
  MOT_BBW_DEF: "Nocne Wilki"
  MOT_BBW_ADJ: "Wilcz."  
-
- ORL_BBW: "Stołeczna Nafta"
- ORL_BBW_DEF: "Stołeczna Nafta"
- ORL_BBW_ADJ: "Naft."   
 
  SEI_BBW: "Jaćwież"
  SEI_BBW_DEF: "Jaćwież"
