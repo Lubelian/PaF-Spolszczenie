@@ -2140,10 +2140,134 @@ l_polish:
  ORL_orlen_final_DEF: "Naftokracja Polska"
  ORL_orlen_final_ADJ: "Pol."
 
+  ###Sasin###
+ SAS_voivodeship: "Tymczasowa Rzeczpospolita Mazowiecka"
+ SAS_voivodeship_DEF: "Tymczasowa Rzeczpospolita Mazowiecka"
+ SAS_voivodeship_ADJ: "Mazow."
+
+ SAS_regional: "Tymczasowa Rzeczpospolita Mazowiecka"
+ SAS_regional_DEF: "Tymczasowa Rzeczpospolita Mazowiecka"
+ SAS_regional_ADJ: "Mazow."
+
+ SAS_supregional: "Ludowa Unia Polski"
+ SAS_supregional_DEF: "Ludowa Unia Polski"
+ SAS_supregional_ADJ: "Pol."
+
+ SAS_final: "Tymczasowa Rzeczpospolita Polska"
+ SAS_final_DEF: "Tymczasowa Rzeczpospolita Polska"
+ SAS_final_ADJ: "Pol." 
+
+ ###Siedlce###
+ SDL_voivodeship: "Ludowa Unia Mazowiecka"
+ SDL_voivodeship_DEF: "Ludowa Unia Mazowiecka"
+ SDL_voivodeship_ADJ: "Mazow."
+
+ SDL_regional: "Ludowa Unia Mazowiecka"
+ SDL_regional_DEF: "Ludowa Unia Mazowiecka"
+ SDL_regional_ADJ: "Mazow."
+
+ SDL_supregional: "Ludowa Unia Polski"
+ SDL_supregional_DEF: "Ludowa Unia Polski"
+ SDL_supregional_ADJ: "Pol."
+
+ SDL_final: "Ludowa Unia Polski"
+ SDL_final_DEF: "Ludowa Unia Polski"
+ SDL_final_ADJ: "Pol."  
+
+
+ ###Siedlce###
+ AGR_voivodeship: "Agrarne Mazowsze"
+ AGR_voivodeship_DEF: "Agrarne Mazowsze"
+ AGR_voivodeship_ADJ: "Mazow."
+
+ AGR_regional: "Agrarne Mazowsze"
+ AGR_regional_DEF: "Agrarne Mazowsze"
+ AGR_regional_ADJ: "Mazow."
+
+ AGR_supregional: "Agrarna Unia Polski"
+ AGR_supregional_DEF: "Agrarna Unia Polski"
+ AGR_supregional_ADJ: "Pol."
+
+ AGR_final: "Agrarna Unia Polski"
+ AGR_final_DEF: "Agrarna Unia Polski"
+ AGR_final_ADJ: "Pol."   
+
+#Maciar# 
+ WOW_voivodeship_postpolonism: "Mazowyasuyu"
+ WOW_voivodeship_postpolonism_DEF: "Mazowyasuyu"
+ WOW_voivodeship_postpolonism_ADJ: "Mazowyasuyu"
+ WOW_voivodeship_autocracy: "Mazowiecki Okręg Wojskowy"
+ WOW_voivodeship_autocracy_DEF: "Mazowiecki Okręg Wojskowy"
+ WOW_voivodeship_autocracy_ADJ: "Mazow." 
+
+ WOW_regional_postpolonism: "Mazowyasuyu"
+ WOW_regional_postpolonism_DEF: "Mazowyasuyu"
+ WOW_regional_postpolonism_ADJ: "Mazowyasuyu"
+ WOW_regional_autocracy: "Mazowiecki Okręg Wojskowy"
+ WOW_regional_autocracy_DEF: "Mazowiecki Okręg Wojskowy"
+ WOW_regional_autocracy_ADJ: "Mazow."
+
+ WOW_supregional_postpolonism: "Imperium Szesnastu Części"
+ WOW_supregional_postpolonism_DEF: "Imperium Szesnastu Części"
+ WOW_supregional_postpolonism_ADJ: "ISCz"
+ WOW_supregional_autocracy: "Rzeczpospolita Wszystkich Narodów"
+ WOW_supregional_autocracy_DEF: "Rzeczpospolita Wszystkich Narodów"
+ WOW_supregional_autocracy_ADJ: "Rzeczpospol."
+
+ WOW_marszalek_final: "Rzeczpospolita Wszystkich Narodów"
+ WOW_marszalek_final_DEF: "Rzeczpospolita Wszystkich Narodów"
+ WOW_marszalek_final_ADJ: "Rzeczpospol." 
+ WOW_inka_final: "Imperium Szesnastu Części"
+ WOW_inka_final_DEF: "Imperium Szesnastu Części"
+ WOW_inka_final_ADJ: "ISCz"   
+
+ #Wawer#
+ ZIE_voivodeship_squattism: "Komuna Warszawska"
+ ZIE_voivodeship_squattism_DEF: "Komuna Warszawska"
+ ZIE_voivodeship_squattism_ADJ: "Warszaw." 
+
+ ZIE_regional_postpolonism: "Dziki"
+ ZIE_regional_postpolonism_DEF: "Dziki"
+ ZIE_regional_postpolonism_ADJ: "Dziki"
+ ZIE_regional_squattism: "Wolne Ludy Mazowsza"
+ ZIE_regional_squattism_DEF: "Wolne Ludy Mazowsza"
+ ZIE_regional_squattism_ADJ: "Mazow."
+
+ ZIE_supregional_postpolonism: "Dziki"
+ ZIE_supregional_postpolonism_DEF: "Dziki"
+ ZIE_supregional_postpolonism_ADJ: "Dziki"
+ ZIE_supregional_squattism: "Wolne Ludy Polski"
+ ZIE_supregional_squattism_DEF: "Wolne Ludy Polski"
+ ZIE_supregional_squattism_ADJ: "Pol."
+
+ ZIE_spurek_final: "Polacy"
+ ZIE_spurek_final_DEF: "Polacy"
+ ZIE_spurek_final_ADJ: "Polacy" 
+ ZIE_dziki_final: "Dziki"
+ ZIE_dziki_final_DEF: "Dziki"
+ ZIE_dziki_final_ADJ: "Dziki"    
+
+ #Trzaskowski
+ TRZ_voivodeship: "Warszawskie Państwo Podziemne"
+ TRZ_voivodeship_DEF: "Warszawskie Państwo Podziemne"
+ TRZ_voivodeship_ADJ: "Warszaw."
+
+ TRZ_regional: "Sojusz dla Przywrócenia Rzeczpospolitej"
+ TRZ_regional_DEF: "Sojusz dla Przywrócenia Rzeczpospolitej"
+ TRZ_regional_ADJ: "Rzeczpospol."
+
+ TRZ_supregional: "Sojusz dla Przywrócenia Rzeczpospolitej"
+ TRZ_supregional_DEF: "Sojusz dla Przywrócenia Rzeczpospolitej"
+ TRZ_supregional_ADJ: "Rzeczpospol."
+
+ TRZ_final: "Nowa Rzeczpospolita Polska"
+ TRZ_final_DEF: "Nowa Rzeczpospolita Polska"
+ TRZ_final_ADJ: "Pol."   
+
  ###POST-SMOG COLLAPSE###
  BBW_postsmog: "Pustkowie"
  BBW_postsmog_DEF: "Pustkowie"
- BBW_postsmog_ADJ: "Pustkow."  
+ BBW_postsmog_ADJ: "Pustkowie"
 
  BOM_BBW: "Nitroszczury"
  BOM_BBW_DEF: "Nitroszczury"
