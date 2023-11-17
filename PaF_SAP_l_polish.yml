@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
  ## Szkoly ##
  SAP_witcher_schools_category: "Szkoła Wiedźminów"
  SAP_school_of_the_rose_lvl1: "Szkoła Róży"
@@ -290,9 +290,9 @@ sapek_war.16.desc:0 "- We're safe, my son. They won't do anything to us in the m
 sapek_war.16.a:0 "...and not a soul to hear"
 
 
-unification.5.t:0 "[GetNewspaper]The Duchy of Ellander unifies Łódź Voivodeship"
-unification.5.desc:0 "Post-Fall Poland is a home to many weird and outlandish political movements. Few of them, however, match the new masters of Łódź in their oddity. \nAndrzej Sapkowski's clique (or kingdom, as it calls itself) has managed to win the people's hearts with its Witcher-themed aesthetics and united all of Łódź, referring to the voivodeship as Temeria. The kingdom's state structure has been described by local and international observers as a "Disneyland-state", using names and references to the Witcher franchise as a way to push its social liberal agenda. The clique was able to succeed thanks to an alliance with Jacek Bartyzel's Carlists, who took a liking to Sapkowski's "monarchy". Other statelets surrounding Łódź, who so far have thought of Temeria as of an interesting, albeit doomed to fail experiment, now watch it in concern, wondering if this Witcher LARP will be convincing enough for the Carlists, and whether it wasn't a little bit *too* convincing for Sapkowski himself."
-unification.5.a:0 "Do Temerian soldiers scream "Lightning bolt!" before shooting?"
+unification.5.t:0 "[GetNewspaper]Księstwo Ellander jednoczy województwo łódzkie"
+unification.5.desc:0 "Polska po upadku jest domem dla wielu dziwnych i dziwacznych ruchów politycznych. Niewiele z nich dorównuje jednak swoją osobliwością nowym władcom Łodzi. \nKlice (lub, jak siebie nazywa królestwo) Andrzeja Sapkowskiego udało się zdobyć swoją wiedźmińską estetyką i zjednoczył całą Łódź, nazywając województwo Temerią. Struktura państwa królestwa została opisana przez lokalnych i międzynarodowych obserwatorów jako „państwo-Disneyland”, używając nazw i nawiązań do serii Wiedźmin jako sposób na forsowanie swojego programu socjalliberalnego. Klika odniosła sukces dzięki sojuszowi z karlistami Jacka Bartyzela, którzy upodobali sobie „monarchię” Sapkowskiego. Inne państewka wokół Łodzi, które dotychczas uważały Temerię za interesującą, choć eksperyment skazany na niepowodzenie, teraz z niepokojem przyglądają się temu, zastanawiając się, czy ten wiedźmiński LARP będzie wystarczająco przekonujący dla karlistów i czy nie był trochę *zbyt* przekonujący dla samego Sapkowskiego."
+unification.5.a:0 "Czy temerscy żołnierze krzyczą „Błyskawica!” przed oddaniem strzału?"
  ##First Tree#
 SAP_the_last_wish:0 "Ostatnie życzenie"
 SAP_the_last_wish_desc:0 "Behold our hero: a writer subjected to see his beloved franchise, destroyed by overzealous directors and computer games companies before The Fall, he has now become a ruler of a part of former voivodeship. Always penniless and often disdained by those whom he rules, he tries to grasp his way around being an actual Duke. Fate has little mercy for him, piling obstacles in his way, yet he trudges on. He has a bigger ego than the whole Oblivion. Doubts haunt him even when he intends to visit a privy. Is he a good man? I do not think so. Does he try to maintain his humanity? I believe he think he does."
