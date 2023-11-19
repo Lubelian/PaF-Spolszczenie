@@ -1,4 +1,5 @@
-﻿l_polish:
+l_polish:
+ ZAG_congress_of_bedzin: "Rozpoczął się Kongres Będziński"
  ## Ideas ##
  DGR_brembo: "Brembo"
  DGR_huta_katowice: "Huta Katowice"
@@ -6,7 +7,7 @@
  DGR_damel: "Damel"
  DGR_koksownia: "Koksownia 'Przyjaźń'"
  DGR_euroterminal: "Euroterminal Sławków"
- DGR_mr_hamburger: "Comrade Hamburger"
+ DGR_mr_hamburger: "Towarzysz Hamburger"
  DGR_dzafar: "Dżafar Kebab"
  
  DGR_industrial_heart1: "Industrial Heart Not Pumping"
