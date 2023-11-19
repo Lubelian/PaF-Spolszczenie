@@ -379,9 +379,15 @@ squat_pump_yourself_to_fight_desc:0 "Musimy przygotować się do walki o nasze t
 unification_category:0 "Zjednoczenie Polski"
 unification_category_desc:0 ""
 
+regional_unification_decision: "Enter the Regional Stage"
+superregional_unification_decision: "Enter the Superregional Stage"
+
 controls_lodz_voivodeship: "Kontroluje całe województwo łódzkie"
 controls_zaglebie: "Kontroluje Zagłębie i Jurę"
 controls_lublin_voivodeship: "Kontroluje całe województwo lubelskie"
+
+controls_three_voivodeships: "Kontroluje obszary co najmniej trzech województw"
+controls_six_voivodeships: "Kontroluje obszary co najmniej sześciu województw"
 
 lodz_voivodeship_unification:0 "Zjednocz Województwo Łódzkie!"
 zaglebie_voivodeship_unification:0 "Zjednocz Zagłębie i Jurę!"
@@ -568,6 +574,7 @@ jura_CCH:0 "[CCH.GetFlag]Oblężenie Częstochowy"
 zaglebie_DGR:0 "[DGR.GetFlag]Wojna z Dąbrową Górniczą"
 zaglebie_JAW:0 "[JAW.GetFlag]Wojna z Jaworznem"
 zaglebie_SOS:0 "[SOS.GetFlag]Wojna z Sosnowcem"
+zaglebie_ZAW:0 "[ZAW.GetFlag]Wojna z Państwem Zawierciańskim"
 
 metropolis_war_1:0 "Uderzenie na Południowy Śląsk"
 metropolis_war_2:0 "Uderzenie na Północny Śląsk"
@@ -624,7 +631,7 @@ podkarpacie_RZE:0 "War with Rzeszów"
 podkarpacie_KOZ:0 "War with Cossacks"
 podkarpacie_BSC:0 "War with Bieszczady"
 podkarpacie_TAR:0 "War with Tarnobrzeg"
-podkarpacie_mielec_debica:0 "Pacify Western Warlords"
+podkarpacie_mielec_debica:0 "Pacyfikacja zachodnich watażków	"
 heart_of_darkness:0 "Wejście w nieznane"
 
 opole_nysa_end:0 "Pozbycie się Nysy"
@@ -643,9 +650,9 @@ okamura_ZUL_conquest_war:0 "Move into Bum Basin"
 EKS_KGH_or_CYG_war:0 "Retake Copper Valley!"
 RYB_MPK_war:0 "Fishing for a Wrocław"
 RYB_vs_WRO_war:0 "Retake Wrocław!"
-Lowersilesia_eating_of_puppets:0 "End the Touristenstaat"
-Last_lowersilesia_war:0 "War for Lower Silesia"
-KGH_drastic_measures:0 "Drastic Measures"
+Lowersilesia_eating_of_puppets:0 "Koniec z Touristenstaat"
+Last_lowersilesia_war:0 "Wojna o Dolny Śląsk"
+KGH_drastic_measures:0 "Drastyczne środki"
 MPK_RYB_makao:0 "Makao"
 
 
