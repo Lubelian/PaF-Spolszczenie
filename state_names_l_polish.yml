@@ -7044,8 +7044,9 @@ l_polish:
  STATE_765_GER: "Emanuelssegen"
  STATE_765_JOM: "Murskja"
  STATE_765_LEH: "Murcki"
- STATE_765_UKROS: "Murtskiy"
+ STATE_765_UKROS: "Murcki"
  STATE_765_USP: "Murcky"
+ STATE_765_SIL: "Murcki"
 
  STATE_766: "Piotrowice"
  STATE_766_CAL: "Petroviae"
