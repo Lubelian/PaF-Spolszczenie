@@ -49,5 +49,5 @@ WYMORDOWAC_WSZYSTKICH_POLAKOW_TOOLTIP: "§HLicznik martwych Polaków§!\n\nTutaj
  RULE_ALLOW_WIP_CONTENT_BLOCKED_DESC: "Niedokończona treść nie zostanie wyświetlona"
  WYMORDOWAC_WSZYSTKICH_POLAKOW_VALUE: "[GetPolishCasualities]"
  LICZBA_JABLONOWSKIEGO_PONIZEJ_1000: "[?global.deadPolacks]"
- LICZBA_JABLONOWSKIEGO_PONIZEJ_MILLIONA: "[?global.deadPolacks|0]"
+ LICZBA_JABLONOWSKIEGO_PONIZEJ_MILLIONA: "[?global.deadPolacks|*]"
  LICZBA_JABLONOWSKIEGO: "W chuj"
