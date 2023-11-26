@@ -1,13 +1,8 @@
 l_polish:
 
 the_sacred_war: "Święta Wojna"
-final_conquest_category: "Ostateczny podbój"
-attack_other_superregion: "Inwazja na naszego sąsiada"
 declare_yourself_a_superregion: "Ogłoszenie rządu narodowego"
-attack_lesser_vois: "Atak na mniejsze województwa"
-avenge_warmians: "Zemsta na wroga!"
 superregional_conquest_category: "Podbój superregionalny"
-attack_other_region: "Inwazja na naszego sąsiada"
 declare_yourself_a_region: "Ogłoszenie rządu regionalnego"
 sweep_northern_gp_warlords: "Inwazja na północną Wielkopolskę"
 sweep_southern_gp_warlords: "Inwazja na południową Wielkopolskę"
@@ -27,8 +22,6 @@ sweep_mazovia_warlords: "Inwazja na północne Mazowsze"
 sweep_kuyavia_warlords: "Inwazja na Kujawy"
 sweep_pomerelia_warlords: "Inwazja na Pomorze Gdańskie"
 sweep_westpom_warlords: "Inwazja na zachodniopomorskie"
-final_solution_of_zigger_question: "Zemsta na wroga!"
-attack_other_voi: "Inwazja na naszego sąsiada"
 
 capital_event.1.t:0 "Możemy zmienić stolicę!"
 capital_event.1.desc:0 "Czy chcesz to zrobić?"
@@ -379,8 +372,8 @@ squat_pump_yourself_to_fight_desc:0 "Musimy przygotować się do walki o nasze t
 unification_category:0 "Zjednoczenie Polski"
 unification_category_desc:0 ""
 
-regional_unification_decision: "Enter the Regional Stage"
-superregional_unification_decision: "Enter the Superregional Stage"
+regional_unification_decision: "Wejdź na etap regionalny"
+superregional_unification_decision: "Wejście na etap superregionalny"
 
 controls_lodz_voivodeship: "Kontroluje całe województwo łódzkie"
 controls_zaglebie: "Kontroluje Zagłębie i Jurę"
@@ -451,12 +444,10 @@ poland_unification: "Zjednocz Polskę!"
 controls_poland: "Kontroluje cały obszar Polski i Kaliningradu"
 
 #le conquest
-regional_conquest_category: "Podbój województw"
+regional_conquest_category: "Podbój regionów"
 attack_other_voi: "Atak na: [FROM.GetName]"
 final_solution_of_zigger_question: "Rozwiązanie kwestii rosyjskiej"
 attack_lesser_warlords: "Zamiatanie: [FROM.GetName]" 
-declare_yourself_a_region: "Przygotuj się na dalsze podboje"
-regional_conquest_category: "Podbój Polski"
 avenge_warmians: "Pomścij Warmiaków"
 attack_other_region: "Atak na: [FROM.GetName]"
 attack_lesser_vois: "Zamiatanie: [FROM.GetName]" #Sweep
