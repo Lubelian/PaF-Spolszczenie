@@ -29,8 +29,8 @@ l_polish:
  POZ_readiness_forces_desc: ""
  POZ_poznanian_multiculturalism: "Poznańska wielokulturowość"
  POZ_poznanian_multiculturalism_desc: ""
- POZ_war_supplies: "Zaopatrzenie wojenne"
- POZ_war_supplies_desc: ""
+ POZ_war_supplies1: "Zaopatrzenie wojenne"
+ POZ_war_supplies1_desc: ""
  
  ## First Tree ##
  POZ_jaskowiak_speech: "Przemowa Jaśkowiaka"
