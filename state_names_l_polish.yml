@@ -3514,6 +3514,7 @@ l_polish:
  STATE_383_LEH: "Krzyżogród"
  STATE_383_UKROS: "Kluczbork"
  STATE_383_USP: "Keytown"
+ STATE_383_SIL: "Kluczbork"
  
  STATE_384: "Izbica"
  STATE_384_CAL: "Isbica"
@@ -3686,6 +3687,7 @@ l_polish:
  STATE_402_LEH: "Brzeg"
  STATE_402_UKROS: "Bzheg"
  STATE_402_USP: "Coast"
+ STATE_402_SIL: "Brzeg"
  
  STATE_403: "Zwierzyniec"
  STATE_403_CAL: "Animalium"
@@ -3704,6 +3706,7 @@ l_polish:
  STATE_404_LEH: "Mała Panew"
  STATE_404_UKROS: "Ozimek"
  STATE_404_USP: "Winters"
+ STATE_404_SIL: "Ozimek"
  
  STATE_405: "Karlove Vary"
  STATE_405_CAL: "Carolus Hastilia"
@@ -3759,6 +3762,7 @@ l_polish:
  STATE_410_LEH: "Grodków"
  STATE_410_UKROS: "Grodkov"
  STATE_410_USP: "Dartville"
+ STATE_410_SIL: "Grodków"
  
  STATE_411: "Biłgoraj"
  STATE_411_CAL: "Alba Goraium"
@@ -4132,6 +4136,7 @@ l_polish:
  STATE_450_LEH: "Chrapkowice"
  STATE_450_UKROS: "Krapkovitse"
  STATE_450_USP: "Craptown"
+ STATE_450_SIL: "Krapkowice"
  
  STATE_451: "Pyskowice"
  STATE_451_CAL: "Pasqua"
@@ -7314,6 +7319,7 @@ l_polish:
  STATE_795_LEH: "Toszek"
  STATE_795_UKROS: "Toshek"
  STATE_795_USP: "Toast"
+ STATE_795_SIL: "Toszek"
  
  STATE_796: "Lubsza"
  STATE_796_CAL: "Lubis"
@@ -7323,6 +7329,7 @@ l_polish:
  STATE_796_LEH: "Lubsza"
  STATE_796_UKROS: "Lubsha"
  STATE_796_USP: "Likeshaw"
+ STATE_796_SIL: "Lubsza"
  
  STATE_797: "Zaodrze"
  STATE_797_CAL: "Oppolia Transoderaniae"
@@ -7333,7 +7340,6 @@ l_polish:
  STATE_797_UKROS: "Opolye Nadodranske"
  STATE_797_USP: "Ofield-Behindoder"
  STATE_797_SIL: "Ôpole-Zaodrze" 
-
  
  STATE_798: "Sosnowiec Wschodni"
  STATE_798_CAL: "Pinusa Orientalis"
@@ -7341,7 +7347,7 @@ l_polish:
  STATE_798_GER: "Ost-Sosnowitz"
  STATE_798_JOM: "Austurfurvik"
  STATE_798_LEH: "Sosnowiec Wschodni"
- STATE_798_UKROS: "Sosnovets-Vostochnyy"
+ STATE_798_UKROS: "Sosnowiec-Wostocznyj"
  STATE_798_USP: "East Pineville"
 
  STATE_799: "Kęty"
