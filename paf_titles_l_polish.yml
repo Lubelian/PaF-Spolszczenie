@@ -3,7 +3,6 @@ l_polish:
  
  DEFAULT_GOVERNMENT: "Republika"
 
- TITLE_BBW_WIECH: "Wielki Ekolog"
  TITLE_BRE: "Eurogubernator"
  TITLE_KES: "Eurogubernator"
  TITLE_KOS: "Eurogubernator"
@@ -224,7 +223,6 @@ l_polish:
  TITLE_STL: "Prezes" 
  TITLE_NIS: "Mądry Człowiek" Wiseman
  
- GOVERNMENT_BBW_WIECH: "Krucjata Ekologiczna"
  GOVERNMENT_BRE: "Eurogubernator"
  GOVERNMENT_KES: "Eurojunta Wojskowa"
  GOVERNMENT_KOS: "Eurojunta Wojskowa"
