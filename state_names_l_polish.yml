@@ -4269,8 +4269,9 @@ l_polish:
  STATE_463_GER: "Reinschdorf"
  STATE_463_JOM: "Rinsby"
  STATE_463_LEH: "Ryńska Wieś"
- STATE_463_UKROS: "Renskaya Vyes"
+ STATE_463_UKROS: "Renskaja Wieś"
  STATE_463_USP: "Rheinville"
+ STATE_463_SIL: "Reńska Wieś"
  
  STATE_464: "Piekary Śląskie"
  STATE_464_CAL: "Pecaria Silesianis"
@@ -4307,8 +4308,9 @@ l_polish:
  STATE_467_GER: "Kandrzin-Cosel"
  STATE_467_JOM: "Hrokkingeit"
  STATE_467_LEH: "Kędzierzyn-Koźle"
- STATE_467_UKROS: "Kendzyezhyn-Kozlye"
+ STATE_467_UKROS: "Kędzierzyn-Koźle"
  STATE_467_USP: "Curling-Goatville"
+ STATE_467_SIL: "Kandrzin-Koźle"
  
  STATE_468: "Sokołów Małopolski"
  STATE_468_CAL: "Falconia Minoris"
