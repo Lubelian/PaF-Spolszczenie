@@ -1902,17 +1902,6 @@ l_polish:
 
 ##Torun##
 
- TOR_neonationalism: "Jednostka Strzelecka nr 1909"
- TOR_neonationalism_DEF: "Jednostka Strzelecka nr 1909"
- TOR_neonationalism_ADJ: "JS nr1909"
- 
- TOR_reactionary: "Korporacja Akademicka Kujawja"
- TOR_reactionary_DEF: "Korporacja Akademicka Kujawja"
- TOR_reactionary_ADJ: "Kujaw."
- 
- TOR_freemarketism: "Korporacja Akademicka Kujawja"
- TOR_freemarketism_DEF: "Korporacja Akademicka Kujawja"
- TOR_freemarketism_ADJ: "Kujaw."
  
  TOR_voivodeship_corporativism: "Redemptorystyczny Kościół Kujaw"
  TOR_voivodeship_corporativism_DEF: "Redemptorystyczny Kościół Kujaw"
@@ -2099,9 +2088,9 @@ l_polish:
  HOR_supregional_DEF: "Państwo Pielgrzymów"
  HOR_supregional_ADJ: "Pielg."
 
- HOR_final: "Państwo Pielgrzymów" #nk, preferably herder
- HOR_final_DEF: "Państwo Pielgrzymów"
- HOR_final_ADJ: "Pielg."
+ HOR_papiez_final: "Państwo Pielgrzymów" #nk, preferably herder
+ HOR_papiez_final_DEF: "Państwo Pielgrzymów"
+ HOR_papiez_final_ADJ: "Pielg."
 
  HOR_voivodeship_postpolonism: "Nekropola"
  HOR_voivodeship_postpolonism_DEF: "Nekropola"
@@ -2115,9 +2104,9 @@ l_polish:
  HOR_supregional_postpolonism_DEF: "Nekropola"
  HOR_supregional_postpolonism_ADJ: "Nekropol."
 
- HOR_final: "Nekropola" #jebać bastion
- HOR_final_DEF: "Nekropola"
- HOR_final_ADJ: "Nekropol."
+ HOR_horda_final: "Nekropola" #jebać bastion
+ HOR_horda_final_DEF: "Nekropola"
+ HOR_horda_final_ADJ: "Nekropol."
 
  ###Orlen###
  ORL_BBW: "Stołeczna Nafta"
