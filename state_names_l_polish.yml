@@ -5538,6 +5538,7 @@ l_polish:
  STATE_603_LEH: "Niża"
  STATE_603_UKROS: "Nysa"
  STATE_603_USP: "Nice"
+ STATE_603_SIL: "Nysa"
  
  STATE_604: "Kłodzko"
  STATE_604_CAL: "Glacium"
@@ -5554,7 +5555,7 @@ l_polish:
  STATE_605_GER: "Freiburg in Schlesien"
  STATE_605_JOM: "Frjalborg"
  STATE_605_LEH: "Świebodzice"
- STATE_605_UKROS: "Svyebodzitse"
+ STATE_605_UKROS: "Świebodzice"
  STATE_605_USP: "Freetown"
  
  STATE_606: "Siechnice"
