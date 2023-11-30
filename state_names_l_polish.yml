@@ -5,7 +5,7 @@ l_polish:
  STATE_1_GER: "Baronenwald"
  STATE_1_JOM: "Barnavitja"
  STATE_1_LEH: "Baranowicze"
- STATE_1_UKROS: "Baranavichy"
+ STATE_1_UKROS: "Baranowicze"
  STATE_1_USP: "Ramington"
  
  STATE_2: "Sjælland"
@@ -5299,13 +5299,13 @@ l_polish:
  STATE_576_UKROS: "Baluty"
  STATE_576_USP: "Ballut"
  
- STATE_577: "Łódź-Połudiowy Widzew"
+ STATE_577: "Łódź-Widzew Południowy"
  STATE_577_CAL: "Videvia Australis"
  STATE_577_CZE: "Jizunibidefu"
  STATE_577_GER: "Südwitzew"
  STATE_577_JOM: "Sudurvitsev"
  STATE_577_LEH: "Widzew Południowy"
- STATE_577_UKROS: "Videv Yuzhnyy"
+ STATE_577_UKROS: "Widiew Jużnyj"
  STATE_577_USP: "South Seein"
  
  STATE_578: "Łódź-Ruda"
@@ -6958,13 +6958,13 @@ l_polish:
  STATE_757_UKROS: "Radogost"
  STATE_757_USP: "Gladhost"
  
- STATE_758: "Łódź-Północny Widzew"
+ STATE_758: "Łódź-Widzew Północny"
  STATE_758_CAL: "Videvia Borealis"
  STATE_758_CZE: "Sevuerubidefu"
  STATE_758_GER: "Nordwitzew"
  STATE_758_JOM: "Nordurvitsev"
  STATE_758_LEH: "Widzew Północny"
- STATE_758_UKROS: "Videv Severnyi"
+ STATE_758_UKROS: "Widiew Sewiernyj"
  STATE_758_USP: "North Seein"
  
  STATE_759: "Łódź-Chojny"
@@ -6973,7 +6973,7 @@ l_polish:
  STATE_759_GER: "Oberstadt"
  STATE_759_JOM: "Efstby"
  STATE_759_LEH: "Chojny"
- STATE_759_UKROS: "Khoyny"
+ STATE_759_UKROS: "Chojny"
  STATE_759_USP: "Uppertown"
  
  STATE_760: "Ożarowice"
@@ -6982,7 +6982,7 @@ l_polish:
  STATE_760_GER: "Udetfeld"
  STATE_760_JOM: "Flugvöllur"
  STATE_760_LEH: "Ożarowice"
- STATE_760_UKROS: "Ozharovitse"
+ STATE_760_UKROS: "Ożarowice"
  STATE_760_USP: "Airtown"
  
  STATE_761: "Mysłowice Południowe"
@@ -7001,7 +7001,7 @@ l_polish:
  STATE_762_GER: "Berun"
  STATE_762_JOM: "Berhun"
  STATE_762_LEH: "Bieruń"
- STATE_762_UKROS: "Byerun"
+ STATE_762_UKROS: "Bieruń"
  STATE_762_USP: "Byerun"
  STATE_762_SIL: "Bjerůń"
  
