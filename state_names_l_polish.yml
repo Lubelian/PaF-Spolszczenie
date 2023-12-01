@@ -2987,6 +2987,7 @@ l_polish:
  STATE_324_LEH: "Wąsosz"
  STATE_324_UKROS: "Wąsosz"
  STATE_324_USP: "Moustacheville"
+ STATE_324_SIL: "Wąsosz"
  
  STATE_325: "Polkowice"
  STATE_325_CAL: "Polkovicia"
@@ -3161,6 +3162,7 @@ l_polish:
  STATE_344_LEH: "Trzebnica"
  STATE_344_UKROS: "Tzhebnitsa"
  STATE_344_USP: "Neednice"
+ STATE_344_SIL: "Trzebnica"
  
  STATE_345: "Zgorzelec"
  STATE_345_CAL: "Villa Goreliz"
@@ -3224,6 +3226,7 @@ l_polish:
  STATE_351_LEH: "Olesznica"
  STATE_351_UKROS: "Olesnica"
  STATE_351_USP: "Aldertown"
+ STATE_351_SIL: "Oleśnica"
  
  STATE_352: "Wieruszów"
  STATE_352_CAL: "Arsonium"
@@ -3386,6 +3389,7 @@ l_polish:
  STATE_369_LEH: "Długołęka"
  STATE_369_UKROS: "Dlugolenka"
  STATE_369_USP: "Longmeadow"
+ STATE_369_SIL: "Długołęka"
  
  STATE_370: "Radomsko"
  STATE_370_CAL: "Radomscum"
@@ -3441,6 +3445,7 @@ l_polish:
  STATE_375_LEH: "Wrocław-Wielka Wyspa"
  STATE_375_UKROS: "Wrocław-Wieliki Ostrow"
  STATE_375_USP: "Big Island in Wrathslav" #in new wrathslav :sperg:
+ STATE_375_SIL: "Wrocław-Wielka Wyspa"
  
  STATE_376: "Wrocław-Psie Pole"
  STATE_376_CAL: "Budorgis-Canis Agri"
@@ -3450,6 +3455,7 @@ l_polish:
  STATE_376_LEH: "Wrocław-Psie Pole"
  STATE_376_UKROS: "Wrocław-Sobaczie Pole"
  STATE_376_USP: "Wrathslav-Dogsfield"
+ STATE_376_SIL: "Wrocław-Psie Pole"
  
  STATE_377: "Starachowice"
  STATE_377_CAL: "Starachovia"
@@ -3551,6 +3557,7 @@ l_polish:
  STATE_387_LEH: "Kąty Śląskie"
  STATE_387_UKROS: "Kąty-Wrocławskie"
  STATE_387_USP: "Wrathslav Corners"
+ STATE_387_SIL: "Kąty Wrocławskie"
  
  STATE_388: "Wrocław-Ołbin"
  STATE_388_CAL: "Budorgis-Olbinum"
@@ -3558,8 +3565,9 @@ l_polish:
  STATE_388_GER: "Breslau-Elbing"
  STATE_388_JOM: "Breslavik-Hvitserk"
  STATE_388_LEH: "Wrocław-Ołbin"
- STATE_388_UKROS: "Wrocław-Olbin"
+ STATE_388_UKROS: "Wrocław-Ołbin"
  STATE_388_USP: "Wrathslav-Allbin"
+ STATE_388_SIL: "Wrocław-Ołbin"
  
  STATE_389: "Opatów"
  STATE_389_CAL: "Abbasia"
@@ -3630,7 +3638,7 @@ l_polish:
  STATE_396_GER: "Pfeilstädt"
  STATE_396_JOM: "Kóngulborg"
  STATE_396_LEH: "Pajęczno"
- STATE_396_UKROS: "Pajenchno"
+ STATE_396_UKROS: "Pajęczno"
  STATE_396_USP: "Spidertown"
  
  STATE_397: "Świdnica"
@@ -3639,8 +3647,9 @@ l_polish:
  STATE_397_GER: "Schweidnitz"
  STATE_397_JOM: "Svíðniþa"
  STATE_397_LEH: "Świdnica"
- STATE_397_UKROS: "Svidnitsa"
+ STATE_397_UKROS: "Świdnica"
  STATE_397_USP: "Dogwood"
+ STATE_397_SIL: "Świdnica"
  
  STATE_398: "Włoszczowa"
  STATE_398_CAL: "Vlostovia"
@@ -3648,7 +3657,7 @@ l_polish:
  STATE_398_GER: "Wloschtschau"
  STATE_398_JOM: "Vlistheim"
  STATE_398_LEH: "Włoszczowa"
- STATE_398_UKROS: "Vloshchova"
+ STATE_398_UKROS: "Włoszczowa"
  STATE_398_USP: "Hairchow"
  
  STATE_399: "Oława"
@@ -3657,7 +3666,7 @@ l_polish:
  STATE_399_GER: "Ohlau"
  STATE_399_JOM: "Olafsby"
  STATE_399_LEH: "Oława"
- STATE_399_UKROS: "Olava"
+ STATE_399_UKROS: "Oława"
  STATE_399_USP: "Obench"
  
  STATE_400: "Mykanów"
@@ -3666,7 +3675,7 @@ l_polish:
  STATE_400_GER: "Muckenhoff"
  STATE_400_JOM: "Muknahofn"
  STATE_400_LEH: "Mykanów"
- STATE_400_UKROS: "Mikanov"
+ STATE_400_UKROS: "Mikanow"
  STATE_400_USP: "Micahnow"
  
  STATE_401: "Szklarska Poręba"
@@ -3675,7 +3684,7 @@ l_polish:
  STATE_401_GER: "Schreiberhau"
  STATE_401_JOM: "Glerhreinsun"
  STATE_401_LEH: "Szklarska Poręba"
- STATE_401_UKROS: "Shklarska Poremba"
+ STATE_401_UKROS: "Szklarska Poręba"
  STATE_401_USP: "Glass Clearing"
  STATE_401_SIL: "Szklarsko Porymba"
  
@@ -3685,7 +3694,7 @@ l_polish:
  STATE_402_GER: "Brieg"
  STATE_402_JOM: "Briggja"
  STATE_402_LEH: "Brzeg"
- STATE_402_UKROS: "Bzheg"
+ STATE_402_UKROS: "Brzeg"
  STATE_402_USP: "Coast"
  STATE_402_SIL: "Brzeg"
  
@@ -3708,7 +3717,7 @@ l_polish:
  STATE_404_USP: "Winters"
  STATE_404_SIL: "Ozimek"
  
- STATE_405: "Karlove Vary"
+ STATE_405: "Karlowe Wary"
  STATE_405_CAL: "Carolus Hastilia"
  STATE_405_CZE: "Karorubwbaruiji"
  STATE_405_GER: "Karlsbad"
@@ -3716,6 +3725,7 @@ l_polish:
  STATE_405_LEH: "Wały Światowida"
  STATE_405_UKROS: "Karlowe Wary"
  STATE_405_USP: "Carlsmouth"
+ STATE_405: "Karlowe Wary"
  
  STATE_406: "Janów Lubelski"
  STATE_406_CAL: "Ioannesia Lublinensis"
@@ -3751,8 +3761,9 @@ l_polish:
  STATE_409_GER: "Strehlen"
  STATE_409_JOM: "Skyttvik"
  STATE_409_LEH: "Strzelno"
- STATE_409_UKROS: "Stzhelin"
+ STATE_409_UKROS: "Strzelin"
  STATE_409_USP: "Shootin"
+ STATE_409_SIL: "Strzelin"
  
  STATE_410: "Grodków"
  STATE_410_CAL: "Grotcovia"
@@ -3760,7 +3771,7 @@ l_polish:
  STATE_410_GER: "Grottkau"
  STATE_410_JOM: "Örvahaus"
  STATE_410_LEH: "Grodków"
- STATE_410_UKROS: "Grodkov"
+ STATE_410_UKROS: "Grodków"
  STATE_410_USP: "Dartville"
  STATE_410_SIL: "Grodków"
  
@@ -3799,6 +3810,7 @@ l_polish:
  STATE_414_LEH: "Boguszów-Gorce"
  STATE_414_UKROS: "Bogushov-Gortse"
  STATE_414_USP: "Godsbury"
+ STATE_414_SIL: "Boguszów-Gorce"
  
  STATE_415: "Łużyce"
  STATE_415_CAL: "Lusatia"
@@ -4156,6 +4168,7 @@ l_polish:
  STATE_452_LEH: "Bystrzyca"
  STATE_452_UKROS: "Bystzhitsa-Klodzka"
  STATE_452_USP: "Logville Rapids"
+ STATE_452_SIL: "Hoabeschwerde"
  
  STATE_453: "Będzin"
  STATE_453_CAL: "Bendin"
@@ -5553,6 +5566,7 @@ l_polish:
  STATE_604_LEH: "Kłodzko"
  STATE_604_UKROS: "Klodzko"
  STATE_604_USP: "Logtown"
+ STATE_604_SIL: "Glooz"
  
  STATE_605: "Świebodzice"
  STATE_605_CAL: "Freiberga"
@@ -5569,8 +5583,9 @@ l_polish:
  STATE_606_GER: "Kraftborn"
  STATE_606_JOM: "Kraftfaeddur"
  STATE_606_LEH: "Siechnice"
- STATE_606_UKROS: "Syehnitse"
+ STATE_606_UKROS: "Siechnice"
  STATE_606_USP: "Forceborn"
+ STATE_606_SIL: "Siechnice"
  
  STATE_607: "Wrocław-Fabryczna"
  STATE_607_CAL: "Budorgis Mechanica"
@@ -5589,6 +5604,7 @@ l_polish:
  STATE_608_LEH: "Wrocław-Gród"
  STATE_608_UKROS: "Wrocław-Centr"
  STATE_608_USP: "Wrathslav-Midtown"
+ STATE_608_SIL: "Wrocław-Śródmieście"
  
  STATE_609: "Zielona Góra"
  STATE_609_CAL: "Prasia Elysiorum"
@@ -7982,8 +7998,9 @@ l_polish:
  STATE_866_GER: "Jeltsch-Markstädt"
  STATE_866_JOM: "Jelts"
  STATE_866_LEH: "Jelcz-Laskowice"
- STATE_866_UKROS: "Yelch-Laskovitse"
+ STATE_866_UKROS: "Jelcz-Laskowice"
  STATE_866_USP: "Yellch"
+ STATE_866_SIL: "Jelcz-Laskowice"
  
  STATE_867: "Falsterbo"
  STATE_867_CAL: "Falsterbo"
