@@ -1,6 +1,6 @@
 l_polish:
  melee_weapons: "Białe bronie"
- ranged_weapons:0"Broń dystansowa"
+ ranged_weapons:0 "Broń dystansowa"
  antitank_weapons: "Broń ppanc."
  infantry_training: "Szkolenie piechoty"
  infantry_armor: "Opancerzenie piechoty"
