@@ -19,7 +19,7 @@
  electronics_folder_desc: "Engineering, communication, digitalization and missiles."
  secret_weapons_folder_desc: "le wunderwaffe has arrived"
  peoples_army_desc: "When fighting, a soldier must know what he is fighting for. Our army is an army of people who can proudly defend their families and their homeland."
- 
+
  tech_recon: "Recon Companies"
  tech_recon2: "Safer Recon Engagements"
  tech_recon2_desc: "Reconnaissance missions are often dangerous and we cannot afford any equipment loss or casualties. Preparing our patrols to move and withdraw rapidly and equipping them to clear obstacles placed by the enemy will increase their chances of coming back alive."
@@ -100,7 +100,7 @@
  dispersed_industry3_desc: "As our workshops evolve into proper factories, we start establishing production chains between our industrial facilities. The dispersed model of our industry means that enemies won't be able to target specific industrial sectors and cockblock the production of specific goods and armaments."
  dispersed_industry4_desc: "With our factories being dispersed all over the place, we can easily increase their secrecy and camouflage them."
  dispersed_industry5_desc: "By having not only our industry, but the infrastructure tying it together operate in secrecy, we can make it even more difficult to destroy."
-
+#
  better_concrete1: "Safer Production Camp Designs"
  better_concrete1_desc: "Just because almost all of our weapon production facilities consist of massive tent camps, we shouldn't have to rebuild sizeable chunks of our military industry from the ground up every time an enemy party or a bombing squadron encounters one of them during a raid. With a couple extra sandbags, some tree branches and a few tarpaulins covered in camo, we can sharply reduce the visibility of our production centers and simultaneously increase their resistance against damage."
  better_concrete2: "Damageproofed Factory Designs"
@@ -118,7 +118,7 @@
  construction4_desc: "Abandoned sports centres, factories and shopping malls might make for good urban exploration spots, but their size and upkeep costs significantly outweight the benefits of simply leaving them be and letting them slowly crumble away. While we couldn't do anything about them earlier, now our state can afford to rebuild abandoned complexes of this kind and give them a new function."
  construction5: "Large-Scale Construction"
  construction5_desc: "Villages and provincial towns that suffered the most from wars between warlords rejoice as new apartment blocks, schools, chapels, factories and other large building complexes start dotting their landscapes. Cities finally start to resemble their past selves from before the Fall, and small settlements grow in strenght and people, with provisory housings and destroyed tanks no longer making up the bulk of their infrastructure."
-
+#
  better_prisons: "Improved Policing & Ad-Hoc Law Enforcement"
  better_prisons_desc: "Ad-hoc law enforcement systems are very handy and easily understandable, but they're also very inefficient - especially when your policing forces consist of sub-80 IQ bald guys armed with bats and clubs who've been tasked with walking all day in circle from one remote place to another. \nIf we are to efficiently (or at least *slightly more* efficiently) root out people endangering our rule, we need to thoroughly restructure our law enforcement services' staff and modes of operation so that our paramilitaries have an easier time fishing out resistance members."
  better_hospitals: "Partial Healthcare System Reestablishment"
@@ -170,6 +170,11 @@
  fuel_refining2_desc: "The Polish oil extraction industry was... a rather underdeveloped one, at least compared to some of our neighbours, but we should still attempt to revive it to slowly start remedying our country's perpetual fuel shortage. Thankfully, with more funds, we can slowly start pulling people who had the know-how on how to run an oil pump back to the country. \n\nOr we could just invite some giant oil company to start milking the few crude oil deposits in our country for a couple dolla."
  fuel_refining3: "International Oil/Gas Transit"
  fuel_refining3_desc: "With the international community slowly coming to the terms with the thought of recognizing us as the legitimate government of Poland, we can slowly start convincing our neighbours and ex-trade partners to restart the oil and gas trade that our country used to partake in -- we'll just have to hammer out all the damage left on the pipelines."
+#####
+###fuel_refining4: "Full-Scale Oil Extraction Industry Revival"
+###fuel_refining4_desc: "With more people who have the know-how on how to run an oil pump and enough people that could train new potential workers, we can start a full-scale revival of our oil industry."
+###fuel_refining5: "Modern Oil Extraction Industry"
+###fuel_refining5_desc: "As more foreign money gets pumped into our coffers, we gain the opportunity of appeasing investors from abroad even further by installing newer, more effective and - most importantly - more effective-looking oil pumps and rigs."
 #####
 ###oil_processing: "Fuel Rationing"
 ###oil_processing_desc: "Though being able to buy only a canister of fuel per week might be a very harsh limit, you have to remember that the fuel supplies used by civilians are also used by our military, so please shut the fuck up and stop screaming 'Literally 1984'."
