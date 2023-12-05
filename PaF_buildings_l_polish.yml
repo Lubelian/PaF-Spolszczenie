@@ -10,7 +10,7 @@ l_polish:
  wind_farm_desc:0 "Wiatr, woda, słońce, geotermia, biomasa Dzięki połączeniu tych mocy jestem Kapitanem Green Energy! \n\nNie zużywa żadnych zasobów, ale generuje mniej energii."
  cathedral: "Świątynia"
  cathedral_plural: "Świątynie"
- cathedral_desc: "todo [ROOT.OverCathedralLimit]"
+ cathedral_desc: "todo [OverCathedralLimit]"
  recycling_plant: "Zakład recyklingu"
  recycling_plant_plural: "Zakłady recyklingu"
  recycling_plant_desc: "todo"
