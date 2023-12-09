@@ -11,6 +11,12 @@ ATM_water_tooltip: "§7Jeżeli masz roszczenia do Bystrzycy Kłodzkiej, Tolkmick
 ATM_border_tooltip: "§RWymagane są wszystkie polskie regiony, które graniczą z Niemcami§!" #Requires all Polish states bordering Germany
 ATM_atom_speech: "Wiech obiecał zbudować elektrownię jądrową"
 ATM_whacked_supply: "Sabotowane dostawy"
+ATM_chosen_SMRs: "Wiech chosen to revive SMR project"
+ATM_chosen_retrofit: "Wiech chosen to convert old power plant in Bełchatów"
+ATM_chosen_contractor: "Contractof for the project was chosen"
+ATM_Hitachi_contractor: "GE Hitachi was chosen as contractor"
+ATM_nuscale_contractor: "NuScale was chosen as contractor"
+ATM_SMR_negotiations_failure: "Negotiations has fallen through"
 
 #decisions
 ATM_supply_caches: "Supply Caches"
@@ -63,7 +69,7 @@ ATM_strike_at_nucleus: "Cios w jądro"
 ATM_reach_the_dissidents: "Dotarcie do dysydentów"
 ATM_black_market_connections: "Powiązania z czarnym rynkiem"
 ATM_makeshift_workshops: "Tymczasowe warsztaty"
-ATM_god_particles: "Boskie Cząstki"
+ATM_god_particles: "Boskie cząstki"
 ATM_red_forest: "Czerwony las"
 ATM_nuclear_commando: "Nuklearne Komando"
 ATM_send_the_courier: "Wyślij Kuriera"
