@@ -18,6 +18,7 @@ ATM_Hitachi_contractor: "GE Hitachi was chosen as contractor"
 ATM_nuscale_contractor: "NuScale was chosen as contractor"
 ATM_SMR_negotiations_failure: "Negotiations has fallen through"
 nuclear_terrorists: "Terroryści Nuklearni"
+
 #decisions
 ATM_supply_caches: "Supply Caches"
 ATM_get_supply_cache: "Get supply cache in [From.GetName]"
@@ -25,11 +26,6 @@ ATM_emergency_workshops: "Emergency Workshops"
 ATM_setup_workshop: "Setup workshops in [From.GetName]"
 ATM_convoy_raids: "Convoy Raids"
 ATM_raid_enemy_depots: "Raid supply depot at [From.GetName]"
-ATM_uranium_deposits_loc: "[GetUraniumDepositsLoc]"
-ATM_we_dont_know_about_deposits: "We don't have information about uranium deposits in our country"
-ATM_we_know_about_deposits: "We know about [?ATM.ATM_known_deposits] t of uranium deposits"
-ATM_usable_uranium_loc: "We have [?ATM.ATM_usable_uranium] t of usable uranium"
-ATM_shutdown_coal_power_plant: "Shutdown Coal Power Plant"
 
 ##Ideas and Spirits##
 ATM_overextended_army: "Przeciążona armia"
