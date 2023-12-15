@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
 
 the_sacred_war: "Święta Wojna"
 declare_yourself_a_superregion: "Ogłoszenie rządu narodowego"
@@ -121,22 +121,22 @@ buy_chinese_armor_desc: ""
 ###MATERIAL_FINDER(WYNAJĘTY ŻUL SPOD MONOPOLOWEGO)###
 
 looting_decisions: "Akcje Gromadzenia Surowców"
-looting_decisions_desc: "Możemy przeprowadzić te krótkoterminowe operacje, aby tymczasowo zgromadzić dla siebie dodatkowe zasoby."
+looting_decisions_desc: "We can conduct these short-term operations to temporarily net some additional resources for ourselves."
 
-stealing_from_local_junkyard: "Przeszukaj lokalne złomowiska w poszukiwaniu różnych złomu"
-stealing_from_local_junkyard_desc: "Wokoło leży mnóstwo śmieci, które można ponownie wykorzystać lub poddać recyklingowi. Jedyne, co zrobimy, to wyślemy grupy sprzątające, aby zaczęły je zbierać. Tak, pracownicy rządowi zbierający śmieci z ziemi mogą zrujnować nasz wizerunek w oczach niektórych, ale hej, żadna praca nie jest hańbą, prawda? To zupełnie jak te szkolne dni Sprzątania Świata."
-open_bootleg_mine: "Utwórz tymczasowe nielegalne kopalnie i piece na węgiel drzewny"
-open_bootleg_mine_desc: "Nie potrzeba żadnych wyrafinowanych narzędzi ani umiejętności, aby zebrać wystarczającą ilość drewna do ogrzania domu na noc, ale potrzeba więcej niż jednego człowieka z siekierą, aby dostarczyć wystarczającą ilość węgla, aby zasilić nawet podstawowy przemysł. Na szczęście w niektórych regionach Polski do złóż węgla można dotrzeć, po prostu przekopując ziemię łopatą, więc jeśli kiedyś zabraknie nam węgla, możemy otworzyć małe, tymczasowe nielegalne kopalnie w celu szybkiego zdobycia surowców. Niektóre piece na węgiel drzewny przeznaczone do dostarczania mniejszych ilości węgla do użytku cywilnego."
-steal_from_local_gas_stations: "Okradnij lokalne stacje benzynowe"
-steal_from_local_gas_stations_desc: "Dopóki kraj nie zacznie się sklejać, stacje paliw będą naszym jedynym źródłem (częściowo) powszechnie dostępnego paliwa. Miejmy nadzieję, że przy kasie nadal będą dostępne hot dogi."
-smelting_old_tires: "Stop stare opony"
-smelting_old_tires_desc: "Gumę i tworzywa sztuczne można poddać recyklingowi mechanicznemu, rozdrabniając je, a następnie przetapiając w inny przedmiot. Nie jest to do końca zdrowy proces, ale na szczęście większość Polaków wykształciła w sobie naturalną odporność na toksyczne opary, odwiedzając swoich dziadków, którzy nalegają na palenie śmieci w swoich piecach albo konieczność mieszkania w Krakowie i codziennego wdychania smogu z Pekinu."
-something_with_tracks: "Plądruj trakcje kolejowe"
-something_with_tracks_desc: "Stare linie kolejowe, które nie mają dla nas zbyt dużego zastosowania taktycznego, mogą, zamiast tego zostać przez nas wykorzystane jako doskonałe (ale tymczasowe) źródła metalu i przewodów elektrycznych."
-smelting_cans: "Stop Puszki"
-smelting_cans_desc: "Aluminium nie można wyprodukować podstawowymi metodami, ale można je poddać recyklingowi w prosty sposób. Jest wiele starych puszek, mebli, samochodów i innych rzeczy, które przynajmniej częściowo są wykonane z części aluminiowych, które można przetopić i poddać recyklingowi w postaci darmowej „wysokiej jakości” metalu."
-museum_heist: "Kradnij eksponaty muzealne"
-museum_heist_desc: "Większość sprzętu wojskowego zostaje wysterylizowana przed wystawieniem na wystawę w muzeach, ale przy odrobinie renowacji i być może pewnymi modyfikacjami oryginalnej formy niektóre z tych rodzajów broni i pojazdów mogą okazać się wielkimi dobrodziejstwami dla naszej armii."
+stealing_from_local_junkyard: "Search Local Junkyards for Various Scrap"
+stealing_from_local_junkyard_desc: "There's a ton of trash lying around that could be reused or recycled by us, all we gonna do is send some scavenging parties to start gathering it. Yes, government workers picking up trash from the ground might ruin our image in the eyes of some, but hey - no work is disgrace, right? It's just like those Clean Up the World days in school."
+open_bootleg_mine: "Set Up Temporary Bootleg Mines & Charcoal Kilns"
+open_bootleg_mine_desc: "You don't require any sophisticated tools or skills to gather enough wood to heat your home for a night, but it takes more than a single man with an axe to provide enough coal to power even a rudimentary industry. Thankfully, in some regions of Poland, coal deposits can be reached by simply digging in ground with a shovel, so if we ever find ourselves running short on coal supplies, we can open up small, temporary bootleg mines for a quick gain of resources. We can also set up some charcoal kilns dedicated to providing smaller quantities of coal for civilian usage."
+steal_from_local_gas_stations: "Rob Local Gas Stations"
+steal_from_local_gas_stations_desc: "Until the country starts glueing itself back together, fuel stations will be our only source of (semi-)commonly available fuel. Hopefully they'll still have some hotdogs available at the checkout."
+smelting_old_tires: "Smelt Old Tires"
+smelting_old_tires_desc: "Rubber and plastics can be mechanically recycled by grinding them down and then melting them into a different thing. It's not exactly a very healthy process, but thankfully, most Poles have developed a natural immunity to toxic fumes by visiting their grandparents who insist on burning trash in their furnaces, or by having to live in Kraków and inhaling Beijing levels of smog on a daily basis."
+something_with_tracks: "Plunder Railway Tractions"
+something_with_tracks_desc: "Old railways that don't have too much tactical use for us can instead be utilized by us as excellent (but temporary) sources of metal and electric wires."
+smelting_cans: "Smelt Cans"
+smelting_cans_desc: "Aluminium can't be produced using rudimentary methods, but it can be recycled through simple means. There's lots of old cans, furnitures, cars and other things that are at least partially made out of aluminium parts that can be smelted and recycled into free, 'high-grade' metal."
+museum_heist: "Steal Museum Exhibits"
+museum_heist_desc: "Most military equipment gets its original combat capabilities neutered before being put up on display in museums, but with a bit of refurbishment and perhaps some modifications to their original form some of these weapons and vehicles could be major boons for our army."
 
 
 
@@ -171,6 +171,201 @@ generic_decisions_cranism_category: "Akcje §RMarksistowsko-Dźwigistyczne§!"
 generic_decisions_squat_category: "Akcje §tSkłotystyczne§!"
 
 
+#EUROLIB#
+eurolib_pro_federalist_propaganda:0 "Umocnij Liberalne Nastawienie"
+eurolib_pro_federalist_propaganda_desc:0 "Wskutek Polskiej historii zagranicznych okupacji, Germanizacji i Rusyfikacji, Polacy przyjęli bardzo ostrożne i konserwatywne podejście do zagranicznych pomysłów i pojęć kulturowych, które są od razu odbierane przez nich jako zaborcze i natrętne. Możemy ocieplić wizerunek nas samych w oczach opinii publicznej poprzez dotacje kulturowe i rozwój wiosek i miast które były zaniedbane przez poprzedni, konserwatywny reżim."
+
+eurolib_complicate_bureaucracy:0 "Sfałszuj biurokrację"
+eurolib_complicate_bureaucracy_desc:0 "Ekhm... WŁAŚCIWIE, dokumenty dostarczone przez ciebie nie mogą być przez nas zaakceptowane, jako że nie odpowiadają one domyślnemu lokalnemu standardowi dokumentacji papierowej dołączonej do Formularza pomiarowego wykresu Chungus-Quagmire, KTÓRY TAK SIĘ SKŁADA, że został wczoraj zaakceptowany przez Tymczasowy Instytut Zarządzania i Rozwoju Łososiny Dolny-Cyców. Ergo, one zostały uznane za nieważne, tak samo, jak twoje prośba do Lokalnego Rządu Tymczasowego Zadupia Dolnego."
+
+eurolib_taxes_increase:0 "Podkręć wpływy podatkowe"
+eurolib_taxes_increase_desc:0 "Liberalne państwo musi jednocześnie finansować tony projektów, dotacji i inwestycji oraz biurokracji z nimi związanej. A nam powoli kończą się fundusze i zasoby. Nasi ludzie będą musieli trochę przygryźć wargi, aby sfinansować warunki życia godne pierwszego państwa świata."
+
+eurolib_agricultural_funds:0 "Dotuj rolnictwo"
+eurolib_agricultural_funds_desc:0 "W dzisiejszych czasach trudno o jedzenie. Podobnie jak o inne produkty i towary. Dofinansowując naszych rolników, możemy zdobyć serca rolników na naszych ziemiach i choć trochę zwiększyć dostępność żywności i produktów rolnych."
+
+eurolib_public_works_funds:0 "Dotuj roboty publiczne i projekty"
+eurolib_public_works_funds_desc:0 "Czasy są ciężkie. Ludzie albo walczą o przetrwanie do następnego dnia, albo starają się zachować nietkniętą psychikę. Powinniśmy finansować niektórych publicznych artystów i projekty rozwojowe, aby rzeczywistość, w której żyją, była dla nich przynajmniej trochę mniej surowa i szara. Mali lokalni rzemieślnicy, którzy dekorują domy w tradycyjny sposób, nowe miejskie parki i atrakcje, poprawiona infrastruktura miejska, aby ich codzienne dojazdy były odrobinę bardziej znośne - wszystkie te rzeczy poprawią nasz wizerunek i zapewnią naszym ludziom coś do podziwiania w tych ponurych czasach."
+
+eurolib_cultural_dev_funds:0 "Dotuj artystów"
+eurolib_cultural_dev_funds_desc:0 "Wiele można zyskać na finansowaniu różnego rodzaju artystów na naszych ziemiach, od głośnych karykaturzystów politycznych po drobnych lokalnych malarzy, rzeźbiarzy i artystów-rzemieślników. W zależności od tego, kogo dotujemy, możemy albo zdyskredytować naszych wrogów i poprawić opinię publiczną o nas, albo pomóc małym społecznościom i początkującym artystom w dzieleniu się swoją sztuką ze światem."
+
+eurolib_implement_harsher_gun_laws:0 "Wymuś ściślejszą kontrolę broni"
+eurolib_implement_harsher_gun_laws_desc:0 "Jeszcze przed upadkiem większość posiadaczy broni w Polsce była złożona z dziwaków i politycznych radykałów, którym zdecydowanie nie powinno się pozwolić zbliżać do broni palnej. Jednak teraz, gdy każda większa osada toczy wojnę ze swoimi sąsiadami, stereotyp ten stał się prawdą. Wdrożenie surowych przepisów dotyczących broni i zdecydowane egzekwowanie ich na nowo nabytych gruntach nie tylko rozbroi większość potencjalnie niebezpiecznych osób w okolicy, ale także powiększy nasze własne zapasy broni."
+
+eurolib_offensive_war_propaganda:0 "'Naprzód, dla wolnej Europy!'"
+eurolib_offensive_war_propaganda_desc:0 "Choć naszą misją jest zaprowadzenie wolności osobistej i praworządności na ziemiach polskich, sami Polacy nas odrzucają, odnosząc się do nas z większą niż kiedykolwiek nieufnością i nienawiścią, co sprawia, że ​​nie możemy liczyć na żadne wsparcie ze strony zwykłych ludzi. Zachód odwrócił się też od polskich liberałów, nie chcąc mieć z Polską nic wspólnego, gdy rząd Morawieckiego, a nawet ludność kraju odrzuciła europejski korpus interwencyjny. Więc powstańcie, ludzie, bo nasza sprawa jest słuszna i mamy *tylko siebie* do wykonania pracy. Naprzód, za wolną Europę!"
+
+eurolib_defensive_war_propaganda:0 "Niech płonie pochodnia wolności!"
+eurolib_defensive_war_propaganda_desc:0 "Leśni bandyci i nacjonalistyczni skurwysyny ze wszystkich sił starają się podważyć nasz cel, jakim jest zbudowanie polskiego państwa, w którym warto żyć. Poświęcają setki ludzkich istnień i zasobów, aby budować swoje osobiste królestwa oparte na zasadach korupcji i ucisku, a my – jako niosący pochodnię wolności - są ich naturalnymi przeciwnikami, którzy reprezentują ich największe lęki. W przeszłości już raz daliśmy im dostęp do władzy, a teraz widzimy tego skutki. Nie możemy pozwolić, aby to się powtórzyło, więc POWSTAŃCIE LUDZIE! Stańcie w obronie waszych swobód – za wolności waszych córek i waszych żon! Niech płonie pochodnia wolności!"
+
+
+
+#REACTIONARY#
+react_rewrite_unfavorable_history:0 "Napisz problematyczną historię na nowo"
+react_rewrite_unfavorable_history_desc:0 "Niektóre części historii naszych przodków są dość problematyczne. Powinniśmy napisać je na nowo lub ukryć przed opinią publiczną, aby ugruntować naszą reputację szlachetnych dobroczyńców wśród tych, na których łatwo można wpłynąć."
+
+react_exploit_nostalgy:0 "Zwiększ naszą bezpośrednią kontrolę nad ludnością"
+react_exploit_nostalgy_desc:0 "Różni dysydenci ideologiczni czekają na nas za każdym rogiem, próbując sabotować nasze wysiłki, aby przywrócić wszystko do stanu, w jakim kiedyś było – do tego, jak *powinno* być. Musimy zwiększyć poziom naszej bezpośredniej kontroli nad ludnością, aby powstrzymać rozprzestrzenianie się ich głupich pomysłów."
+
+react_tell_people_what_they_want_to_hear:0 "Powiedz ludziom, co chcą usłyszeć"
+react_tell_people_what_they_want_to_hear_desc:0 "Propaganda sukcesu działa, ponieważ ludzie KOCHAJĄ słuchać rzeczy, które są im bliskie – dlatego wszyscy reakcyjni politycy i rządy muszą bombardować swoich lojalistów ciągłymi wiadomościami o tym, jak zagraniczne mocarstwa zazdroszczą naszemu narodowi stabilności, wzrostu gospodarczego i odporności na obce siły, szkodliwe programy, obietnice zupełnie nowych programów i polityk społecznych, które rozwiną państwo w niezależną potęgę światową, wolną od globalizmu i obcej ingerencji oraz opowieści o niewypowiedzianych aktach terroru i degeneracji popełnianych przez ich wrogów, które legitymizują ingerencję państwa w życie codzienne obywateli."
+
+react_rebuild_the_good_old_days:0 "Powierz władzom religijnym kontrolę nad sektorami gospodarczymi"
+react_rebuild_the_good_old_days_desc:0 "Szkodliwi aktorzy otaczają nas ze wszystkich stron – na szczęście nie jesteśmy jedyną siłą, która im się przeciwstawia, ponieważ możemy przeciągnąć na swoją stronę duchowieństwo tego kraju, powierzając mu kontrolę nad biznesami (zarówno tymi rzeczywistymi, jak i wątpliwymi legalnością), instytucje rządowe i różne sektory gospodarki - przecież każdy wie, że duchowni nie tylko wiedzą, jak kierować ludzkie umysły i serca we właściwym kierunku, ale także świetnie radzą sobie z pieniędzmi i powiązaniami."
+
+react_return_to_old_ways:0 "Wdrażaj zasady reakcyjne"
+react_return_to_old_ways_desc:0 "Nasza misja jest prosta: przywrócić stary porządek – stary sposób życia z czasów, gdy wszystko było prostsze i miało więcej sensu dla zwykłych ludzi. Dlatego musimy wdrożyć nową reakcyjną politykę, która przybliży nas o krok do dobra dawne dni i pozwól nam, choć częściowo przeżyć na nowo ich chwałę." 
+
+react_warriors_of_great_past:0 "Wspomnijmy o bohaterach naszej przeszłości"
+react_warriors_of_great_past_desc:0 "Nasza historia wprawiła nas w pewien kompleks... Gdybyśmy tylko mogli być tak odważni i szlachetni, jak ci, którzy walczyli o ocalenie Polski w czasach II Rzeczypospolitej i Rzeczypospolitej. Ahhh... \n... gdybyśmy tylko mogli być tak szlachetni, jak rycerze, którzy walczyli pod Grunwaldem ze zdradzieckimi Krzyżakami. Tak sławni i legendarni jak Skrzydlaci Huzarzy, którzy zajęli Moskwę w 1610 r. Odważni jak kosarze Kościuszki. Tak szybcy, jak ułani, którzy wyparli Sowietów z powrotem do Rosji, tak patriotyczni, odporni i bohaterscy jak polscy partyzanci podczas powstania warszawskiego. Ach... gdyby tylko... \n... \n...właściwie, wiesz co? Zapomnijmy o tym. Nie powinniśmy tak po prostu przypominać o nich. Powinniśmy BYĆ tacy jak oni – bo tak jak bohaterowie naszej przeszłości walczymy o przetrwanie Polski."
+
+react_warriors_of_great_past_wrt:0 "Znowu osadź Niemców w Polsce"
+react_warriors_of_great_past_wrt_desc:0 "Możemy być wdzięczni, że Prusów już tu nie ma, bo gdyby zobaczyli współczesne granice Polski, nasi Hinternowie zostaliby przez nich wychłostani *na śmierć*. Polacy – tak jak to robili wcześniej – nieustannie próbują stawiać opór i buntować się przeciwko Niemcom, którzy osiedlili się na Śląsku, Poznaniu i Pomorzu - a biorąc pod uwagę ich liczebność, bardzo łatwo mogliby nas przytłoczyć samą liczbą... gdyby wiedzieli, jak się odpowiednio zorganizować. Aby scementować naszą powracającą obecność w Polsce, musimy szukać Niemców chętnych do przesiedlenia się tutaj, chwycenia za broń i obrony ziemi, którą już kiedyś udowodniliśmy, że potrafimy znacznie lepiej rządzić."
+
+#REACTIONARY S(c)HIZO
+react_shizo_rewrite_unfavorable_history:0 "Napisz problematyczną historię na nowo"
+react_shizo_rewrite_unfavorable_history_desc:0 "Niektóre części historii naszych przodków są dość problematyczne. Powinniśmy napisać je na nowo lub ukryć przed opinią publiczną, aby ugruntować naszą reputację szlachetnych dobroczyńców wśród tych, na których łatwo można wpłynąć."
+
+react_shizo_exploit_nostalgy:0 "Chroń ludność przed agentami postępowymi"
+react_shizo_exploit_nostalgy_desc:0 "Obrzydliwi, bezbożni postępowcy i liberałowie czekają na nas za każdym rogiem, próbując sabotować nasze wysiłki, aby przywrócić wszystko do stanu, w jakim kiedyś było – do tego, jak *powinno* być. Oczywiście musimy chronić naszych ludzi przed ich wężowymi językami i zakłócanie myśli 5G, dlatego musimy zacisnąć smycz na ich szyjach i uzyskać bardziej bezpośrednią kontrolę nad tym, co robią, mówią i słyszą."
+
+react_shizo_tell_people_what_they_want_to_hear:0 "Powiedz ludziom, co chcą usłyszeć"
+react_shizo_tell_people_what_they_want_to_hear_desc:0 "„Wrogowie zdeptani przez nasze siły!” \n„Tegoroczne zbiory były OBFITE!” \n„Niemców ZACHWYCIŁ nasz DOBROBYT!” \n\nPropaganda sukcesu działa, ponieważ ludzie KOCHAJĄ słuchać rzeczy, które są im bliskie – dlatego powinniśmy nieustannie bombardować naszych lojalistów ciągłymi wiadomościami o tym, jak zagraniczne mocarstwa zazdroszczą naszemu narodowi stabilności, wzrostu gospodarczego i odporności na obce, szkodliwe programy, obietnice zupełnie nowych programów i polityk społecznych, które rozwiną państwo w niezależną potęgę światową, wolną od globalizmu i obcej ingerencji - usiądźmy więc na chwilę, wymyślmy kilka krzykliwych nagłówków i pozwólmy, aby nasze media ładnie je wbiły ludzkie głowy."
+
+react_shizo_rebuild_the_good_old_days:0 "Nagródź duchownych"
+react_shizo_rebuild_the_good_old_days_desc:0 "Dziwacy i zagraniczni agenci otaczają nas ze wszystkich stron – na szczęście nie jesteśmy jedyną siłą, która im się przeciwstawia, bo mamy po swojej stronie władze religijne. Powinniśmy dzierżawić część gospodarki, instytucje rządowe i różne sektory gospodarki dla nich interesy, w końcu duchowni nie tylko wiedzą, jak kierować ludzkie umysły i serca we właściwym kierunku, ale także świetnie radzą sobie z pieniędzmi i kontaktami."
+
+react_shizo_return_to_old_ways:0 "Przywróć normalność i moralność"
+react_shizo_return_to_old_ways_desc:0 "Nasza misja jest prosta: przywrócić stary porządek – stary sposób życia z czasów, gdy wszystko było nietknięte przez zdegenerowane, pół-bi-ultra-homo-stereoseksualne alt-girls i kiedy nadal miały one jakiś sens dla niewinnych zwykłych ludzi. Dlatego musimy wdrożyć nową reakcyjną politykę, która przybliży nas o krok do starych, dobrych czasów i pozwoli nam przynajmniej częściowo przeżyć na nowo ich chwałę."
+
+react_shizo_warriors_of_great_past:0 "Podążaj śladami naszych przodków wojowników"
+react_shizo_warriors_of_great_past_desc:0 "Staramy się być jak nasi wielcy, wielcy przodkowie – szlachetni ludzie, których odwaga i moc były przedmiotem legend nawet w ich czasach. Niestety, serca i umysły wszystkich wokół nas są zepsute i jedynym sposobem na przywrócenie naszej przeszłej chwały naszym zadaniem jest to zrobić, przebijając się przez legiony obcych pionków. Nie obawiaj się jednak, gdyż nosimy szlachetne znamiona naszych przodków – ich świętą moc i posiadamy ich świętą siłę – na pewno odniesiemy sukces, jeśli pójdziemy w ich ślady i będziemy szanować ich obrzędy i tradycje."
+
+react_shizo_proclaim_holy_war:0 "Przynieście §0ŚWIĘTĄ WOJNĘ§! poganom!"
+react_shizo_proclaim_holy_war_desc:0 "SŁUCHAJCIE, LUDZIE! Rozniećcie płomienie w swoich kuźniach! Wykuwajcie miecze, którymi można zabijać! Bo mamy ŚWIĘTĄ WOJNĘ do stoczenia! \nJako ci, którzy są najbardziej oddani, najbardziej pobożni i najlepiej władają boskim ostrzem, musimy wyruszyć na kampanię rzezi i świętej walki – zgodnie z sankcjami sił wyższych. Nasza walka z podłymi poganami będzie LEGENDARNA! DO BRONI! \n...Mamy bowiem do zabicia potężną bestię – taką, która zamierza najpierw zabić *nas*..."
+react_shizo_holy_war_tt:0 "Wypowiadając §0ŚWIĘTĄ WOJNĘ§! przeciwko naszym obecnym wrogom i spuszczając ludzi ze smyczy, gwałtownie zwiększymy ich gotowość do walki, §Gdając nam wymierne korzyści§! na czas trwania wojny. Otrzymamy jednak §Rcios dla naszej stabilności§!, jako wściekłe społeczeństwo jest znacznie trudniej zarządzać i kontrolować."
+react_shizo_holy_war_devotion_tt:0 "Jesteśmy w stanie wojny i nasze poparcie wojenne wynosi co najmniej §H75%§!"
+
+
+
+#CORPRATS#
+corp_depoliticize_population:0 "Odpolitycznij społeczeństwo"
+corp_depoliticize_population_desc:0 "Społeczeństwo upolitycznione jest społeczeństwem moralistycznym i wymagającym, dlatego musimy prowadzić kampanie depolityzacyjne, które upewnią się, że wszelkie agitacje polityczne wśród naszego narodu zostaną rozwodnione, a wszelkie działania internetowe lub publiczne, które stawiają nasze błędy, niedociągnięcia i zbrodnie w centrum uwagi, zostaną stłumione i aby ich słowa były trzymane z dala od publicznych uszu."
+
+corp_increase_population_comfort:0 "Zadowól Populację"
+corp_increase_population_comfort_desc:0 "„Dajcie im chleb i cyrki, a nigdy się nie zbuntują”, powiedział Juwenalis. Jego słowa są ważne dla wszystkich rządów, a *zwłaszcza* dla podmiotów korporacyjnych, takich jak my – odrętwienie głosu ludności jest tym, na czym jesteśmy zbudowani w pierwszym miejsce. Odwracając uwagę naszych ludzi od ich problemów dzięki nowym dostępnym towarom i usługom, gwarantujemy, że pozostaną posłuszni."
+
+corp_lower_quotas:0 "Obniż limity produkcyjne"
+corp_lower_quotas_desc:0 "Niestety, ludzie potrzebują trochę wolnego czasu, aby odpocząć i pracować nad swoimi rodzinami i aspiracjami. W czasach kryzysu możemy tymczasowo zwolnić naszych ludzi z części ich obowiązków, aby upewnić się, że są wystarczająco zadowoleni, aby trzymać buzię na kłódkę."
+
+corp_crank_up_quotas:0 "Podkręć limity produkcyjne"
+corp_crank_up_quotas_desc:0 "Kiedy przechodzimy przez trudne czasy lub odwrotnie – w czasach dobrobytu, możemy zwiększyć kwoty produkcyjne naszych pracowników, aby utrzymać się na powierzchni lub wykorzystać większą podaż pieniędzy i towarów, które są dla nich dostępne."
+corpo_random_eq_small_tt:0 "Zwiększona produkcja zapewni nam dodatkową porcję losowego sprzętu wojskowego."
+
+corp_lower_the_costs:0 "Zamień emerytury na akcje firmowe"
+corp_lower_the_costs_desc:0 "Możemy zwiększyć nasz monopol na władzę, dając naszym pracownikom akcje firmowe, które można wymienić tylko na towary w naszych własnych sklepach, zamiast płacić im prawdziwymi pieniędzmi, które mogliby wydać gdzie indziej. Oczywiście zwiększenie naszej kontroli nad życiem ludzi sprawi, że nienawidzą nas bardziej, ale przybliży nas to o krok do ustanowienia naszego wymarzonego państwa neofeudalnego."
+
+corp_expand_security_forces:0 "Oferuj kontrakty na tymczasową służbę wojskową"
+corp_expand_security_forces_desc:0 "Bezpieczeństwo żywnościowe w powojennej Polsce jest bardzo niskie i jest wielu walczących ludzi, którzy byliby gotowi służyć w wojsku w zamian za żywność i pieniądze, ale nie mogą zostawić swoich rodzin w spokoju, bo wtedy zostaliby bez żywiciela rodziny. Dlatego - a może zaoferujemy tym ludziom kontrakty na *tymczasową* służbę wojskową? Rząd rosyjski zastosował podobną metodę zatrudniania nowych ludzi do armii podczas inwazji na Ukrainę, gdzie każdy w wieku produkcyjnym mógł po prostu uderzyć do swojego lokalnego wojenkomatu (WKU) i zaciągali się do służby na froncie na określony czas. Ci żołnierze kontraktowi otrzymywali pensję dopiero po pewnym czasie spędzonym na froncie, co oznaczało, że wielu z nich zginęło bez zapłaty, co oznacza, że ​​możemy wykorzystać tę metodę poboru do pozyskiwania nowych rekrutów, jednocześnie zatrzymując nasze pieniądze."
+corpo_soldiers_random_tt:0 "Otrzymamy losową liczbę nowych poborowych."
+corpo_random_eq_tt:0 "Otrzymamy dodatkowy losowy sprzęt wojskowy."
+
+corp_encite_military_service:0 "Rozszerz podstawowe części armii"
+corp_encite_military_service_desc:0 "Nasza armia działa w taki sam sposób, jak armie kompanii kolonialnych w przeszłości – składa się z pobranych miejscowych i zakontraktowanych ochotników dowodzonych przez podstawowe oddziały korporacyjne. Ten system gwarantuje, że zawsze mamy dostęp do dużej puli siły roboczej, ale stwarza to również potrzebę zrównoważenia proporcji między poborem a naszymi ludźmi, aby nie dopuścić do przewagi liczebnej nad nami, ponieważ pozwoliłoby im to łatwo pokonać nas w przypadku potencjalnego buntu. Niższe rangi nie wpadają nagle na żadne zabawne pomysły jak na przykład odtworzenie buntu sipajów."
+
+corp_crush_the_unions:0 "Złam Ruchy Robotników"
+corp_crush_the_unions_desc:0 "Wyższe kwoty, mniej praw pracowniczych, obniżone standardy bezpieczeństwa i korporacyjna władza nad życiem naszych pracowników sprawiły, że są oni skłonni do stawiania oporu naszej administracji, zwykle w postaci wdawania się w bójki i kłótnie z naszymi poplecznikami. Jednakże, ponieważ ich warunki pogarszają się, strajki, ruchy zorganizowane, a nawet jawna przemoc stają się dla nich znacznie bardziej pociągające. Dlatego powinniśmy podjąć środki zapobiegawcze, aby rozwiązać wszelkie ruchy robotnicze, zanim ich rozmiary staną się zbyt duże, abyśmy mogli sobie z nimi poradzić."
+corpo_lefties_crush_tt:0 "Kiedy groźba powstania naszych pracowników przeciwko naszym rządom osiągnie co najmniej §Rniepokojący poziom§!, będą znacznie mniej zorganizowani i skuteczni w powstaniu przeciwko nam."
+corp_commie_danger_tt:0 "Nasi pracownicy zaczęli się organizować."
+
+corp_lend_out_monopoles:0 "Włącz mniejsze firmy"
+corp_lend_out_monopoles_desc:0 "Wiele małych przedsiębiorstw, firm i biznesów nadal działa na naszym terenie. Chociaż oczywiście nie mają one mocy, by nam zagrozić, nadal mogą okazać się cierniem w plecach, jeśli trochę za bardzo dorosną i/lub zaczną współpracować z różnymi spiskowcami mającymi na celu podważenie naszej pozycji. Dlatego powinniśmy ich wykupić i włączyć do naszej korporacyjnej sieci, na zawsze uwięzić ich w sobie."
+corpo_monopoles_tt:0 "Włączając te różne przedsiębiorstwa w naszą strukturę korporacyjną, rozgałęziamy również obszar naszej działalności na rynku, co potencjalnie może przynieść §Gkorzyści na dużą skalę§!. Nie wszystkie przejmowane spółki będą jednak dla nas przydatne, dlatego akwizycje powinniśmy przeprowadzać §Rtylko w dogodnych momentach chwil§!, abyśmy nie zaczęli za bardzo tracić pieniędzy."
+
+
+
+#AUTOCRAT#
+autocrat_get_army_on_streets:0 "Dokręć naszą kontrolę"
+autocrat_get_army_on_streets_desc:0 "Musimy trzymać naszych ludzi na smyczy, chyba że chcemy, żeby zaczęli podważać nasz autorytet, albo co gorsza, nagle wbijali nam nóż w plecy. Kilka ograniczeń obywatelskich i mały przegląd policyjny mniej lojalnych ulic i lokali usługowych powstrzyma miejscowych przed okradaniem nas."
+
+autocrat_take_guns_from_people:0 "Odebrać broń ludności"
+autocrat_take_guns_from_people_desc:0 "Jeśli kiedykolwiek zacznie nam brakować broni, możemy po prostu odebrać ją naszym ludziom. Przecież nie będą w stanie stawić żadnego oporu, jeśli nie będą mieli się z czym buntować."
+
+autocrat_force_people_to_work:0 "'Zmotywuj' robotników"
+autocrat_force_people_to_work_desc:0 "Musimy sprawić, aby nasi producenci broni pracowali w tempie wyższym niż przewidywana norma. Za wysiłek wojenny. Dlatego nasze siły policyjne powinny od czasu do czasu sprawdzać nasze fabryki i warsztaty, aby złapać próżniaków i odesłać ich z powrotem do pracy."
+
+
+
+#PATCON#
+patcon_organize_a_grand_mass:0 "Organizuj wspierane przez państwo ceremonie religijne"
+patcon_organize_a_grand_mass_desc:0 "W czasach tak strasznych, jak te, w których żyjemy, trudno utrzymać wysokie morale. Ledwo trzymamy się władzy, stawiając opór tylko tak długo, jak obce mocarstwa postanawiają nie interweniować głębiej w Polsce, a nasze kasy są już prawie wyczerpane, więc nie będziemy mogli sobie zapewnić sobie ładnej emerytury-...czekaj, mówiłem to na głos? No... cholera, to nie jest ważne, ludzie wiedzą, że nie i tak im naprawdę zależy. Jednak nie mogą czuć się całkowicie opuszczeni przez wszystkich, bo to zgasiłoby ich chęć do walki, bo potrzebują *powodu* lub *kogoś* do walki - nawet oślizłe skurwysyny takie jak my mają powód, żeby walczyć o takie wartości religijne. Tak... musimy zakorzenić religię w sercach naszych ludzi - nie tylko dla naszego zysku, ale także ze względów moralnych i dla *naszego przetrwania*, gdyż Bóg jest ze swoją pokorną trzodą, ale ci, którzy odrzucają Jego Słowo, gniją w piekle."
+
+patcon_gather_the_guns:0 "Niech nasi lojaliści finansują nasze wysiłki"
+patcon_gather_the_guns_desc:0 "W czasach PiS prawica zdołała wyhodować typ ludzi jawnie pobożnych, bojaźliwych, ale jednocześnie pełnych nienawiści, którzy trzymają się swoich przywódców i bezmyślnie robią, co im każą, teraz nie ma znaczenia, ile będzie ich kosztować wykonywanie ich poleceń. Teraz wykorzystujemy tych właśnie ludzi, próbując się im podlizać w zamian za ich lojalność, a O CHŁOPIE ich lojalność jest dla nas korzystna - gdybyśmy ich ładnie poprosili, oddaliby nam cały swój dorobek życia i dobytek. Duchowieństwo jako poplecznicy do ściągania dodatkowych podatków od naszych lojalistów jest już powszechne w naszej administracji, więc nie ma w tym nic złego, jeśli poprosimy ich o jałmużnę na pokrycie kosztów utrzymania naszej armii - wszak każdy grosz niewydany na nasze siły to grosz zarobiony przez Niemców, Rosjan i lewaków!"
+
+patcon_fund_church_owned_businesses:0 "Powierz władzom religijnym kontrolę nad sektorami gospodarczymi"
+patcon_fund_church_owned_businesses_desc:0 "Dziwacy i zagraniczni agenci otaczają nas ze wszystkich stron – na szczęście nie jesteśmy jedyną siłą, która im się przeciwstawia, ponieważ mamy po swojej stronie władze religijne i duchowieństwo nie tylko wie, jak kierować ludzkimi umysłami i sercami w dobrym kierunku, ŚWIETNIE radzi sobie także z pieniędzmi i powiązaniami. Powierzając kapłaństwu kontrolę nad przedsiębiorstwami (zarówno tymi rzeczywistymi, jak i wątpliwymi legalnością), instytucjami rządowymi i różnymi sektorami gospodarki, możemy scementować z nim współpracę i zabezpieczyć wzrostu zarówno ich, jak i naszej kasy."
+
+
+
+#NEONAT#
+neonat_organize_patriotic_demonstration:0 "Organizuj demonstracje nacjonalistyczne"
+neonat_organize_patriotic_demonstration_desc:0 "Jesteśmy Polakami – ludźmi szlachetnego, zaprawionego w bojach narodu. Niezliczoną ilość razy w naszej historii walczyliśmy z wrogami naszego państwa w najstraszniejszych warunkach, jakie można sobie wyobrazić, a jednak – zwyciężyliśmy. Jednak pomimo naszych wysiłków duża część Polski jest dziś zamieszkana przez zdrajców i defetystów, którzy nie wstydzą się wyprzedać naszej ziemi i ludzi obcokrajowcom, pozostawiając jedynie niewielki i co najważniejsze – kruchy sojusz różnego rodzaju patriotów na pierwszej linii frontu walki o Polskę. Organizować publiczne demonstracje naszej woli walki i przywiązania do ojczyzny, aby poprawić nasz wizerunek w oczach współpatriotów."
+
+neonat_train_patrotic_youth:0 "Rekrutuj z Młodzieży Nacjonalistycznej"
+neonat_train_patrotic_youth_desc:0 "Nasz męski wygląd i nieprzejednaność inspirują wielu młodych ludzi, którzy chcą zaryzykować życie dla Polski i potencjalnie umrzeć z honorem. Choć wielu z nich jest wciąż za młodych, aby służyć w wojsku, chętnie wstąpią w nasze szeregi, aby szkolić się w pola i dalej indoktrynować, a poza tym – na szczęście dla nich (a raczej – dla nas), Polska po upadku jest zdecydowanie zbyt rozbita i chaotyczna, aby ktokolwiek mógł nas osądzać za wykorzystywanie do wojska żołnierzy, którzy mogą być *trochę za młodzi* na służbę wojskową."
+
+neonat_build_work_camps:0 "Wykorzystaj niepożądanych"
+neonat_build_work_camps_desc:0 "Jeńcy wojenni, przestępcy, zboczeńcy seksualni oraz najróżniejsi zdrajcy i zdrajcy – ludzie zamieszkujący nasze więzienia, którym musimy zapewnić zakwaterowanie i wyżywienie z naszych własnych pieniędzy. Dlaczego tacy niepożądani jak oni mieliby żyć w lepszych warunkach niż niektórzy z naszych, ciężko pracujących towarzyszy? Dlaczego takim niepożądanym jak oni należy zapewnić dobrobyt, podczas gdy dobrzy ludzie muszą trudzić się oraniem pól i wydobywaniem surowców? To patologiczny błąd, który należy natychmiast naprawić – tych drani należy wykorzystać, zamiast żyć jak królowie i zatykając nasze więzienia. Powinniśmy oddelegować niektórych z naszych najgorszych więźniów do pracy dla nas, czy to w rolnictwie, leśnictwie, w fabrykach, kopalniach, czy w obozach pracy."
+
+
+
+#PARÓWECZKI#
+freemarket_cut_down_taxes:0 "Obniż podatki"
+freemarket_cut_down_taxes_desc:0 "Brak podatków to dobre podatki – to nasze motto!"
+
+freemarket_print_3d_guns:0 "Zrób bronie wydrukowane w 3D"
+freemarket_print_3d_guns_desc:0 "Tak, my, wolnorynkowi, wierzymy, że państwo powinno mieć jedynie minimalną władzę, ale to nie znaczy, że nie możemy mieć armii. W rzeczywistości to naturalne, że mamy własne siły, które służą naszym interesom i bronią naszego terytorium – w końcu wierzymy, że należy bronić własnego mienia, a nie zdawać się na innych. Nasze siły zbrojne mają być jedynie organizowaną przez nas siłą bezpieczeństwa, która chroni nasze ziemie i interesy przed wrogami. I tak je, traktujemy sami, je utrzymujemy i uzbrajamy. Z tego powodu nie musimy też przestrzegać żadnych ustalonych norm, czy standardów przy obchodzeniu się z ich sprzętem - to NASZA WŁASNA sprawa, więc możemy zapewnić im sprzęt w każdy możliwy sposób wolę np. tanią broń drukowaną w 3D, zamiast drogich, prawdziwych."
+
+freemarket_fund_small_businesses:0 "Zachęcanie do zakładania przedsiębiorstw"
+freemarket_fund_small_businesses_desc:0 "Wojny domowe, pomimo ich mocy sprowadzania demokracji do totalitarnych piekieł, mają bardzo złą reputację, a teraz, pomimo upadku krypto-socjalistycznego PiS, przedsiębiorcy bardziej niż kiedykolwiek boją się prowadzenia swoich przedsiębiorstw. Naszą misją było przekazanie władzy pochodnią wolności gospodarczej dla ludzi, a nie po to, aby ich od niej odstraszyć, dlatego powinniśmy przeprowadzić kampanię społeczną, która przekona ludzi, że teraz, gdy przepisy poprzedniego reżimu już ich nie ograniczają, mogą bezpiecznie rozwijać swoje przedsięwzięcia biznesowe - z nikim patrząc na ich ręce."
+
+
+
+#SOCDEM#
+succdem_promise_safety_net:0 "Zaopiekuj się najbiedniejszymi"
+succdem_promise_safety_net_desc:0 "Cała Polska pogrążyła się w nędzy i nędzy, a wokół nas są dzieci, które nie mają co jeść i bezdomni, którzy nie mają się czym ogrzać. To nie jest przesada – niektóre miejsca są wręcz *PORNOGRAFICZNIE* biedne i MUSIMY coś z tym zrobić, chyba że chcemy, aby w naszym kraju nakręcono kolejny film „Slumdog Millionaire”. \n\nDarowizny żywnościowe, naprawy podstawowej infrastruktury, bezpłatne ubrania i inne tekstylia – wszystko, co ułatwi życie przynajmniej najbiedniejszym trochę bardziej znośny."
+
+succdem_self_defence_courses:0 "Zorganizuj Lokalne Siły Samoobrony"
+succdem_self_defence_courses_desc:0 "Musimy chronić naszych ludzi przed motłochem czekającym na nich poza zasięgiem naszych sił, ponieważ w tych strasznych czasach nigdy nie można być pewnym, czy wasz dom jest w pełni zabezpieczony przed splądrowaniem i spaleniem przez bandę psychotycznych rabusiów szukających możliwości wyrządzenia komuś krzywdy dla zabawy. Niestety, nie możemy być obecni wszędzie i czasami nasi ludzie muszą radzić sobie sami, dlatego powinniśmy przynajmniej nauczyć ich, jak chronić się przed wrogimi wojskami i zapewnić im broń do deszczowy dzień."
+
+succdem_fund_national_businesses:0 "Pomóż małym firmom"
+succdem_fund_national_businesses_desc:0 "Przed Upadkiem ludzie nie mogli bezpiecznie prowadzić swoich przedsiębiorstw, bo wielkie korporacje i podejrzani biznesmeni tłumili na rynku wszelkie oznaki konkurencji. Teraz nie mogą nimi kierować, bo jest to po prostu zbyt niebezpieczne. Ludzie powinni umieć się tym zająć. Dla siebie, bez obawy przed brutalnymi i/lub korporacyjnymi bandytami, i powinniśmy udzielić im pewnego wsparcia, aby nie pozwolić, aby jakikolwiek przestępca siał spustoszenie na rynku."
+
+
+
+#DŹWIGIZM
+cranism_central_commitee_meeting:0 "Zorganizuj posiedzenie Komitetu Centralnego"
+cranism_central_commitee_meeting_desc:0 "Trudno jest dowodzić i kierować państwem zbudowanym wokół gospodarki centralnie planowanej i BARDZO kontrowersyjnej ideologii, łatwo też stracić z oczu wszystkie mniejsze i większe sprawy, które wymagają naszej uwagi. Dlatego powinniśmy zorganizować spotkanie ze wszystkimi najważniejszymi osobistościami psy w naszym stanie, aby omówić sprawy państwa."
+
+cranism_military_parade:0 "Pokażmy ludziom naszą siłę"
+cranism_military_parade_desc:0 "Aby utrzymać wysokie morale naszych ludzi, musimy od czasu do czasu pokazać im, jak wielcy i potężni jesteśmy. Organizując defilady wojskowe, wspólne ćwiczenia, podczas których cywile muszą współpracować z wojskiem, oraz inne wydarzenia publiczne z udziałem wojska pozwalamy zwykłym ludziom łączyć się z armią, dając im powód do dumy i wzbudzając w sercach naszych żołnierzy poczucie lojalności wobec narodu."
+
+cranism_build_great_project_of_socialism:0 "Zbuduj pomniki publiczne" ###################################################ZMIENIĆ STATY YO
+cranism_build_great_project_of_socialism_desc:0 "Architektura użytkowa, budowana naprędce… nie jest zbyt przyjemna dla oka. Za to bardzo dobrze przekazuje pewien przekaz – dominuje wokół swoją surową, blokową postawą i brakiem koloru, krzyczy ludziom w twarz, że „STARY PORZĄDEK ŚWIATA UMARŁ” i że „WIECZNY RZĄD LUDOWY BUDOWA TO PAŃSTWO OD POCZĄTKU”, czy im się to podoba, czy nie. Aby w pełni przekazać to przesłanie, muszą mu towarzyszyć pomniki socrealizmu - futuryzmu, bezkompromisowe posągi z betonu, szkła, porcelany i stali, posiadające jednocześnie aurę dumy, mocy i wzywania ludzi do działania, a także aurę uległości, przygnębienia i podejrzliwości sąsiadów."
+
+
+
+#ANTIFA JAWORZNO IDEOLOGY#
+squat_blunt_of_peace:0 "Pozwól ludziom łączyć się ze sobą"
+squat_blunt_of_peace_desc:0 "Autorytaryści próbują sztucznie organizować ludzi według arbitralnych praw i zasad w sposób odpowiadający ich interesom. Ich sługusy – biurokraci i gliniarze – celowo rozbijają społeczności i powiązania między ludźmi w dążeniu do przekształcenia ich w posłusznych, posłusznych niewolników systemu. Na szczęście jesteśmy tutaj, aby pozwolić społecznościom organizować się bez ingerencji sił zewnętrznych – zgodnie z naturalnym porządkiem. \n\nAby zagoić blizny pozostawione przez policyjne pałki i rozkazy tyranów, ludzie muszą ponownie zjednoczyć się ze sobą innych i przywrócić im dawne zwyczaje – ich naturalne sposoby. Zorganizujmy wydarzenia, które pomogą społecznościom świętować swoje sposoby i łączyć się ze sobą."
+
+squat_get_some_baseball_bats:0 "Powiedz ludziom, żeby przynieśli swój sprzęt"
+squat_get_some_baseball_bats_desc:0 "„Sprzęt”, czyli „broń służąca do bicia się nawzajem podczas bójek ulicznych”."
+
+squat_pump_yourself_to_fight:0 "Obudź ludzi"
+squat_pump_yourself_to_fight_desc:0 "Musimy przygotować się do walki o nasze terytorium, ponieważ coraz więcej niedoszłych gliniarzy i żołnierzy kręci się po naszym terenie, szukając okazji, aby nas z niego przepędzić. \nPokażmy tym cipkom, czyja to ziemia."
 
 #Unifications
 unification_category: "Zjednoczenie Polski"
@@ -428,7 +623,7 @@ podkarpacie_RZE: "War with Rzeszów"
 podkarpacie_KOZ: "War with Cossacks"
 podkarpacie_BSC: "War with Bieszczady"
 podkarpacie_TAR: "War with Tarnobrzeg"
-podkarpacie_mielec_debica: "Pacyfikacja zachodnich watażków"
+podkarpacie_mielec_debica: "Pacyfikacja zachodnich watażków	"
 heart_of_darkness: "Wejście w nieznane"
 
 opole_nysa_end: "Pozbycie się Nysy"
@@ -439,14 +634,14 @@ opole_war_1: "Lechicka wojna domowa"
 
 ANA_WRO_war: "Move into Bum Basin"
 RYB_OLE_war: "Wojna z Oleśnica"
-silesia_inferior_ZUL: "Zniszcz Wałbrzych"
-silesia_inferior_MNL: "Zniszcz Wspólnotę Gór Sowich"
-silesia_inferior_ANA: "Zniszcz Państwo Alkoholickie"
-EKS_subjection: "Zaanektuj Euromarionetki"
+silesia_inferior_ZUL: "Destroy Wałbrzych"
+silesia_inferior_MNL: "Destroy Owl Mountains Commune"
+silesia_inferior_ANA: "Destroy Alcoholy State"
+EKS_subjection: "Annex Europuppets"
 okamura_ZUL_conquest_war: "Move into Bum Basin"
 EKS_KGH_or_CYG_war: "Retake Copper Valley!"
-RYB_MPK_war: "Wędkowanie dla Wrocławia"
-RYB_vs_WRO_war: "Odzyskaj Wrocław!"
+RYB_MPK_war: "Fishing for a Wrocław"
+RYB_vs_WRO_war: "Retake Wrocław!"
 Lowersilesia_eating_of_puppets: "Koniec z Touristenstaat"
 Last_lowersilesia_war: "Wojna o Dolny Śląsk"
 KGH_drastic_measures: "Drastyczne środki"
@@ -472,6 +667,3 @@ last_battle_of_podlasie: "Ostatnia bitwa o Podlasie"
 setup_workshops: "Setup Workshops in [FROM.GetName]"
 setup_workshops2: "Setup Workshops in [FROM.GetName]"
 setup_workshops3: "Setup Workshops in [FROM.GetName]"
-pomorskie_unification_category: "Unification of Pomerelia"
-annex_sopot: "Zintegruj Sopot"
-annex_gdynia: "Zintegruj Gdynię"
