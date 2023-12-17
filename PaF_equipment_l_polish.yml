@@ -529,8 +529,7 @@ l_polish:
  motorized_artillery_equipment_2_desc: "Basically - discount CAESARs: trucks armed with old artillery guns, that serve as heavy, yet mobile artillery. Despite their weight, they still have a tendency to flip sideways after a shot."
  self_propelled_artillery:0 "Self-Propelled Guns"
  self_propelled_artillery_desc:0 "Category of artillery that moves on its own."
- self_propelled_artillery_chassis:0 "Self-Propelled Guns" ###########################################to z chassis to tylko nazwa i nie da się tego edytować (pewnie kowboj coś tu odjebał)
- self_propelled_artillery_chassis_desc:0 "Category of artillery that moves on its own." 
+ self_propelled_artillery_chassis: "Self-Propelled Guns" ###########################################to z chassis to tylko nazwa i nie da się tego edytować (pewnie kowboj coś tu odjebał)
  self_propelled_artillery_equipment:0 "Self-Propelled Guns"
  self_propelled_artillery_equipment_desc:0 "my guns go boom boom yo guns go *BRRRRWRRRRRWRWRWRRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR pow pow* (you're using spgs)"
  self_propelled_artillery_equipment_3: "Cold War-Era SPG"
