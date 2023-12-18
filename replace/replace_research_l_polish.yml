@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
  infantry_folder_desc: "Infantry weapons, equipment and training."
  support_folder: "Support & Supply"
  support_folder_desc: "Support companies and supply trains development."
@@ -215,6 +215,5 @@
 
 
 
- SUPPORT_TITLE_TRAINS: "POCIĄGI"
- INDUSTRY_TITLE_OIL: "RESOURCE EXTRACTION & PRODUCTION"
+ SUPPORT_TITLE_TRAINS: "TRAINS"
  interwar_artillery: "Interwar Artillery"
