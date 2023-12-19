@@ -174,9 +174,9 @@ l_polish:
  UMN_supregional_corporativism_DEF: "Zjednoczona Firma Kopalniana"
  UMN_supregional_corporativism_ADJ: "Kopaln."
 
- UMN_solniczka_final: "Zjednoczona Firma Kopalniana"
- UMN_solniczka_final_DEF: "Zjednoczona Firma Kopalniana"
- UMN_solniczka_final_ADJ: "Kopaln."
+ UMN_solniczka_final: "Sóltanat"
+ UMN_solniczka_final_DEF: "Sóltanat"
+ UMN_solniczka_final_ADJ: "Sóltań."
  ###WADOVICE##
  WDW_voivodeship_marxism_cranism: "Galicyjska Armia Ludowo-Wyzwoleńcza"
  WDW_voivodeship_marxism_cranism_DEF: "Galicyjska Armia Ludowo-Wyzwoleńcza"
@@ -1969,9 +1969,9 @@ l_polish:
 
  
 ###ŻAGAŃ###
- ZAG_voivodeship:0 "11 Dywizja Kawalerii Pancernej"
- ZAG_voivodeship_DEF:0 "11 Dywizja Kawalerii Pancernej"
- ZAG_voivodeship_ADJ:0 "11 DKPanc"
+ ZAG_voivodeship: "11 Dywizja Kawalerii Pancernej"
+ ZAG_voivodeship_DEF: "11 Dywizja Kawalerii Pancernej"
+ ZAG_voivodeship_ADJ: "11 DKPanc"
  
  ZAG_regional: "11 Dywizja Kawalerii Pancernej"
  ZAG_regional_DEF: "11 Dywizja Kawalerii Pancernej"
@@ -2407,7 +2407,3 @@ l_polish:
  ZUL_BBW: "Sudeckie Kryptopolis"
  ZUL_BBW_DEF: "Sudeckie Kryptopolis"
  ZUL_BBW_ADJ: "Sudeck." 
-
- GDY_Anarchia: "Brak Władzyy"
- GDY_Anarchia_DEF: "Brak Władzy"
- GDY_Anarchia_ADJ: "Brak Władzy"  
