@@ -2280,9 +2280,9 @@
  STE_reactionary: "Kupiecka Republika Szczecina"
  STE_reactionary_DEF: "Kupiecka Republika Szczecina"
  STE_reactionary_ADJ: "Szczec." 
- STE_postpolonism: "Kupiecka Republika Szczecina"
- STE_postpolonism_DEF: "Kupiecka Republika Szczecina"
- STE_postpolonism_ADJ: "Szczec." 
+ STE_postpolonism: "Chemiewerke 'Polen' AG"
+ STE_postpolonism_DEF: "Chemiewerke 'Polen' AG"
+ STE_postpolonism_ADJ: "Chemiew." 
  
  JAS_marxism_cranism: "Związek Jaszczurczy"
  JAS_marxism_cranism_DEF: "Związek Jaszczurczy"
