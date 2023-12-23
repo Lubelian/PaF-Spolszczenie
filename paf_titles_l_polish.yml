@@ -222,11 +222,13 @@ l_polish:
  
  TITLE_STL: "Prezes" 
  TITLE_NIS: "Mądry Człowiek" Wiseman
+ TITLE_UNO: "Dowódca"
  
  GOVERNMENT_BRE: "Eurogubernator"
  GOVERNMENT_KES: "Eurojunta Wojskowa"
  GOVERNMENT_KOS: "Eurojunta Wojskowa"
  GOVERNMENT_POM: "Eurojunta Wojskowa"
+ GOVERNMENT_UNO: "Operacja pokojowa"
  
  GOVERNMENT_EKS: "Eurokommissariat"
  GOVERNMENT_CZE_UE: "Eurojunta wojskowa"
