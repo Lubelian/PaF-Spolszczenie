@@ -2380,6 +2380,8 @@ l_polish:
  MOT_BBW_DEF: "Nocne Wilki"
  MOT_BBW_ADJ: "Wilcz."  
 
+ 
+ 
  SEI_BBW: "Jaćwież"
  SEI_BBW_DEF: "Jaćwież"
  SEI_BBW_ADJ: "Jaćw." 
@@ -2407,3 +2409,7 @@ l_polish:
  ZUL_BBW: "Sudeckie Kryptopolis"
  ZUL_BBW_DEF: "Sudeckie Kryptopolis"
  ZUL_BBW_ADJ: "Sudeck." 
+ 
+ GDY_Anarchia: "(brak władzy)"
+ GDY_Anarchia_DEF: "(brak władzy)"
+ GDY_Anarchia_ADJ: "(brak władzy)"  
