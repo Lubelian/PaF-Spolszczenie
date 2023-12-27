@@ -5340,6 +5340,7 @@ l_polish:
  STATE_580_LEH: "ZONA"
  STATE_580_UKROS: "ZONA"
  STATE_580_USP: "ZONE"
+ STATE_580_ATM: "Bałuty Hub"
  
  STATE_581: "Poznań-Głuszyna"
  STATE_581_CAL: "Glusinia"
@@ -8321,7 +8322,7 @@ l_polish:
  STATE_906_GER: "Lobsens"
  STATE_906_JOM: "Leikskóla"
  STATE_906_LEH: "Górka"
- STATE_906_UKROS: "Lobzhenitsa"
+ STATE_906_UKROS: "Łobżenica"
  STATE_906_USP: "Nursery"
 
  STATE_907: "Bydgoszcz-Błonie"
