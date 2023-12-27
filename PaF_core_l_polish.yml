@@ -1,4 +1,4 @@
-l_polish:
+﻿l_polish:
  WYMORDOWAC_WSZYSTKICH_POLAKOW_TOOLTIP: "§HLicznik martwych polaków§!\n\nTu widać ilu Polaków zginęło podczas Upadku od Marca 2027"
  armament_company: "Przedsiębiorstwo zbrojeniowe"
  industrial_company: "Przedsiębiorstwo cywilne"
@@ -49,3 +49,4 @@ l_polish:
  LICZBA_JABLONOWSKIEGO_PONIZEJ_MILLIONA: "[?global.deadPolacks|2]K"
  LICZBA_JABLONOWSKIEGO: "[?global.deadMillions|2]M"
  workshop_explanation_tt: "In non-cores and rural regions, temporarily adds 1 military factory, in smaller cities - 2 mil factories and in bigger cities - 3 mil. factories"
+ non_core_penalty: "From not cored states"
