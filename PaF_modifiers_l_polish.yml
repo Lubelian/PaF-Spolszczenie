@@ -1,4 +1,5 @@
 l_polish:
+ country_resource_cost_coal: "Zużycie węgla"
  modifier_production_speed_power_plant_factor:0 "Tempo budowy §Yelektrowni§!"
  modifier_production_speed_power_plant_factor_desc:0 "Zmiana tempa budowy elektrowni."
  modifier_production_speed_wind_farm_factor:0 "Tempo budowy §Yelektrowni odnawialnych źródeł energii§!" 
