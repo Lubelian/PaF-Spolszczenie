@@ -68,6 +68,7 @@ buy_american_ranged_desc: "Nawet drobni amerykańscy sprzedawcy broni mogą dost
 buy_chinese_ranged: "Import broni z Chin"
 buy_chinese_ranged_desc: "Zakup chińskiej broni może być kłopotliwy, ponieważ będziemy musieli zwrócić się bezpośrednio do chińskiego rządu, poza tym...\n nie do końca wiemy, czego się spodziewać, ponieważ jedyny kontakt z chińską bronią, jaki ktokolwiek w naszym rządzie kiedykolwiek miał, to był moment, gdy jeden księgowy znalazł zainstalowanego Battlefielda 4 na jednym ze skradzionych komputerów więc... no cóż, przynajmniej jeśli dobierzemy słowa odpowiednio, będziemy mogli przedstawić te  prośby wojskowych jako otwarcie się na przyszłe chińskie inwestycje, co z pewnością poprawi opinię Chińskiej Partii Komunistycznej o nas i ułatwi przyszłe transakcje z nimi."
 
+
 buy_at: "KUP BROŃ PRZECIWPANCERNĄ"
 collapse_at: "§gZWIŃ LISTĘ ZAKUPÓW BRONI§!"
 buy_german_at: "Kup niemiecką broń przeciwpancerną"
@@ -156,6 +157,7 @@ museum_heist: "Kradnij eksponaty muzealne"
 museum_heist_desc: "Większość sprzętu wojskowego zostaje wysterylizowana przed wystawieniem na wystawę w muzeach, ale przy odrobinie renowacji i być może pewnymi modyfikacjami oryginalnej formy niektóre z tych rodzajów broni i pojazdów mogą okazać się wielkimi dobrodziejstwami dla naszej armii."
 
 
+
 ###CORES###do przeniesienia
 
 current_cores: "Nasze obecnie zintegrowane regiony"
@@ -185,7 +187,6 @@ generic_decisions_freemarket_category: "Akcje §YWolnorynkowe§!"
 generic_decisions_succdem_category: "Akcje §tSocjaldemokratyczne§!" 
 generic_decisions_cranism_category: "Akcje §RMarksistowsko-Dźwigistyczne§!" 
 generic_decisions_squat_category: "Akcje §tSkłotystyczne§!"
-
 
 #EUROLIB#
 eurolib_pro_federalist_propaganda:0 "Umocnij Liberalne Nastawienie"
@@ -383,6 +384,7 @@ squat_get_some_baseball_bats_desc:0 "„Sprzęt”, czyli „broń służąca do
 squat_pump_yourself_to_fight:0 "Obudź ludzi"
 squat_pump_yourself_to_fight_desc:0 "Musimy przygotować się do walki o nasze terytorium, ponieważ coraz więcej niedoszłych gliniarzy i żołnierzy kręci się po naszym terenie, szukając okazji, aby nas z niego przepędzić. \nPokażmy tym cipkom, czyja to ziemia."
 
+
 #Unifications
 unification_category: "Zjednoczenie Polski"
 unification_category_desc: ""
@@ -396,6 +398,9 @@ controls_lublin_voivodeship: "Kontroluje całe województwo lubelskie"
 
 controls_three_voivodeships: "Kontroluje obszary co najmniej trzech województw"
 controls_six_voivodeships: "Kontroluje obszary co najmniej sześciu województw"
+
+doesnt_control_3_vois_yet: "Nie kontroluje obszarów co najmniej trzech województw"
+doesnt_control_6_vois_yet: "Nie kontroluje obszarów co najmniej sześciu województw"
 
 lodz_voivodeship_unification: "Zjednocz Województwo Łódzkie!"
 zaglebie_voivodeship_unification: "Zjednocz Zagłębie i Jurę!"
@@ -513,8 +518,6 @@ kujpom_GRU: "[GRU.GetFlag]Wojna z Grudziądzem"
 kujpom_BYD: "[BYD.GetFlag]Wojna z Bydgoszczem"
 kujpom_KUJ: "[KUJ.GetFlag]Wojna z Krajną"
 kujpom_INO: "[INO.GetFlag]Wojna z Inowrocławiem"
-kujpom_AMA: "[INO.GetFlag]Wojna z Kobietami"
-kujpom_BRO: "[INO.GetFlag]Wojna z Resztkami Województwa"
 
 pom_war_final_tricity: "Wojna o Pomorze"
 pom_war_final_kaszubia: "Wojna o Pomorze"
@@ -677,9 +680,16 @@ load_war_tree: "Load War Tree (only Łódzkie)"
 debug_sapek_sane: "Make Sapek Sane"
 debug_sapek_insane: "Make Sapek Insane"
 WML_clear_flag: "Clear Anti-Dialogue Coalition"
+STE_instant_breakaway:0 "Instant Paprykarz"
 
 last_battle_of_podlasie: "Ostatnia bitwa o Podlasie"
 
 setup_workshops: "Setup Workshops in [FROM.GetName]"
 setup_workshops2: "Setup Workshops in [FROM.GetName]"
 setup_workshops3: "Setup Workshops in [FROM.GetName]"
+
+
+### CHWILOWO POMORSKIE ###
+pomorskie_unification_category: "Zjednoczenie Pomorza Gdańskiego"
+annex_sopot: "Zintegruj Sopot" 
+annex_gdynia: "Zintegruj Gdynię" 
