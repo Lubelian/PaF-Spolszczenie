@@ -162,7 +162,7 @@ museum_heist_desc: "Większość sprzętu wojskowego zostaje wysterylizowana prz
 
 current_cores: "Nasze obecnie zintegrowane regiony"
 coring_category: "Integracja terytorialna"
-coring_tooltip: "Uwaga: przy ponad 75% posłuszeństwa regiony zostaną automatycznie zintegrowane §Rkosztem utraty stabilności§!" 
+coring_tooltip: "Przy ponad 90% posłuszeństwa regiony zostaną automatycznie zintegrowane." 
 coring_tooltip_blocked: "Potrzebujesz więcej niż 75% posłuszeństwa, żeby zintegrować region\n\nPrzy ponad 90% posłuszeństwa, regiony zostaną automatycznie zintegrowane" 
 compliance_requirement: "Potrzebujesz więcej niż 75% posłuszeństwa, żeby zintegrować region"
 core_the_state: "Integracja: [FROM.GetName]"
