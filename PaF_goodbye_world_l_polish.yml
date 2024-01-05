@@ -1,7 +1,8 @@
 ﻿l_polish:
 ### Main Stuff ###
-EPILOGUE_TITLE: "Epilogue"
+EPILOGUE_TITLE: "Epilog"
 CREDITS_TITLE: "Credits"
+its_joever_idea: "Do zobaczenia"
 
 ### Buttons ###
 PaF_ENDING_SCREEN_BUTTON_TEXT_GEN: "And thus Pride came before Fall..."
