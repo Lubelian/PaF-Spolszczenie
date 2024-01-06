@@ -34,6 +34,7 @@ l_polish:
  januszex_desc: "These districts provide your state with increased economic growth, also letting your population have easier access to commercial goods, bringing a little bit of normalcy back in their lives."
  
  hit_the_building_limit: "\n§RPrzekroczono limit budynków!§!"
+ prison_mod: "Z Więzień"
  catherdal_mod: "Ze Świątyń"
  university_mod: "Z Uniwersytetów"
  hospital_mod: "Ze Szpitali"
