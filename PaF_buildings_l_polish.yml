@@ -22,7 +22,7 @@ l_polish:
  bootleg_pit_desc: "This massive hole in the ground provides your state with black rocks that leave black smudges on fingers and skylines. \nProvides "
  university: "Uniwersytet"
  university_plural: "Uniwersytet"
- university_desc: "This building provides your state with drunken students and loud house parties that deafen the neighbours. Oh, and it also helps with analyzing, researching and/or implementing new ideas that might be useful for the army and the state apparatus."
+ university_desc: "This building provides your state with drunken students and loud house parties that deafen the neighbours. Oh, and it also helps with analyzing, researching and/or implementing new ideas that might be useful for the army and the state apparatus.\n\nSzybkość rozwoju: §G+1%§""
  hospital: "Szpital"
  hospital_plural: "Szpital"
  hospital_desc: "This building provides your population with less deaths from health problems and your state with more deaths on the frontlines that can be ignored thanks to the amount of healthy people that can replace them." 
@@ -31,7 +31,7 @@ l_polish:
  prison_desc: "This building deals with criminals and undesirables causing ruckus in areas that haven't been completely integrated into our state." 
  januszex: "Dzielnica Handlowa"
  januszex_plural: "Dzielnica Handlowa"
- januszex_desc: "These districts provide your state with increased economic growth, also letting your population have easier access to commercial goods, bringing a little bit of normalcy back in their lives."
+ januszex_desc: "These districts provide your state with increased economic growth, also letting your population have easier access to commercial goods, bringing a little bit of normalcy back in their lives.\n\n£prod_eff Wzrost wydajności produkcji: §G+0.10%§!"
  
  hit_the_building_limit: "\n§RPrzekroczono limit budynków!§!"
  prison_mod: "Z Więzień"
