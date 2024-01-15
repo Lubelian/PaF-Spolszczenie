@@ -43,6 +43,8 @@ l_polish:
  TITLE_NAC: "Prezydent"
  TITLE_SYJ: "Boże Jehowa"
  TITLE_POZ: "Prezydent"
+ TITLE_ROZ: "Rada Kolektywu"
+ TITLE_ZBK: "CEO"
  TITLE_SLU: "Peja"
  
  TITLE_SUS: "Śledczy"
@@ -265,6 +267,8 @@ l_polish:
  GOVERNMENT_NAC: "Narodowa Rzeczpospolita"
  GOVERNMENT_SYJ: "Królestwo Jehowy"
  GOVERNMENT_POZ: "Wolne Miasto"
+ GOVERNMENT_ROZ: "Kolektyw anarchistyczny"
+ GOVERNMENT_ZBK: "Convienience Store Megachain"
  GOVERNMENT_SLU: "Rządy Uliczne"
  
  GOVERNMENT_SUS: "Komisja Śledcza"
