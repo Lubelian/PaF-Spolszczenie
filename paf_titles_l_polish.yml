@@ -225,11 +225,17 @@ l_polish:
  TITLE_STL: "Prezes" 
  TITLE_NIS: "Znachor"
  TITLE_ONZ: "Dowódca"
- 
+ TITLE_CASTEL: "Kasztelan" #?
+ TITLE_KLO: "Radny" #?
+ TITLE_ALP: "Centurion"
+
  GOVERNMENT_BRE: "Eurogubernator"
  GOVERNMENT_KES: "Eurojunta Wojskowa"
  GOVERNMENT_KOS: "Eurojunta Wojskowa"
  GOVERNMENT_POM: "Eurojunta Wojskowa"
+ GOVERNMENT_ONZ: "Peacekeeping Operation"
+ GOVERNMENT_FEUDAL: "Domena feudalna"
+ GOVERNMENT_ALP: "Obóz legionistów" 
  
  GOVERNMENT_EKS: "Eurokomisariat"
  GOVERNMENT_CZE_UE: "Eurojunta wojskowa"
@@ -247,7 +253,6 @@ l_polish:
  GOVERNMENT_TOU: "Hotelokracja"
  GOVERNMENT_ECO: "Korpus Międzynarodowy"
  GOVERNMENT_BOG: "Kordon Bezpieczeństwa"
- GOVERNMENT_ONZ: "Operacja pokojowa"
  
  GOVERNMENT_ZAG: "Dywizja Pancerna"
  GOVERNMENT_WIN: "Hedonistyczna Republika"
