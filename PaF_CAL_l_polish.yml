@@ -2,10 +2,26 @@ l_polish:
 ## National Spirits ##
 CAL_ager_publicus:0 "Ager Publicus"
 CAL_ager_publicus_desc:0 "Ziemia zarekwirowana przez kwestorów, uprawiana przez bezrolnych chłopów jest przeznaczona na najbardziej palące potrzeby państwa. Tam właśnie powstają szczególnie potrzebne dla kaliskiego przemysłu materiały takie jak wiklina, olej rzepakowy czy pomidory bez których stanęła by cała produkcja, a lud burzył by się na Forum Calisium. Niestety do uszu Imperatora dochodzą niepokojące informacje o nadużyciach senatorskich nadzorców i postępującej defraudacji majątku państwowego. Trzeba przyjrzeć się tej sprawie…"
+
 CAL_civic_faith:0 "Wiara Obywatelska"
 CAL_civic_faith_desc:0 "Państwo i Imperator są naszą wspólną dumą. Wypełnia ich łaska Bogów która sprawia, że są oni uosobieniem cnoty – najwyższej formy moralności. Jesteśmy gotowi walczyć o naszą prawdę i naszą godność ze wszystkim co zostało zepsute przez gnuśność nam współczesnych."
+
 CAL_civic_army:0 "Armia Obywatelska"
 CAL_civic_army_desc:0 "Żelazna dyscyplina jest kluczem do sukcesu, każdy legion, każdy manipuł i każda centuria muszą znać swoje miejsce i obowiązki aby wyznaczony cel został osiągnięty. Każdy obywatel musi zdawać sobie z tego sprawę i być gotowym do walki w imię Imperium."
+
+### GRAVITAS ###
+CAL_gravitas_category: "Gravitas"
+CAL_gravitas_category_desc: "Lorem Ipsum\n\nMiejsce Na Senat?\n\n§RPopulares§!:\nGravitas: §H[?CAL_populares_gravitas]§!\nLoyalty: §7[?CAL_populares_loyalty]§!\n\n§gOptimates§!:\nGravitas: §H[?CAL_optimates_gravitas]§!\nLoyalty: §7[?CAL_optimates_loyalty]§!\n\n§1Legiones§!:\nGravitas: §H[?CAL_legiones_gravitas]§!\nLoyalty: §7[?CAL_legiones_loyalty]§!\n\n§0Praetoriae§!:\nGravitas: §H[?CAL_praetoriae_gravitas]§!\nLoyalty: §7[?CAL_praetoriae_loyalty]§!"
+
+CAL_change_gravitas_populares_tt: "Gravitas of §RThe Populares§!: [?CAL_gravitas_change|0=+]"
+CAL_change_gravitas_optimates_tt: "Gravitas of §gThe Optimates§!: [?CAL_gravitas_change|0=+]"
+CAL_change_gravitas_legiones_tt: "Gravitas of §1The Legiones§!: [?CAL_gravitas_change|0=+]"
+CAL_change_gravitas_praetoriae_tt: "Gravitas of §0The Praetoriae§!: [?CAL_gravitas_change|0=+]"
+
+CAL_debug_add_populares_gravitas: "Add Populares Gravitas"
+CAL_debug_add_optimates_gravitas: "Add Optimates Gravitas"
+CAL_debug_add_legiones_gravitas: "Add Legiones Gravitas"
+CAL_debug_add_praetoriae_gravitas: "Add Praetoriae Gravitas"
 
 ## kompanie ##
 CAL_elbar: "ELBAR"
@@ -13,9 +29,8 @@ CAL_traktel: "P.U.H TRAKTEL s.c"
 CAL_winiary: "Vineari"
 CAL_brandbull: "Brandbull International S.A."
 CAL_lubava: "Lubava"
+
 ## First Tree ##
- 
- 
 CAL_dobrze_jest_byc_cesarzem: "Dobrze jest być cesarzem"
 CAL_zwyczajowe_dary_od_senatorow: "Zwyczajowe dary od senatorow"
 CAL_merytokratyczny_psikus: ""Merytokratyczny" psikus"
@@ -139,31 +154,33 @@ CAL_calisian_region_desc: ""
  
 ##Events##
 
-calisia.1.t:0 ""
-calisia.1.desc:0 ""
-calisia.1.a:0 ""
-calisia.2.t:0 ""
-calisia.2.desc:0 ""
-calisia.2.a:0 ""
-calisia.3.t:0 ""
-calisia.3.desc:0 ""
-calisia.3.a:0 ""
+calisia.1.t: ""
+calisia.1.desc: ""
+calisia.1.a: ""
 
-unification.31.t:0 "[GetNewspaper]Calisia jednoczy południową Wielkopolskę"
-unification.31.desc:0 "W audycji radiowej na całą Wielkopolskę przemówienie wygłosił nie kto inny jak Ryszard Kalisz; Choć każdy, kto był w okolicy, może powiedzieć, że mówiący człowiek nie był już tym samym, jakiego znali go wszyscy przed Upadkiem, idąc pod nazwiskiem Ricardus Calisius, wszystko wskazuje na polityka pragnącego po tej radykalnej zmianie stworzyć w sercu Polski nowe Cesarstwo Rzymskie, które poprzez umiejętne wpływanie na lokalną kadrę polityczną udało mu się przez pół roku stać się głównym pretendentem w regionie. Zmodernizowane reformy rzymskie. Armia legionistów, monety z fasadą cesarza i nowe marmurowe budynki, które wkrótce zostaną wzniesione w niedawno zromanizowanych miastach, naprawdę sprawiają wrażenie przeniesionych w odległą przeszłość. Czas pokaże, co z tego wyniknie stan pseudorzymskich rekonstruktorów, choć jest rzeczą oczywistą, że nawet jeśli ich szaleństwo dobiegnie końca, państwo polsko-rzymskie niewątpliwie zapisze się w historii jako kolejne na długiej liście dziwactw wynikających z Upadku."
-unification.31.a:0 "Ave Nero Polonicus?"
+calisia.2.t: ""
+calisia.2.desc: ""
+calisia.2.a: ""
 
-unificationreg.31.t:0 "[GetNewspaper]Calisia unifies Łódź-Kalisz Region"
-unificationreg.31.desc:0 "According to recent information, still slowly filtering in from the battlegrounds of central Poland, the Empire of Calisia managed to launch a successful invasion deep into the heartlands of Łódzkie, culminating in a complete seizure of the war-torn region. Despite relative economic weakness and sparse population, through a sequence of carefully planned offensives, the heavily disciplined legions of the Neo-Roman state managed to subdue the local warlords, entering the capital of Łódź in a wave of glory, followed by a grand Triumphal procession along the city’s main Piotrkowska street. \n\nFollowing the conquest, by the Emperor’s decree, the land has been divided up into new provinces in preparation for the Romanization of the Caesar’s new subjects, and from among those who embraced the cultured ways of their new rulers, new cohorts are being established to bolster the army in preparation for the next campaigns."
-unificationreg.31.a:0 "Si vis pacem, para bellum"
+calisia.3.t: ""
+calisia.3.desc: ""
+calisia.3.a: ""
 
-unificationsupreg.31.t:0 "[GetNewspaper]Calisia unifies Western Poland"
-unificationsupreg.31.desc:0 "The offensive of the Empire of Calisia continues, with Caesar Ricardus Calisius personally leading his legions to victory and glory. Through a string of increasingly grand triumphs, the elite cohorts have successfully spread civilization to the barbarians of Pomerania, with even the greatest strongholds falling to the imperial army. As with Navis before, the region is undergoing a massive Romanization campaign to bring culture to the poor illiterate brutes and welcome them as imperial subjects. The victorious soldiers and generals have been greatly rewarded for their success, with those who’ve distinguished themselves in combat granted generous swathes of land and the Imperator’s closest followers appointed as consuls of the new provinces. Once the territory has been fully integrated and the army strengthened with new recruits, the legions stand ready for their greatest campaign yet – the march on Varsovia."
-unificationsupreg.31.a:0 "Ave Victoria!"
+unification.31.t: "[GetNewspaper]Calisia jednoczy południową Wielkopolskę"
+unification.31.desc: "W audycji radiowej na całą Wielkopolskę przemówienie wygłosił nie kto inny jak Ryszard Kalisz; Choć każdy, kto był w okolicy, może powiedzieć, że mówiący człowiek nie był już tym samym, jakiego znali go wszyscy przed Upadkiem, idąc pod nazwiskiem Ricardus Calisius, wszystko wskazuje na polityka pragnącego po tej radykalnej zmianie stworzyć w sercu Polski nowe Cesarstwo Rzymskie, które poprzez umiejętne wpływanie na lokalną kadrę polityczną udało mu się przez pół roku stać się głównym pretendentem w regionie. Zmodernizowane reformy rzymskie. Armia legionistów, monety z fasadą cesarza i nowe marmurowe budynki, które wkrótce zostaną wzniesione w niedawno zromanizowanych miastach, naprawdę sprawiają wrażenie przeniesionych w odległą przeszłość. Czas pokaże, co z tego wyniknie stan pseudorzymskich rekonstruktorów, choć jest rzeczą oczywistą, że nawet jeśli ich szaleństwo dobiegnie końca, państwo polsko-rzymskie niewątpliwie zapisze się w historii jako kolejne na długiej liście dziwactw wynikających z Upadku."
+unification.31.a: "Ave Nero Polonicus?"
 
-super.31.t:0 "[GetNewspaper]Calisia unifies Poland"
-super.31.desc:0 "Shocking news emerge from Poland! After a decade of post-Fall anarchy, the nation has been fully reunified under the so-called Imperator Ricardus Calisius, a former SLD politician turned monarch. After crowning himself the emperor of the crumbling city of Kalisz, the Caesar earned the public’s favor, rebuilding the city in a neoclassical style from a pile of rubble into a truly worthy capital. With dozens of loyal legions under his command and the spirit of Augustus coursing through his veins, the great conqueror managed to subdue the entirety of the country, not even the barbarian kings of Varsovia and Cracovia able to stop his advance. \n\nFollowing the final Triumh, a grand celebration ensued with Calisian wine flowing in unending excess. The task ahead remains monumental, however, as rebuilding the ruined economy and Romanizing the millions of new citizens may prove to be an even greater challenge. \n\nThe Empire of Calisia shall ensure its eternal place in the sun!"
-super.31.a:0 "Ave Caesar! Ave Imperium!"
+unificationreg.31.t: "[GetNewspaper]Calisia unifies Łódź-Kalisz Region" ####to trza byndzie zmienić
+unificationreg.31.desc: "According to recent information, still slowly filtering in from the battlegrounds of central Poland, the Empire of Calisia managed to launch a successful invasion deep into the heartlands of Łódzkie, culminating in a complete seizure of the war-torn region. Despite relative economic weakness and sparse population, through a sequence of carefully planned offensives, the heavily disciplined legions of the Neo-Roman state managed to subdue the local warlords, entering the capital of Łódź in a wave of glory, followed by a grand Triumphal procession along the city’s main Piotrkowska street. \n\nFollowing the conquest, by the Emperor’s decree, the land has been divided up into new provinces in preparation for the Romanization of the Caesar’s new subjects, and from among those who embraced the cultured ways of their new rulers, new cohorts are being established to bolster the army in preparation for the next campaigns."
+unificationreg.31.a: "Si vis pacem, para bellum"
+
+unificationsupreg.31.t: "[GetNewspaper]Calisia unifies Western Poland"
+unificationsupreg.31.desc: "The offensive of the Empire of Calisia continues, with Caesar Ricardus Calisius personally leading his legions to victory and glory. Through a string of increasingly grand triumphs, the elite cohorts have successfully spread civilization to the barbarians of Pomerania, with even the greatest strongholds falling to the imperial army. As with Navis before, the region is undergoing a massive Romanization campaign to bring culture to the poor illiterate brutes and welcome them as imperial subjects. The victorious soldiers and generals have been greatly rewarded for their success, with those who’ve distinguished themselves in combat granted generous swathes of land and the Imperator’s closest followers appointed as consuls of the new provinces. Once the territory has been fully integrated and the army strengthened with new recruits, the legions stand ready for their greatest campaign yet – the march on Varsovia."
+unificationsupreg.31.a: "Ave Victoria!"
+
+super.31.t: "[GetNewspaper]Calisia unifies Poland"
+super.31.desc: "Shocking news emerge from Poland! After a decade of post-Fall anarchy, the nation has been fully reunified under the so-called Imperator Ricardus Calisius, a former SLD politician turned monarch. After crowning himself the emperor of the crumbling city of Kalisz, the Caesar earned the public’s favor, rebuilding the city in a neoclassical style from a pile of rubble into a truly worthy capital. With dozens of loyal legions under his command and the spirit of Augustus coursing through his veins, the great conqueror managed to subdue the entirety of the country, not even the barbarian kings of Varsovia and Cracovia able to stop his advance. \n\nFollowing the final Triumh, a grand celebration ensued with Calisian wine flowing in unending excess. The task ahead remains monumental, however, as rebuilding the ruined economy and Romanizing the millions of new citizens may prove to be an even greater challenge. \n\nThe Empire of Calisia shall ensure its eternal place in the sun!"
+super.31.a: "Ave Caesar! Ave Imperium!"
 
  ##Characters##
  POLITICS_RICARDUS_CALISIUS_DESC:0 "For all of his life Ryszard Kalisz felt some kind of yearning in the back of his mind. He could feel it while walking past inscribed with legal maxims columns of the Supreme Court, watching Asterix and Obelix: Mission Cleopatra or eating pizza. Whenever he held a speech, be it in court or in Sejm, he could feel behind him the presence of someone far greater and wiser then jury or Marshal of the Sejm. He dismissed it and carried on. Former socialist, lawyer, politician – hardly the most respectable cursus honorum, although typical. \n\nIt was right after the collapse his inner consciousness had awoken. Running away (either from the blast or the angered mob), he hid himself in a wine cellar in Kalisz. Whatever happened there will be forever shrouded in mystery. On the third day he emerged, draped in a bedsheet tinted purple with Lazio wine, with a golden laurel on his head and perfect knowledge of all five Latin declinations. \n\nHowever odd Kalisz wouldn’t seem, locals did greatly appreciate his restlessness and talent for reorganisation. No one batted an eye when he ordered construction of an aqueduct or organising games in the amphitheatre. However, when he proclaimed himself divine regent of Jupiter, some people thought he might be going too far. By this stage, however, his rule was cemented. Kalisz approached members of local elites and offered them an attractive deal: land in exchange for political power. Soon afterwards senate convened and proclaimed Kalisz – now Ricardus Romanus Calisius – first a consul for life, and soon after – the emperor of Calisia. The new dictator’s first edict shocked many to the bone: he denounced Christianity in favour of paganism and ordered confiscation of the Church lands to create a reserve of public land for the bene meritorum. \n\nKalisz walks a tightrope between the optimate faction, which looks forward to seizing as much wealth as possible, and the populares, who point out to crying inequality in the nascent empire. The conflict is spiced up by uncertainty about Calisius’ mental state. As mad as he seems, he refurbished this piece of post-collapse Poland into a strong, well functioning statelet. His past made many think he’d turn out to be an opportunist, but his decision to crack down on the Catholic Church proved he isn’t afraid to cross the Rubicon. The true extent of emperor’s ambition – or folly – will be soon known..."
