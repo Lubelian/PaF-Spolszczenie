@@ -9,6 +9,18 @@ CAL_civic_faith_desc: "Państwo i Imperator są naszą wspólną dumą. Wypełni
 CAL_civic_army: "Armia Obywatelska"
 CAL_civic_army_desc: "Żelazna dyscyplina jest kluczem do sukcesu, każdy legion, każdy manipuł i każda centuria muszą znać swoje miejsce i obowiązki aby wyznaczony cel został osiągnięty. Każdy obywatel musi zdawać sobie z tego sprawę i być gotowym do walki w imię Imperium."
 
+CAL_legiones_rebellious: "Zbuntowane legiony"
+CAL_legiones_disloyal: "Nielojalne legiony"
+CAL_legiones_hesistant: "Niepokorne legiony"
+CAL_legiones_loyal: "Lojalne legiony"
+CAL_legiones_fanatical: "Fanatyczne legiony"
+
+CAL_praetoriae_rebellious: "Zbuntowane Praetoriae"
+CAL_praetoriae_disloyal: "Nielojalne Praetoriae"
+CAL_praetoriae_hesistant: "Niepokorne Praetoriae"
+CAL_praetoriae_loyal: "Lojalne Praetoriae"
+CAL_praetoriae_fanatical: "Fanatyczne Praetoriae"
+
 ### GRAVITAS ###
 CAL_gravitas_category: "Gravitas"
 CAL_gravitas_category_desc: "Lorem Ipsum\n\nMiejsce Na Senat?\n\n§RPopulares§!:\nGravitas: §H[?CAL_populares_gravitas]§!\nLoyalty: §7[?CAL_populares_loyalty]§!\n\n§gOptimates§!:\nGravitas: §H[?CAL_optimates_gravitas]§!\nLoyalty: §7[?CAL_optimates_loyalty]§!\n\n§1Legiones§!:\nGravitas: §H[?CAL_legiones_gravitas]§!\nLoyalty: §7[?CAL_legiones_loyalty]§!\n\n§0Praetoriae§!:\nGravitas: §H[?CAL_praetoriae_gravitas]§!\nLoyalty: §7[?CAL_praetoriae_loyalty]§!"
