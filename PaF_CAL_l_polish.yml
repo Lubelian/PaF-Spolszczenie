@@ -5,7 +5,10 @@ CAL_ager_publicus: "Ager Publicus"
 CAL_ager_publicus_desc: "Ziemia zarekwirowana przez kwestorów, uprawiana przez bezrolnych chłopów jest przeznaczona na najbardziej palące potrzeby państwa. Tam właśnie powstają szczególnie potrzebne dla kaliskiego przemysłu materiały takie jak wiklina, olej rzepakowy czy pomidory bez których stanęła by cała produkcja, a lud burzył by się na Forum Calisium. Niestety do uszu Imperatora dochodzą niepokojące informacje o nadużyciach senatorskich nadzorców i postępującej defraudacji majątku państwowego. Trzeba przyjrzeć się tej sprawie..."
 CAL_ager_publicus_modifier: "Ager Publicus"
 CAL_ager_publicus_modifier_desc: "Ziemia zarekwirowana przez kwestorów, uprawiana przez bezrolnych chłopów jest przeznaczona na najbardziej palące potrzeby państwa. Tam właśnie powstają szczególnie potrzebne dla kaliskiego przemysłu materiały takie jak wiklina, olej rzepakowy czy pomidory bez których stanęła by cała produkcja, a lud burzył by się na Forum Calisium. Niestety do uszu Imperatora dochodzą niepokojące informacje o nadużyciach senatorskich nadzorców i postępującej defraudacji majątku państwowego. Trzeba przyjrzeć się tej sprawie..."
-
+CAL_ager_publicus_optimates_modifier: "Ager Publicus"
+CAL_ager_publicus_optimates_modifier_desc: "Ziemia zarekwirowana przez kwestorów, uprawiana przez bezrolnych chłopów jest przeznaczona na najbardziej palące potrzeby państwa. Tam właśnie powstają szczególnie potrzebne dla kaliskiego przemysłu materiały takie jak wiklina, olej rzepakowy czy pomidory bez których stanęła by cała produkcja, a lud burzył by się na Forum Calisium. Niestety do uszu Imperatora dochodzą niepokojące informacje o nadużyciach senatorskich nadzorców i postępującej defraudacji majątku państwowego. Trzeba przyjrzeć się tej sprawie..."
+CAL_ager_publicus_populares_modifier: "Ager Publicus"
+CAL_ager_publicus_populares_modifier_desc: "Ziemia zarekwirowana przez kwestorów, uprawiana przez bezrolnych chłopów jest przeznaczona na najbardziej palące potrzeby państwa. Tam właśnie powstają szczególnie potrzebne dla kaliskiego przemysłu materiały takie jak wiklina, olej rzepakowy czy pomidory bez których stanęła by cała produkcja, a lud burzył by się na Forum Calisium. Niestety do uszu Imperatora dochodzą niepokojące informacje o nadużyciach senatorskich nadzorców i postępującej defraudacji majątku państwowego. Trzeba przyjrzeć się tej sprawie..."
 
 CAL_civic_faith: "Wiara Obywatelska"
 CAL_civic_faith_desc: "Państwo i Imperator są naszą wspólną dumą. Wypełnia ich łaska Bogów która sprawia, że są oni uosobieniem cnoty – najwyższej formy moralności. Jesteśmy gotowi walczyć o naszą prawdę i naszą godność ze wszystkim co zostało zepsute przez gnuśność nam współczesnych."
@@ -26,6 +29,8 @@ CAL_praetoriae_loyal: "Lojalne Praetoriae"
 CAL_praetoriae_fanatical: "Fanatyczne Praetoriae"
 
 CAL_collegia: "Collegia"
+
+CAL_growing_bureaucracy: "Rosnąca biurokracja"
 
 CAL_praetoriae_et_optimates_gain: "§0Praetoriae and Optimates will benefit on that decision§!"
 CAL_legiones_et_populares_gain: "§tLegiones and Populares will benefit on that decision§!"
