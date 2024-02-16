@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
 
 ###################################################################################################
 #### Code and UX localization
@@ -25,7 +25,7 @@ INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP_DELAYED: "$NAME|Y$ ma $NUMBER|Y0$ pkt
 INDUSTRIAL_ORG_LIST_INITIAL_TRAIT_NAME: "$NAME|Y$"
 INDUSTRIAL_ORG_DETAIL_WINDOW_TRAITS_TAB: "Specjalizacje"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_TAB: "Historia"
-NDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_VARIANTS_HEADER: "Historia badań i projektowania"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_VARIANTS_HEADER: "Historia badań i projektowania"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_PRODUCTION_HEADER: "Historia linii montażowej"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_OUTDATED_TOOLTIP: "§gWyposażenie jest przestarzałe.§!"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_NO_UPGRADE_TOOLTIP: "§gWyposażenie ma już premie za najnowsze specjalizacje. Nie trzeba modernizować tej wersji.§!"
@@ -76,12 +76,12 @@ INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_PER_RESEARCH_SLOT: "$TECH_NAME|Y$ ($FUNDS|+0
 INDUSTRIAL_ORG_DETAIL_TOOLTIP_DESIGN_TEAM_CHANGE_COST_DELAYED: "Kiedy dodasz §Ywojskową organizację przemysłową§! do wersji wyposażenia, zapłacisz za to §Ydoświadczeniem§!. Zależnie od rodzaju wyposażenia, będzie to £GFX_army_experience doświadczenie armii, £GFX_navy_experience doświadczenie marynarki albo £GFX_air_experience doświadczenie lotnictwa."
 
 INDUSTRIAL_ORGANIZATION_TOOLTIP_NAME: "$NAME|H$"
-INDUSTRIAL_ORGANIZATION_TOOLTIP_EQUIPMENT_WILL_GET: "$EQUIPMENT|H$ otrzyma:"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_EQUIPMENT_WILL_GET: "$EQUIPMENT|H$ will get:"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_TASK_CAPACITY: "Maks. liczba zadań: $USED|Y0$/$TOTAL|Y0$"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_REFIT_CAPACITY: "§RTen producent przemysłowy może obsługiwać tylko $NUM$ z $TOTAL$ linii modernizacyjnych.§!"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_CANT_ASSIGN_TASK_CAPACITY: "§ROsiągnięto§! §Ymaksymalną liczbę zadań§!. Przydzielenie do kolejnych zadań nie jest możliwe."
 INDUSTRIAL_ORGANIZATION_TOOLTIP_SIZE: "Rozmiar: $SIZE|Y0$ ($PERCENT|Y%0$)"
-INDUSTRIAL_ORGANIZATION_TOOLTIP_COST: "Koszt:"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_COST: "Koszt: "
 INDUSTRIAL_ORGANIZATION_TOOLTIP_RESEARCH_BONUS: "Premia do badań: $VALUE|0%+=$"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_GAINED_FUNDS_PROD_LINE: "Fundusze: $VALUE|+2$/Generowany §Hpotencjał przemysłowy§!"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_MAX_FUNDS_PROD_LINE: "(maks. $MAX|Y0$/dzień)."
@@ -438,7 +438,7 @@ SOV_mio_trait_gas_tank_protection: "Ochrona zbiornika paliwa"
 SOV_mio_trait_lightened_reduction_gear: "Lżejsze przełożenia redukcyjne"
 
 SOV_has_already_completed_this_trait: "Posiada już tę specjalizację dzięki innej organizacji."
-SOV_trait_will_not_be_available_in_other_organizations: "§RThis Trait will no longer be available in other organizations§!."
+SOV_trait_will_not_be_available_in_other_organizations: "§RTa specjalizacja nie będzie już dostępna w innych organizacjach§!."
 SOV_merge_plant_no_174_flag: "$SOV_has_already_completed_this_trait$"
 SOV_merge_plant_no_112_flag: "$SOV_has_already_completed_this_trait$"
 SOV_merge_ural_heavy_machine_building_plant_flag: "$SOV_has_already_completed_this_trait$"
@@ -647,7 +647,7 @@ CAN_handley_page_organization: "$CAN_handley_page$"
 
 ### CANADIAN TRAITS ###
 CAN_mio_trait_cookie_carriers: "$CAN_cookie_carriers$"
-CAN_mio_trait_fairchilds_funded: "Fairchild's Funded"
+CAN_mio_trait_fairchilds_funded: "Finansowanie Fairchild"
 
 
 
@@ -964,7 +964,7 @@ has_invited_mio_tt: "§Y[ROOT.owner.GetNameWithFlag]§! has invited §Y[ROOT.Get
 POL_pzl_organization: "Państwowe Zakłady Lotnicze"
 POL_pws_organization: "Podlaska Wytwórnia Samolotów"
 POL_pzinz_organization: "Państwowe Zakłady Inżynierii"
-POL_fb_organization: "Fabryka Broni "Łucznik" – Radom"
+POL_fb_organization: "Fabryka Broni \"Łucznik\" – Radom"
 POL_lrl_organization: "Lilpop, Rau i Loewenstein"
 POL_stocznia_gdynia_organization: "Stocznia Gdynia"
 POL_smpa_organization: "SMPA"
@@ -1143,7 +1143,7 @@ NOR_SOV_gaz_organization: "$NOR_gaz_nord_organization$"
 ### NORWEGIAN TRAITS ###
 NOR_mio_initial_trait_mechanical_workshop: "Zakład maszyn ciężkich"
 NOR_mio_initial_trait_convoy_and_escort_fleet: "Budowniczy eskortowców i statków handlowych"
- 
+
 mio_policy_NOR_general_permanent_industrial_revolution: "Nieustająca rewolucja przemysłowa"
 
 ################
@@ -1627,7 +1627,7 @@ generic_mio_trait_extra_cargo_doors: "Dodatkowe grodzie załadunkowe"
 generic_mio_trait_improved_air_frame_strength: "Bardziej wytrzymała struktura"
 generic_mio_trait_glider_hook_modifications: "Modyfikacje haka szybowca"
 generic_mio_trait_advanced_production_techniques: "Zaawansowane techniki produkcji"
-generic_mio_trait_low_drag_wings: "Skrzydło o niskim oporze"
+generic_mio_trait_low_drag_wings: "Skrzydła o niskim oporze"
 generic_mio_trait_strafing_techniques: "Techniki ostrzeliwania"
 generic_mio_trait_long_range_modifications: "Modyfikacje dalekosiężne"
 generic_mio_trait_anti_interception_tactics: "Taktyki przeciwko przechwytywaniu"
