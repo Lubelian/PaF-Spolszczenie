@@ -85,9 +85,9 @@ STE_finishing_the_revolution_desc: ""
 
 ##Events##
 
-unification.74.t:0 "[GetNewspaper]The Merchant Republic of Szczecin unifies West Pomerania!"
-unification.74.desc:0 "In West Pomerania, the stories of the old Hansa never truly died. For some, they proved to be the inspiration for their greatest struggle yet. In an unprecedented display of cooperation, the major corporations of Szczecin banded together, forming a council akin to the former merchant republics. Combining their strengths, they quickly overpowered both the remnants of Tusk’s forces, as well as all other contenders for regional dominance. The confederation now faces its greatest test, as no longer bound by a common enemy, the corporations act independently once more, often in open competition and defiance of existing agreements. For the continued survival of the republic, the currently loose central authority of the council will have to be greatly strengthened, or else conflicting business interests will tear the fledgling state apart before it could even truly get off the ground."
-unification.74.a:0 "The power struggle begins"
+unification.74.t:0 "[GetNewspaper]Kupiecka Republika Szczecina jednoczy Pomorze Zachodnie!”
+unification.74.desc:0 "Na Pomorzu Zachodnim opowieści o dawnej Hanzie tak naprawdę nigdy nie umarły. Dla niektórych stały się inspiracją do największej w dotychczasowej historii walki. W bezprecedensowym pokazie współpracy największe szczecińskie korporacje połączyły się, tworząc radę na wzór dawnych republik kupieckich. Łącząc siły, szybko pokonali zarówno resztki sił Tuska, jak i wszystkich innych pretendentów do regionalnej dominacji. Konfederacja staje teraz przed największą próbą, gdyż nie łączy ich już wspólny wróg, korporacje działają niezależnie ponownie, często w otwartej konkurencji i wbrew istniejącym porozumieniom. Dla dalszego przetrwania republiki konieczne będzie znaczne wzmocnienie obecnie luźnej władzy centralnej rady, w przeciwnym razie sprzeczne interesy biznesowe rozerwą raczkujące państwo, zanim będzie ono mogło nawet naprawdę oderwać się od ziemi."
+unification.74.a:0 "Rozpoczyna się walka o władzę"
 
 szczecin.1.t: "The Great Charter of Freedoms"
 szczecin.1.desc: ""
