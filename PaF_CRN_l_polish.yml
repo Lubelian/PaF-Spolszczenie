@@ -31,11 +31,59 @@ CRN_the_arsenal_restocked:0 "The arsenal restocked"
 CRN_on_the_warpath:0 "On the Warpath"
 
  ##Events##
+l_polish:
+
+ ## First Tree ##
+CRN_czarneks_vision:0 "Czarnek's Vision"
+CRN_lublins_path_forward:0 "Lublin's path forward"
+CRN_molding_our_society:0 "Molding our Society"
+CRN_proclaim_lgbt_free_zone:0 "Proclaim LGBT-Free Zone"
+CRN_war_on_cultural_marxism:0 "War on cultural Marxism"
+CRN_purges_in_the_academia:0 "Purges in the Academia"
+CRN_the_traditional_family:0 "The traditional family"
+CRN_patriotic_education:0 "Patriotic education"
+CRN_the_proud_people:0 "The proud People"
+CRN_call_for_polish_reunification:0 "Call for Polish reunification"
+CRN_emphasize_lublinian_identity:0 "Emphasize Lublinian identity"
+CRN_reinforcing_our_control:0 "Reinforcing our Control"
+CRN_strengthen_the_partys_grip:0 "Strengthen the Party's grip"
+CRN_promote_party_membership:0 "Promote Party membership"
+CRN_political_commissars:0 "Political commissars"
+CRN_kaczynskis_true_heir:0 "Kaczyński's True Heir"
+CRN_utilize_clergys_support:0 "Utilize Clergy's support"
+CRN_propaganda_in_the_churches:0 "Propaganda in the churches"
+CRN_priests_in_the_government:0 "Priests in the government"
+CRN_popes_greatest_disciple:0 "Pope's Greatest Disciple"
+CRN_increasing_our_strength:0 "Increasing our Strength"
+CRN_reorganization_of_civil_industry:0 "Reorganization of civil industry"
+CRN_road_repairs:0 "Road repairs"
+CRN_finish_the_opole_railway:0 "Finish the Opole railway"
+CRN_formation_of_new_workshops:0 "Formation of new workshops"
+CRN_fotifications_on_bystrzyca:0 "Fortifications on Bystrzyca"
+CRN_the_arsenal_restocked:0 "The arsenal restocked"
+CRN_on_the_warpath:0 "On the Warpath"
+
+ ##Events##
+
+czarnek.1.t:0 "Lord’s Guidance"
+czarnek.1.desc:0 "It was early morning and the Lublin Cathedral was still almost empty, with only one man being present inside. Kneeling at the church pews and quietly muttering the words of prayer was Przemysław Czarnek. He came here, as he often does, to ask God to guide him in his next day of work of ruling the Catholic Republic, and to give him the strength and courage to fight against the corrosive forces that are constantly trying to undermine his people’s proud society. But as long as he lives he will never allow leftism to win, and to further destroy everything he holds so dear.\n\nHe finished his prayer, crossed himself, grabbed the pew in the front of him and was about to stand up and leave. But he sensed that his thumb touched something unusual underneath the grabbed surface. He leaned to check what it was, and was shocked when he saw the symbol. It was a sticker of the LGBT rainbow flag.\n\nRage immidiately started filling him inside. Not necessarily towards the cultural Marxism itself, or the proof that there are still rebellious people hiding their leftist loyalties while walking on the Republic-controlled streets of Lublin. He was furious that someone dared to do this disgusting act in such a sacred place. It seems that some Marxist pretended to be a devout Christian, came to the Mass, and while pretty much standing right in front of God decided to spit into His face by sneakily placing this symbol of deviancy right in the middle of the praying crowd. Czarnek couldn’t imagine a greater offense.\n\nA few moments of quiet, internal anger passed, after which he took few deep breaths and forced himself to calm down. This wasn’t the place to get angry, even if he had every right to be. But no, not here."
+czarnek.1.a:0 "Not in the House of God."
+
+
+unification.7.t:0 "[GetNewspaper]Katolicka Republika jednoczy województwo lubelskie"
+unification.7.desc:0 "Z Polski Wschodniej dotarły do nas nowe informacje. Z doniesień wynika, że Rząd Tymczasowy Przemysława Czarnka, przed upadkiem państwa wicepremiera i byłego wojewody lubelskiego, po wielu miesiącach lokalnych konfliktów przejął w ostatnim czasie kontrolę nad całością państwa Województwo Lubelskiego.\n\nPrzemysław Czarnek uznawany jest za jedną z najbardziej zdeklarowanych i kontrowersyjnych postaci rządu PiS. Jako zagorzały konserwatysta społeczny twierdzi, że największym zagrożeniem dla narodu polskiego jest marksizm kulturowy i ideologia LGBT, Należy jak najszybciej powstrzymać ich rozprzestrzenianie się. Jego rządy na zjednoczonej Lubelszczyźnie zdają się to odzwierciedlać, czego doniesienia o prześladowaniach osób LGBT i silnej obecności Kościoła katolickiego powszechnie docierają do innych części kraju." 
+unification.7.a:0 "Konserwatywny region odzyskany przez Prawo i Sprawiedliwość."
+
+ ##Characters##
+POLITICS_PRZEMYSLAW_CZARNEK_DESC:0 "Marksizm kulturowy przeniknął do Polski. Europejski neobolszewizm, dewiacja LGBT, bezkręgowy ateizm, zachodni tak zwany „progresywizm” i „liberalizm” – wszystkie one próbują zniszczyć same fundamenty naszego narodu i społeczeństwa. Oni chcemy indoktrynować nasze dzieci, zdemontować naturalny, tradycyjny model rodziny, wymazać naszą dumną historię i zmusić nas do porzucenia Chrystusa i Jego nauk. W tych strasznych czasach tylko jeden człowiek wciąż ma odwagę przeciwstawić się tym siłom zła.\n \nPrzemysław Czarnek ostrzegał Polaków od wielu lat. Jako profesor KUL, jako wojewoda lubelski, potem jako minister oświaty, a później jako wicepremier RP. A mimo to ludzie nie chcieli go słuchać. Wyśmiewano, pogardzano, protestowano. Ale nigdy nie stracił wiary w swoją misję. Stanowczo stawał w obronie wartości polskich i chrześcijańskich. A kiedy kolejny krok lewicowego planu powiódł się i państwo polskie rozpadło się, wiedział, że jego misja stała się ważniejsza niż kiedykolwiek.\n\nUdało mu się zapewnić wygodny sojusz z dwoma wpływowymi lubelskimi działaczami skrajnej prawicy, a dzięki ich połączonym siłom udało im się przejąć kontrolę nad dużą, zachodnią częścią województwa lubelskiego, w tym nad jego kapitał. Ta nowo utworzona siła zwana Frontem Narodowym była gotowa dalej się rozwijać w dążeniu do przywrócenia polskiego społeczeństwa z powrotem do chrześcijańskich korzeni, ale pęknięcia w sojuszu szybko zaczęły się ukazywać. W wyniku przewidywalnego obrotu wydarzeń prymitywny faszystowski brutal i szalony przywódca sekty protestanckiej okazali się równie podli jak wszyscy inni i wkrótce zdradzili go w żałosnej próbie zdobycia jak największej osobistej władzy.\n\ n Front jest pęknięty. Czarnek nie był w stanie powstrzymać ani ich secesji na północy i południu, ani powstania anarchistycznego na wschodzie, które rozprzestrzeniło się nawet na dużą część Lublina. Jednak choć stracił większość terytorium, w końcu zyskał rzeczywistą kontrolę. Dopiero teraz jest w stanie w pełni realizować swoją katolicką politykę, wolną od sprzeczek swoich byłych sojuszników. Prawdziwa krucjata o polską duszę zaczyna się teraz, a Czarnek nigdy wcześniej nie stracił wiary w swoją misję, więc nie zamierza tego robić dzisiaj."
+
+ ##Decisions##
+CRN_regional_unification:0 "Zjednoczenie województwa lubelskiego"
 
 
 
-unification.7.t:0 "[GetNewspaper]Republika Katolicka jednoczy województwo lubelskie"
-unification.7.desc:0 "Z Polski Wschodniej dotarły do ​​nas nowe informacje. Z doniesień wynika, że ​​Rząd Tymczasowy Przemysława Czarnka, przed upadkiem państwa wicepremiera i byłego wojewody lubelskiego, po wielu miesiącach lokalnych konfliktów przejął w ostatnim czasie kontrolę nad całością państwa Województwo Lubelskiego.\n\nPrzemysław Czarnek uznawany jest za jedną z najbardziej zdeklarowanych i kontrowersyjnych postaci rządu PiS. Jako zagorzały konserwatysta społeczny twierdzi, że największym zagrożeniem dla narodu polskiego jest marksizm kulturowy i ideologia LGBT, Należy jak najszybciej powstrzymać ich rozprzestrzenianie się. Jego rządy na zjednoczonej Lubelszczyźnie zdają się to odzwierciedlać, czego doniesienia o prześladowaniach osób LGBT i silnej obecności Kościoła katolickiego powszechnie docierają do innych części kraju."
+unification.7.t:0 "[GetNewspaper]Katolicka Republika jednoczy województwo lubelskie"
+unification.7.desc:0 "Z Polski Wschodniej dotarły do nas nowe informacje. Z doniesień wynika, że Rząd Tymczasowy Przemysława Czarnka, przed upadkiem państwa wicepremiera i byłego wojewody lubelskiego, po wielu miesiącach lokalnych konfliktów przejął w ostatnim czasie kontrolę nad całością państwa Województwo Lubelskiego.\n\nPrzemysław Czarnek uznawany jest za jedną z najbardziej zdeklarowanych i kontrowersyjnych postaci rządu PiS. Jako zagorzały konserwatysta społeczny twierdzi, że największym zagrożeniem dla narodu polskiego jest marksizm kulturowy i ideologia LGBT, Należy jak najszybciej powstrzymać ich rozprzestrzenianie się. Jego rządy na zjednoczonej Lubelszczyźnie zdają się to odzwierciedlać, czego doniesienia o prześladowaniach osób LGBT i silnej obecności Kościoła katolickiego powszechnie docierają do innych części kraju." 
 unification.7.a:0 "Konserwatywny region odzyskany przez Prawo i Sprawiedliwość."
 
  ##Characters##
