@@ -1,5 +1,9 @@
 ﻿l_polish:
-
+##spirits##
+JOM_viking_raids: "Najazdy Wikingów"
+JOM_viking_raids_desc: ""
+JOM_viking_raids_target: "Najazdy Wikingów"
+JOM_viking_raids_target_desc: ""
  ## First Tree ##
  
 JOM_ny_saga: "Ný Saga"
@@ -24,7 +28,7 @@ JOM_cutting_trees_for_fleet: "Cutting Trees for the Fleet"
 JOM_deal_with_swinoujscie: "Deal with Świnoujście"
 JOM_rebirth_of_blacksmithing: "Rebirth of Blacksmithing"
 JOM_training_worthy_of_viking: "Training Worthy of a Viking"
-JOM_raid_on_szczecin: "Raid on Szczecin"
+JOM_raid_on_szczecin: "Atak na Szczecin"
 JOM_biggest_city_of_europe: "Greatest City of Europe"
 JOM_legalization_of_new_faiths: "Legalization of New Faiths"
 JOM_scandinavian_style: "Scandinavian Style"
