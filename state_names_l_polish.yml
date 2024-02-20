@@ -740,8 +740,8 @@ l_polish:
  STATE_77_GER: "Stuhm"
  STATE_77_JOM: "Steim"
  STATE_77_LEH: "Sztum"
- STATE_77_UKROS: "Shtum"
- STATE_77_USP: "Sztum"
+ STATE_77_UKROS: "Sztum"
+ STATE_77_USP: "Shtum"
  STATE_77_KSZ: "Sztëm"
  STATE_77_PRU: "Pomedjan"
  
@@ -2443,7 +2443,7 @@ l_polish:
  STATE_263_GER: "Liebenstädt"
  STATE_263_JOM: "Astirborg"
  STATE_263_LEH: "Miłosław"
- STATE_263_UKROS: "Miloslav"
+ STATE_263_UKROS: "Miłosław"
  STATE_263_USP: "Nicepraise"
  
  STATE_264: "Wolsztyn"
@@ -2452,7 +2452,7 @@ l_polish:
  STATE_264_GER: "Wollstein"
  STATE_264_JOM: "Villsteinn"
  STATE_264_LEH: "Wolsztyn"
- STATE_264_UKROS: "Volshtin"
+ STATE_264_UKROS: "Wolsztyn"
  STATE_264_USP: "Willstone"
  
  STATE_265: "Thuringen"
@@ -2488,7 +2488,7 @@ l_polish:
  STATE_268_GER: "Neuendorf in Masovien"
  STATE_268_JOM: "Nythorp"
  STATE_268_LEH: "Piaseczno"
- STATE_268_UKROS: "Pyasechno"
+ STATE_268_UKROS: "Piaseczno"
  STATE_268_USP: "Sandstorm"
  
  STATE_269: "Skierniewice"
@@ -2497,7 +2497,7 @@ l_polish:
  STATE_269_GER: "Skernewitz"
  STATE_269_JOM: "Skjernvik"
  STATE_269_LEH: "Skierniewice"
- STATE_269_UKROS: "Skyernevitse"
+ STATE_269_UKROS: "Skierniewice"
  STATE_269_USP: "Witcherland"
  
  STATE_270: "Żyrardów"
@@ -2506,7 +2506,7 @@ l_polish:
  STATE_270_GER: "Scholtzburg"
  STATE_270_JOM: "Geraldsborg"
  STATE_270_LEH: "Ruda Guzowska"
- STATE_270_UKROS: "Zhirardov"
+ STATE_270_UKROS: "Żyrardów"
  STATE_270_USP: "Jerryville"
  
  STATE_271: "Jarocin"
@@ -2515,7 +2515,7 @@ l_polish:
  STATE_271_GER: "Kesselberg"
  STATE_271_JOM: "Ketilfjall"
  STATE_271_LEH: "Jarocin"
- STATE_271_UKROS: "Jarotsin"
+ STATE_271_UKROS: "Jarocin"
  STATE_271_USP: "Woodstock"
  
  STATE_272: "Łowicz"
@@ -2524,7 +2524,7 @@ l_polish:
  STATE_272_GER: "Lowitsch"
  STATE_272_JOM: "Lovik"
  STATE_272_LEH: "Łowicz"
- STATE_272_UKROS: "Lovich"
+ STATE_272_UKROS: "Łowicz"
  STATE_272_USP: "Hunting"
  
  STATE_273: "Krosno Odrzańskie"
@@ -2533,7 +2533,7 @@ l_polish:
  STATE_273_GER: "Crossen an der Oder"
  STATE_273_JOM: "Vefstóll"
  STATE_273_LEH: "Krosno Odrzańskie"
- STATE_273_UKROS: "Krosno-Odzhanske"
+ STATE_273_UKROS: "Krosno Odrzańskie"
  STATE_273_USP: "Oder Crossing"
  
  STATE_274: "Borek Wielkopolski"
@@ -2542,7 +2542,7 @@ l_polish:
  STATE_274_GER: "Borken"
  STATE_274_JOM: "Skóggja"
  STATE_274_LEH: "Borek"
- STATE_274_UKROS: "Borek-Velkopolski"
+ STATE_274_UKROS: "Borek Wielkopolski"
  STATE_274_USP: "Bigpolish Little Forest"
  
  STATE_275: "Piątek"
@@ -2551,7 +2551,7 @@ l_polish:
  STATE_275_GER: "Quadenstädt"
  STATE_275_JOM: "Freysborg"
  STATE_275_LEH: "Piątek"
- STATE_275_UKROS: "Pyatnitsa"
+ STATE_275_UKROS: "Piatnica"
  STATE_275_USP: "Friday"
  
  STATE_276: "Nowogród Bobrzanski"
@@ -2560,7 +2560,7 @@ l_polish:
  STATE_276_GER: "Naumburg am Bober"
  STATE_276_JOM: "Bobra-Nyborg"
  STATE_276_LEH: "Nowogród Bobrzanski"
- STATE_276_UKROS: "Novohrud-Bobzhanskyy"
+ STATE_276_UKROS: "Nowogród Bobrzanski"
  STATE_276_USP: "Beaverly Newtown"
  
  STATE_277: "Biała Podlaska"
@@ -2569,7 +2569,7 @@ l_polish:
  STATE_277_GER: "Weißdorf in Podlachien"
  STATE_277_JOM: "Hvitta"
  STATE_277_LEH: "Biała Podlaska"
- STATE_277_UKROS: "Byala-Podlyaska"
+ STATE_277_UKROS: "Biała Podlaska"
  STATE_277_USP: "White Underforest"
  
  STATE_278: "Łuków"
@@ -2578,7 +2578,7 @@ l_polish:
  STATE_278_GER: "Lukau"
  STATE_278_JOM: "Lukja"
  STATE_278_LEH: "Łuków"
- STATE_278_UKROS: "Lukov"
+ STATE_278_UKROS: "Łuków"
  STATE_278_USP: "Bows"
  
  STATE_279: "Polissia"
@@ -2596,7 +2596,7 @@ l_polish:
  STATE_280_GER: "Petersried"
  STATE_280_JOM: "Petrfridur"
  STATE_280_LEH: "Chodecz"
- STATE_280_UKROS: "Chots"
+ STATE_280_UKROS: "Chocz"
  STATE_280_USP: "Hoech"
  
  STATE_281: "Mecklenburg"
@@ -2614,7 +2614,7 @@ l_polish:
  STATE_282_GER: "Neumark in Lebuserland"
  STATE_282_JOM: "Groenfjall-Nyborg"
  STATE_282_LEH: "Zielonogórskie Nowe Miasto"
- STATE_282_UKROS: "Vinnogrod Nove Myasto"
+ STATE_282_UKROS: "Winnogrod Nowe Miasto"
  STATE_282_USP: "Wineborough - Newtown"
  
  STATE_283: "Poddębice"
@@ -2623,7 +2623,7 @@ l_polish:
  STATE_283_GER: "Wandalenbrück"
  STATE_283_JOM: "Wendbryggja"
  STATE_283_LEH: "Wandalomost"
- STATE_283_UKROS: "Poddenbitse"
+ STATE_283_UKROS: "Poddębice"
  STATE_283_USP: "Underoakland"
  
  STATE_284: "Garwolin"
@@ -2632,7 +2632,7 @@ l_polish:
  STATE_284_GER: "Garweln"
  STATE_284_JOM: "Hrókurheim"
  STATE_284_LEH: "Garwolino"
- STATE_284_UKROS: "Garvolin"
+ STATE_284_UKROS: "Garwolin"
  STATE_284_USP: "Rooktown"
  
  STATE_285: "Pleszew"
@@ -2641,7 +2641,7 @@ l_polish:
  STATE_285_GER: "Pleschen"
  STATE_285_JOM: "Myglaborg"
  STATE_285_LEH: "Pleszew"
- STATE_285_UKROS: "Pleshev"
+ STATE_285_UKROS: "Pleszew"
  STATE_285_USP: "Moldin"
  
  STATE_286: "Stawiszyn"
@@ -2650,7 +2650,7 @@ l_polish:
  STATE_286_GER: "Stavensheim"
  STATE_286_JOM: "Stavensheim"
  STATE_286_LEH: "Stawiszyn"
- STATE_286_UKROS: "Stavishin"
+ STATE_286_UKROS: "Stawiszyn"
  STATE_286_USP: "Pondrail"
  
  STATE_287: "Wschowa"
@@ -2659,7 +2659,7 @@ l_polish:
  STATE_287_GER: "Fraustadt"
  STATE_287_JOM: "Fljódby"
  STATE_287_LEH: "Wschowa"
- STATE_287_UKROS: "Vskhova"
+ STATE_287_UKROS: "Wschowa"
  STATE_287_USP: "Inhide"
  
  STATE_288: "Głowno"
@@ -2668,7 +2668,7 @@ l_polish:
  STATE_288_GER: "Gnieschau"
  STATE_288_JOM: "Gnieheim"
  STATE_288_LEH: "Głowno"
- STATE_288_UKROS: "Glovno"
+ STATE_288_UKROS: "Głowno"
  STATE_288_USP: "Heads"
  
  STATE_289: "Ozorków"
@@ -2677,7 +2677,7 @@ l_polish:
  STATE_289_GER: "Ozorhoff"
  STATE_289_JOM: "Oserhafn"
  STATE_289_LEH: "Ozorków"
- STATE_289_UKROS: "Ozorkov"
+ STATE_289_UKROS: "Ozorków"
  STATE_289_USP: "Tongues"
  
  STATE_290: "Radzyń Podlaski"
@@ -2695,7 +2695,7 @@ l_polish:
  STATE_291_GER: "Luschwitz"
  STATE_291_JOM: "Lusvik"
  STATE_291_LEH: "Sławoszowice"
- STATE_291_UKROS: "Vloshakovitse"
+ STATE_291_UKROS: "Włoszakowice"
  STATE_291_USP: "Hairville"
  
  STATE_292: "Gostyń"
@@ -2713,7 +2713,7 @@ l_polish:
  STATE_293_GER: "Sorau"
  STATE_293_JOM: "Sorau"
  STATE_293_LEH: "Żarów"
- STATE_293_UKROS: "Zhary"
+ STATE_293_UKROS: "Żary"
  STATE_293_USP: "Heats"
  
  STATE_294: "Grójec"
@@ -2722,7 +2722,7 @@ l_polish:
  STATE_294_GER: "Gröditz in Masovien"
  STATE_294_JOM: "Masborg"
  STATE_294_LEH: "Grodziec"
- STATE_294_UKROS: "Groyets"
+ STATE_294_UKROS: "Grójec"
  STATE_294_USP: "Appleton" 
 
  STATE_295: "Nowa Sól"
@@ -2731,7 +2731,7 @@ l_polish:
  STATE_295_GER: "Neusalz an der Oder"
  STATE_295_JOM: "Nysalt"
  STATE_295_LEH: "Nowa Sól"
- STATE_295_UKROS: "Nova-Sul"
+ STATE_295_UKROS: "Nowa Sól"
  STATE_295_USP: "New Salt"
  
  STATE_296: "Brzeziny"
@@ -2740,7 +2740,7 @@ l_polish:
  STATE_296_GER: "Löwenstadt"
  STATE_296_JOM: "Birkividur"
  STATE_296_LEH: "Brzeziny"
- STATE_296_UKROS: "Bzheziny"
+ STATE_296_UKROS: "Brzeziny"
  STATE_296_USP: "Birchwood"
  
  STATE_297: "Lubsko"
@@ -2758,7 +2758,7 @@ l_polish:
  STATE_298_GER: "Krotoschin"
  STATE_298_JOM: "Kratosheim"
  STATE_298_LEH: "Krotoszyn"
- STATE_298_UKROS: "Krotoshin"
+ STATE_298_UKROS: "Krotoszyn"
  STATE_298_USP: "Kratostown"
  
  STATE_299: "Leszno"
@@ -2767,7 +2767,7 @@ l_polish:
  STATE_299_GER: "Lissa"
  STATE_299_JOM: "Lissa"
  STATE_299_LEH: "Leszczno"
- STATE_299_UKROS: "Leshno"
+ STATE_299_UKROS: "Leszno"
  STATE_299_USP: "Hazeltown"
  
  STATE_300: "Rawa Mazowiecka"
@@ -2776,7 +2776,7 @@ l_polish:
  STATE_300_GER: "Masowischer Rawe"
  STATE_300_JOM: "Rava"
  STATE_300_LEH: "Rawa"
- STATE_300_UKROS: "Rava Mazovetska"
+ STATE_300_UKROS: "Rawa Mazowiecka"
  STATE_300_USP: "Mazovian Rave"
  
  STATE_301: "Kozienice"
@@ -3194,7 +3194,7 @@ l_polish:
  STATE_346_GER: "Zwölen"
  STATE_346_JOM: "Zwolle"
  STATE_346_LEH: "Zwoleń"
- STATE_346_UKROS: "Zvolen"
+ STATE_346_UKROS: "Zwoleń"
  STATE_346_USP: "Swollen"
  
  STATE_347: "Nałęczów"
@@ -3203,7 +3203,7 @@ l_polish:
  STATE_347_GER: "Nalentschoff"
  STATE_347_JOM: "Ofnahagi"
  STATE_347_LEH: "Nałęczów"
- STATE_347_UKROS: "Nalentsov"
+ STATE_347_UKROS: "Nałęczów"
  STATE_347_USP: "Onmeadow"
  
  STATE_348: "Radom"
@@ -3221,7 +3221,7 @@ l_polish:
  STATE_349_GER: "Rejowetz"
  STATE_349_JOM: "Reygardr"
  STATE_349_LEH: "Rejowiec"
- STATE_349_UKROS: "Reyovets"
+ STATE_349_UKROS: "Rejowiec"
  STATE_349_USP: "Reyville"
  
  STATE_350: "Bychawa"
@@ -3230,7 +3230,7 @@ l_polish:
  STATE_350_GER: "Bihau"
  STATE_350_JOM: "Biheim"
  STATE_350_LEH: "Bychawa"
- STATE_350_UKROS: "Bikhava"
+ STATE_350_UKROS: "Bychawa"
  STATE_350_USP: "Bulltown"
  
  STATE_351: "Oleśnica"
@@ -3239,7 +3239,7 @@ l_polish:
  STATE_351_GER: "Oels"
  STATE_351_JOM: "Aldargardr"
  STATE_351_LEH: "Olesznica"
- STATE_351_UKROS: "Olesnica"
+ STATE_351_UKROS: "Olesznica"
  STATE_351_USP: "Aldertown"
  
  STATE_352: "Wieruszów"
@@ -3248,7 +3248,7 @@ l_polish:
  STATE_352_GER: "Weruschau"
  STATE_352_JOM: "Versheim"
  STATE_352_LEH: "Wieruszów"
- STATE_352_UKROS: "Verushov"
+ STATE_352_UKROS: "Wieruszów"
  STATE_352_USP: "Mislaid"
  
  STATE_353: "Piotrków Trybunalski"
@@ -3257,7 +3257,7 @@ l_polish:
  STATE_353_GER: "Petrikau"
  STATE_353_JOM: "Petragardr"
  STATE_353_LEH: "Piotrków"
- STATE_353_UKROS: "Petrokov"
+ STATE_353_UKROS: "Pietrokow"
  STATE_353_USP: "Tribunal Peterborough"
  
  STATE_354: "Dorohusk"
@@ -3275,7 +3275,7 @@ l_polish:
  STATE_355_GER: "Lenkau"
  STATE_355_JOM: "Lennthorp"
  STATE_355_LEH: "Łęczna"
- STATE_355_UKROS: "Lenchna"
+ STATE_355_UKROS: "Łęczna"
  STATE_355_USP: "Connecticut"
  
  STATE_356: "Prochowice"
@@ -3284,7 +3284,7 @@ l_polish:
  STATE_356_GER: "Parchwitz"
  STATE_356_JOM: "Parhvik"
  STATE_356_LEH: "Parchwice"
- STATE_356_UKROS: "Prokhovitse"
+ STATE_356_UKROS: "Prochowice"
  STATE_356_USP: "Ashenvale"
  
  STATE_357: "Wieluń"
@@ -3293,7 +3293,7 @@ l_polish:
  STATE_357_GER: "Welun"
  STATE_357_JOM: "Vellin"
  STATE_357_LEH: "Wieluń"
- STATE_357_UKROS: "Velyun"
+ STATE_357_UKROS: "Wieluń"
  STATE_357_USP: "Velen"
  
  STATE_358: "Zelów"
@@ -3302,7 +3302,7 @@ l_polish:
  STATE_358_GER: "Zelow"
  STATE_358_JOM: "Tellby"
  STATE_358_LEH: "Żelów"
- STATE_358_UKROS: "Zelov"
+ STATE_358_UKROS: "Żelów"
  STATE_358_USP: "Gelton"
  
  STATE_359: "Kępno"
@@ -3311,7 +3311,7 @@ l_polish:
  STATE_359_GER: "Kempen"
  STATE_359_JOM: "Kempen"
  STATE_359_LEH: "Kępno"
- STATE_359_UKROS: "Kempno"
+ STATE_359_UKROS: "Kępno"
  STATE_359_USP: "Clumpton"
  
  STATE_360: "Szydłowiec"
@@ -3320,7 +3320,7 @@ l_polish:
  STATE_360_GER: "Schiedlowietz"
  STATE_360_JOM: "Sylvik"
  STATE_360_LEH: "Szydłowiec"
- STATE_360_UKROS: "Shidlovets"
+ STATE_360_UKROS: "Szydłowiec"
  STATE_360_USP: "Awltown"
  
  STATE_361: "Trójrzecze"
@@ -3329,7 +3329,7 @@ l_polish:
  STATE_361_GER: "Zulehoff"
  STATE_361_JOM: "Thremuram"
  STATE_361_LEH: "Trójrzecze"
- STATE_361_UKROS: "Suleyuv"
+ STATE_361_UKROS: "Sulejów"
  STATE_361_USP: "Three Rivers"
  
  STATE_362: "Końskie"
@@ -3338,7 +3338,7 @@ l_polish:
  STATE_362_GER: "Pferdburg"
  STATE_362_JOM: "Hrossgardr"
  STATE_362_LEH: "Końskie"
- STATE_362_UKROS: "Konskye"
+ STATE_362_UKROS: "Końskie"
  STATE_362_USP: "Horsely"
  
  STATE_363: "Lublin Zachodni"
@@ -3347,7 +3347,7 @@ l_polish:
  STATE_363_GER: "Lublin-West"
  STATE_363_JOM: "Vestur-Lublin"
  STATE_363_LEH: "Lubelin Zachodni"
- STATE_363_UKROS: "Zapadnyy-Lublin"
+ STATE_363_UKROS: "Zapadnyj-Lublin"
  STATE_363_USP: "West Likeropes"
  
  STATE_364: "Piaski"
@@ -3356,7 +3356,7 @@ l_polish:
  STATE_364_GER: "Peskau"
  STATE_364_JOM: "Sandar"
  STATE_364_LEH: "Piaski"
- STATE_364_UKROS: "Pyaski"
+ STATE_364_UKROS: "Piaski"
  STATE_364_USP: "Sands"
  
  STATE_365: "Opole Lubelskie"
@@ -3365,7 +3365,7 @@ l_polish:
  STATE_365_GER: "Oppeln in Lublin"
  STATE_365_JOM: "Austur-Arbjód"
  STATE_365_LEH: "Opole Lubelskie"
- STATE_365_UKROS: "Opolye-Lubelskye"
+ STATE_365_UKROS: "Opole Lubelskie"
  STATE_365_USP: "Ohfield-Likerope"
  
  STATE_366: "Lipsko"
@@ -3383,7 +3383,7 @@ l_polish:
  STATE_367_GER: "Goldberg"
  STATE_367_JOM: "Gullfjalla"
  STATE_367_LEH: "Złotoryja"
- STATE_367_UKROS: "Zlotorya"
+ STATE_367_UKROS: "Złotoryja"
  STATE_367_USP: "Goldenmug"
  
  STATE_368: "Działoszyn"
@@ -3565,7 +3565,7 @@ l_polish:
  STATE_387_GER: "Kanth"
  STATE_387_JOM: "Kann"
  STATE_387_LEH: "Kąty Śląskie"
- STATE_387_UKROS: "Konty-Vrotslavskiye"
+ STATE_387_UKROS: "Kąty Wrocławskie"
  STATE_387_USP: "Wrathslav Corners"
  
  STATE_388: "Wrocław-Ołbin"
@@ -3628,7 +3628,7 @@ l_polish:
  STATE_394_GER: "Kupferberg"
  STATE_394_JOM: "Eirfjalla"
  STATE_394_LEH: "Pąkossów"
- STATE_394_UKROS: "Pyekoshov"
+ STATE_394_UKROS: "Piekoszów"
  STATE_394_USP: "Copperhill"
  
  STATE_395: "Pinsk"
@@ -3646,7 +3646,7 @@ l_polish:
  STATE_396_GER: "Pfeilstädt"
  STATE_396_JOM: "Kóngulborg"
  STATE_396_LEH: "Pajęczno"
- STATE_396_UKROS: "Pajenchno"
+ STATE_396_UKROS: "Pajęczno"
  STATE_396_USP: "Spidertown"
  
  STATE_397: "Świdnica"
@@ -4602,7 +4602,7 @@ l_polish:
  STATE_499_GER: "Jaroslau"
  STATE_499_JOM: "Jeraslau"
  STATE_499_LEH: "Jarosław"
- STATE_499_UKROS: "Yaroslav"
+ STATE_499_UKROS: "Jarosław"
  STATE_499_USP: "Jarpraise"
  
  STATE_500: "Rybnik"
@@ -4770,7 +4770,7 @@ l_polish:
  STATE_517_GER: "Premissel"
  STATE_517_JOM: "Premisla"
  STATE_517_LEH: "Przemysł"
- STATE_517_UKROS: "Peremyshl"
+ STATE_517_UKROS: "Peremyśl"
  STATE_517_USP: "Thinkthrough"
  
  STATE_518: "Strzyżów"
@@ -5809,7 +5809,7 @@ l_polish:
  STATE_631_GER: "Tolkemit"
  STATE_631_JOM: "Tollkmytt"
  STATE_631_LEH: "Tolkmicko"
- STATE_631_UKROS: "Tolkemyt"
+ STATE_631_UKROS: "Tolkemit"
  STATE_631_USP: "Talkmyth"
  STATE_631_PRU: "Tolkemita"
  
@@ -5829,7 +5829,7 @@ l_polish:
  STATE_633_GER: "Sudauen"
  STATE_633_JOM: "Sudurvik"
  STATE_633_LEH: "Suwałki"
- STATE_633_UKROS: "Suwalki"
+ STATE_633_UKROS: "Suwałki"
  STATE_633_USP: "Suwalki"
  STATE_633_PRU: "Sovalkā"
  
@@ -5839,7 +5839,7 @@ l_polish:
  STATE_634_GER: "Falkenberg in Podlachien"
  STATE_634_JOM: "Falkaborg"
  STATE_634_LEH: "Sokółka"
- STATE_634_UKROS: "Sakulka"
+ STATE_634_UKROS: "Sakułka"
  STATE_634_USP: "Little Falcons"
  
  STATE_635: "Brańsk"
@@ -5848,7 +5848,7 @@ l_polish:
  STATE_635_GER: "Bransk"
  STATE_635_JOM: "Bransvik"
  STATE_635_LEH: "Brańsk"
- STATE_635_UKROS: "Bransk"
+ STATE_635_UKROS: "Brańsk"
  STATE_635_USP: "Harrowsville"
  
  STATE_636: "Tykocin"
@@ -5857,7 +5857,7 @@ l_polish:
  STATE_636_GER: "Tiktin"
  STATE_636_JOM: "Tiktinn"
  STATE_636_LEH: "Tykocin"
- STATE_636_UKROS: "Tikotin"
+ STATE_636_UKROS: "Tykocin"
  STATE_636_USP: "Youcatan"
  
  STATE_637: "Choroszcz"
@@ -6146,7 +6146,7 @@ l_polish:
  STATE_668_GER: "Josephburg"
  STATE_668_JOM: "Jósefborg"
  STATE_668_LEH: "Józefów"
- STATE_668_UKROS: "Yosifov"
+ STATE_668_UKROS: "Josifow"
  STATE_668_USP: "Josephborough"
  
  STATE_669: "Chełm"
@@ -6155,7 +6155,7 @@ l_polish:
  STATE_669_GER: "Cholm"
  STATE_669_JOM: "Hjalm"
  STATE_669_LEH: "Chełm"
- STATE_669_UKROS: "Kholm"
+ STATE_669_UKROS: "Cholm"
  STATE_669_USP: "Helmet"
  
  STATE_670: "Sandomierz"
@@ -6164,7 +6164,7 @@ l_polish:
  STATE_670_GER: "Sandomir"
  STATE_670_JOM: "Sandmyrr"
  STATE_670_LEH: "Sandomierz"
- STATE_670_UKROS: "Sandomyezh"
+ STATE_670_UKROS: "Sandomierz"
  STATE_670_USP: "Courtmeasure"
  
  STATE_671: "Zawichost"
@@ -7853,7 +7853,7 @@ l_polish:
  STATE_854_GER: "Mohrungen"
  STATE_854_JOM: "Morang"
  STATE_854_LEH: "Morąg"
- STATE_854_UKROS: "Morong"
+ STATE_854_UKROS: "Morąg"
  STATE_854_USP: "Moron"
  STATE_854_PRU: "Marangan"
  
@@ -8045,7 +8045,7 @@ l_polish:
  STATE_875_GER: "Angerburg"
  STATE_875_JOM: "Allvik"
  STATE_875_LEH: "Węgobork"
- STATE_875_UKROS: "Vengozhevo"
+ STATE_875_UKROS: "Węgorzewo"
  STATE_875_USP: "Eeltown"
  STATE_875_PRU: "Angerbargs"
  
@@ -8055,7 +8055,7 @@ l_polish:
  STATE_876_GER: "Willenberg"
  STATE_876_JOM: "Vilenborg"
  STATE_876_LEH: "Wielbark"
- STATE_876_UKROS: "Vyelbark"
+ STATE_876_UKROS: "Wielbark"
  STATE_876_USP: "Bigbark"
  STATE_876_PRU: "Wilbargs"
  
@@ -8065,7 +8065,7 @@ l_polish:
  STATE_877_GER: "Guttstadt"
  STATE_877_JOM: "Góðurholm"
  STATE_877_LEH: "Dobremiasto"
- STATE_877_UKROS: "Horoshe-Myesto"
+ STATE_877_UKROS: "Chorosze-Miasto"
  STATE_877_USP: "Good City"
  STATE_877_PRU: "Guddamistan"
  
@@ -8075,7 +8075,7 @@ l_polish:
  STATE_878_GER: "Heiligenbeil"
  STATE_878_JOM: "Heilagøx"
  STATE_878_LEH: "Świętomiejsce"
- STATE_878_UKROS: "Mamonovo"
+ STATE_878_UKROS: "Mamonowo"
  STATE_878_USP: "Holyaxe"
  STATE_878_PRU: "Sventamēstan"
  
@@ -8095,7 +8095,7 @@ l_polish:
  STATE_880_GER: "Preußisch Eylau"
  STATE_880_JOM: "Eylau"
  STATE_880_LEH: "Iławka"
- STATE_880_UKROS: "Bagrationovsk"
+ STATE_880_UKROS: "Bagrationowsk"
  STATE_880_USP: "Prussian Ibench"
  STATE_880_PRU: "Ylowa"
  
@@ -8105,7 +8105,7 @@ l_polish:
  STATE_881_GER: "Friedland"
  STATE_881_JOM: "Fridrland"
  STATE_881_LEH: "Pokojniki"
- STATE_881_UKROS: "Pravdinsk"
+ STATE_881_UKROS: "Prawdinsk"
  STATE_881_USP: "Pacifica"
  STATE_881_PRU: "Romowe"
  
@@ -8115,7 +8115,7 @@ l_polish:
  STATE_882_GER: "Tapiau"
  STATE_882_JOM: "Tapvik"
  STATE_882_LEH: "Tapiewo"
- STATE_882_UKROS: "Gvardeysk"
+ STATE_882_UKROS: "Gwardiejsk"
  STATE_882_USP: "Guardstown"
  STATE_882_PRU: "Tapjavō"
  
@@ -8125,7 +8125,7 @@ l_polish:
  STATE_883_GER: "Neuhausen"
  STATE_883_JOM: "Nyhús"
  STATE_883_LEH: "Nowotki"
- STATE_883_UKROS: "Guryevsk"
+ STATE_883_UKROS: "Gurjewsk"
  STATE_883_USP: "New Rome"
  STATE_883_PRU: "Wurgwala"
  
@@ -8135,7 +8135,7 @@ l_polish:
  STATE_884_GER: "Cranz"
  STATE_884_JOM: "Krona"
  STATE_884_LEH: "Koronowo"
- STATE_884_UKROS: "Zelenogradsk"
+ STATE_884_UKROS: "Zielonogradsk"
  STATE_884_USP: "Crownsbury"
  STATE_884_PRU: "Krantas"
  
@@ -8145,7 +8145,7 @@ l_polish:
  STATE_885_GER: "Zimmerbude"
  STATE_885_JOM: "Kofborg"
  STATE_885_LEH: "Buda"
- STATE_885_UKROS: "Svetly"
+ STATE_885_UKROS: "Swietłyj"
  STATE_885_USP: "Shack"
  STATE_885_PRU: "Paises"
  
@@ -8155,7 +8155,7 @@ l_polish:
  STATE_886_GER: "Palmnicken"
  STATE_886_JOM: "Rafheim"
  STATE_886_LEH: "Bursztynia"
- STATE_886_UKROS: "Yantarny"
+ STATE_886_UKROS: "Jantarnyj"
  STATE_886_USP: "Amberville"
  STATE_886_PRU: "Palvenīks"
  
@@ -8175,7 +8175,7 @@ l_polish:
  STATE_888_GER: "Lasdehnen"
  STATE_888_JOM: "Hesliborg"
  STATE_888_LEH: "Łoździenie"
- STATE_888_UKROS: "Krasnoznamensk"
+ STATE_888_UKROS: "Krasnoznamieńsk"
  STATE_888_USP: "Red Banner Town"
  STATE_888_PRU: "Lazdėnai"
  
@@ -8185,7 +8185,7 @@ l_polish:
  STATE_889_GER: "Ragnit"
  STATE_889_JOM: "Ragnitt"
  STATE_889_LEH: "Nieman"
- STATE_889_UKROS: "Neman"
+ STATE_889_UKROS: "Nieman"
  STATE_889_USP: "Noman"
  STATE_889_PRU: "Skālwa"
  
@@ -8195,7 +8195,7 @@ l_polish:
  STATE_890_GER: "Heinrichswalde"
  STATE_890_JOM: "Henriksborg"
  STATE_890_LEH: "Jędrzychowo"
- STATE_890_UKROS: "Slavsk"
+ STATE_890_UKROS: "Sławsk"
  STATE_890_USP: "Henryville"
  STATE_890_PRU: "Gastos"
  
@@ -8205,7 +8205,7 @@ l_polish:
  STATE_891_GER: "Ebenrode"
  STATE_891_JOM: "Ebnarod"
  STATE_891_LEH: "Stołupiany"
- STATE_891_UKROS: "Nesterov"
+ STATE_891_UKROS: "Niestierow"
  STATE_891_USP: "Steeltires"
  STATE_891_PRU: "Stalupėnai"
  
@@ -8215,7 +8215,7 @@ l_polish:
  STATE_892_GER: "Gumbinnen"
  STATE_892_JOM: "Graskerby"
  STATE_892_LEH: "Gąbin"
- STATE_892_UKROS: "Gusev"
+ STATE_892_UKROS: "Gusiew"
  STATE_892_USP: "Pumpkins"
  STATE_892_PRU: "Gabė"
  
@@ -8225,7 +8225,7 @@ l_polish:
  STATE_893_GER: "Darkehmen"
  STATE_893_JOM: "Darkheim"
  STATE_893_LEH: "Węgorapy"
- STATE_893_UKROS: "Ozyorsk"
+ STATE_893_UKROS: "Oziorsk"
  STATE_893_USP: "Darktown"
  STATE_893_PRU: "Nadrāuwa"
  
@@ -8235,7 +8235,7 @@ l_polish:
  STATE_894_GER: "Halbau"
  STATE_894_JOM: "Halbja"
  STATE_894_LEH: "Ilwa"
- STATE_894_UKROS: "Ilova"
+ STATE_894_UKROS: "Iłowa"
  STATE_894_USP: "Ilove"
  
  STATE_895: "Fort Pershing"
@@ -8262,7 +8262,7 @@ l_polish:
  STATE_897_GER: "Hafen von Danzig"
  STATE_897_JOM: "Dansvikhafn"
  STATE_897_LEH: "Port Gdański"
- STATE_897_UKROS: "Gdanskiyy-Port"
+ STATE_897_UKROS: "Gdanski Port"
  STATE_897_USP: "Dancing Harbor"
  STATE_897_KSZ: "Gduński Pòrt"
  
@@ -8272,7 +8272,7 @@ l_polish:
  STATE_898_GER: "Rüstern"
  STATE_898_JOM: "Hridratar"
  STATE_898_LEH: "Rzeszotary"
- STATE_898_UKROS: "Ryeshetary"
+ STATE_898_UKROS: "Rieszetary"
  STATE_898_USP: "Riddleton"
  
   STATE_899: "Brody"
