@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
 
 
 ##Characters##
@@ -23,9 +23,9 @@ gdynia.4.t: "Results of Gdynia Presidential Elections"
 gdynia.4.desc: "TEMP: Gdynia se do nas dołącza"
 gdynia.4.a: "Jebane Śledziowo"
 
-gdynia.5.t: "[GetNewspaper]Anarchy in Gdynia Ends"
-gdynia.5.desc: "Ever since the Ark departed, so did any authority with it and Gdynia turned into a city of total chaos. The people, fed up with the club’s policies and their expenses to just build the Ark, went to streets and started to riot. The City Council, closed ever since Arka Gdynia declared independence from Kashubia, decided to reconvene and take matters in their hands and negotiate with the rioters..\n\nOne may think that the troubles in Gdynia are over, but they don’t see that the Council is deeply divided. Unified at time of troubles, the cracks started to show once they dealt with the problems. To resolve this conflict, the Council announced it will hold presidential elections to let people decide. One thing is known: the region is no longer safe and Gdynia must find a powerful ally and the election might either save the city, or doom it forever."
-gdynia.5.a: "The Gdynians must choose wisely"
+gdynia.5.t: "[GetNewspaper]Koniec anarchii w Gdyni"
+gdynia.5.desc: "Odkąd odeszła Arka, wraz z nią odeszła każda władza, a Gdynia zamieniła się w miasto totalnego chaosu. Ludzie, zmęczeni polityką klubu i wydatkami na samą budowę Arki, wyszli na ulice i rozpoczęli zamieszki. Rada Miejska, zamknięta od czasu ogłoszenia przez Arkę Gdyni niepodległości od Kaszub, postanowiła zebrać się ponownie, wziąć sprawy w swoje ręce i negocjować z uczestnikami zamieszek.\n\nMożna pomyśleć, że kłopoty w Gdyni się skończyły, ale oni tego nie widzą, Rada jest głęboko podzielona. Zjednoczona w czasie kłopotów, pęknięcia zaczęły wychodzić na jaw po uporaniu się z problemami. Aby rozwiązać ten konflikt, Rada ogłosiła, że ​​przeprowadzi wybory prezydenckie, aby ludzie mogli decydować. Jedno jest pewne: region nie jest już bezpieczny, a Gdynia musi znaleźć potężnego sojusznika, a wybory mogą albo uratować miasto, albo skazać je na zawsze."
+gdynia.5.a: "Gdynianie muszą wybrać mądrze"
 
 ## National Spirits ##
 
