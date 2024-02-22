@@ -1,7 +1,7 @@
-﻿l_polish:
+l_polish:
  ##Events##
- sanok.1.t: "[GetNewspaper]Heart of Darkness"
- sanok.1.desc: "Reports from the front lines indicate that [From.GetName] troops ventured into Sanok as part of their operations to secure strategic areas. However, what they found defies all comprehension. Streets that were once filled with the bustle of everyday life are now eerily silent, devoid of any signs of the civilian population. Details remain scarce, and the true nature of the horrors that befell Sanok remains shrouded in mystery. Some soldiers described a nauseating stench that hung in the air, a putrid amalgamation of decay and something far more sinister. In their quest for answers, occupying forces have discovered rooms filled with what can only be described as dismembered remains, resembling a macabre theater of terror. Speculation has run rampant, with theories ranging from covert enemy actions to more supernatural explanations. Nobody seems to know anything, but apparently sensors picked up massive structures spreading underground..."
- sanok.1.a: "The horror! The horror!"
+ sanok.1.t: "[GetNewspaper]Serce ciemności"
+ sanok.1.desc: "Raporty z linii frontu wskazują na to, że [From.GetName] żołnierze zapuścili się do Sanoka w ramach działań mających na celu zabezpieczenie obszarów strategicznych. Jednak to, co odkryli, przekracza wszelkie zrozumienie. Ulice, niegdyś pełne codziennego życia, są teraz niesamowicie ciche, pozbawione jakichkolwiek śladów obecności ludności cywilnej. Szczegóły pozostają skąpe, a prawdziwy charakter okropności, które dotknęły Sanok, pozostaje owiany tajemnicą. Niektórzy żołnierze opisali unoszący się w powietrzu przyprawiający o mdłości smród, zgniłą mieszankę rozkładu i czegoś znacznie bardziej złowrogiego. W poszukiwaniu odpowiedzi siły okupacyjne odkryły pokoje wypełnione czymś, co można opisać jedynie jako rozczłonkowane szczątki, przypominające makabryczny teatr terroru. Szerzą się spekulacje, obejmujące teorie od tajnych działań wroga po bardziej nadprzyrodzone wyjaśnienia. Wydaje się, że nikt nic nie wie, ale najwyraźniej czujniki wykryły masywne konstrukcje rozciągające się pod ziemią..."
+ sanok.1.a: "Zgroza! Zgroza!"
  ##First Tree##
  ##Characters##
