@@ -1,18 +1,18 @@
 ﻿l_polish:
  ## National Spirits ##
- WRT_stranger_on_foreign_land:0 "Stranger on Foreign Land"
+ WRT_stranger_on_foreign_land:0 "Obcy na obcej ziemi"
  WRT_stranger_on_foreign_land_desc:0 ""
- WRT_resistance_of_polish_people:0 "Polish Resistance"
+ WRT_resistance_of_polish_people:0 "Polski ruch oporu"
  WRT_resistance_of_polish_people_desc:0 ""
- WRT_fall_of_eurocomissariats:0 "Fall of Eurocomissariats"
+ WRT_fall_of_eurocomissariats:0 "Upadek eurokomisariatów"
  WRT_fall_of_eurocomissariats_desc:0 ""
- WRT_small_german_colony:0 "Small German Colony"
+ WRT_small_german_colony:0 "Mała niemiecka kolonia"
  WRT_small_german_colony_desc:0 ""
  
  ## Events ##
  
-unification.153.t:0 "[GetNewspaper] Naturschutzverein Wartheland unifies Northern Greater Poland"
-unification.153.desc:0 "The Northern Lands of Greater Poland have been reunified under German rulership once more, yet not by the might of Berlin, but instead by the pioneers of the Second Ostsiedlung that settled in the valleys of the Warta River following the Invasion. Abandoned in the wake of the Eurokommissariats’ collapse, left to the wolves and expected to quickly perish to the retributive vengeance of the Polish warlords, through fierce guerilla warfare and desperate conscription, the frontiersmen nevertheless managed to defend their adopted homeland against several better-trained and equipped forces. \n\nThe Naturschutzverein now finds itself in control of vast swathes of territory, inhabited by a bitter and hostile Polish population. And though the willpower and determination of the German settlers are second to none, the continued survival of the relatively minuscule minority’s state is far from guaranteed."
+unification.153.t:0 "[GetNewspaper] Naturschutzverein Wartheland jednoczy północną Wielkopolskę"
+unification.153.desc:0 "Północne Ziemie Wielkopolski zostały ponownie zjednoczone pod panowaniem niemieckim, ale nie dzięki potędze Berlina, ale przez pionierów Drugiego Ostsiedlungu, którzy po inwazji osiedlili się w dolinach Warty. Opuszczony w wyniku inwazji po upadku Eurokommissariatów, pozostawionych wilkom i spodziewanych się, że szybko zginą w odwecie polskich watażków, dzięki zaciekłej wojnie partyzanckiej i desperackiemu poborowi, pogranicznicy zdołali jednak obronić swoją przybraną ojczyznę przed kilkoma lepiej wyszkolonymi i wyposażonymi siłami. \n\nNaturschutzverein przejmuje teraz kontrolę nad rozległymi połaciami terytorium, zamieszkałymi przez zgorzkniałą i wrogą polską ludność. I choć siła woli i determinacja niemieckich osadników nie mają sobie równych, dalsze przetrwanie państwa stosunkowo niewielkiej mniejszości jest zagrożone dalekie od gwarancji."
 unification.153.a:0 "Verdammt!"
 unification.153.t:0 "[GetNewspaper] Naturschutzverein Wartheland unifies Northern Greater Poland"
 unification.153.desc:0 "las"
