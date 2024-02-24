@@ -44,7 +44,7 @@ l_polish:
  COUNTRY_INFO_ATM: "\n\n\n\n\n\n\n\n\n§CStolica:§! Bałucka Strefa Wykluczenia\n§CPopulacja:§! Brak danych\n§CWaluta: §!Polski złoty\n§CJęzyk urzędowy:§! Polski\n§CUstrój polityczny:§! Krucjata Ekologiczna\n§CReligia:§! Katolicyzm\n§CGrupy etniczne:§! Brak danych\n\n§YCel: Zniszczyć Bractwo Węgla i wprowadzić energię jądrową do Polski!§!"
 
  COUNTRY_TITLE_CAL:0 "§C==Calisia==§!\nCalisia Invicta!\n\n\n[GetCoA]"
- COUNTRY_INFO_CAL: "\n\n\n\n\n\n\n\n\n§CStolica:§! Calisia\n§CPopulacja:§! 198,091\n§CWaluta: §!Calisian denarius\n§CJęzyk urzędowy:§! Polski, Łaciński\n§CUstrój polityczny:§! Cesarstwo Rzymskie\n§CReligia:§! Katolicyzm, Politeizm, Kult władcy\n§CGrupy etniczne:§! 63% Polacy 33% Kalizjanie 4% Inni\n\n§YCel: Odbudować Cesarstwo Rzymskie!§!"
+ COUNTRY_INFO_CAL: "\n\n\n\n\n\n\n\n\n§CStolica:§! Calisia\n§CPopulacja:§! 198,091\n§CWaluta: §!Calisian denarius\n§CJęzyk urzędowy:§! Polski, Łaciński\n§CUstrój polityczny:§! Cesarstwo Rzymskie\n§CReligia:§! Katolicyzm, Politeizm, Kult władcy\n§CGrupy etniczne:§! 63% Polacy 33% Calisianie 4% Inni\n\n§YCel: Odbudować Cesarstwo Rzymskie!§!"
 
 
  ## Mod Features
