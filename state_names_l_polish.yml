@@ -474,9 +474,9 @@ l_polish:
  STATE_50_GER: "Seine"
  STATE_50_JOM: "Karlaborg"
  STATE_50_LEH: "Marycha"
- STATE_50_PRU: "Seina"
  STATE_50_UKROS: "Sejny"
  STATE_50_USP: "Georgetown"
+ STATE_50_PRU: "Seina"
  
  STATE_51: "Kętrzyn"
  STATE_51_CAL: "Rastenburgum"
@@ -682,9 +682,9 @@ l_polish:
  STATE_71_GER: "Leipzig in Podlachien"
  STATE_71_JOM: "Lindvik"
  STATE_71_LEH: "Lipsk"
- STATE_71_PRU: "Liepine"
  STATE_71_UKROS: "Lipsk"
  STATE_71_USP: "Lindon"
+ STATE_71_PRU: "Liepine"
  
  STATE_72: "Biskupiec"
  STATE_72_CAL: "Lacusia"
@@ -3956,7 +3956,7 @@ l_polish:
  STATE_429_GER: "Thornberg"
  STATE_429_JOM: "Thorborg"
  STATE_429_LEH: "Tarnobrzeg"
- STATE_429_UKROS: "Tarnobzhek"
+ STATE_429_UKROS: "Tarnobrzeg"
  STATE_429_USP: "Thorncoast"
  
  STATE_430: "Stalowa Wola"
@@ -4829,7 +4829,7 @@ l_polish:
  STATE_522_GER: "Teschen"
  STATE_522_JOM: "Tesin"
  STATE_522_LEH: "Cieszyn"
- STATE_522_UKROS: "Tsyeshin"
+ STATE_522_UKROS: "Cieszyn"
  STATE_522_USP: "Enjoys"
  
  STATE_523: "Myślenice"
@@ -4838,14 +4838,14 @@ l_polish:
  STATE_523_GER: "Mischlenitz"
  STATE_523_JOM: "Mislanik"
  STATE_523_LEH: "Myślenice"
- STATE_523_UKROS: "Mislenitse"
+ STATE_523_UKROS: "Myślenice"
  STATE_523_USP: "Thinknice"
  
  STATE_524: "Jasielsko"
  STATE_524_CAL: "Iesla"
- STATE_524_CZE: "Yasuro"
- STATE_524_GER: "Jessel"
- STATE_524_JOM: "Jesla"
+ STATE_524_CZE: "Yashiersko"
+ STATE_524_GER: "Jesselsko"
+ STATE_524_JOM: "Jeslasko"
  STATE_524_LEH: "Jasiel"
  STATE_524_UKROS: "Jasielsko"
  STATE_524_USP: "Brighton"
@@ -4982,7 +4982,7 @@ l_polish:
  STATE_539_GER: "Neumarkt"
  STATE_539_JOM: "Nymarkadi"
  STATE_539_LEH: "Nowy Targ"
- STATE_539_UKROS: "Novyy-Targ"
+ STATE_539_UKROS: "Nowy Targ"
  STATE_539_USP: "New Mall"
  
  STATE_540: "Bratislava"
@@ -5901,7 +5901,7 @@ l_polish:
  STATE_639_UKROS: "Michalowa"
  STATE_639_USP: "Miketown"
  
- STATE_640: "V'aślkuw"
+ STATE_640: "Wasilków"
  STATE_640_CAL: "Basilopolis"
  STATE_640_CZE: "Vuashirukofu"
  STATE_640_GER: "Wasilkoff"
@@ -6096,7 +6096,7 @@ l_polish:
  STATE_661_GER: "Swidnik"
  STATE_661_JOM: "Svidna"
  STATE_661_LEH: "Świdnik"
- STATE_661_UKROS: "Svidnik"
+ STATE_661_UKROS: "Świdnik"
  STATE_661_USP: "Swinnick"
  
  STATE_662: "Lublin Wschodni"
@@ -6214,7 +6214,7 @@ l_polish:
  STATE_674_GER: "Mounterdorf"
  STATE_674_JOM: "Andresgard"
  STATE_674_LEH: "Jędrzejów"
- STATE_674_UKROS: "Yendzheyov"
+ STATE_674_UKROS: "Jędrzejów"
  STATE_674_USP: "Andrew State"
  
  STATE_675: "Małogoszcz"
@@ -6223,7 +6223,7 @@ l_polish:
  STATE_675_GER: "Kleinegoschütz"
  STATE_675_JOM: "Malgus"
  STATE_675_LEH: "Małogoszcz"
- STATE_675_UKROS: "Malogoshch"
+ STATE_675_UKROS: "Małogoszcz"
  STATE_675_USP: "Littlehost"
  
  STATE_676: "Chęciny"
@@ -7640,7 +7640,7 @@ l_polish:
  STATE_828_GER: "Melnick"
  STATE_828_JOM: "Mylla"
  STATE_828_LEH: "Mielnik"
- STATE_828_UKROS: "Melnik"
+ STATE_828_UKROS: "Mielnik"
  STATE_828_USP: "Miller"
  
  STATE_829: "Kleszczele"
@@ -7667,7 +7667,7 @@ l_polish:
  STATE_831_GER: "Rudelstadt"
  STATE_831_JOM: "Ziheim"
  STATE_831_LEH: "Ciechanowiec"
- STATE_831_UKROS: "Tsekhanovets"
+ STATE_831_UKROS: "Ciechanowiec"
  STATE_831_USP: "Gladwick"
  
  STATE_832: "Goniądz"
@@ -7676,7 +7676,7 @@ l_polish:
  STATE_832_GER: "Gonionds"
  STATE_832_JOM: "Gunnandas"
  STATE_832_LEH: "Goniądz"
- STATE_832_UKROS: "Gonyondzh"
+ STATE_832_UKROS: "Goniądz"
  STATE_832_USP: "Chasing"
  
  STATE_833: "Suchowola"
@@ -7694,7 +7694,7 @@ l_polish:
  STATE_834_GER: "Surasch"
  STATE_834_JOM: "Suragga"
  STATE_834_LEH: "Suraż"
- STATE_834_UKROS: "Surazh"
+ STATE_834_UKROS: "Suraż"
  STATE_834_USP: "Suerag"
  
  STATE_835: "Zielonka"
@@ -7893,7 +7893,7 @@ l_polish:
  STATE_856_GER: "Pazanau"
  STATE_856_JOM: "Pasnavik"
  STATE_856_LEH: "Pacanów"
- STATE_856_UKROS: "Pacanov"
+ STATE_856_UKROS: "Pacanów"
  STATE_856_USP: "Idiotville"
  
  STATE_857: "Połaniec"
@@ -7929,7 +7929,7 @@ l_polish:
  STATE_860_GER: "Zuchenau"
  STATE_860_JOM: "Suknadir"
  STATE_860_LEH: "Suchiniów"
- STATE_860_UKROS: "Sukhednov"
+ STATE_860_UKROS: "Suchedniów"
  STATE_860_USP: "Drydays"
  
  STATE_861: "Radoszyce"
@@ -7938,7 +7938,7 @@ l_polish:
  STATE_861_GER: "Radoschitz"
  STATE_861_JOM: "Radosvik"
  STATE_861_LEH: "Radoszyce"
- STATE_861_UKROS: "Radoshitse"
+ STATE_861_UKROS: "Radoszyce"
  STATE_861_USP: "Radshick"
  
  STATE_862: "Secemin"
@@ -7956,7 +7956,7 @@ l_polish:
  STATE_863_GER: "Dzeloschitz"
  STATE_863_JOM: "Dalsikvar"
  STATE_863_LEH: "Działoszyce"
- STATE_863_UKROS: "Dyaloshitse"
+ STATE_863_UKROS: "Działoszyce"
  STATE_863_USP: "Cannonshick"
  
  STATE_864: "Miedziana Góra"
