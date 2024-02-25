@@ -2339,6 +2339,7 @@ l_polish:
  STATE_251_LEH: "Babimost"
  STATE_251_UKROS: "Sulechów"
  STATE_251_USP: "Babe's Bridge"
+ STATE_251_SIL: "Sulechůw"
  
  STATE_252: "Otwock"
  STATE_252_CAL: "Otvosco"
@@ -2537,6 +2538,7 @@ l_polish:
  STATE_273_LEH: "Krosno Odrzańskie"
  STATE_273_UKROS: "Krosno Odrzańskie"
  STATE_273_USP: "Oder Crossing"
+ STATE_273_SIL: "Uodrzańske Krosno"
  
  STATE_274: "Borek Wielkopolski"
  STATE_274_CAL: "Sylvania Maiora Polonia"
@@ -3771,8 +3773,9 @@ l_polish:
  STATE_409_GER: "Strehlen"
  STATE_409_JOM: "Skyttvik"
  STATE_409_LEH: "Strzelno"
- STATE_409_UKROS: "Stzhelin"
+ STATE_409_UKROS: "Strzelin"
  STATE_409_USP: "Shootin"
+ STATE_409_SIL: "Strzelin"
  
  STATE_410: "Grodków"
  STATE_410_CAL: "Grotcovia"
@@ -3780,8 +3783,9 @@ l_polish:
  STATE_410_GER: "Grottkau"
  STATE_410_JOM: "Örvahaus"
  STATE_410_LEH: "Grodków"
- STATE_410_UKROS: "Grodkov"
+ STATE_410_UKROS: "Grodków"
  STATE_410_USP: "Dartville"
+ STATE_410_SIL: "Grodkōw"
  
  STATE_411: "Biłgoraj"
  STATE_411_CAL: "Alba Goraium"
@@ -3816,8 +3820,9 @@ l_polish:
  STATE_414_GER: "Gottesberg-Rothenbach"
  STATE_414_JOM: "Odinsgard"
  STATE_414_LEH: "Boguszów-Gorce"
- STATE_414_UKROS: "Bogushov-Gortse"
+ STATE_414_UKROS: "Boguszów-Gorce"
  STATE_414_USP: "Godsbury"
+ STATE_414_SIL: "Boguszůw-Gorce"
  
  STATE_415: "Lusatia"
  STATE_415_CAL: "Lusatia"
@@ -5616,8 +5621,9 @@ l_polish:
  STATE_609_GER: "Grünberg in Schlesien"
  STATE_609_JOM: "Groenfjall"
  STATE_609_LEH: "Zielona Góra"
- STATE_609_UKROS: "Vinnigorod"
+ STATE_609_UKROS: "Winnygród"
  STATE_609_USP: "Wineborough"
+ STATE_609_SIL: "Zielōnŏ Gōra"
  
  STATE_610: "Kargowa"
  STATE_610_CAL: "Cargovia"
@@ -5744,7 +5750,7 @@ l_polish:
  STATE_623_GER: "Rügenwalde"
  STATE_623_JOM: "Rugnavidr"
  STATE_623_LEH: "Dzierżłów"
- STATE_623_UKROS: "Dirlovo"
+ STATE_623_UKROS: "Darłowo"
  STATE_623_USP: "Tearington"
  STATE_623_KSZ: "Rëwôłd"
  
@@ -7051,8 +7057,9 @@ l_polish:
  STATE_765_GER: "Emanuelssegen"
  STATE_765_JOM: "Murskja"
  STATE_765_LEH: "Murcki"
- STATE_765_UKROS: "Murtskiy"
+ STATE_765_UKROS: "Murcki"
  STATE_765_USP: "Murcky"
+ STATE_765_SIL: "Murcki"
 
  STATE_766: "Katowice-Piotrowice"
  STATE_766_CAL: "Petrapolis"
