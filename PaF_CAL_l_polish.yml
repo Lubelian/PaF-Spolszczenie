@@ -322,58 +322,46 @@ CAL_calisia_semper_invicta_desc: "A celebratory procession has been called in ho
 CAL_pax_calisiana: "Pax Calisiana?"
 CAL_pax_calisiana_desc: ""
 
-CAL_provincial_industria: "Prowincjalny przemysł"
+CAL_provincial_industria: "Provincial Industria"
 CAL_provincial_industria_desc: "Important news! After long deliberations, the wise Emperor and his surprisingly agreeable advisors have concluded where and when the imperial builders should start with our ambitious projects! It has been established that the luxuries of civilization will be shared by native Calisians as well as newly subjugated Veneti, Germanics, Scythians, and Jews! May all peoples bask in the glory of Industria Calisiana! The daunting labor of builders and engineers starts soon. I implore all citizens and subjects: try not to mind the ruckus that comes with the construction works. Progress cannot be achieved otherwise. In worst cases, cover your ears and think about the glory of Calisia."
-
 CAL_developing_our_agriculture: "Rozwój naszego rolnictwa"
 CAL_developing_our_agriculture_desc: "Citizens! With a vision for progress and prosperity, the state embarks on a noble initiative to support our farmers and enhance the productivity of our agricultural sector. The state introduces subsidies and support programs aimed at assisting our hardworking farmers. These initiatives will provide financial aid, access to training and resources, and guidance on sustainable farming practices. Furthermore, our agricultural education programs will be expanded, offering comprehensive training and resources to aspiring and seasoned farmers alike.\n\nA prosperous agricultural sector means food security, economic stability, and a vibrant rural economy for all citizens of Calisia, but above all it means a true Calisian grain for true Calisian bread which is provided only by the Guild of Millers, only for the true Calisians."
-
 CAL_agricultoris_mechanicus: "Agricultoris Mechanicus"
 CAL_agricultoris_mechanicus_desc: "Calisians! Significant announcement is made this day regarding our commitment to support our farmers and bolster agricultural productivity. Outmoded farming methods shall yield to the embrace of mechanization, as cutting-edge machinery will be introduced to elevate efficiency and output across our agricultural domain of Ager Publicus.\n\nThe state pledges subsidies and assistance programs in acquiring modern equipment. These initiatives will not only offer financial support but also impart technical expertise, yearly inspections, easy access to spare parts and machine shops. Our Mechanicus branch will surely be more than happy to assist and teach people the wonders of machinery, and efficiency it will bring for our blessed fields of mother Terra."
-
 CAL_integral_migration: "Migracja wewnętrzna"
 CAL_integral_migration_desc: "A message to all new arrivals to the capital and its vicinity! The municipal council of Calisia welcomes your presence and will do all in its power to provide housing and necessary services to help you get accustomed to life in the Eternal City. Please register at your nearest entry point to be accounted for in the dispensation of essential goods. \n\nTemporary accommodation will be provided on the outskirts of the city until permanent lodgings can be constructed. Please refrain from making camp on the streets of the inner districts. Praetorian patrols will conduct regular nightly searches, and any unapproved dwelling will be removed along with its occupant."
-
 CAL_barbarian_migration: "Eksodus barbarzyńców"
 CAL_barbarian_migration_desc: "CALISIANS! SPECIAL ANNOUNCEMENT! BREAKING NEWS! WEST HAS FALLEN!\nGERMANIA HAS BROKEN INTO THOUSANDS OF WARRING TRIBES, AS THAT IS THE NATURE OF BARBARIANS TO DEVOUR THEMSELVES AMONGST CINDERS OF THEIR SETTLEMENTS. \n\nBUT BEWARE! BARBARIANS ARE COMING HERE! THEIR STENCH WILL POISON ALL OUR TOWNS, THEIR HANDS SHALL PILLAGE CALISIA, TRAMPLE HER GROUNDS! THEY SEEK TO CLEAVE OUR WORLD WITH A BLADE! THEIR ROAR INSTILLS TERROR, FOUL THEIR NAMES! \n\nBUT FEAR NOT, FOR ONLY UNDER THE BANNER OF THE BULL SHALL YE FIND PROTECTION! THE EMPEROR SHALL NOT SUFFER HIS SUBJECTS TO ENDURE, THUS IN THE EMPEROR AND IN THE EMPIRE WE PLACE OUR DEFENSE AND SEEK SALVATION!"
-
 CAL_minerals_of_mother_terra: "Minerały Matki Terry"
 CAL_minerals_of_mother_terra_desc: "People of Equestria! The wise Calisius has laid his eyes upon his land blessed by Mother Terra and saint Barbara with bountiful resuorces hidden undergroud. He plans to restore and expand the already existing coal mines. What is more: He plans to intruduce extraction of natural gas hidden in the area. Equestria will now gain gas supply independent from Constania, Costian, Castra or Pirum, bringing prestige and prosperity to those lands. Now, dig! Dig for the Calisia's and Equestria's wealth! Dig until you reach the Hades!"
-
 CAL_central_portus_of_konin: "Centralny Portus w Koninie"
-CAL_central_portus_of_konin_desc: "Citizens and subjects of Calisia! The most resourceful Calisius has deemed city of Equestria worthy to be a heart pomping ships in the river arteries of Polonia. Due to its size and proximity, it will be a suitable place to create great Portus that will rival the one of ancient Rome. Thanks to Canalis Slesinicensis located nearby, our merchants and fleet will be able to sail through Viadrus and Vistula up to Mare Balticum. All eager sailors from Urbs Calisia all advised to relocate to Equestria to provide capable working force in the coming future. May Neptun and saint Nicholas bless our maritime endeavours!"
-
+CAL_central_portus_of_konin_desc: "Citizens and subjects of Calisia! The most resourceful Calisius has deemed city of Equestria worthy to be a heart pomping ships in the river arteries of Polonia. Due to its size and proximity, it will be a suitable place to create great Portus that will rival the one of ancient Rome. Thanks to Canalis Slesinicensis located nearby, our merchants and fleet will be able to sail through Viadrus and Vistula up to  Mare Balticum. All eager sailors from Urbs Calisia all advised to relocate to Equestria to provide capable working force in the coming future. May Neptun and saint Nicholas bless our maritime endeavours!"
 CAL_our_iron_railways: "Żelazne Koleje"
 CAL_our_iron_railways_desc: "Rise, citizens, and support our railway rebuilding initiative! In the shadow of towering locomotives and the echo of pounding hammers, a momentous gathering of patriots is convened to address the state of our railways – the lifelines of our nation.\n\nOur railways, once a symbol of might and cooperation, have been marred by storms of unrest and chaos. Yet now, in the spirit of rebuilding and resurgence, we embark upon the repair and modernization of these splendid iron roads.\n\nLet it be known that skilled artisans and tireless laborers shall labor tirelessly, their hands guiding the rebirth of our railways. From the bustling ports of Equestria to the verdant fields of Ridinum, every station, every junction, shall witness the resurgence of our transportation network."
-
 CAL_all_roads_lead_to_calisia: "Wszystkie drogi prowadzą do Calisii"
 CAL_all_roads_lead_to_calisia_desc: "Fellow citizens of Calisia, \nThrough the collective efforts of our skilled laborers and dedicated legionnaires, our roads will undergo a transformation. Potholes will be filled, surfaces smoothed, and new sections constructed where needed. These vital arteries of travel will once again become reliable conduits for the movement of goods, people, and ideas.\n\nBut our endeavor does not end there. In tandem with the roadworks, we will undertake a campaign to beautify and adorn our thoroughfares. Trees will be planted along the roadside, providing shade and enhancing the scenic beauty of our journeys. Milestones and markers will be erected, guiding travelers on their way and celebrating our shared heritage.\n\nLet it be heralded across our lands, let any man know that all roads indeed lead to Calisia."
-
 CAL_factories_of_gnesna: "Fabryki Gnesny"
-CAL_factories_of_gnesna_desc: "People of Gnesna! Rejoice! The wise Emperor recognizes the prestige of your city! He knows Gnesna was once 'Calisia of the Veneti' before it was plundered by the foreign invaders. Great Calisius has decided to bestow his favor upon you! Soon his faithful builders will come to this town and rebuild the mighty industry to fuel the forge of his conquests. The windowmakers, roofers, chimney-makers, tailors, and other workers and artisans will be able to get back to work in new larger outposts! Majestic Princeps is especially eager for the pearl of your industry: an energy production plant, that hence will be known as 'Aeneas'. May the city of Pontifex Maximus power the shining light of Calisia in decades to come!"
-
+CAL_factories_of_gnesna_desc: "People of Gnesna! Rejoice! The wise Emperor recognizes the prestige of your city! He knows Gnesna was once 'Calisia of the Veneti' before it was plundered by the foreign invaders. Great Calisius has decided to bestow his favor upon you! Soon his faithful builders will come to this town and rebuild the mighty industry to fuel the forge of his conquests. The windowmakers, roofers, chimney-makers, tailors, and other workers and artisans will be able to get back to work in new larger outposts! Majestic Princeps is especially eager for the pearl of your industry: an energy production plant, that hence will be known as 'Aeneas'. May the City of Pontifex Maximus power the shining light of Calisia in decades to come!"
 CAL_sugar_of_mercuria_maior: "Cukier Mercurii Maior"
 CAL_sugar_of_mercuria_maior_desc: "All hail Mercury, the god of commerce and a city blessed by him. Thanks to him the steadfast industry of Mercuria Maior did not cower under the Third Germanic Horde, Red Plague, or the negligence and malice of the demon Baalcerovicus. It endured and now after a long period of turmoil, it can breathe at ease and prosper under the wise management of our emperor and his questors. Especially its crown jewel: the sugar refinery - a true phoenix rising among the ashes of failed ventures. Wise Calisius plans to rebuild the refinery from the destruction and even expand it. A deed that the primitive and unruly Scythians couldn't do despite making Mercuria its capital. In turn, the Emperor wishes that the people of Mercuria serve him well in the future. This message has been provided with the help of the Mercurian guild of sugar-makers."
-
 CAL_imperial_mint: "Cesarska mennica"
 CAL_imperial_mint_desc: "Message to all inhabitants of the dissolved Ducatus Gnesnensis! The Emperor thought it would be most fitting to locate his future mints on your territories. You will marvel at the economic opportunities provided by this and you will be able to learn the holy visage of our princeps. You will soon come to realize that, the Imperium Calisianum is not that dissimilar from your former state when demanding obedience and respect. Of course, the latter is just a mere imitation of the former. In a few weeks, your labor will enrich our society! The coins produced in Gnesna, Rota, and Equestria will travel to the furthest reaches of the world! No longer will you pay the merchants with your animals or cumbersome items! Rejoice!"
-
 CAL_pecunia_non_olet: "Pecunia non olet"
 CAL_pecunia_non_olet_desc: "The Imperial Mint of Calisia, with the Emperor's full blessing, has begun the minting of a new, standardized line of coins to commemorate the recent string of territorial acquisitions! \n\nAdorned with Ricardus Calisius' unmistakable, adonic likeness, this Denarius will be instituted as the official legal tender across all corners of the Empire. From now on, all barter trade has been deemed illegal, while obsolete currencies can be traded in for appropriate compensation during the transition period. After six months from the date of this announcement, their value will be declared moot, and they will no longer be recognized by any sanctioned office or market as an acceptable method of payment."
 
 CAL_rawicz_slaughter: "Rzeź w Rawiczu"
-CAL_rawicz_slaughter_desc: ""
+CAL_rawicz_slaughter_desc: "Beware people of Calisia! At the edge of our current borders, in Ravitium, a massacre is happening as I speak! The unruly Scythians, undoubtedly rallied by their former nobles, have risen against our rule killing Calisians mercilessly. No one may feel safe as the barbarians kill both the hardworking plebian settlers, but also the illustrious patricians. Both men and women and even the children fall victim to their spears as those horse-riding monsters know no mercy. The might Calisius has sent his faithful legions to the region to punish the rebels. Let us hope they will prevent the blood-thirsty Scythians from gaining any more support from their primitive brethren. Due to safety concerns, all citizens and subjects in Calisia are forbidden from going near the vicinity of Ravitium, until the rebellion has been quelled."
 
 CAL_indentured_servitude: "Niewola kontraktowa"
-CAL_indentured_servitude_desc: ""
+CAL_indentured_servitude_desc: "Important message to the poorest subjects of Calisius! In his wisdom, the glorious Emperor has decreed that slavery in his realm will be abolished. No longer will the patricians have unrestricted power over their workers! From now on, the former slaves are turned into servants that are bound to their master for a specific amount of time. The servants will be protected by Calisian law, which will force the patricians to uphold their part of the contract. Calisius hopes that in the future this institution will be the backbone of the imperial economy. All of those responsible for the Trucidatio Ravitiensis will be forced into such servitude under harsher than usual conditions. Let us hope this new fairer law will prevent tragedies such as that in Ravitium from ever happening again."
 
 CAL_enslave_all_barbarians: "ZNIEWOLIĆ WSZYSTKICH BARBARZYŃCÓW"
-CAL_enslave_all_barbarians_desc: ""
+CAL_enslave_all_barbarians_desc: "The vile rebellion of the barbarians has been put down! Now the perpetrators and all of the surviving insurgents will have to be taught the value of Calisian discipline! All of those traitors will be enslaved and assigned to the harshest task imaginable for raising their hand at the divine emperor. The merciful Calisius planned to find a better way of assimilating those foreigners into our society. But the Scythians stabbed him in the back, stabbed all of us in the back. Henceforth, to protect Calisian citizens and ensure the stability of our empire, the vast majority of the primitive peoples that we will conquer in the future... WILL! BE! ENSLAVED! The Trucidatio Ravitiensis taught us, violence is the only language a barbarian can understand! May their primitive and violent strength be reforged into a noble tool of progress!"
 
 CAL_vinicius_plead: "Prośba Winicjusza"
 CAL_vinicius_plead_desc: ""
 
-CAL_wide_auxilia: "Szeroka Auxilia"
+CAL_wide_auxilia: "Wide Auxilia"
 CAL_wide_auxilia_desc: ""
 
 CAL_professional_calisian_army: "Profesjonalna Armia Calisii"
@@ -381,7 +369,6 @@ CAL_professional_calisian_army_desc: ""
 
 CAL_coffes_are_getting_empty: "Skarbiec pustoszeje..."
 CAL_coffes_are_getting_empty_desc: "Additional austerity measures decreed to combat the temporary recession! Social subsidies have been halted until the financial situation stabilizes. Quaestors both active and retired are called to aid in the task of maintaining the solvency of their Municipium. \n\nWorry not, citizens, and place your trust in the Empire's administrative apparatus. With Mercury's blessing, our senators are already working on a revised budgetary statute that will eradicate the deficit. Stay vigilant, and place your trust in Calisia's elite bureaucrats. They will guide us out of this crisis."
-
 CAL_tax_the_rich: "Opodatkujmy bogatych!"
 CAL_tax_the_rich_desc: "New law passed to effectively balance the Empire's books! A tax shall be levied on the wealthiest citizens of Calisia, up to 75 percent of all income for those in the highest financial bracket. Additional taxes will be instituted on luxury goods and cultural events, as well as a monthly subsidy provided to the state per employed servant. \n\nAnyone caught concealing their earnings or making unregistered transactions will have their wealth forcibly seized, and their citizenship will be revoked. The collection of overdue taxes will begin shortly. Make sure to fully comply with the visiting official and provide all requested funds to avoid any legal repercussions."
 
@@ -390,7 +377,6 @@ CAL_tax_the_barbarians_desc: ""
 
 CAL_abduction_of_the_poznanian_women: "Porwanie Amazonek"
 CAL_abduction_of_the_poznanian_women_desc: "News from the town of Predecium! The local garrisons have been mobilized, and a raiding party has been formed, with the goal of aquiring strong, able Amazon women for the Calisian state. \n\nA large quantity of captured Amazon warrioresses and workingwomen is expected to be delivered to the Capital, as well as the cities of Equestria, Rota and Clodavia to fuel the local economies. \n\nNoblemen and businessmen interested in the region are adviced to pay close attention to future developments, as are any freemen seeking work in the northeast border regions."
-
 CAL_treaty_of_kornik: "Traktat Kórnicki"
 CAL_treaty_of_kornik_desc: "Citizens of Res Publica! A great upheaval among the daughters of Juno in the streets of our cities has prompted our government to reflect and sign a treaty in the picturesque city of Provent. We have all heard of the drama that unfolded on the border with Cuiavia, where our legionnaires, believing they were carrying out a rescue mission, abducted dozens of women hiding in the forests.\n\nThe shock that this situation has brought to the public opinion in our capital has even surpassed the governing faction! The law on women's rights passed in the senate forms the foundation of the treaty signed with our northern neighbor, with whom relations remain tense despite everything. Fortunately, we have managed to avoid a devastating war. Long live the magnanimity of the Senate! Glory to Juno and the feminine element that builds our Empire!"
 
@@ -443,13 +429,13 @@ CAL_lex_securitatis: "Lex Securitatis"
 CAL_lex_securitatis_desc: "News from the Senate! Calisia's public and external security services have now been tackled by the Senators. \n\nBorder protection is currently discussed by the Curia Calisia, and the matters of combatting crime and the scale to which gendarmes' are allowed to lay punishment on detainees have already been announced to follow."
 
 CAL_lex_subsidiarum_socialum: "Lex Subsidiarum Socialum"
-CAL_lex_subsidiarum_socialum_desc: "News for the Citizens of Calisia! A heated discussion broke out between the Populares and Optimates as the Senate moves on to discuss the topic of social care and subsidies. Both sides radically oppose each other on the matter: the Populares postulate enriching and increasing the populace's social care, whereas the Optimates suggest cutting down on such expenditures to free up state resources and not risk the need to introduce new taxes. \n\nThose eligible for voting can track both sides' proposals on their respective websites. The Senate's progress appears to be halting, and voters are adviced to exact pressure on their politicians to avert yet another political deadlock..."
+CAL_lex_subsidiarum_socialum_desc: "News for the Citizens of Calisia! A heated discussion broke out between the Populares and Optimates as the Senate moves on to discuss the topic of social care and subsidies. Both sides radically oppose each other on the matter: the Populares postulate enriching and increasing the populace's social care, whereas the Optimates suggest cutting down on such expenditures to free up state resources and not risk the need to introduce new taxes. \n\nThose eligible for voting can track both sides' proposals on their respective websites. The Senate's progress appears to be halting due to the arising conflict between the Senators, and voters are adviced to exact pressure on their politicians to avert yet another political deadlock..."
 
 CAL_cura_annonae: "Cura Annonae"
 CAL_cura_annonae_desc: "News for the downtrodden and abandoned! The Senate has struck a final decision on the matter of social subsidies for Citizenry - now the Senators discuss social care for those living below the poverty line, seeking to cure the plague of homelessness and indigence caused by the Fall of Polonia. \n\nHomeless shelters, soup kitchens and financial support are among the programs proposed by either sides. Voters interested in aiding the poor are expected to voice their opinion on the matter."
 
 CAL_annonae_militaris: "Annonae Militaris"
-CAL_annonae_militaris_desc: "Additional subsidy introduced for members of the military class! The Senate has approved a 50% increase in the legionary's wage, starting with the next payment cycle. Magistrates are hereby authorized to dispense funds according to new apportionments. Officers may claim any remaining surplus. \n\nVeterans residing within the imperial Provincia are entitled to a monthly social stipend, corresponding to the amount of completed campaigns. A detailed census has already determined the appropriate recipients. All cases of stolen valor will be noted and punished."
+CAL_annonae_militaris_desc: ""
 
 CAL_lex_poenae_capitalis: "Lex Poenae Capitalis"
 CAL_lex_poenae_capitalis_desc: ""
@@ -476,7 +462,7 @@ CAL_edictum_lichensis: "Edictum Lichensis"
 CAL_edictum_lichensis_desc: ""
 
 CAL_first_pontifex_maximus: "Pierwszy Pontifex Maximus"
-CAL_first_pontifex_maximus_desc: ""
+CAL_first_pontifex_maximus_desc: "News from the mighty Ricardus Augustus Calisius! The emperor has decreed formation of a chief moral and religious authority for the Calisian state. \n\nThe office of Pontifex Maximus - the prime priest - from now on shall take custody over all religious institutions, structures, ceremonies and private religious matters - including burials, marriages and adoptions, as well as all moral matters of Calisia's people - all to satisfy the Gods and grant Calisia their grace. \nMinor matters of the Pontifex such as commoner burials or marriages are to be handled in His name by local religious authorities."
 
 
 
@@ -488,14 +474,12 @@ CAL_eternal_city: "Wieczne Miasto"
 CAL_eternal_city_desc: ""
 
 CAL_calisian_neighbourhoods: "Osiedla Calisii"
-CAL_calisian_neighbourhoods_desc: ""
+CAL_calisian_neighbourhoods_desc: CAL_calisian_neighbourhoods_desc: "News for the people of City of Calisia! The Emperor has proclaimed the construction of new residential buildings in the districts of Paradisi, Ripinus, Bono and Horti. A total of over two thousand apartments is predicted to be raised by 2045, together with numerous public buildings and two new shopping squares in Bono and Ripinus. \n\nThree construction centuriae shall be formed from governmental builders, freemen working in the construction industry, as well as workers serving under private construction companies. Another construction centuria will be tasked with restoring any rundown places in the city. \n\nOwners of farm plots in Bono, Horti, Paradisi - along the course of Prurnia, and Ripinus - along the coast of Prosna, can contact the city government for compensation for their losses. Those owning proper land ownership documents can choose between money or assignment of new land plots in the village of Mundus Novii, near Lessna Polonorum."
 
 CAL_in_marble_blocks: "W blokach z marmuru"
 CAL_in_marble_blocks_desc: "Hail the Emperor! In his infinite wisdom and vision for progress, he has decreed a monumental undertaking: the initiation of a vast project to transform Calisia into a true city of marble. Henceforth, all new blocks and apartments shall be constructed from the finest marble, provided by the guild of stonemasons. These majestic edifices shall elevate the skyline of Calisia to unprecedented heights of magnificence.\n\nThe Emperor also decrees that the old blocks and apartments shall undergo a meticulous refurbishment. Insulation shall be installed, and new facades shall be crafted to imitate the noble appearance of marble, ensuring that every corner of Calisia reflects the splendor of our Empire's aspirations."
-
 CAL_local_supermercatae: "Lokalne Supermercatae"
 CAL_local_supermercatae_desc: "Citizens of Calisia! We all bear scars from the corporate trade wars in the past world, the empire shall ensure that no citizen will get misled by the empty words of corporations.\nHenceforth, every supermarket in our city shall bear names in the noble tongue of Latin, evoking the grandeur of our illustrious past. Their facades shall be adorned with architectural motifs inspired by ancient aesthetics, combined with the modern interior.\n\nIn a bid to preserve the sanctity of our urban landscape, the Empire has decreed the prohibition of advertisements in the form of billboards. No longer shall our skies be cluttered with commercial messages, but rather shall be adorned with the timeless beauty of our cityscape. \n\nFurthermore, the Empire announces the construction of new supermarkets in every neighborhood, ensuring convenient access to essential goods for all citizens. These modern marvels of commerce shall blend seamlessly into our renewed landscape of the Eternal City"
-
 CAL_emporium_in_every_district: "Emporium na każdym osiedlu"
 CAL_emporium_in_every_district_desc: "Fellow citizens! As part of trade development and local communities, another stage of the project after supermercatae’ renewal is initiated! This time, in every significant and larger neighborhood according to urban plans, there shall stand a commercial Emporium - a grand trade center similar to shopping malls of old. The existing ones will be subject to reconstruction so that their interior aligns with the adopted style, signage will be Latinized, and advertisements and billboards limited to the bare minimum.\n\nThese Emporia shall stand as beacons of commerce and community, serving as vibrant hubs where citizens gather to partake in the abundance of goods and services offered within. They won’t be only trade centers but serve also as catalysts for community engagement and social cohesion. With a myriad of shops, eateries, and entertainment venues, they shall become vibrant gathering places for every true Calisian."
 
@@ -509,7 +493,7 @@ CAL_temple_of_jupiter: "Świątynia Jowisza Najlepszego Największego Najpiękni
 CAL_temple_of_jupiter_desc: ""
 
 CAL_temples_on_fields_of_mars: "Świątynie na Polach Marsowych"
-CAL_temples_on_fields_of_mars_desc: ""
+CAL_temples_on_fields_of_mars_desc: "The Fields of Mars are soon to become the location of new temples in honor of our Pantheon of Gods! Due to the scale of the construction, Emperor Ricardus Augustus Calisius requests all able citizens to assist in the project. Names of those willing will forever be gloriously immortalized within the temples’ walls and a handsome salary will be paid out from the Res Publica’s treasury. Additionally, the worship of Judaic deities will be strictly forbidden on the temple grounds. Dishonor against the Gods in the palaces we shall construct for them, will not be taken lightly."
 
 CAL_house_of_bacchus: "Dom Bachusa"
 CAL_house_of_bacchus_desc: ""
@@ -590,7 +574,7 @@ CAL_aqueducts_on_prosna: "Akwedukty na Prośnie"
 CAL_aqueducts_on_prosna_desc: ""
 
 CAL_new_bridges_on_varta: "Nowe mosty"
-CAL_new_bridges_on_varta_desc: ""
+CAL_new_bridges_on_varta_desc: "Massive bridge construction project announced by the municipal council! Numerous new crossings planned to fully join the two banks of the Prosna into one grand metropolis! Current, unauthorized footpaths are to be torn down by their owners and will be replaced with structures from the finest quality stone, courtesy of the masons' guild in cooperation with the most skilled local craftsmen. For the duration of the works, riverside traffic may be disrupted until further notice and without a forward warning. \n\nHelp wanted in clearing the rubble on the southern banks of the river. Stones removed from target sites may be kept and can be sold at fixed rates to the masons' guild for further use. At the request of the guild, only full, undamaged pieces will be accepted."
 
 CAL_pillars_of_mercury: "Słupy Merkurego"
 CAL_pillars_of_mercury_desc: ""
@@ -992,7 +976,7 @@ CAL_plant_the_evidence: "Plant the Evidence"
 CAL_plant_the_evidence_desc: ""
 
 CAL_explosive_mixture: "Explosive Mixture"
-CAL_explosive_mixture_desc: ""
+CAL_explosive_mixture_desc: "Notice to all citizens! Three crates of greek fire have gone missing from an ammunition manufacturing plant just outside of Calisia! The Praetorian Guard requests that anyone that possess any information, or even more importantly, evidence in the form of photographs or video recordings immediately show up to their nearest office. Time is of the essence, as the whereabouts of the explosives are still unknown. The Guard offers hefty rewards in the form of Calisian Denarii for anyone willing to assist in their search for the culprits. Additionally, despite the urgency of the matter at hand, citizens are advised not to worry, but to keep vigilant to a measured, and not paranoid, extent."
 
 CAL_our_little_nero: "Mały Neron"
 CAL_our_little_nero_desc: ""
@@ -1116,6 +1100,315 @@ CAL_lawful_tyrannicide_desc: ""
 
 CAL_the_first_triumvirate: "The First Triumvirate"
 CAL_the_first_triumvirate_desc:
+
+
+
+### EPILOG - PRETORIANIE ###
+
+
+
+CAL_barbarian_crisis: "The Barbarian Crisis"
+CAL_barbarian_crisis_desc: ""
+
+CAL_enforce_the_limes: "Enforce the Limes"
+CAL_enforce_the_limes_desc: ""
+
+CAL_emergency_limitanei_legions: "Emergency Limitanei Legions"
+CAL_emergency_limitanei_legions_desc: ""
+
+CAL_appease_our_subjects: "Appease Our Subjects"
+CAL_appease_our_subjects_desc: ""
+
+CAL_we_will_defend_every_inch_of_our_land: "We Will Defend Every Inch of Our Land!"
+CAL_we_will_defend_every_inch_of_our_land_desc: ""
+
+CAL_lex_barbarorum: "Lex Barbarorum"
+CAL_lex_barbarorum_desc: ""
+
+CAL_adapt_or_perish: "Adapt or Perish"
+CAL_adapt_or_perish_desc: ""
+
+CAL_partial_appeasement: "Partial Appeasement"
+CAL_partial_appeasement_desc: ""
+
+CAL_settle_saxons_and_francs: "Settle Saxons and Franks"
+CAL_settle_saxons_and_francs_desc: ""
+
+CAL_limes_occidentalis: "Limes Occidentalis"
+CAL_limes_occidentalis_desc: ""
+
+CAL_offer_to_the_goths: "An Offer to the Goths"
+CAL_offer_to_the_goths_desc: ""
+
+CAL_germanic_bannerlords: "Germanic Bannerlords"
+CAL_germanic_bannerlords_desc: ""
+
+CAL_eastern_settlers: "Eastern Settlers"
+CAL_eastern_settlers_desc: ""
+
+CAL_limes_orientalis: "Limes Orientalis"
+CAL_limes_orientalis_desc: ""
+
+CAL_divide_et_impera: "Divide et Impera"
+CAL_divide_et_impera_desc: ""
+
+CAL_vandalic_despoilers: "Vandalic Despoilers"
+CAL_vandalic_despoilers_desc: ""
+
+CAL_lusatia_superior: "Lusatia Superior"
+CAL_lusatia_superior_desc: ""
+
+CAL_scourge_of_god: "Scourge of God"
+CAL_scourge_of_god_desc: ""
+
+CAL_citizens_of_podlachia: "Citizens of Podlachia"
+CAL_citizens_of_podlachia_desc: ""
+
+CAL_jutish_reavers: "Jutish Reavers"
+CAL_jutish_reavers_desc: ""
+
+CAL_pomerania_citerior: "Pomerania Citerior"
+CAL_pomerania_citerior_desc: ""
+
+CAL_empire_or_death: "EMPIRE OR DEATH"
+CAL_empire_or_death_desc: ""
+
+CAL_operation_varus: "Operation Varus"
+CAL_operation_varus_desc: ""
+
+CAL_break_franco_saxon_alliance: "Break Franco-Saxon Alliance"
+CAL_break_franco_saxon_alliance_desc: ""
+
+CAL_dreams_of_limes_saxoniae: "Dreams of Limes Saxoniae"
+CAL_dreams_of_limes_saxoniae_desc: ""
+
+CAL_strike_at_the_visigothic_leadership: "Strike at the Visigothic Leadership"
+CAL_strike_at_the_visigothic_leadership_desc: ""
+
+CAL_ostrogothia_delenda_est: "Ostrogothia Delenda Est"
+CAL_ostrogothia_delenda_est_desc: ""
+
+CAL_drive_the_scythians_back_to_the_abyss: "Drive the Scythians back to the Abyss!"
+CAL_drive_the_scythians_back_to_the_abyss_desc: ""
+
+CAL_borussian_vespers: "Borussian Vespers"
+CAL_borussian_vespers_desc: ""
+
+CAL_barbarians_in_the_senate: "Barbarians in the Senate"
+CAL_barbarians_in_the_senate_desc: ""
+
+CAL_reward_the_most_loyal: "Reward the Most Loyal"
+CAL_reward_the_most_loyal_desc: ""
+
+CAL_legion_of_senators: "Legion of Senators"
+CAL_legion_of_senators_desc: ""
+
+CAL_seven_nation_army: "Seven Nation Army"
+CAL_seven_nation_army_desc: ""
+
+CAL_majority_in_the_senate: "Majority in the Senate"
+CAL_majority_in_the_senate_desc: ""
+
+CAL_barbarian_consul: "Barbarian Consul"
+CAL_barbarian_consul_desc: ""
+
+CAL_constantine_plan: "Constantine Plan"
+CAL_constantine_plan_desc: ""
+
+CAL_bring_legio_i_alpha: "Bring Legio I Alpha"
+CAL_bring_legio_i_alpha_desc: ""
+
+CAL_rally_the_cohortes_urbanae: "Rally the Cohortes Urbanae"
+CAL_rally_the_cohortes_urbanae_desc: ""
+
+CAL_fight_fire_with_fire: "Fight Fire with Fire"
+CAL_fight_fire_with_fire_desc: ""
+
+CAL_sack_the_city_officials: "Sack the City Officials"
+CAL_sack_the_city_officials_desc: ""
+
+CAL_arrest_the_plotters_in_the_senate: "Arrest the Plotters in the Senate"
+CAL_arrest_the_plotters_in_the_senate_desc: ""
+
+CAL_accidental_invasion_on_the_praefecture: "'Accidental' Incursion on the Paefectue"
+CAL_accidental_invasion_on_the_praefecture_desc: ""
+
+CAL_trial_of_praefectus: "Trial of Praefectus"
+CAL_trial_of_praefectus_desc: ""
+
+CAL_raiders_of_the_lost_tribe: "Raiders of the Lost Tribe"
+CAL_raiders_of_the_lost_tribe_desc: ""
+
+CAL_shield_the_civilian_population: "Shield the Civilian Population"
+CAL_shield_the_civilian_population_desc: ""
+
+CAL_dissolution_of_the_praetorian_guard: "Dissolution of the Praetorian Guard"
+CAL_dissolution_of_the_praetorian_guard_desc: ""
+
+CAL_progedi_populus: "Progedi Populus!"
+CAL_progedi_populus_desc: ""
+
+CAL_conspiracy_of_stavissin: "Conspiracy of Stavissin"
+CAL_conspiracy_of_stavissin_desc: ""
+
+CAL_contacts_in_legions: "Contacts in the Legions"
+CAL_contacts_in_legions_desc: ""
+
+CAL_contacts_in_the_senate: "Contacts in the Senate"
+CAL_contacts_in_the_senate_desc: ""
+
+CAL_cunning_stratagem: "Cunning Stratagem"
+CAL_cunning_stratagem_desc: ""
+
+CAL_united_in_hatred: "United in Hatred"
+CAL_united_in_hatred_desc: ""
+
+CAL_proper_officers_for_the_job: "Proper Officers for the Job"
+CAL_proper_officers_for_the_job_desc: ""
+
+CAL_quiet_purge_in_the_guard: "Quiet Purge in the Guard"
+CAL_quiet_purge_in_the_guard_desc: ""
+
+CAL_assignments_for_the_big_night: "Assignments for the Big Night"
+CAL_assignments_for_the_big_night_desc: ""
+
+CAL_oath_of_undying_loyalty: "Oath of Undying Loyalty"
+CAL_oath_of_undying_loyalty_desc: ""
+
+CAL_servants_in_the_palace: "Servants in the Palace"
+CAL_servants_in_the_palace_desc: ""
+
+CAL_false_plot: "False Plot"
+CAL_false_plot_desc: ""
+
+CAL_plant_the_evidence: "Plant the Evidence"
+CAL_plant_the_evidence_desc: ""
+
+CAL_explosive_mixture: "Explosive Mixture"
+CAL_explosive_mixture_desc: ""
+
+CAL_our_little_nero: "Our Little Nero"
+CAL_our_little_nero_desc: ""
+
+CAL_invite_the_barbarians: "Invite the Barbarians"
+CAL_invite_the_barbarians_desc: ""
+
+CAL_stashes_of_greek_fire: "Stashes of Greek Fire"
+CAL_stashes_of_greek_fire_desc: ""
+
+CAL_great_fire_of_calisia: "Great Fire of Calisia"
+CAL_great_fire_of_calisia_desc: ""
+
+CAL_sic_semper_tyrannis: "Sic Semper Tyrannis"
+CAL_sic_semper_tyrannis_desc: ""
+
+CAL_ides: "Ides of [GetMonth]"
+CAL_ides_desc: ""
+
+CAL_expulsion_of_barbarians: "Expulsion of Barbarians"
+CAL_expulsion_of_barbarians_desc: ""
+
+CAL_caletus_wall: "Caletus' Wall"
+CAL_caletus_wall_desc: ""
+
+CAL_settle_soldiers_in_the_frontier: "Settle Soldiers in the Frontier"
+CAL_settle_soldiers_in_the_frontier_desc: ""
+
+CAL_tributes_from_germania: "Tributes from Germania"
+CAL_tributes_from_germania_desc: ""
+
+CAL_eternal_spirit_of_germanicus: "Eternal Spirit of Germanicus"
+CAL_eternal_spirit_of_germanicus_desc: ""
+
+CAL_surround_the_palace: "Surround the Palace"
+CAL_surround_the_palace_desc: ""
+
+CAL_purge_the_populares_leadership: "Purge the Populares Leadership"
+CAL_purge_the_populares_leadership_desc: ""
+
+CAL_hour_of_the_lynx: "Hour of the Lynx"
+CAL_hour_of_the_lynx_desc: ""
+
+CAL_servile_war: "Servile War"
+CAL_servile_war_desc: ""
+
+CAL_via_crucis: "Via Crucis"
+CAL_via_crucis_desc: ""
+
+CAL_shadow_of_an_emperor: "The Shadow of an Emperor"
+CAL_shadow_of_an_emperor_desc: ""
+
+CAL_reconstruction_fund: "Reconstruction Fund"
+CAL_reconstruction_fund_desc: ""
+
+CAL_rewards_for_the_faction: "Rewards for the Faction"
+CAL_rewards_for_the_faction_desc: ""
+
+CAL_senatus_consultum_ultimum: "Senatis Consultum Ultimum"
+CAL_senatus_consultum_ultimum_desc: ""
+
+CAL_total_administration_takeover: "Total Administration Takeover"
+CAL_total_administration_takeover_desc: ""
+
+CAL_triumph_in_calisia: "Triumph in Calisia"
+CAL_triumph_in_calisia_desc: ""
+
+CAL_renovatio_imperii: "Renovatio Imperii"
+CAL_renovatio_imperii_desc: ""
+
+CAL_cry_havoc: "Cry Havoc"
+CAL_cry_havoc_desc: ""
+
+CAL_optimates_secures_administration: "Optimates Secure Administration"
+CAL_optimates_secures_administration_desc: ""
+
+CAL_praetorian_guard_secures_the_city: "Praetorian Guard Secures the City"
+CAL_praetorian_guard_secures_the_city_desc: ""
+
+CAL_triumph_of_liberatores: "Triumph of Liberatores"
+CAL_triumph_of_liberatores_desc: ""
+
+CAL_optimates_rule_over_senate: "Optimates Rule over Senate"
+CAL_optimates_rule_over_senate_desc: ""
+
+CAL_declare_the_populares_enemies_of_the_state: "Declare the Populares Enemies of the State"
+CAL_declare_the_populares_enemies_of_the_state_desc: ""
+
+CAL_mass_annulment_of_laws: "Mass Annulment of Laws"
+CAL_mass_annulment_of_laws_desc: ""
+
+CAL_primus_in_optimates: "Primus in Optimates"
+CAL_primus_in_optimates_desc: ""
+
+CAL_praetorian_rule_over_army: "Praetorian Rule over Army"
+CAL_praetorian_rule_over_army_desc: ""
+
+CAL_border_camps_for_barbarians: "Border Camps for Barbarians"
+CAL_border_camps_for_barbarians_desc: ""
+
+CAL_breaking_the_geneva_convention: "Breaking the Geneva Convention"
+CAL_breaking_the_geneva_convention_desc: ""
+
+CAL_master_of_puppets: "Master of Puppets"
+CAL_master_of_puppets_desc: ""
+
+CAL_compromise_with_popular_legions: "Compromise with Popular Legions"
+CAL_compromise_with_popular_legions_desc: ""
+
+CAL_lands_for_the_legionaries: "Lands for the Legionaries"
+CAL_lands_for_the_legionaries_desc: ""
+
+CAL_personal_offer_for_vinicius: "Personal Offer for Vinicius"
+CAL_personal_offer_for_vinicius_desc: ""
+
+CAL_vulgar_beast: "Vulgar Beast"
+CAL_vulgar_beast_desc: ""
+
+CAL_lawful_tyrannicide: "Lawful Tyrannicide"
+CAL_lawful_tyrannicide_desc: ""
+
+CAL_the_first_triumvirate: "The First Triumvirate"
+CAL_the_first_triumvirate_desc: ""
 
 
 
@@ -1472,15 +1765,15 @@ calisia.14.t: "TEMP: Chaos in the assemblies"
 calisia.14.desc: ""
 calisia.14.a: "Jo"
 
-calisia.15.t: "Triumph w Gnesnie"
+calisia.15.t: "Triumph in Gnesna"
 calisia.15.desc: ""
 calisia.15.a: ""
 
-calisia.16.t: "Triumph w Lessna Polonorum"
+calisia.16.t: "Triumph in Lessna Polonorum"
 calisia.16.desc: ""
 calisia.16.a: ""
 
-calisia.17.t: "Triumph w Mercurii Maior"
+calisia.17.t: "Triumph in Mercuria Maior"
 calisia.17.desc: ""
 calisia.17.a: ""
 
@@ -1560,12 +1853,16 @@ calisia.36.t: "TEMP: Senate District"
 calisia.36.desc: ""
 calisia.36.a: "Jo"
 
+calisia.37.t: "Emergency Budget Meeting"
+calisia.37.desc: "– Aaand you want to tell me we’ve spend all our gold... On this? \nCinastovicus produced a photo of newly built Neo-Roman apartment complex. The right side of the hall murmured. \n– This is some Gypsyesque extravaganza! We don’t need styrofoam marble to build insulae for the plebeians! Did you even study Roman archi... \n– Mind your tone, Cinastovicus – Calisius quipped. – You cannot deny that public housing is a matter of utmost importance. \n– Quite unlike this „palace quarter” – Hevodorukus added. – This pointless display of wealth will turn against us if we’ll lack a single penny to spare for those in need. \n\nChaos erupted. Calisius rose from his chair and bellowed, like he used to in the old parlament. \n– Calm yourselves! We have undertaken those projects, so we shall bring them to an end. Rapienda rebus in malis praeceps via est! We shall embrace austerity in social spending, lest we neglect more cardinal matters, \nLegionaries and pretorians did not speak a word. Somehow, this was more unsettling than previous commotion. \n\n– It won’t be enough. Someone will have to carry the burden of sacrifice – Kompa remarked. \n– This is the time for patricians to prove they’re Calisian patriots. Let them defend their own interests. \n– The patricians supported the masses for long enough. Meanwhile we have plenty of barbarians not grateful enough for their privilege of staying in more civilized lands. Why shouldn’t we squeeze them first before moving to proper Romans? \n\nThe outlook is clear, Calisius thought. Now, it all boils down to what Senate will be more willing to accept... and for what price."
+calisia.37.a: "At least they didn't look into imperial SuperCoeno bills..."
+
 unification.31.t: "[GetNewspaper]Calisia jednoczy południową Wielkopolskę"
 unification.31.desc: "W audycji radiowej na całą Wielkopolskę przemówienie wygłosił nie kto inny jak Ryszard Kalisz; Choć każdy, kto był w okolicy, może powiedzieć, że mówiący człowiek nie był już tym samym, jakiego znali go wszyscy przed Upadkiem, idąc pod nazwiskiem Ricardus Calisius, wszystko wskazuje na polityka pragnącego po tej radykalnej zmianie stworzyć w sercu Polski nowe Cesarstwo Rzymskie, które poprzez umiejętne wpływanie na lokalną kadrę polityczną udało mu się przez pół roku stać się głównym pretendentem w regionie. Zmodernizowane reformy rzymskie. Armia legionistów, monety z fasadą cesarza i nowe marmurowe budynki, które wkrótce zostaną wzniesione w niedawno zromanizowanych miastach, naprawdę sprawiają wrażenie przeniesionych w odległą przeszłość. Czas pokaże, co z tego wyniknie stan pseudorzymskich rekonstruktorów, choć jest rzeczą oczywistą, że nawet jeśli ich szaleństwo dobiegnie końca, państwo polsko-rzymskie niewątpliwie zapisze się w historii jako kolejne na długiej liście dziwactw wynikających z Upadku."
 unification.31.a: "Ave Nero Polonicus?"
 
 unificationreg.31.t: "[GetNewspaper]Calisia unifies Łódź-Kalisz Region" ####to trza byndzie zmienić
-unificationreg.31.desc: "According to recent information, still slowly filtering in from the battlegrounds of central Poland, the Empire of Calisia managed to launch a successful invasion deep into the heartlands of Łódzkie, culminating in a complete seizure of the war-torn region. Despite relative economic weakness and sparse population, through a sequence of carefully planned offensives, the heavily disciplined legions of the Neo-Roman state managed to subdue the local warlords, entering the capital of Łódź in a wave of glory, followed by a grand Triumfal procession along the city’s main Piotrkowska street. \n\nFollowing the conquest, by the Emperor’s decree, the land has been divided up into new provinces in preparation for the Romanization of the Caesar’s new subjects, and from among those who embraced the cultured ways of their new rulers, new cohorts are being established to bolster the army in preparation for the next campaigns."
+unificationreg.31.desc: "According to recent information, still slowly filtering in from the battlegrounds of central Poland, the Empire of Calisia managed to launch a successful invasion deep into the heartlands of Łódzkie, culminating in a complete seizure of the war-torn region. Despite relative economic weakness and sparse population, through a sequence of carefully planned offensives, the heavily disciplined legions of the Neo-Roman state managed to subdue the local warlords, entering the capital of Łódź in a wave of glory, followed by a grand Triumphal procession along the city’s main Piotrkowska street. \n\nFollowing the conquest, by the Emperor’s decree, the land has been divided up into new provinces in preparation for the Romanization of the Caesar’s new subjects, and from among those who embraced the cultured ways of their new rulers, new cohorts are being established to bolster the army in preparation for the next campaigns."
 unificationreg.31.a: "Si vis pacem, para bellum"
 
 unificationsupreg.31.t: "[GetNewspaper]Calisia unifies Western Poland"
@@ -1578,7 +1875,7 @@ super.31.a: "Ave Caesar! Ave Imperium!"
 
 
 
-##Characters##
+### CHARACTERS ###
 
 
 
