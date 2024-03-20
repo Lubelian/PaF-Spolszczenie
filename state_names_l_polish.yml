@@ -4861,7 +4861,7 @@ l_polish:
  STATE_525_GER: "Bielitz-Beil"
  STATE_525_JOM: "Hvitsahvit"
  STATE_525_LEH: "Bielsko-Biała"
- STATE_525_UKROS: "Byelsko-Byela"
+ STATE_525_UKROS: "Bielsko-Biała"
  STATE_525_USP: "Whitey-White"
  
  STATE_526: "Brzozów"
@@ -4888,7 +4888,7 @@ l_polish:
  STATE_528_GER: "Ilmenau"
  STATE_528_JOM: "Hildiman"
  STATE_528_LEH: "Łososina Górna"
- STATE_528_UKROS: "Limanova"
+ STATE_528_UKROS: "Limanowa"
  STATE_528_USP: "Limenew"
  
  STATE_529: "Sucha Beskidzka"
@@ -4897,7 +4897,7 @@ l_polish:
  STATE_529_GER: "Sucha"
  STATE_529_JOM: "Thurrkur"
  STATE_529_LEH: "Sucha"
- STATE_529_UKROS: "Sukha"
+ STATE_529_UKROS: "Sucha"
  STATE_529_USP: "Beskids Dry"
  
  STATE_530: "Żywiec"
@@ -4906,7 +4906,7 @@ l_polish:
  STATE_530_GER: "Saybusch"
  STATE_530_JOM: "Svinrunna"
  STATE_530_LEH: "Żywiec"
- STATE_530_UKROS: "Zhivets"
+ STATE_530_UKROS: "Żywiec"
  STATE_530_USP: "Livestream"
  
  STATE_531: "Nowy Sącz"
@@ -4924,7 +4924,7 @@ l_polish:
  STATE_532_GER: "Alt Sandez"
  STATE_532_JOM: "Sandborg"
  STATE_532_LEH: "Stary Sącz"
- STATE_532_UKROS: "Staryy-Sonch"
+ STATE_532_UKROS: "Stary Sącz"
  STATE_532_USP: "Old Drip"
  
  STATE_533: "Gorlice"
@@ -4942,7 +4942,7 @@ l_polish:
  STATE_534_GER: "Schirk"
  STATE_534_JOM: "Skirk"
  STATE_534_LEH: "Szczyrk"
- STATE_534_UKROS: "Shchirk"
+ STATE_534_UKROS: "Szczyrk"
  STATE_534_USP: "Shrek"
  
  STATE_535: "Krosno"
@@ -4960,7 +4960,7 @@ l_polish:
  STATE_536_GER: "Vstryk"
  STATE_536_JOM: "Vistrik"
  STATE_536_LEH: "Ustrzyki"
- STATE_536_UKROS: "Ustryky Dolishni"
+ STATE_536_UKROS: "Ustryky Doliszni"
  STATE_536_USP: "Lower Rivermouth"
  
  STATE_537: "Lviv"
@@ -4969,7 +4969,7 @@ l_polish:
  STATE_537_GER: "Lemberg"
  STATE_537_JOM: "Ljónborg"
  STATE_537_LEH: "Lwów"
- STATE_537_UKROS: "Lviv"
+ STATE_537_UKROS: "Lwów"
  STATE_537_USP: "Lions"
  
  STATE_538: "Sanok"
@@ -4990,13 +4990,13 @@ l_polish:
  STATE_539_UKROS: "Nowy Targ"
  STATE_539_USP: "New Mall"
  
- STATE_540: "Bratislava"
+ STATE_540: "Bratysława"
  STATE_540_CAL: "Posonium"
  STATE_540_CZE: "Burachisuraba"
  STATE_540_GER: "Pressburg"
  STATE_540_JOM: "Presborg"
  STATE_540_LEH: "Bratysława"
- STATE_540_UKROS: "Bratislava"
+ STATE_540_UKROS: "Bratysława"
  STATE_540_USP: "Wilson"
  
  STATE_541: "Lesko"
@@ -5014,16 +5014,16 @@ l_polish:
  STATE_542_GER: "Balengrad"
  STATE_542_JOM: "Balenborg"
  STATE_542_LEH: "Baligród"
- STATE_542_UKROS: "Balyhorod"
+ STATE_542_UKROS: "Balihorod"
  STATE_542_USP: "Balltown"
  
  STATE_543: "Jižní Morava"
- STATE_543_CAL: "South Moravia"
+ STATE_543_CAL: "Moravia Meridionalis"
  STATE_543_CZE: "Jizunimoravu"
  STATE_543_GER: "Südmähren"
  STATE_543_JOM: "Sudrmaeri"
  STATE_543_LEH: "Morawy Południowe"
- STATE_543_UKROS: "South Moravia"
+ STATE_543_UKROS: "Morawy Południowe"
  STATE_543_USP: "South Moravia"
  
  STATE_544: "Západné-Stredné Slovensko"
@@ -5032,7 +5032,7 @@ l_polish:
  STATE_544_GER: "Westmittelslowakei"
  STATE_544_JOM: "Vestur-miðjaslovakíu"
  STATE_544_LEH: "Wschód Wielkomorawski" #a chuj niech będzie fancy nazwa
- STATE_544_UKROS: "Zapadno-Tsentralnaya Slovakiya"
+ STATE_544_UKROS: "Zapadno-Centrala Slowakia" 
  STATE_544_USP: "Sabatonne-Strenghtne Slowvensko"
  
  STATE_545: "Zakopane"
@@ -5050,7 +5050,7 @@ l_polish:
  STATE_546_GER: "Ostslowakei"
  STATE_546_JOM: "Østslovakíu"
  STATE_546_LEH: "Nitra Wschodnia"
- STATE_546_UKROS: "Skhidna Slovachchyna"
+ STATE_546_UKROS: "Schidna Slowaczyna" 
  STATE_546_USP: "Vihodne Slowvensko"
  
  STATE_547: "Bieszczady"
@@ -5059,7 +5059,7 @@ l_polish:
  STATE_547_GER: "Beschad"
  STATE_547_JOM: "Bjeskad"
  STATE_547_LEH: "Bieszczady"
- STATE_547_UKROS: "Beshchady"
+ STATE_547_UKROS: "Bieszczady"
  STATE_547_USP: "Devil Mountains"
  
  STATE_548: "Bayern"
@@ -5068,7 +5068,7 @@ l_polish:
  STATE_548_GER: "Bayern"
  STATE_548_JOM: "Baejaraland"
  STATE_548_LEH: "Baworza"
- STATE_548_UKROS: "Bavaria"
+ STATE_548_UKROS: "Bawaria"
  STATE_548_USP: "Bavaria"
  
  STATE_549: "Österreich"
@@ -5095,7 +5095,7 @@ l_polish:
  STATE_551_GER: "West-Berlin"
  STATE_551_JOM: "Vestur-Bjórlin"
  STATE_551_LEH: "Bralin Zachodni"
- STATE_551_UKROS: "Berlin-Zapadnyy"
+ STATE_551_UKROS: "Berlin-Zapadnyj"
  STATE_551_USP: "West-Bearlin"
  
  STATE_552: "Plzeň"
@@ -5107,13 +5107,13 @@ l_polish:
  STATE_552_UKROS: "Pilzno"
  STATE_552_USP: "Pilsner"
  
- STATE_553: "Pivnichna Bukovyna"
+ STATE_553: "Piwniczna Bukowina"
  STATE_553_CAL: "Bukovina Septentrionalis"
  STATE_553_CZE: "Kita Bukobina"
  STATE_553_GER: "Nordbukowina" #no longer do wyjebania
  STATE_553_JOM: "Norður-Búkóvína"
  STATE_553_LEH: "Bukowina Chocimska"
- STATE_553_UKROS: "Pivnichna Bukovyna"
+ STATE_553_UKROS: "Piwniczna Bukowina"
  STATE_553_USP: "Basement Beechton" #a chuj dodam te -ton jako odpowiednik -wina
  
  STATE_554: "Bessarabia"
@@ -5122,7 +5122,7 @@ l_polish:
  STATE_554_GER: "Moldau"
  STATE_554_JOM: "Moldavia"
  STATE_554_LEH: "Moldavia"
- STATE_554_UKROS: "Moldavia"
+ STATE_554_UKROS: "Mołdawia"
  STATE_554_USP: "Moldavia"
  
  STATE_555: "Karpatska Ukrayina"
